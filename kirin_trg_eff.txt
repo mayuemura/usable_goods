@@ -1,0 +1,26 @@
+trg_eff:26, other:3
+('01_Diprobase', 3, 'This gives its tendency to make the applied area sticky.', ['Effect'])
+('05_Nail_polish', 2, 'The formulation has been revised repeatedly to enhance its decorative effects and to suppress cracking or flaking. ', ['Effect', 'Effect'])
+('10_Facial_prosthetic', 4, 'Effects can be as subtle as altering the curve of a cheek or nose, or making someone appear older or younger than they are. ', ['Effect'])
+
+trg_eff:33, other:5
+('01_Diprobase', 3, 'This gives its tendency to make the applied area sticky.', ['Effect'])
+('05_Nail_polish', 2, 'The formulation has been revised repeatedly to enhance its decorative effects and to suppress cracking or flaking. ', ['Effect', 'Effect'])
+('10_Facial_prosthetic', 4, 'Effects can be as subtle as altering the curve of a cheek or nose, or making someone appear older or younger than they are. ', ['Effect'])
+('24_Ifood_(isotopic_food)', 2, 'Biomolecules that incorporate heavier isotopes give rise to more stable molecular structures with increased resistance to damages associated with ageing.', ['DegreeOfEffect', 'Effect'])
+('24_Ifood_(isotopic_food)', 4, "Consumption of foods relatively rich in heavy isotopes, especially at the early stages of the organism's development, is linked, so far hypothetically, with enhanced longevity.", ['Effect', 'DegreeOfEffect'])
+
+trg_eff:68, other:13
+('01_Diprobase', 3, 'This gives its tendency to make the applied area sticky.', ['Effect'])
+('05_Nail_polish', 2, 'The formulation has been revised repeatedly to enhance its decorative effects and to suppress cracking or flaking. ', ['Effect', 'Effect'])
+('10_Facial_prosthetic', 4, 'Effects can be as subtle as altering the curve of a cheek or nose, or making someone appear older or younger than they are. ', ['Effect'])
+('24_Ifood_(isotopic_food)', 2, 'Biomolecules that incorporate heavier isotopes give rise to more stable molecular structures with increased resistance to damages associated with ageing.', ['DegreeOfEffect', 'Effect'])
+('24_Ifood_(isotopic_food)', 4, "Consumption of foods relatively rich in heavy isotopes, especially at the early stages of the organism's development, is linked, so far hypothetically, with enhanced longevity.", ['Effect', 'DegreeOfEffect'])
+('007_Bromelain', 3, 'As a culinary ingredient, it may be used as a meat tenderizer.', ['MeansOfUse', 'Effect'])
+('025_Kava', 3, 'The roots of the plant are used to produce a drink with sedative and anesthetic properties.', ['PartOf', 'Effect', 'MeansOfUse'])
+('034_Orlistat', 3, 'Its primary function is preventing the absorption of fats from the human diet by acting as a lipase inhibitor, thereby reducing caloric intake.', ['Effect', 'Effect', 'Effect'])
+('034_Orlistat', 5, 'Orlistat is the saturation saturated derivative of lipstatin, a potent natural inhibitor of pancreatic lipases isolated from the bacterium Streptomyces toxytricini.', ['ComposedOf', 'Effect'])
+('037_Probiotic', 4, 'The introduction of the concept is generally attributed to recipient \xc3\x89lie Metchnikoff, who in 1907 suggested that "the dependence of the intestinal microbes on the food makes it possible to adopt measures to modify the flora in our bodies and to replace the harmful microbes by useful microbes".', ['Effect', 'Effect'])
+('044_Stevia', 4, "Stevia's taste has a slower onset and longer duration than that of sugar, and some of its extracts may have a bitter or licorice-like aftertaste at high concentrations.", ['Effect'])
+('050_Nasal_strip', 3, 'Various studies have not indicated that they have a performance-enhancing effect.', ['NullEffect', 'Effect'])
+('050_Nasal_strip', 4, 'They are also used by race horse trainers on horses for similar reasons; they are thought to reduce airway resistance and lower the risk of exercise-induced pulmonary hemorrhage (EIPH), plus reduce fatigue and aid post-race recovery.', ['User', 'Effect', 'Effect', 'Effect'])

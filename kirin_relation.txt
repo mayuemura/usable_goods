@@ -1,0 +1,21 @@
+('12_Dental_floss', {'arg1': 'T9', 'arg2': 'T3', 'relationNo': 'R1', 'range': [196, 213, 217, 231], 'tag': 'EFFECT_MODIFIER', 'oneline': True})
+('12_Dental_floss', {'arg1': 'T9', 'arg2': 'T6', 'relationNo': 'R2', 'range': [196, 213, 236, 254], 'tag': 'EFFECT_MODIFIER', 'oneline': True})
+('12_Dental_floss', {'arg1': 'T7', 'arg2': 'T3', 'relationNo': 'R3', 'range': [311, 342, 217, 231], 'tag': 'EFFECT_MODIFIER', 'oneline': True})
+('20_Hand_sanitizer', {'arg1': 'T22', 'arg2': 'T12', 'relationNo': 'R1', 'range': [580, 594, 598, 620], 'tag': 'EFFECT_MODIFIER', 'oneline': True})
+('24_Ifood_(isotopic_food)', {'arg1': 'T7', 'arg2': 'T6', 'relationNo': 'R2', 'range': [660, 669, 699, 717], 'tag': 'EFFECT_MODIFIER', 'oneline': True})
+('24_Ifood_(isotopic_food)', {'arg1': 'T4', 'arg2': 'T3', 'relationNo': 'R1', 'range': [298, 309, 310, 356], 'tag': 'EFFECT_MODIFIER', 'oneline': True})
+('007_Bromelain', {'arg1': 'T11', 'arg2': 'T4', 'relationNo': 'R1', 'range': [518, 526, 527, 552], 'tag': 'EFFECT_MODIFIER', 'oneline': True})
+('007_Bromelain', {'arg1': 'T3', 'arg2': 'T4', 'relationNo': 'R2', 'range': [568, 600, 527, 552], 'tag': 'EFFECT_MODIFIER', 'oneline': True})
+('017_Enhanced_water', {'arg1': 'T15', 'arg2': 'T14', 'relationNo': 'R1', 'range': [465, 474, 475, 511], 'tag': 'EFFECT_MODIFIER', 'oneline': True})
+('021_Fish_oil', {'arg1': 'T9', 'arg2': 'T8', 'relationNo': 'R1', 'range': [320, 344, 348, 383], 'tag': 'EFFECT_MODIFIER', 'oneline': True})
+('029_Liquorice', {'arg1': 'T13', 'arg2': 'T14', 'relationNo': 'R1', 'range': [495, 510, 514, 530], 'tag': 'EFFECT_MODIFIER', 'oneline': True})
+('029_Liquorice', {'arg1': 'T13', 'arg2': 'T15', 'relationNo': 'R2', 'range': [495, 510, 566, 583], 'tag': 'EFFECT_MODIFIER', 'oneline': True})
+('050_Nasal_strip', {'arg1': 'T18', 'arg2': 'T19', 'relationNo': 'R1', 'range': [432, 445, 463, 491], 'tag': 'EFFECT_MODIFIER', 'oneline': True})
+('050_Nasal_strip', {'arg1': 'T8', 'arg2': 'T9', 'relationNo': 'R2', 'range': [267, 288, 394, 409], 'tag': 'EFFECT_MODIFIER', 'oneline': True})
+('050_Nasal_strip', {'arg1': 'T8', 'arg2': 'T10', 'relationNo': 'R3', 'range': [267, 288, 370, 387], 'tag': 'EFFECT_MODIFIER', 'oneline': True})
+
+
+('001_Aloe_vera', {'arg1': 'T4', 'arg2': 'T3', 'relationNo': 'R1', 'range': [236, 306, 170, 215], 'tag': 'EFFECT_MODIFIER', 'oneline': False})
+('001_Aloe_vera', {'arg1': 'T6', 'arg2': 'T3', 'relationNo': 'R2', 'range': [368, 442, 170, 215], 'tag': 'EFFECT_MODIFIER', 'oneline': False})
+
+true:15, false:2, true_%:88.2352941176

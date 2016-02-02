@@ -1,0 +1,20 @@
+trg_eff:35, other:2
+('09_Face_powder', 2, 'It can also be reapplied throughout the day to minimize shininess caused by oily skin. ', ['Time', 'MeansOfUse', 'Effect'])
+('24_Makeup_brush', 3, 'When cosmetics are applied using the appropriate brush they blend better into the skin.', ['Effect', 'MeansOfUse'])
+
+trg_eff:45, other:3
+('09_Face_powder', 2, 'It can also be reapplied throughout the day to minimize shininess caused by oily skin. ', ['Time', 'MeansOfUse', 'Effect'])
+('24_Makeup_brush', 3, 'When cosmetics are applied using the appropriate brush they blend better into the skin.', ['Effect', 'MeansOfUse'])
+('24_Ifood_(isotopic_food)', 2, 'Biomolecules that incorporate heavier isotopes give rise to more stable molecular structures with increased resistance to damages associated with ageing.', ['Effect'])
+
+trg_eff:93, other:10
+('09_Face_powder', 2, 'It can also be reapplied throughout the day to minimize shininess caused by oily skin. ', ['Time', 'MeansOfUse', 'Effect'])
+('24_Makeup_brush', 3, 'When cosmetics are applied using the appropriate brush they blend better into the skin.', ['Effect', 'MeansOfUse'])
+('24_Ifood_(isotopic_food)', 2, 'Biomolecules that incorporate heavier isotopes give rise to more stable molecular structures with increased resistance to damages associated with ageing.', ['Effect'])
+('030_Mask', 4, 'In parts of Australia, giant totem masks cover the body, whilst Inuit women use finger masks during storytelling and dancing.', ['Version', 'Version', 'Effect'])
+('031_Mirror', 4, 'Curved mirrors are also used, to produce magnified or diminished images or focus light or simply distort the reflected image.', ['Version', 'Effect', 'Effect', 'Effect'])
+('034_Orlistat', 3, 'Its primary function is preventing the absorption of fats from the human diet by acting as a lipase inhibitor, thereby reducing caloric intake.', ['Effect', 'Effect', 'Effect'])
+('035_Pedometer', 2, "Because the distance of each person's step varies, an informal calibration, performed by the user, is required if presentation of the distance covered in a unit of length (such as in kilometers or miles) is desired, though there are now pedometers that use electronics and software to automatically determine how a person's step varies.", ['User', 'MeansOfUse', 'Version', 'Effect', 'Effect'])
+('040_Royal_jelly', 4, 'This type of feeding triggers the development of queen morphology morphology, including the fully developed ovaries needed to lay eggs.', ['Effect'])
+('043_Spirulina_(dietary_supplement)', 3, 'Arthrospira is cultivated worldwide; used as a dietary supplement as well as a whole food; and is also available in tablet, flake and powder form.', ['Version', 'Effect', 'Version', 'Version', 'Version'])
+('044_Stevia', 4, "Stevia's taste has a slower onset and longer duration than that of sugar, and some of its extracts may have a bitter or licorice-like aftertaste at high concentrations.", ['DegreeOfEffect', 'Version', 'Effect', 'MeansOfUse'])
