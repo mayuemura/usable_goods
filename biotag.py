@@ -1,6 +1,7 @@
 #biotag.py
 #-*- coding:utf-8 -*-
 #2015/12/17
+#2016/02/02
 
 import glob
 import itertools
@@ -14,29 +15,29 @@ def biotag(dirname):
 
 
     #TODO 参照ファイル変更
-    ann_filelist = glob.glob(dirname + "/UO/*.ann")
-    txt_filelist = glob.glob(dirname + "/UO/*.txt")
+    ann_filelist = glob.glob("data/{}/stewart/*.ann".format(dirname))
+    txt_filelist = glob.glob("data/{}/txt/*.txt".format(dirname))
 
     ann_filelist.sort()
     txt_filelist.sort()
 
 
-    client = Connection("beer")
-    db = client["usable_goods"]
-    coll = db[dirname]
+    #client = Connection("beer")
+    #db = client["usable_goods"]
+    #coll = db[dirname]
 
     j = 0
     for ann_file, txt_file in itertools.izip(ann_filelist, txt_filelist):
 
         with open(txt_file, "r") as ft:
-            txt = ft.read().replace("\n", " ")
+            txt = unicode(ft.read().replace("\n", " "))
             word_list = list()
             word = ""
             start = 0
             for i, letter in enumerate(txt):
 
-                if letter is " ":
-                    word_list.append((word, start, i-1))
+                if letter in (" ", ".", ",",")",'"', "'", "—"):
+                    word_list.append((word, start, i))
                     word = ""
                     start = i+1
                 else:
@@ -63,17 +64,32 @@ def biotag(dirname):
                     except ValueError:
                         print "file:" + ann_file
 
+
+                    """
                     #mongoに入ってるsegment間の一致でNot_agreeならann_listに入れない
                     agreement = coll.find_one({
                         "articleNo":articleNo,
-                        "uo_segmentNo":ann_dict["segmentNo"],
-                        "annotator":"uo"})["agree"]
+                        "st_segmentNo":ann_dict["segmentNo"],
+                        "annotator":"st"})["agree"]
 
                     if agreement == "Not_agree":
                         continue
                     else:
                         ann_list.append(ann_dict)
+                    """
+
+                    ann_list.append(ann_dict)
             ann_sorted = sorted(ann_list, key=lambda x: x["start"])
+
+            #print txt_file
+            """
+            if txt_file == "data/cosme/txt/05_Nail_polish.txt":
+                for i in word_list:
+                    print i
+                for j in ann_sorted:
+                    print j
+                break
+            """
 
         tag_dict = {
                 "Target": "Trg",
@@ -90,9 +106,10 @@ def biotag(dirname):
                 "PartOf": "Part"
                 }
 
+        #"""
         FLAG = 0
-        for word in word_list:
-            w, start, end = word
+        for info_tuple in word_list:
+            w, start, end = info_tuple
 
             if ann_sorted:
                 tag = ann_sorted[0]["tag"]
@@ -135,12 +152,17 @@ def biotag(dirname):
             if w == "":
                 continue
             else:
-
                 for w_frg in re.split(r"[#|']", w.lstrip("(").rstrip(",:)").replace(".", "|.")):
                     yield w_frg, tag
-
+        yield ""
+        #"""
 
 if __name__ == "__main__":
-    for word, tag in biotag(sys.argv[1]):
-        print "{}\t{}".format(word, tag)
-
+    #biotag(sys.argv[1])
+    #"""
+    for result in biotag(sys.argv[1]):
+        if result == "":
+            print ""
+        else:
+            print "{}\t{}".format(result[0], result[1])
+    #"""
