@@ -1,0 +1,141 @@
+(u'A', 0, 1)
+(u'hand', 2, 6)
+(u'antiseptic', 7, 17)
+(u'hand', 18, 22)
+(u'disinfectant', 23, 35)
+('', 36, 36)
+(u'hand', 37, 41)
+(u'sanitiser', 42, 51)
+(u'or', 52, 54)
+(u'hand', 55, 59)
+(u'sanitizer', 60, 69)
+(u'is', 70, 72)
+(u'a', 73, 74)
+(u'supplement', 75, 85)
+(u'or', 86, 88)
+(u'alternative', 89, 100)
+(u'to', 101, 103)
+(u'hand', 104, 108)
+(u'washing', 109, 116)
+(u'with', 117, 121)
+(u'soap', 122, 126)
+(u'and', 127, 130)
+(u'water', 131, 136)
+('', 137, 137)
+(u'Many', 138, 142)
+(u'preparations', 143, 155)
+(u'are', 156, 159)
+(u'available', 160, 169)
+('', 170, 170)
+(u'including', 171, 180)
+(u'gel', 181, 184)
+('', 185, 185)
+(u'foam', 186, 190)
+('', 191, 191)
+(u'and', 192, 195)
+(u'liquid', 196, 202)
+(u'solutions', 203, 212)
+('', 213, 213)
+(u'The', 214, 217)
+(u'active', 218, 224)
+(u'ingredient', 225, 235)
+(u'in', 236, 238)
+(u'hand', 239, 243)
+(u'sanitizers', 244, 254)
+(u'may', 255, 258)
+(u'be', 259, 261)
+(u'isopropyl', 262, 271)
+(u'alcohol', 272, 279)
+('', 280, 280)
+(u'isopropanol', 281, 292)
+('', 293, 293)
+('', 294, 294)
+(u'ethanol', 295, 302)
+('', 303, 303)
+(u'n-propanol', 304, 314)
+('', 315, 315)
+(u'or', 316, 318)
+(u'povidone-iodine', 319, 334)
+('', 335, 335)
+(u'Inactive', 336, 344)
+(u'ingredients', 345, 356)
+(u'in', 357, 359)
+(u'alcohol', 360, 367)
+(u'rubs', 368, 372)
+(u'typically', 373, 382)
+(u'include', 383, 390)
+(u'a', 391, 392)
+(u'thickening', 393, 403)
+(u'agent', 404, 409)
+(u'such', 410, 414)
+(u'as', 415, 417)
+(u'polyacrylic', 418, 429)
+(u'acid', 430, 434)
+(u'for', 435, 438)
+(u'alcohol', 439, 446)
+(u'gels', 447, 451)
+('', 452, 452)
+(u'humectants', 453, 463)
+(u'such', 464, 468)
+(u'as', 469, 471)
+(u'glycerin', 472, 480)
+(u'for', 481, 484)
+(u'liquid', 485, 491)
+(u'rubs', 492, 496)
+('', 497, 497)
+(u'propylene', 498, 507)
+(u'glycol', 508, 514)
+('', 515, 515)
+(u'and', 516, 519)
+(u'essential', 520, 529)
+(u'oils', 530, 534)
+(u'of', 535, 537)
+(u'plants', 538, 544)
+('', 545, 545)
+(u'Alcohol-based', 546, 559)
+(u'hand', 560, 564)
+(u'sanitizers', 565, 575)
+(u'are', 576, 579)
+(u'more', 580, 584)
+(u'effective', 585, 594)
+(u'at', 595, 597)
+(u'killing', 598, 605)
+(u'microorganisms', 606, 620)
+(u'than', 621, 625)
+(u'soaps', 626, 631)
+(u'and', 632, 635)
+(u'do', 636, 638)
+(u'not', 639, 642)
+(u'dry', 643, 646)
+(u'out', 647, 650)
+(u'hands', 651, 656)
+(u'as', 657, 659)
+(u'much', 660, 664)
+('', 665, 665)
+{'end': 17, 'start': 2, 'segmentNo': 'T1', 'tag': 'Target', 'words': 'hand antiseptic'}
+{'end': 35, 'start': 18, 'segmentNo': 'T2', 'tag': 'Target', 'words': 'hand disinfectant'}
+{'end': 51, 'start': 37, 'segmentNo': 'T3', 'tag': 'Target', 'words': 'hand sanitiser'}
+{'end': 69, 'start': 55, 'segmentNo': 'T4', 'tag': 'Target', 'words': 'hand sanitizer'}
+{'end': 136, 'start': 73, 'segmentNo': 'T5', 'tag': 'Effect', 'words': 'a supplement or alternative to hand washing with soap and water'}
+{'end': 184, 'start': 181, 'segmentNo': 'T6', 'tag': 'Version', 'words': 'gel'}
+{'end': 191, 'start': 190, 'segmentNo': 'T7', 'tag': 'Version', 'words': ','}
+{'end': 202, 'start': 196, 'segmentNo': 'T8', 'tag': 'Version', 'words': 'liquid'}
+{'end': 254, 'start': 239, 'segmentNo': 'T9', 'tag': 'Target', 'words': 'hand sanitizers'}
+{'end': 293, 'start': 262, 'segmentNo': 'T10', 'tag': 'ComposedOf', 'words': 'isopropyl alcohol (isopropanol)'}
+{'end': 302, 'start': 295, 'segmentNo': 'T11', 'tag': 'ComposedOf', 'words': 'ethanol'}
+{'end': 314, 'start': 304, 'segmentNo': 'T12', 'tag': 'ComposedOf', 'words': 'n-propanol'}
+{'end': 334, 'start': 319, 'segmentNo': 'T13', 'tag': 'ComposedOf', 'words': 'povidone-iodine'}
+{'end': 372, 'start': 360, 'segmentNo': 'T14', 'tag': 'Version', 'words': 'alcohol rubs'}
+{'end': 434, 'start': 393, 'segmentNo': 'T15', 'tag': 'ComposedOf', 'words': 'thickening agent such as polyacrylic acid'}
+{'end': 451, 'start': 439, 'segmentNo': 'T16', 'tag': 'Version', 'words': 'alcohol gels'}
+{'end': 480, 'start': 453, 'segmentNo': 'T17', 'tag': 'ComposedOf', 'words': 'humectants such as glycerin'}
+{'end': 496, 'start': 485, 'segmentNo': 'T18', 'tag': 'Version', 'words': 'liquid rubs'}
+{'end': 514, 'start': 498, 'segmentNo': 'T19', 'tag': 'ComposedOf', 'words': 'propylene glycol'}
+{'end': 544, 'start': 520, 'segmentNo': 'T20', 'tag': 'ComposedOf', 'words': 'essential oils of plants'}
+{'end': 559, 'start': 546, 'segmentNo': 'T21', 'tag': 'Version', 'words': 'Alcohol-based'}
+{'end': 575, 'start': 560, 'segmentNo': 'T22', 'tag': 'Target', 'words': 'hand sanitizers'}
+{'end': 594, 'start': 580, 'segmentNo': 'T23', 'tag': 'DegreeOfEffect', 'words': 'more effective'}
+{'end': 620, 'start': 598, 'segmentNo': 'T24', 'tag': 'Effect', 'words': 'killing microorganisms'}
+{'end': 631, 'start': 621, 'segmentNo': 'T25', 'tag': 'DegreeOfEffect', 'words': 'than soaps'}
+{'end': 656, 'start': 636, 'segmentNo': 'T26', 'tag': 'Effect', 'words': 'do not dry out hands'}
+{'end': 664, 'start': 657, 'segmentNo': 'T27', 'tag': 'DegreeOfEffect', 'words': 'as much'}
