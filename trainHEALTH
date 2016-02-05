@@ -25,6 +25,7 @@ I-Com	disks	NNS
 I-Com	containing	VBG
 I-Com	protruding	VBG
 I-Com	spikes	NNS
+
 O	An	DT
 B-Trg	adhesive	JJ
 I-Trg	bandage	NN
@@ -55,6 +56,7 @@ I-Eff	require	VB
 I-Eff	a	DT
 I-Eff	full-size	JJ
 I-Eff	bandage	NN
+
 B-Trg	They	PRP
 O	are	VBP
 O	also	RB
@@ -77,6 +79,7 @@ B-Trg	Elastoplast	NN
 O	in	IN
 O	the	DT
 O	UK	NNP
+
 B-Trg	Air	NNP
 I-Trg	fresheners	NNS
 O	are	VBP
@@ -95,6 +98,7 @@ I-Loc	that	WDT
 I-Loc	typically	RB
 I-Loc	emit	VBP
 I-Loc	fragrance	NN
+
 O	There	EX
 O	are	VBP
 O	many	JJ
@@ -105,6 +109,7 @@ O	brands	NNS
 O	of	IN
 B-Trg	air	NN
 I-Trg	freshener	NN
+
 O	Some	DT
 O	of	IN
 O	the	DT
@@ -121,6 +126,7 @@ B-Ver	gels	NNS
 B-Ver	beads	NNS
 O	and	CC
 B-Ver	plug-ins	NNS
+
 O	Some	DT
 B-Trg	air	NN
 I-Trg	fresheners	NNS
@@ -145,6 +151,7 @@ I-Cer	it	PRP
 I-Cer	is	VBZ
 I-Cer	to	TO
 I-Cer	use	VB
+
 B-Trg	Air	NNP
 I-Trg	freshening	VBG
 O	is	VBZ
@@ -169,6 +176,7 @@ I-Com	everyday	JJ
 I-Com	house	NN
 I-Com	hold	VBP
 I-Com	items	NNS
+
 O	An	DT
 B-Trg	anesthetic	JJ
 B-Trg	anaesthetic	JJ
@@ -190,6 +198,7 @@ I-Eff	reversible	JJ
 I-Eff	loss	NN
 I-Eff	of	IN
 I-Eff	sensation	NN
+
 B-Trg	Anesthetics	NNS
 O	contrast	NN
 O	with	IN
@@ -201,6 +210,7 @@ O	pain	NN
 O	without	IN
 O	eliminating	VBG
 O	sensation	NN
+
 O	These	DT
 B-Trg	drugs	NNS
 O	are	VBP
@@ -209,6 +219,7 @@ O	administered	VBN
 O	to	TO
 B-Eff	facilitate	VB
 I-Eff	surgery	NN
+
 O	A	DT
 O	wide	JJ
 O	variety	NN
@@ -220,6 +231,7 @@ O	in	IN
 O	modern	JJ
 O	anesthetic	JJ
 O	practice	NN
+
 B-Trg	Many	JJ
 O	are	VBP
 O	rarely	RB
@@ -235,6 +247,7 @@ O	commonly	RB
 O	by	IN
 O	all	DT
 O	disciplines	NNS
+
 O	An	DT
 B-Trg	antifungal	JJ
 I-Trg	medication	NN
@@ -265,6 +278,7 @@ I-Eff	cryptococcal	JJ
 I-Eff	meningitis	NN
 I-Eff	and	CC
 I-Eff	others	NNS
+
 O	Such	JJ
 B-Trg	drugs	NNS
 O	are	VBP
@@ -282,6 +296,7 @@ O	are	VBP
 O	available	JJ
 O	OTC	NNP
 O	over-the-counter	JJ
+
 O	An	DT
 B-Trg	antihistamine	NN
 O	is	VBZ
@@ -300,6 +315,7 @@ I-Eff	receptors	NNS
 I-Eff	in	IN
 I-Eff	the	DT
 I-Eff	body	NN
+
 B-Trg	Antihistamines	NNS
 O	are	VBP
 O	subclassified	VBN
@@ -348,6 +364,7 @@ I-Eff	well	RB
 I-Eff	as	IN
 I-Eff	for	IN
 I-Eff	insomnia	NN
+
 O	An	DT
 B-Trg	antioxidant	NN
 O	is	VBZ
@@ -360,6 +377,7 @@ I-Eff	oxidation	NN
 I-Eff	of	IN
 I-Eff	other	JJ
 I-Eff	molecules	NNS
+
 O	Oxidation	NN
 O	is	VBZ
 O	a	DT
@@ -375,6 +393,7 @@ O	can	MD
 O	produce	VB
 O	free	JJ
 O	radicals	NNS
+
 O	In	IN
 O	turn	NN
 O	these	DT
@@ -383,6 +402,7 @@ O	can	MD
 O	start	VB
 O	chain	NN
 O	reactions	NNS
+
 O	When	WRB
 O	the	DT
 O	chain	NN
@@ -400,6 +420,7 @@ O	death	NN
 O	to	TO
 O	the	DT
 O	cell	NN
+
 B-Trg	Antioxidants	NNS
 B-Eff	terminate	VBP
 I-Eff	these	DT
@@ -415,6 +436,7 @@ B-Eff	inhibit	VBP
 I-Eff	other	JJ
 I-Eff	oxidation	NN
 I-Eff	reactions	NNS
+
 B-Trg	Antipruritics	NNS
 O	also	RB
 O	known	VBN
@@ -469,6 +491,7 @@ I-Eff	dermatitis	NN
 I-Eff	or	CC
 I-Eff	stinging	JJ
 I-Eff	nettle	NN
+
 O	A	DT
 B-Trg	bolster	VB
 O	is	VBZ
@@ -484,6 +507,7 @@ B-Com	cotton	NN
 B-Com	down	RB
 O	or	CC
 B-Com	fibre	NN
+
 B-Trg	Bolsters	NNS
 O	are	VBP
 O	usually	RB
@@ -497,6 +521,7 @@ O	or	CC
 O	for	IN
 B-Eff	decorative	JJ
 I-Eff	application	NN
+
 O	A	DT
 B-Com	foam	NN
 I-Com	insert	NN
@@ -506,6 +531,7 @@ O	used	VBN
 O	for	IN
 O	additional	JJ
 O	support	NN
+
 O	A	DT
 B-Trg	bolster	VB
 O	is	VBZ
@@ -520,6 +546,7 @@ B-Trg	pillow	NN
 O	and	CC
 O	a	DT
 B-Trg	prop	VBP
+
 O	In	IN
 B-Loc	western	JJ
 I-Loc	countries	NNS
@@ -554,6 +581,7 @@ I-MOU	with	IN
 I-MOU	high	JJ
 I-MOU	rigid	JJ
 I-MOU	sides	NNS
+
 B-Trg	Chest	NN
 I-Trg	rub	NN
 B-Trg	cold	JJ
@@ -582,6 +610,7 @@ I-Eff	including	VBG
 I-Eff	the	DT
 I-Eff	common	JJ
 I-Eff	cold	NN
+
 B-Trg	It	PRP
 O	is	VBZ
 B-MOU	applied	VBN
@@ -592,6 +621,7 @@ O	often	RB
 B-Time	immediately	RB
 I-Time	before	IN
 I-Time	sleeping	VBG
+
 B-Trg	Toothpaste	NN
 O	is	VBZ
 O	a	DT
@@ -616,6 +646,7 @@ I-Eff	and	CC
 I-Eff	health	NN
 I-Eff	of	IN
 I-Eff	teeth	NNS
+
 B-Trg	Toothpaste	NN
 O	is	VBZ
 B-Eff	used	VBN
@@ -659,6 +690,7 @@ I-Eff	and	CC
 I-Eff	gum	NN
 I-Eff	disease	NN
 I-Eff	gingivitis	NN
+
 B-Trg	Dental	JJ
 I-Trg	floss	NN
 O	is	VBZ
@@ -685,6 +717,7 @@ I-MOU	is	VBZ
 I-MOU	unable	JJ
 I-MOU	to	TO
 I-MOU	reach	VB
+
 B-Trg	It	PRP
 O	has	VBZ
 O	been	VBN
@@ -724,6 +757,7 @@ I-Eff	eliminated	VBN
 O	with	IN
 O	this	DT
 O	method	NN
+
 O	However	RB
 B-Cer	several	JJ
 I-Cer	reviews	NNS
@@ -737,6 +771,7 @@ I-Cer	benefit	NN
 I-Cer	over	IN
 I-Cer	toothbrushing	NN
 I-Cer	alone	RB
+
 O	A	DT
 B-Trg	dietary	JJ
 I-Trg	supplement	NN
@@ -754,6 +789,7 @@ I-Eff	consumed	VBN
 I-Eff	in	IN
 I-Eff	sufficient	JJ
 I-Eff	quantities	NNS
+
 O	An	DT
 B-Trg	earplug	NN
 O	is	VBZ
@@ -789,6 +825,7 @@ I-Eff	dust	NN
 I-Eff	or	CC
 I-Eff	excessive	JJ
 I-Eff	wind	NN
+
 O	A	DT
 B-Trg	finger	NN
 I-Trg	cot	NN
@@ -820,6 +857,7 @@ I-MOU	full	JJ
 I-MOU	glove	NN
 I-MOU	is	VBZ
 I-MOU	unnecessary	JJ
+
 O	Like	IN
 O	medical	JJ
 O	and	CC
@@ -842,6 +880,7 @@ I-Com	nitrile	JJ
 I-Com	rubber	NN
 I-Com	and	CC
 I-Com	vinyl	NN
+
 O	A	DT
 B-Trg	glucose	NN
 I-Trg	meter	NN
@@ -861,6 +900,7 @@ I-Eff	glucose	NN
 I-Eff	in	IN
 I-Eff	the	DT
 I-Eff	blood	NN
+
 B-Trg	It	PRP
 O	can	MD
 O	also	RB
@@ -880,6 +920,7 @@ I-MOU	to	TO
 I-MOU	the	DT
 I-MOU	glucose	NN
 I-MOU	chart	NN
+
 B-Trg	It	PRP
 O	is	VBZ
 O	a	DT
@@ -898,6 +939,7 @@ I-User	diabetes	NN
 I-User	mellitus	NN
 I-User	or	CC
 I-User	hypoglycemia	NN
+
 B-MOU	A	DT
 I-MOU	small	JJ
 I-MOU	drop	NN
@@ -930,6 +972,7 @@ I-Eff	the	DT
 I-Eff	blood	NN
 I-Eff	glucose	NN
 I-Eff	level	NN
+
 O	The	DT
 B-Trg	meter	NN
 O	then	RB
@@ -942,6 +985,7 @@ I-Eff	of	IN
 I-Eff	mg/dl	NN
 I-Eff	or	CC
 I-Eff	mmol/l	NN
+
 B-Trg	Gluten	NNP
 O	is	VBZ
 O	a	DT
@@ -957,6 +1001,7 @@ I-Part	including	VBG
 I-Part	barley	NN
 I-Part	and	CC
 I-Part	rye	NN
+
 B-Trg	Gluten	NNP
 B-Eff	gives	VBZ
 I-Eff	elasticity	NN
@@ -978,6 +1023,7 @@ I-Eff	product	NN
 I-Eff	a	DT
 I-Eff	chewy	JJ
 I-Eff	texture	NN
+
 B-Trg	Green	NNP
 I-Trg	tea	NN
 O	is	VBZ
@@ -993,6 +1039,7 @@ I-Com	minimal	JJ
 I-Com	oxidation	NN
 I-Com	during	IN
 I-Com	processing	NN
+
 B-Cer	Numerous	JJ
 I-Cer	claims	NNS
 I-Cer	have	VBP
@@ -1019,6 +1066,7 @@ O	and	CC
 O	human	JJ
 O	epidemiological	JJ
 O	studies	NNS
+
 B-Cer	Preliminary	JJ
 I-Cer	research	NN
 I-Cer	on	IN
@@ -1036,6 +1084,7 @@ I-Cer	further	JJ
 I-Cer	study	NN
 O	to	TO
 O	evaluate	VB
+
 B-Trg	Growth	NN
 I-Trg	hormone	NN
 B-Trg	GH	NN
@@ -1069,6 +1118,7 @@ B-User	humans	NNS
 O	and	CC
 O	other	JJ
 B-User	animals	NNS
+
 B-Trg	It	PRP
 O	is	VBZ
 O	thus	RB
@@ -1076,6 +1126,7 @@ O	important	JJ
 O	in	IN
 B-Eff	human	JJ
 I-Eff	development	NN
+
 B-Trg	It	PRP
 O	is	VBZ
 O	a	DT
@@ -1091,6 +1142,7 @@ O	certain	JJ
 O	kinds	NNS
 O	of	IN
 O	cells	NNS
+
 B-Trg	Growth	NN
 I-Trg	hormone	NN
 O	is	VBZ
@@ -1117,6 +1169,7 @@ O	the	DT
 O	anterior	JJ
 O	pituitary	JJ
 O	gland	NN
+
 O	A	DT
 B-Trg	hand	NN
 I-Trg	antiseptic	JJ
@@ -1139,6 +1192,7 @@ I-Eff	with	IN
 I-Eff	soap	NN
 I-Eff	and	CC
 I-Eff	water	NN
+
 O	Many	JJ
 O	preparations	NNS
 O	are	VBP
@@ -1149,6 +1203,7 @@ B-Ver	foam	NN
 O	and	CC
 B-Ver	liquid	JJ
 O	solutions	NNS
+
 O	The	DT
 O	active	JJ
 O	ingredient	NN
@@ -1164,6 +1219,7 @@ B-Com	ethanol	NN
 B-Com	n-propanol	NN
 O	or	CC
 B-Com	povidone-iodine	NN
+
 O	Inactive	JJ
 O	ingredients	NNS
 O	in	IN
@@ -1195,6 +1251,7 @@ B-Com	essential	JJ
 I-Com	oils	NNS
 I-Com	of	IN
 I-Com	plants	NNS
+
 B-Ver	Alcohol-based	JJ
 B-Trg	hand	NN
 I-Trg	sanitizers	NNS
@@ -1214,6 +1271,7 @@ I-Eff	out	IN
 I-Eff	hands	NNS
 B-Deg	as	RB
 I-Deg	much	RB
+
 B-Trg	Hibiscus	NNP
 O	tea	NN
 O	is	VBZ
@@ -1237,6 +1295,7 @@ I-Com	roselle	NN
 I-Com	Hibiscus	NN
 I-Com	sabdariffa	NN
 I-Com	flower	NN
+
 B-Trg	It	PRP
 O	is	VBZ
 B-MOU	consumed	VBN
@@ -1244,6 +1303,7 @@ I-MOU	both	DT
 I-MOU	hot	JJ
 I-MOU	and	CC
 I-MOU	cold	JJ
+
 O	A	DT
 B-Trg	hot	JJ
 I-Trg	water	NN
@@ -1283,6 +1343,7 @@ I-Eff	part	NN
 I-Eff	of	IN
 I-Eff	the	DT
 I-Eff	body	NN
+
 O	An	DT
 B-Trg	ice	NN
 I-Trg	pack	NN
@@ -1302,6 +1363,7 @@ I-Com	refrigerant	NN
 I-Com	gel	NN
 I-Com	or	CC
 I-Com	liquid	NN
+
 O	For	IN
 O	use	NN
 O	the	DT
@@ -1311,6 +1373,7 @@ I-MOU	frozen	VBN
 I-MOU	in	IN
 I-MOU	a	DT
 I-MOU	freezer	NN
+
 O	Both	DT
 B-Ver	ice	NN
 O	and	CC
@@ -1341,6 +1404,7 @@ O	of	IN
 O	fusion	NN
 O	of	IN
 O	water	NN
+
 O	These	DT
 B-Trg	packs	NNS
 O	are	VBP
@@ -1402,6 +1466,7 @@ I-Com	from	IN
 I-Com	C4	NN
 I-Com	carbon	NN
 I-Com	C4-plants	NNS
+
 O	Biomolecules	NNS
 O	that	WDT
 O	incorporate	VBP
@@ -1422,6 +1487,7 @@ I-Eff	damages	NNS
 I-Eff	associated	VBN
 I-Eff	with	IN
 I-Eff	ageing	JJ
+
 O	The	DT
 O	inclusion	NN
 O	of	IN
@@ -1442,6 +1508,7 @@ O	reflecting	VBG
 O	the	DT
 O	existing	VBG
 O	abundance	NN
+
 B-MOU	Consumption	NN
 O	of	IN
 B-Trg	foods	NNS
@@ -1468,6 +1535,7 @@ I-Cer	hypothetically	RB
 O	with	IN
 B-Eff	enhanced	VBN
 I-Eff	longevity	NN
+
 O	Consumed	VBN
 O	with	IN
 O	food	NN
@@ -1484,6 +1552,7 @@ O	for	IN
 O	the	DT
 O	human	JJ
 O	cells	NNS
+
 B-Trg	Isoflavones	NNS
 O	are	VBP
 O	a	DT
@@ -1501,6 +1570,7 @@ O	as	IN
 B-Eff	phytoestrogens	NNS
 O	in	IN
 B-User	mammals	NNS
+
 B-Trg	Some	DT
 O	are	VBP
 O	termed	VBN
@@ -1513,6 +1583,7 @@ O	to	TO
 B-Eff	trap	NN
 I-Eff	singlet	NN
 I-Eff	oxygen	NN
+
 O	However	RB
 O	the	DT
 B-Eff	risk	NN
@@ -1534,3 +1605,4 @@ O	Breast	NN
 O	Cancer	NN
 O	Survival	NN
 O	Study	NN
+
