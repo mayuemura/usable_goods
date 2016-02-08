@@ -62,7 +62,7 @@ contradicted	I-Cer
 by	I-Cer
 other	I-Cer
 studies	I-Cer
-Non-decolorized	I-Ver
+Non-decolorized	B-Ver
 aloe	B-Trg
 vera	I-Trg
 leaf	O
