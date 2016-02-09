@@ -1,0 +1,5 @@
+#!/bin/bash
+
+./feature.py < train > train.f
+
+~okazaki/local/bin/crfsuite learn -a ap -g442 -x -p max_iterations=20 train.f > log_file.txt

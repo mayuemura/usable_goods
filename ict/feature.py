@@ -2,7 +2,7 @@
 
 import sys
 
-def readiter(fi, names=('y', 'w', 'pos', 'chk'), sep='\t'):
+def readiter(fi, names=('y', 'w', 'pos'), sep='\t'):
     seq = []
     for line in fi:
         line = line.strip('\n')
@@ -34,14 +34,14 @@ if __name__ == '__main__':
     fo = sys.stdout
 
     templates = []
-    templates += [(('w', i),) for i in range(-2, 3)]
-    templates += [(('w', i), ('w', i+1)) for i in range(-2, 2)]
-    templates += [(('pos', i),) for i in range(-2, 3)]
-    templates += [(('pos', i), ('pos', i+1)) for i in range(-2, 2)]
-    templates += [(('chk', i),) for i in range(-2, 3)]
-    templates += [(('chk', i), ('chk', i+1)) for i in range(-2, 2)]
-    templates += [(('iu', i),) for i in range(-2, 3)]
-    templates += [(('iu', i), ('iu', i+1)) for i in range(-2, 2)]
+    templates += [(('w', i),) for i in range(-3, 4)]
+    templates += [(('w', i), ('w', i+1)) for i in range(-3, 3)]
+    templates += [(('pos', i),) for i in range(-3, 4)]
+    templates += [(('pos', i), ('pos', i+1)) for i in range(-3, 3)]
+    #templates += [(('chk', i),) for i in range(-2, 3)]
+    #templates += [(('chk', i), ('chk', i+1)) for i in range(-2, 2)]
+    templates += [(('iu', i),) for i in range(-3, 4)]
+    templates += [(('iu', i), ('iu', i+1)) for i in range(-3, 3)]
 
     for seq in readiter(fi):
         for v in seq:

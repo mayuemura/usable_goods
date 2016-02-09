@@ -1,0 +1,28 @@
+#PRF.py
+#-*- coding: utf-8 -*-
+#2016/02/08
+
+import sys
+
+
+def main(log_file):
+
+    with open(log_file, "r") as f:
+        count = 0
+        total_P = 0.0
+        total_R = 0.0
+        total_D1 = 0.0
+        for line in f:
+            if line.startswith("Macro-average precision,"):
+                P, R, F1 = line.lstrip("Macro-average preision, recall, F1:(").rstrip(")\n").split(", ")
+                count += 1
+                total_P += float(P)
+                total_R += float(R)
+                total_F1 += float(F1)
+
+        print "Precision:{}, Recall:{}, F1:{}".format(total_P/count, total_R/count, total_F1/count)
+
+if __name__ == "__main__":
+    main(sys.argv[1])
+
+#python PRF.py log_file
