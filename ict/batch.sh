@@ -1,5 +1,15 @@
 #!/bin/bash
 
-./feature.py < train > train.f
+#leave_one_out cross_validation
+#./feature.py < train > train.f
 
-~okazaki/local/bin/crfsuite learn -a ap -g442 -x -p max_iterations=20 train.f > log_file.txt
+#~okazaki/local/bin/crfsuite learn -a ap -g385 -x -p max_iterations=20 train.f > log_file.txt
+
+./feature.py < splt_train > splt_train.f
+
+~okazaki/local/bin/crfsuite learn -a ap -p max_iterations=20 -m all.model splt_train.f
+
+./feature.py < splt_test > splt_test.f
+
+~okazaki/local/bin/crfsuite tag -r -m all.model < splt_test.f | conlleval.py >> result.txt
+
