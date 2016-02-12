@@ -36,7 +36,7 @@ def biotag(dirname):
             start = 0
             for i, letter in enumerate(txt):
 
-                if letter in (" ", ".", ",",")",'"', "'", "—"):
+                if letter in (" ", ".", ",",")","(",'"', "'", "—", ":", ";", "*", "/", "|"):
                     word_list.append((word, start, i))
                     word = ""
                     start = i+1
@@ -83,7 +83,7 @@ def biotag(dirname):
 
             #print txt_file
             """
-            if txt_file == "data/cosme/txt/05_Nail_polish.txt":
+            if txt_file == "data/nlp2016/txt/050_Nasal_strip.txt":
                 for i in word_list:
                     print i
                 for j in ann_sorted:

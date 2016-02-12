@@ -1,0 +1,5 @@
+The phonograph is a device invented in 1877 for the mechanical recording and reproduction of sound.
+In its later forms it is also called a gramophone (as a trademark since 1887, as a generic name since c. 1900).
+The sound vibration waveforms are recorded as corresponding physical deviations of a spiral groove engraved, etched, incised, or impressed into the surface of a rotating cylinder or disc, called a gramophone "record".
+To recreate the sound, the surface is similarly rotated while a playback Stylus#Use in music recording and stylus traces the groove and is therefore vibrated by it, very faintly reproducing the recorded sound.
+In early acoustic phonographs, the stylus vibrated a diaphragm diaphragm which produced sound waves which were coupled to the open air through a flaring acoustic horn, or directly to the listener's ears through stethoscope-type earphones.

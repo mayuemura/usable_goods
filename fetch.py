@@ -2,6 +2,7 @@
 #-*- coding:utf-8 -*-
 #2015/10/30
 #2015/12/22 modified
+#2016/02/12 modified INPUT:word --> INPUT:keyword file
 
 import json
 import os.path
@@ -15,10 +16,14 @@ del_ptrn2 = re.compile(r"<ref name=\w*/>|<ref.*?>.*?</ref>|<div class=.*?>", re.
 replace_ptrn1 = re.compile(r"<([a-z]+?)>(.*?)</\1>", re.DOTALL)
 replace_ptrn2 = re.compile(r"[(A-Z][a-z)]+.?\|([a-zA-Z]+?)", re.DOTALL)
 
+redirect_ptrn = re.compile(r"\#REDIRECT\s*\[\[([a-zA-Z0-9#\s\(\)]*?)\]\].*")
 
 def redirect(revisions):
-    new_title = revisions.lstrip("#REDIRECT [[").rstrip("]]")
-    fetch(new_title)
+    try:
+        new_title = redirect_ptrn.match(revisions).group(1)
+        fetch_word(new_title.split("#")[0])
+    except AttributeError:
+        print revisions
 
 
 def json_gomitori(word, data_json):
@@ -54,10 +59,7 @@ def json_gomitori(word, data_json):
     except KeyError:
         print word + ": not exist"
 
-
-
-def fetch(keyword):
-
+def fetch_word(keyword):
     url = "http://en.wikipedia.org/w/api.php?"
     params = urllib.urlencode({
             "action": "query",
@@ -65,11 +67,37 @@ def fetch(keyword):
             "prop": "revisions",
             "rvprop": "content",
 	    "titles": keyword
-        })
+    })
     data = urllib.urlopen(url + params).read()
 
     json_gomitori(keyword, json.loads(data))
 
 
+
+def fetch_file(keyword_file):
+
+    with open(keyword_file, "r") as f:
+        for line in f:
+            keyword = line.rstrip("\n")
+
+            url = "http://en.wikipedia.org/w/api.php?"
+            params = urllib.urlencode({
+                    "action": "query",
+                    "format": "json",
+                    "prop": "revisions",
+                    "rvprop": "content",
+	            "titles": keyword
+            })
+            data = urllib.urlopen(url + params).read()
+
+            json_gomitori(keyword, json.loads(data))
+
+
 if __name__ == "__main__":
-    fetch(sys.argv[1])
+    INPUT = sys.argv[1]
+    if INPUT.endswith(".txt"):
+        fetch_file(INPUT)
+    else:
+        fetch_word(INPUT)
+
+#python fetch.py deepika_keywords.txt

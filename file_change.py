@@ -30,8 +30,8 @@ def file_change(file_names):
 def file_numbering(dirname):
     #すでにディレクトリにある番号を見てからナンバリングする
     #annファイルもつくる
-    
-    
+    dirname = dirname
+    number = 0 
     txtfiles = sorted(glob.glob(dirname+"/*.txt"))
     for txtfile in txtfiles:
         basename = txtfile.lstrip(dirname+"/")
@@ -46,7 +46,7 @@ def file_numbering(dirname):
 
             with open (num_annfile, "w") as _:
                 pass
-
+            txtfile = r"{}".format(txtfile)
             os.system("rm "+txtfile)
 
 
@@ -54,4 +54,4 @@ if __name__ == "__main__":
     file_numbering(sys.argv[1])
 
 #cp [originaldata] data/[dir]
-#python file_change.py data/cosme/*.txt
+#python file_change.py data/cosme
