@@ -94,10 +94,11 @@ def fetch_file(keyword_file):
 
 
 if __name__ == "__main__":
-    INPUT = sys.argv[1]
-    if INPUT.endswith(".txt"):
+    INPUT = sys.argv[1:]
+    if INPUT[0].endswith(".txt"):
         fetch_file(INPUT)
     else:
-        fetch_word(INPUT)
+        keyword = "_".join(INPUT)
+        fetch_word(keyword)
 
 #python fetch.py deepika_keywords.txt
