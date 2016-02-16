@@ -1,0 +1,18 @@
+Ice pack	Used To Treat	Anterior cruciate ligament injury	.
+Ice pack	Used To Treat	Ectodermal dysplasia	.
+Ice pack	Used To Treat	Golfer's elbow	.
+Ice pack	Used To Treat	Heat Stroke	.
+Ice pack	Used To Treat	Hyperthermia	.
+Ice pack	Used To Treat	Osteoarthritis	.
+Ice pack	Used To Treat	Patellar tendinitis	.
+Ice pack	is-a	Medical Treatment	.
+Ice pack	is-a	Topic	.
+Ice pack	Used To Treat	Anterior cruciate ligament injury	.
+Ice pack	Used To Treat	Ectodermal dysplasia	.
+Ice pack	Used To Treat	Golfer's elbow	.
+Ice pack	Used To Treat	Heat Stroke	.
+Ice pack	Used To Treat	Hyperthermia	.
+Ice pack	Used To Treat	Osteoarthritis	.
+Ice pack	Used To Treat	Patellar tendinitis	.
+Ice pack	is-a	Medical Treatment	.
+Ice pack	is-a	Topic	.

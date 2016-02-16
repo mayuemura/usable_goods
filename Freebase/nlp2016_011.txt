@@ -1,0 +1,609 @@
+Choline	Average Molar Mass	"104.17076"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Choline	Condition This May Prevent	Choline deficiency	.
+Choline	Condition This May Prevent	Infant nutrition disorders	.
+Choline	Formula	"C5H14NO"	.
+Choline	PubChem ID	"305"	.
+Choline	Structure (SMILES)	"C[N+](C)(C)CCO"	.
+Choline	USDA ID	"421"	.
+Choline	Used To Treat	Osteoarthritis	.
+Choline	Used To Treat	Pain	.
+Choline	Used To Treat	Rheumatic fever	.
+Choline	Used To Treat	Rheumatoid arthritis	.
+Choline	is-a	Chemical Compound	.
+Choline	is-a	Condition prevention factors	.
+Choline	is-a	Drug ingredient	.
+Choline	is-a	Medical Treatment	.
+Choline	is-a	Nutrient	.
+Choline	is-a	Topic	.
+Choline	Average Molar Mass	"104.17076"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Choline	Condition This May Prevent	Choline deficiency	.
+Choline	Condition This May Prevent	Infant nutrition disorders	.
+Choline	Formula	"C5H14NO"	.
+Choline	PubChem ID	"305"	.
+Choline	Structure (SMILES)	"C[N+](C)(C)CCO"	.
+Choline	USDA ID	"421"	.
+Choline	Used To Treat	Osteoarthritis	.
+Choline	Used To Treat	Pain	.
+Choline	Used To Treat	Rheumatic fever	.
+Choline	Used To Treat	Rheumatoid arthritis	.
+Choline	is-a	Chemical Compound	.
+Choline	is-a	Condition prevention factors	.
+Choline	is-a	Drug ingredient	.
+Choline	is-a	Medical Treatment	.
+Choline	is-a	Nutrient	.
+Choline	is-a	Topic	.
+Choline Hydroxide/Capsicum/Ginkgo/Arnica Montana/Gelsemium Sempervirens Root/Potassium Cation/Semecarpus Anacardium Juice/Barium Cation/Phosphorus/Serotonin Homeopathic Preparation Oral	Route of administration	Oral (Drug administration route)	.
+Choline Hydroxide/Capsicum/Ginkgo/Arnica Montana/Gelsemium Sempervirens Root/Potassium Cation/Semecarpus Anacardium Juice/Barium Cation/Phosphorus/Serotonin Homeopathic Preparation Oral	Routed drug of	Choline hydroxide/Capsicum/Ginkgo/Arnica montana/Gelsemium sempervirens root/Potassium cation/Semecarpus anacardium juice/Barium cation/Phosphorus/Serotonin homeopathic preparation	.
+Choline Hydroxide/Capsicum/Ginkgo/Arnica Montana/Gelsemium Sempervirens Root/Potassium Cation/Semecarpus Anacardium Juice/Barium Cation/Phosphorus/Serotonin Homeopathic Preparation Oral	is-a	Condition prevention factors	.
+Choline Hydroxide/Capsicum/Ginkgo/Arnica Montana/Gelsemium Sempervirens Root/Potassium Cation/Semecarpus Anacardium Juice/Barium Cation/Phosphorus/Serotonin Homeopathic Preparation Oral	is-a	Medical Treatment	.
+Choline Hydroxide/Capsicum/Ginkgo/Arnica Montana/Gelsemium Sempervirens Root/Potassium Cation/Semecarpus Anacardium Juice/Barium Cation/Phosphorus/Serotonin Homeopathic Preparation Oral	is-a	Routed drug	.
+Choline Hydroxide/Capsicum/Ginkgo/Arnica Montana/Gelsemium Sempervirens Root/Potassium Cation/Semecarpus Anacardium Juice/Barium Cation/Phosphorus/Serotonin Homeopathic Preparation Oral	is-a	Topic	.
+Choline Magnesium Trisalicylate 293/362 liquid	Available in	United States of America	.
+Choline Magnesium Trisalicylate 293/362 liquid	Color	Brown	.
+Choline Magnesium Trisalicylate 293/362 liquid	Discontinued	"false"	.
+Choline Magnesium Trisalicylate 293/362 liquid	Flavor	Cherry	.
+Choline Magnesium Trisalicylate 293/362 liquid	Label date	"2011-06-14"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Choline Magnesium Trisalicylate 293/362 liquid	Label link	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=ac5d0d81-5c64-4344-850d-34946b3252b1>	.
+Choline Magnesium Trisalicylate 293/362 liquid	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=ac5d0d81-5c64-4344-850d-34946b3252b1#nlm34067-9>	.
+Choline Magnesium Trisalicylate 293/362 liquid	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=ac5d0d81-5c64-4344-850d-34946b3252b1#nlm34068-7>	.
+Choline Magnesium Trisalicylate 293/362 liquid	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=ac5d0d81-5c64-4344-850d-34946b3252b1#nlm34069-5>	.
+Choline Magnesium Trisalicylate 293/362 liquid	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=ac5d0d81-5c64-4344-850d-34946b3252b1#nlm34070-3>	.
+Choline Magnesium Trisalicylate 293/362 liquid	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=ac5d0d81-5c64-4344-850d-34946b3252b1#nlm34071-1>	.
+Choline Magnesium Trisalicylate 293/362 liquid	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=ac5d0d81-5c64-4344-850d-34946b3252b1#nlm34084-4>	.
+Choline Magnesium Trisalicylate 293/362 liquid	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=ac5d0d81-5c64-4344-850d-34946b3252b1#nlm34088-5>	.
+Choline Magnesium Trisalicylate 293/362 liquid	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=ac5d0d81-5c64-4344-850d-34946b3252b1#nlm34089-3>	.
+Choline Magnesium Trisalicylate 293/362 liquid	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=ac5d0d81-5c64-4344-850d-34946b3252b1#nlm34090-1>	.
+Choline Magnesium Trisalicylate 293/362 liquid	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=ac5d0d81-5c64-4344-850d-34946b3252b1#nlm42227-9>	.
+Choline Magnesium Trisalicylate 293/362 liquid	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=ac5d0d81-5c64-4344-850d-34946b3252b1#nlm42229-5>	.
+Choline Magnesium Trisalicylate 293/362 liquid	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=ac5d0d81-5c64-4344-850d-34946b3252b1#nlm42232-9>	.
+Choline Magnesium Trisalicylate 293/362 liquid	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=ac5d0d81-5c64-4344-850d-34946b3252b1#nlm51945-4>	.
+Choline Magnesium Trisalicylate 293/362 liquid	Manufactured form of	Choline salicylate and magnesium salicylate 58.6/72.4 liquid	.
+Choline Magnesium Trisalicylate 293/362 liquid	Manufacturer	Silarx Pharmaceuticals	.
+Choline Magnesium Trisalicylate 293/362 liquid	Marketing start date	"1997-02-05"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Choline Magnesium Trisalicylate 293/362 liquid	NDC Product ID	"54838-522"	.
+Choline Magnesium Trisalicylate 293/362 liquid	is-a	Consumer product	.
+Choline Magnesium Trisalicylate 293/362 liquid	is-a	Manufactured drug form	.
+Choline Magnesium Trisalicylate 293/362 liquid	is-a	Topic	.
+Choline acetylase in denervated parotid glands of the rabbit (Book Edition)	Edition Of	Choline acetylase in denervated parotid glands of the rabbit (Book)	.
+Choline acetylase in denervated parotid glands of the rabbit (Book Edition)	Place of publication	Lund	.
+Choline acetylase in denervated parotid glands of the rabbit (Book Edition)	Publication date	"1964"^^<http://www.w3.org/2001/XMLSchema#gYear>	.
+Choline acetylase in denervated parotid glands of the rabbit (Book Edition)	Stanford OPAC	"7198153"	.
+Choline acetylase in denervated parotid glands of the rabbit (Book Edition)	is-a	Book Edition	.
+Choline acetylase in denervated parotid glands of the rabbit (Book Edition)	is-a	Cataloged instance	.
+Choline acetylase in denervated parotid glands of the rabbit (Book Edition)	is-a	Topic	.
+Choline acetylase in denervated parotid glands of the rabbit (Book)	Author	Ivar Nordenfelt	.
+Choline acetylase in denervated parotid glands of the rabbit (Book)	is-a	Book	.
+Choline acetylase in denervated parotid glands of the rabbit (Book)	is-a	Topic	.
+Choline acetylase in denervated parotid glands of the rabbit (Book)	is-a	Written Work	.
+Choline bitartrate	More general ingredient	Choline	.
+Choline bitartrate	is-a	Drug ingredient	.
+Choline bitartrate	is-a	Topic	.
+Choline chloride	Melting point	"302.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Choline chloride	Structure (SMILES)	"[Cl-].OCC[N+](C)(C)C"	.
+Choline chloride	is-a	Chemical Compound	.
+Choline chloride	is-a	Topic	.
+Choline deficiency	is-a	Disease or medical condition	.
+Choline hydroxide	is-a	Drug ingredient	.
+Choline hydroxide/Capsicum/Ginkgo/Arnica montana/Gelsemium sempervirens root/Potassium cation/Semecarpus anacardium juice/Barium cation/Phosphorus/Serotonin homeopathic preparation	Active moiety	Arnica montana	.
+Choline hydroxide/Capsicum/Ginkgo/Arnica montana/Gelsemium sempervirens root/Potassium cation/Semecarpus anacardium juice/Barium cation/Phosphorus/Serotonin homeopathic preparation	Active moiety	Barium	.
+Choline hydroxide/Capsicum/Ginkgo/Arnica montana/Gelsemium sempervirens root/Potassium cation/Semecarpus anacardium juice/Barium cation/Phosphorus/Serotonin homeopathic preparation	Active moiety	Capsicum	.
+Choline hydroxide/Capsicum/Ginkgo/Arnica montana/Gelsemium sempervirens root/Potassium cation/Semecarpus anacardium juice/Barium cation/Phosphorus/Serotonin homeopathic preparation	Active moiety	Choline hydroxide	.
+Choline hydroxide/Capsicum/Ginkgo/Arnica montana/Gelsemium sempervirens root/Potassium cation/Semecarpus anacardium juice/Barium cation/Phosphorus/Serotonin homeopathic preparation	Active moiety	Gelsemium sempervirens root	.
+Choline hydroxide/Capsicum/Ginkgo/Arnica montana/Gelsemium sempervirens root/Potassium cation/Semecarpus anacardium juice/Barium cation/Phosphorus/Serotonin homeopathic preparation	Active moiety	Maidenhair Tree	.
+Choline hydroxide/Capsicum/Ginkgo/Arnica montana/Gelsemium sempervirens root/Potassium cation/Semecarpus anacardium juice/Barium cation/Phosphorus/Serotonin homeopathic preparation	Active moiety	Phosphorus	.
+Choline hydroxide/Capsicum/Ginkgo/Arnica montana/Gelsemium sempervirens root/Potassium cation/Semecarpus anacardium juice/Barium cation/Phosphorus/Serotonin homeopathic preparation	Active moiety	Potassium	.
+Choline hydroxide/Capsicum/Ginkgo/Arnica montana/Gelsemium sempervirens root/Potassium cation/Semecarpus anacardium juice/Barium cation/Phosphorus/Serotonin homeopathic preparation	Active moiety	Semecarpus anacardium juice	.
+Choline hydroxide/Capsicum/Ginkgo/Arnica montana/Gelsemium sempervirens root/Potassium cation/Semecarpus anacardium juice/Barium cation/Phosphorus/Serotonin homeopathic preparation	Active moiety	Serotonin	.
+Choline hydroxide/Capsicum/Ginkgo/Arnica montana/Gelsemium sempervirens root/Potassium cation/Semecarpus anacardium juice/Barium cation/Phosphorus/Serotonin homeopathic preparation	Legal status	Not evaluated by FDA	.
+Choline hydroxide/Capsicum/Ginkgo/Arnica montana/Gelsemium sempervirens root/Potassium cation/Semecarpus anacardium juice/Barium cation/Phosphorus/Serotonin homeopathic preparation	Legal status	Over-the-counter drug	.
+Choline hydroxide/Capsicum/Ginkgo/Arnica montana/Gelsemium sempervirens root/Potassium cation/Semecarpus anacardium juice/Barium cation/Phosphorus/Serotonin homeopathic preparation	is-a	Drug	.
+Choline hydroxide/Capsicum/Ginkgo/Arnica montana/Gelsemium sempervirens root/Potassium cation/Semecarpus anacardium juice/Barium cation/Phosphorus/Serotonin homeopathic preparation	is-a	Topic	.
+Choline salicylate	More general ingredient	Salicylic acid	.
+Choline salicylate	is-a	Drug ingredient	.
+Choline salicylate	is-a	Topic	.
+Choline salicylate and magnesium salicylate 58.6/72.4 liquid	Active ingredient	Choline salicylate	.
+Choline salicylate and magnesium salicylate 58.6/72.4 liquid	Active ingredient	Magnesium salicylate	.
+Choline salicylate and magnesium salicylate 58.6/72.4 liquid	Active ingredient moiety	Octinoxate	.
+Choline salicylate and magnesium salicylate 58.6/72.4 liquid	Brand name	"Choline Magnesium Trisalicylate"@en	.
+Choline salicylate and magnesium salicylate 58.6/72.4 liquid	Dosage form	Liquid	.
+Choline salicylate and magnesium salicylate 58.6/72.4 liquid	Drug category	Drug (Quotation Subject)	.
+Choline salicylate and magnesium salicylate 58.6/72.4 liquid	Formulation of	Octinoxate	.
+Choline salicylate and magnesium salicylate 58.6/72.4 liquid	Formulation of	Salicylic acid	.
+Choline salicylate and magnesium salicylate 58.6/72.4 liquid	Legal status	Not evaluated by FDA	.
+Choline salicylate and magnesium salicylate 58.6/72.4 liquid	Legal status	Prescription drug	.
+Choline salicylate and magnesium salicylate 58.6/72.4 liquid	Route of administration	Oral (Drug administration route)	.
+Choline salicylate and magnesium salicylate 58.6/72.4 liquid	Routed drug	Octinoxate Oral	.
+Choline salicylate and magnesium salicylate 58.6/72.4 liquid	Routed drug	Salicylic Acid Oral	.
+Choline salicylate and magnesium salicylate 58.6/72.4 liquid	is-a	Drug formulation	.
+Choline salicylate and magnesium salicylate 58.6/72.4 liquid	is-a	Topic	.
+Choline theophyllinate	Used To Treat	Acute bronchitis	.
+Choline theophyllinate	Used To Treat	Apnea	.
+Choline theophyllinate	Used To Treat	Asthma	.
+Choline theophyllinate	Used To Treat	Bradycardia	.
+Choline theophyllinate	Used To Treat	Bronchospasm	.
+Choline theophyllinate	Used To Treat	Emphysema	.
+Choline theophyllinate	is-a	Drug	.
+Choline theophyllinate	is-a	Medical Treatment	.
+Choline theophyllinate	is-a	Topic	.
+Cholinephosphoric acid	Average Molar Mass	"184.15067"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Cholinephosphoric acid	Formula	"C5H15NO4P"	.
+Cholinephosphoric acid	PubChem ID	"1014"	.
+Cholinephosphoric acid	Structure (SMILES)	"C[N+](C)(C)CCOP(=O)(O)O"	.
+Cholinephosphoric acid	is-a	Chemical Compound	.
+Cholinephosphoric acid	is-a	Topic	.
+Cholinergic Agonist	is-a	Drug class	.
+Cholinergic Agonist	is-a	Drug mechanism of action	.
+Cholinergic Agonist	is-a	Topic	.
+Cholinergic Antagonist	is-a	Drug mechanism of action	.
+Cholinergic Antagonist	is-a	Topic	.
+Cholinergic Muscarinic Agonist (Drug class)	is-a	Drug class	.
+Cholinergic Muscarinic Agonist (Drug class)	is-a	Topic	.
+Cholinergic Muscarinic Agonist (Drug mechanism of action)	is-a	Drug mechanism of action	.
+Cholinergic Muscarinic Agonist (Drug mechanism of action)	is-a	Topic	.
+Cholinergic Muscarinic Antagonist	is-a	Drug mechanism of action	.
+Cholinergic Muscarinic Antagonist	is-a	Topic	.
+Cholinergic interneurons control local circuit activity and cocaine conditioning	Author	Karl Deisseroth	.
+Cholinergic interneurons control local circuit activity and cocaine conditioning	Date of first publication	"2010"^^<http://www.w3.org/2001/XMLSchema#gYear>	.
+Cholinergic interneurons control local circuit activity and cocaine conditioning	is-a	Topic	.
+Cholinergic interneurons control local circuit activity and cocaine conditioning	is-a	Written Work	.
+Cholinergic modulation of hippocampal pyramidal neurons (Book Edition)	Edition Of	Cholinergic modulation of hippocampal pyramidal neurons (Book)	.
+Cholinergic modulation of hippocampal pyramidal neurons (Book Edition)	Publication date	"1981"^^<http://www.w3.org/2001/XMLSchema#gYear>	.
+Cholinergic modulation of hippocampal pyramidal neurons (Book Edition)	Stanford OPAC	"5576814"	.
+Cholinergic modulation of hippocampal pyramidal neurons (Book Edition)	is-a	Book Edition	.
+Cholinergic modulation of hippocampal pyramidal neurons (Book Edition)	is-a	Cataloged instance	.
+Cholinergic modulation of hippocampal pyramidal neurons (Book Edition)	is-a	Topic	.
+Cholinergic modulation of hippocampal pyramidal neurons (Book)	Author	Larry Steven Benardo	.
+Cholinergic modulation of hippocampal pyramidal neurons (Book)	is-a	Book	.
+Cholinergic modulation of hippocampal pyramidal neurons (Book)	is-a	Topic	.
+Cholinergic modulation of hippocampal pyramidal neurons (Book)	is-a	Written Work	.
+Cholinergic urticaria	Code	"708$002E5"	.
+Cholinergic urticaria	Parent Classification	Hives	.
+Cholinergic urticaria	Parent Disease	Hives	.
+Cholinergic urticaria	is-a	Disease or medical condition	.
+Cholinergic urticaria	is-a	ICD-9-CM Classification	.
+Cholinergic urticaria	is-a	Topic	.
+Cholinesterase (Book Edition)	Cornell OPAC	"1321660"	.
+Cholinesterase (Book Edition)	Edition Of	Cholinesterase (Book)	.
+Cholinesterase (Book Edition)	ISBN	9783805542579	.
+Cholinesterase (Book Edition)	ISBN-13	"9783805542579"	.
+Cholinesterase (Book Edition)	Penn State OPAC	"312308"	.
+Cholinesterase (Book Edition)	Place of publication	New York City	.
+Cholinesterase (Book Edition)	Publication date	"1986"^^<http://www.w3.org/2001/XMLSchema#gYear>	.
+Cholinesterase (Book Edition)	Stanford OPAC	"1187356"	.
+Cholinesterase (Book Edition)	University of Chicago OPAC	"759420"	.
+Cholinesterase (Book Edition)	University of Michigan OPAC	"481055"	.
+Cholinesterase (Book Edition)	Wisconsin-Madison OPAC	"1104692"	.
+Cholinesterase (Book Edition)	is-a	Book Edition	.
+Cholinesterase (Book Edition)	is-a	Cataloged instance	.
+Cholinesterase (Book Edition)	is-a	Topic	.
+Cholinesterase (Book)	Author	Mary Whittaker	.
+Cholinesterase (Book)	is-a	Book	.
+Cholinesterase (Book)	is-a	Topic	.
+Cholinesterase (Book)	is-a	Written Work	.
+Cholinesterase Inhibitors	Author	Ezio Giacobini	.
+Cholinesterase Inhibitors	is-a	Book	.
+Cholinesterase Inhibitors	is-a	Topic	.
+Cholinesterase Inhibitors	is-a	Written Work	.
+Cholinesterase Inhibitors in Alzheimer's Disease	Author	Gordon Mallarkey	.
+Cholinesterase Inhibitors in Alzheimer's Disease	is-a	Book	.
+Cholinesterase Inhibitors in Alzheimer's Disease	is-a	Topic	.
+Cholinesterase Inhibitors in Alzheimer's Disease	is-a	Written Work	.
+Cholinesterase Reactivator (Drug class)	is-a	Drug class	.
+Cholinesterase Reactivator (Drug class)	is-a	Topic	.
+Cholinesterase Reactivator (Drug mechanism of action)	is-a	Drug mechanism of action	.
+Cholinesterase Reactivator (Drug mechanism of action)	is-a	Topic	.
+Cholinesterase inhibitor	Used To Treat	Dementia	.
+Cholinesterase inhibitor	is-a	Drug mechanism of action	.
+Cholinesterase inhibitor	is-a	Medical Treatment	.
+Cholinesterase inhibitor	is-a	Topic	.
+choline O-acetyltransferase activity	Broader Group	O-acetyltransferase activity	.
+choline O-acetyltransferase activity	Data Source	m/02l1vmn	.
+choline O-acetyltransferase activity	Description	"Catalysis of the reaction: acetyl-CoA + choline = CoA + O-acetylcholine."@en	.
+choline O-acetyltransferase activity	Gene	choline acetyltransferase	.
+choline O-acetyltransferase activity	Group Type	Molecular function	.
+choline O-acetyltransferase activity	Identifier	"GO:0004102"	.
+choline O-acetyltransferase activity	is-a	Gene Group	.
+choline O-acetyltransferase activity	is-a	Gene Ontology Group	.
+choline O-acetyltransferase activity	is-a	Topic	.
+choline acetyltransferase	Alternate Symbol	"CMS1A"	.
+choline acetyltransferase	Alternate Symbol	"CMS1A2"	.
+choline acetyltransferase	Chromosome	Chromosome 10 (human)	.
+choline acetyltransferase	Genome	Human genome	.
+choline acetyltransferase	Locus	10 + [50487146,50543155]	.
+choline acetyltransferase	NCBI ID	"1103"	.
+choline acetyltransferase	Symbol	"CHAT"	.
+choline acetyltransferase	is-a	Gene	.
+choline acetyltransferase	is-a	Topic	.
+choline biosynthetic process	Broader Group	biogenic amine biosynthetic process	.
+choline biosynthetic process	Broader Group	choline metabolic process	.
+choline biosynthetic process	Data Source	m/02l1vmn	.
+choline biosynthetic process	Description	"The chemical reactions and pathways resulting in the formation of choline (2-hydroxyethyltrimethylammonium), an amino alcohol that occurs widely in living organisms as a constituent of certain types of phospholipids and in the neurotransmitter acetylcholine."@en	.
+choline biosynthetic process	Group Type	Biological process	.
+choline biosynthetic process	Identifier	"GO:0042425"	.
+choline biosynthetic process	Synonym Term	"choline anabolism"@en	.
+choline biosynthetic process	Synonym Term	"choline biosynthesis"@en	.
+choline biosynthetic process	Synonym Term	"choline formation"@en	.
+choline biosynthetic process	Synonym Term	"choline synthesis"@en	.
+choline biosynthetic process	is-a	Gene Group	.
+choline biosynthetic process	is-a	Gene Ontology Group	.
+choline biosynthetic process	is-a	Topic	.
+choline catabolic process	Broader Group	biogenic amine catabolic process	.
+choline catabolic process	Broader Group	choline metabolic process	.
+choline catabolic process	Data Source	m/02l1vmn	.
+choline catabolic process	Description	"The chemical reactions and pathways resulting in the breakdown of choline (2-hydroxyethyltrimethylammonium), an amino alcohol that occurs widely in living organisms as a constituent of certain types of phospholipids and in the neurotransmitter acetylcholine."@en	.
+choline catabolic process	Group Type	Biological process	.
+choline catabolic process	Identifier	"GO:0042426"	.
+choline catabolic process	Synonym Term	"choline breakdown"@en	.
+choline catabolic process	Synonym Term	"choline catabolism"@en	.
+choline catabolic process	Synonym Term	"choline degradation"@en	.
+choline catabolic process	is-a	Gene Group	.
+choline catabolic process	is-a	Gene Ontology Group	.
+choline catabolic process	is-a	Topic	.
+choline dehydrogenase	Chromosome	Chromosome 3 (human)	.
+choline dehydrogenase	Genome	Human genome	.
+choline dehydrogenase	Locus	3 - [53826678,53855215]	.
+choline dehydrogenase	NCBI ID	"55349"	.
+choline dehydrogenase	Symbol	"CHDH"	.
+choline dehydrogenase	is-a	Gene	.
+choline dehydrogenase	is-a	Topic	.
+choline dehydrogenase activity	Broader Group	oxidoreductase activity, acting on CH-OH group of donors	.
+choline dehydrogenase activity	Data Source	m/02l1vmn	.
+choline dehydrogenase activity	Description	"Catalysis of the reaction: choline + acceptor = betaine aldehyde + reduced acceptor."@en	.
+choline dehydrogenase activity	Gene	betA (Gene) #3	.
+choline dehydrogenase activity	Gene	choline dehydrogenase	.
+choline dehydrogenase activity	Group Type	Molecular function	.
+choline dehydrogenase activity	Identifier	"GO:0008812"	.
+choline dehydrogenase activity	is-a	Gene Group	.
+choline dehydrogenase activity	is-a	Gene Ontology Group	.
+choline dehydrogenase activity	is-a	Topic	.
+choline kinase activity	Broader Group	kinase activity	.
+choline kinase activity	Broader Group	phosphotransferase activity, alcohol group as acceptor	.
+choline kinase activity	Data Source	m/02l1vmn	.
+choline kinase activity	Description	"Catalysis of the reaction: ATP + choline = ADP + O-phosphocholine."@en	.
+choline kinase activity	Gene	choline kinase alpha	.
+choline kinase activity	Gene	choline kinase beta	.
+choline kinase activity	Gene	ethanolamine kinase 2	.
+choline kinase activity	Group Type	Molecular function	.
+choline kinase activity	Identifier	"GO:0004103"	.
+choline kinase activity	is-a	Gene Group	.
+choline kinase activity	is-a	Gene Ontology Group	.
+choline kinase activity	is-a	Topic	.
+choline kinase alpha	Alternate Symbol	"CHK"	.
+choline kinase alpha	Alternate Symbol	"CKI"	.
+choline kinase alpha	Chromosome	Chromosome 11 (human)	.
+choline kinase alpha	Genome	Human genome	.
+choline kinase alpha	Locus	11 - [67576901,67645433]	.
+choline kinase alpha	NCBI ID	"1119"	.
+choline kinase alpha	Symbol	"CHKA"	.
+choline kinase alpha	is-a	Gene	.
+choline kinase alpha	is-a	Topic	.
+choline kinase beta	Alternate Symbol	"CHETK"	.
+choline kinase beta	Alternate Symbol	"CHKL"	.
+choline kinase beta	Chromosome	Chromosome 22 (human)	.
+choline kinase beta	Genome	Human genome	.
+choline kinase beta	Locus	22 - [49364252,49368259]	.
+choline kinase beta	NCBI ID	"1120"	.
+choline kinase beta	Symbol	"CHKB"	.
+choline kinase beta	is-a	Gene	.
+choline kinase beta	is-a	Topic	.
+choline kinase-like, carnitine palmitoyltransferase 1B (muscle) transcription unit	Alternate Symbol	"CHKL-CPT1B"	.
+choline kinase-like, carnitine palmitoyltransferase 1B (muscle) transcription unit	Genome	Human genome	.
+choline kinase-like, carnitine palmitoyltransferase 1B (muscle) transcription unit	NCBI ID	"386593"	.
+choline kinase-like, carnitine palmitoyltransferase 1B (muscle) transcription unit	Symbol	"CHKB-CPT1B"	.
+choline kinase-like, carnitine palmitoyltransferase 1B (muscle) transcription unit	is-a	Gene	.
+choline kinase-like, carnitine palmitoyltransferase 1B (muscle) transcription unit	is-a	Topic	.
+choline metabolic process	Broader Group	ethanolamine and derivative metabolic process	.
+choline metabolic process	Data Source	m/02l1vmn	.
+choline metabolic process	Description	"The chemical reactions and pathways involving choline (2-hydroxyethyltrimethylammonium), an amino alcohol that occurs widely in living organisms as a constituent of certain types of phospholipids and in the neurotransmitter acetylcholine."@en	.
+choline metabolic process	Gene	gbt	.
+choline metabolic process	Group Type	Biological process	.
+choline metabolic process	Identifier	"GO:0019695"	.
+choline metabolic process	Synonym Term	"choline metabolism"@en	.
+choline metabolic process	is-a	Gene Group	.
+choline metabolic process	is-a	Gene Ontology Group	.
+choline metabolic process	is-a	Topic	.
+choline monooxygenase activity	Broader Group	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced iron-sulfur protein as one donor, and incorporation of one atom of oxygen	.
+choline monooxygenase activity	Data Source	m/02l1vmn	.
+choline monooxygenase activity	Description	"Catalysis of the reaction: choline + 2 reduced ferredoxin + O2 + 2 H+ = betaine aldehyde hydrate + 2 oxidized ferredoxin + H2O."@en	.
+choline monooxygenase activity	Group Type	Molecular function	.
+choline monooxygenase activity	Identifier	"GO:0019133"	.
+choline monooxygenase activity	is-a	Gene Group	.
+choline monooxygenase activity	is-a	Gene Ontology Group	.
+choline monooxygenase activity	is-a	Topic	.
+choline permease activity	Broader Group	choline transporter activity	.
+choline permease activity	Data Source	m/02l1vmn	.
+choline permease activity	Group Type	Molecular function	.
+choline permease activity	Identifier	"GO:0005306"	.
+choline permease activity	is-a	Gene Group	.
+choline permease activity	is-a	Gene Ontology Group	.
+choline permease activity	is-a	Topic	.
+choline phosphotransferase 1	Alternate Symbol	"CPT"	.
+choline phosphotransferase 1	Alternate Symbol	"CPT1"	.
+choline phosphotransferase 1	Chromosome	Chromosome 12 (human)	.
+choline phosphotransferase 1	Genome	Human genome	.
+choline phosphotransferase 1	Locus	12 + [100615547,100646976]	.
+choline phosphotransferase 1	NCBI ID	"56994"	.
+choline phosphotransferase 1	Symbol	"CHPT1"	.
+choline phosphotransferase 1	is-a	Gene	.
+choline phosphotransferase 1	is-a	Topic	.
+choline sulfotransferase activity	Broader Group	sulfotransferase activity	.
+choline sulfotransferase activity	Data Source	m/02l1vmn	.
+choline sulfotransferase activity	Description	"Catalysis of the reaction: 3'-phosphoadenosine 5'-phosphosulfate + choline = adenosine 3',5'-bisphosphate + choline sulfate."@en	.
+choline sulfotransferase activity	Group Type	Molecular function	.
+choline sulfotransferase activity	Identifier	"GO:0047754"	.
+choline sulfotransferase activity	Synonym Term	"choline sulphotransferase activity"@en	.
+choline sulfotransferase activity	is-a	Gene Group	.
+choline sulfotransferase activity	is-a	Gene Ontology Group	.
+choline sulfotransferase activity	is-a	Topic	.
+choline transport	Broader Group	amine transport	.
+choline transport	Data Source	m/02l1vmn	.
+choline transport	Description	"The directed movement of choline into, out of, within or between cells. Choline (2-hydroxyethyltrimethylammonium) is an amino alcohol that occurs widely in living organisms as a constituent of certain types of phospholipids and in the neurotransmitter acetylcholine."@en	.
+choline transport	Gene	solute carrier family 44, member 1	.
+choline transport	Gene	solute carrier family 44, member 2	.
+choline transport	Gene	solute carrier family 5 (choline transporter), member 7	.
+choline transport	Group Type	Biological process	.
+choline transport	Identifier	"GO:0015871"	.
+choline transport	is-a	Gene Group	.
+choline transport	is-a	Gene Ontology Group	.
+choline transport	is-a	Topic	.
+choline transporter activity	Broader Group	amine transporter activity	.
+choline transporter activity	Data Source	m/02l1vmn	.
+choline transporter activity	Description	"Enables the directed movement of choline into, out of, within or between cells. Choline (2-hydroxyethyltrimethylammonium) is an amino alcohol that occurs widely in living organisms as a constituent of certain types of phospholipids and in the neurotransmitter acetylcholine."@en	.
+choline transporter activity	Gene	solute carrier family 44, member 1	.
+choline transporter activity	Gene	solute carrier family 44, member 2	.
+choline transporter activity	Group Type	Molecular function	.
+choline transporter activity	Identifier	"GO:0015220"	.
+choline transporter activity	Narrower Term	"amino acid/choline transporter activity"@en	.
+choline transporter activity	is-a	Gene Group	.
+choline transporter activity	is-a	Gene Ontology Group	.
+choline transporter activity	is-a	Topic	.
+choline-phosphate cytidylyltransferase activity	Broader Group	nucleotidyltransferase activity	.
+choline-phosphate cytidylyltransferase activity	Data Source	m/02l1vmn	.
+choline-phosphate cytidylyltransferase activity	Description	"Catalysis of the reaction: CTP + choline phosphate = diphosphate + CDP-choline."@en	.
+choline-phosphate cytidylyltransferase activity	Gene	phosphate cytidylyltransferase 1, choline, alpha	.
+choline-phosphate cytidylyltransferase activity	Gene	phosphate cytidylyltransferase 1, choline, beta	.
+choline-phosphate cytidylyltransferase activity	Group Type	Molecular function	.
+choline-phosphate cytidylyltransferase activity	Identifier	"GO:0004105"	.
+choline-phosphate cytidylyltransferase activity	Synonym Term	"CTP:choline-phosphate cytidylyltransferase activity"@en	.
+choline-phosphate cytidylyltransferase activity	is-a	Gene Group	.
+choline-phosphate cytidylyltransferase activity	is-a	Gene Ontology Group	.
+choline-phosphate cytidylyltransferase activity	is-a	Topic	.
+choline-sulfatase activity	Broader Group	sulfuric ester hydrolase activity	.
+choline-sulfatase activity	Data Source	m/02l1vmn	.
+choline-sulfatase activity	Description	"Catalysis of the reaction: choline sulfate + H2O = choline + sulfate."@en	.
+choline-sulfatase activity	Group Type	Molecular function	.
+choline-sulfatase activity	Identifier	"GO:0047753"	.
+choline-sulfatase activity	Synonym Term	"choline-sulphatase activity"@en	.
+choline-sulfatase activity	is-a	Gene Group	.
+choline-sulfatase activity	is-a	Gene Ontology Group	.
+choline-sulfatase activity	is-a	Topic	.
+choline/ethanolamine phosphotransferase 1	Alternate Symbol	"DKFZp313G0615"	.
+choline/ethanolamine phosphotransferase 1	Alternate Symbol	"MGC45223"	.
+choline/ethanolamine phosphotransferase 1	Chromosome	Chromosome 1 (human)	.
+choline/ethanolamine phosphotransferase 1	Genome	Human genome	.
+choline/ethanolamine phosphotransferase 1	Locus	1 + [111483771,111529246]	.
+choline/ethanolamine phosphotransferase 1	NCBI ID	"10390"	.
+choline/ethanolamine phosphotransferase 1	Symbol	"CEPT1"	.
+choline/ethanolamine phosphotransferase 1	is-a	Gene	.
+choline/ethanolamine phosphotransferase 1	is-a	Topic	.
+choline:sodium symporter activity	Broader Group	choline transporter activity	.
+choline:sodium symporter activity	Broader Group	solute:sodium symporter activity	.
+choline:sodium symporter activity	Data Source	m/02l1vmn	.
+choline:sodium symporter activity	Description	"Catalysis of the reaction: choline(out) + Na+(out) = choline(in) + Na+(in)."@en	.
+choline:sodium symporter activity	Gene	solute carrier family 5 (choline transporter), member 7	.
+choline:sodium symporter activity	Group Type	Molecular function	.
+choline:sodium symporter activity	Identifier	"GO:0005307"	.
+choline:sodium symporter activity	Synonym Term	"sodium/choline symporter"@en	.
+choline:sodium symporter activity	is-a	Gene Group	.
+choline:sodium symporter activity	is-a	Gene Ontology Group	.
+choline:sodium symporter activity	is-a	Topic	.
+cholinergic receptor, muscarinic 1	Alternate Symbol	"HM1"	.
+cholinergic receptor, muscarinic 1	Alternate Symbol	"M1"	.
+cholinergic receptor, muscarinic 1	Alternate Symbol	"MGC30125"	.
+cholinergic receptor, muscarinic 1	Chromosome	Chromosome 11 (human)	.
+cholinergic receptor, muscarinic 1	Genome	Human genome	.
+cholinergic receptor, muscarinic 1	Locus	11 - [62432726,62445587]	.
+cholinergic receptor, muscarinic 1	NCBI ID	"1128"	.
+cholinergic receptor, muscarinic 1	Symbol	"CHRM1"	.
+cholinergic receptor, muscarinic 1	is-a	Gene	.
+cholinergic receptor, muscarinic 1	is-a	Topic	.
+cholinergic receptor, muscarinic 2	Alternate Symbol	"FLJ43243"	.
+cholinergic receptor, muscarinic 2	Alternate Symbol	"HM2"	.
+cholinergic receptor, muscarinic 2	Alternate Symbol	"MGC120006"	.
+cholinergic receptor, muscarinic 2	Alternate Symbol	"MGC120007"	.
+cholinergic receptor, muscarinic 2	Chromosome	Chromosome 7 (human)	.
+cholinergic receptor, muscarinic 2	Genome	Human genome	.
+cholinergic receptor, muscarinic 2	Locus	7 + [136203938,136352310]	.
+cholinergic receptor, muscarinic 2	NCBI ID	"1129"	.
+cholinergic receptor, muscarinic 2	Symbol	"CHRM2"	.
+cholinergic receptor, muscarinic 2	is-a	Gene	.
+cholinergic receptor, muscarinic 2	is-a	Topic	.
+cholinergic receptor, muscarinic 3	Alternate Symbol	"HM3"	.
+cholinergic receptor, muscarinic 3	Chromosome	Chromosome 1 (human)	.
+cholinergic receptor, muscarinic 3	Genome	Human genome	.
+cholinergic receptor, muscarinic 3	Locus	1 + [237858995,238139342]	.
+cholinergic receptor, muscarinic 3	NCBI ID	"1131"	.
+cholinergic receptor, muscarinic 3	Symbol	"CHRM3"	.
+cholinergic receptor, muscarinic 3	is-a	Gene	.
+cholinergic receptor, muscarinic 3	is-a	Topic	.
+cholinergic receptor, muscarinic 4	Alternate Symbol	"HM4"	.
+cholinergic receptor, muscarinic 4	Chromosome	Chromosome 11 (human)	.
+cholinergic receptor, muscarinic 4	Genome	Human genome	.
+cholinergic receptor, muscarinic 4	Locus	11 - [46363215,46364682]	.
+cholinergic receptor, muscarinic 4	NCBI ID	"1132"	.
+cholinergic receptor, muscarinic 4	Symbol	"CHRM4"	.
+cholinergic receptor, muscarinic 4	is-a	Gene	.
+cholinergic receptor, muscarinic 4	is-a	Topic	.
+cholinergic receptor, muscarinic 5	Alternate Symbol	"HM5"	.
+cholinergic receptor, muscarinic 5	Alternate Symbol	"MGC41838"	.
+cholinergic receptor, muscarinic 5	Chromosome	Chromosome 15 (human)	.
+cholinergic receptor, muscarinic 5	Genome	Human genome	.
+cholinergic receptor, muscarinic 5	Locus	15 + [32097719,32144578]	.
+cholinergic receptor, muscarinic 5	NCBI ID	"1133"	.
+cholinergic receptor, muscarinic 5	Symbol	"CHRM5"	.
+cholinergic receptor, muscarinic 5	is-a	Gene	.
+cholinergic receptor, muscarinic 5	is-a	Topic	.
+cholinergic receptor, nicotinic, alpha 1 (muscle)	Alternate Symbol	"ACHRA"	.
+cholinergic receptor, nicotinic, alpha 1 (muscle)	Alternate Symbol	"ACHRD"	.
+cholinergic receptor, nicotinic, alpha 1 (muscle)	Alternate Symbol	"CHRNA"	.
+cholinergic receptor, nicotinic, alpha 1 (muscle)	Alternate Symbol	"CMS2A"	.
+cholinergic receptor, nicotinic, alpha 1 (muscle)	Alternate Symbol	"FCCMS"	.
+cholinergic receptor, nicotinic, alpha 1 (muscle)	Alternate Symbol	"SCCMS"	.
+cholinergic receptor, nicotinic, alpha 1 (muscle)	Chromosome	Chromosome 2 (human)	.
+cholinergic receptor, nicotinic, alpha 1 (muscle)	Genome	Human genome	.
+cholinergic receptor, nicotinic, alpha 1 (muscle)	Locus	2 - [175320565,175337426]	.
+cholinergic receptor, nicotinic, alpha 1 (muscle)	NCBI ID	"1134"	.
+cholinergic receptor, nicotinic, alpha 1 (muscle)	Symbol	"CHRNA1"	.
+cholinergic receptor, nicotinic, alpha 1 (muscle)	is-a	Gene	.
+cholinergic receptor, nicotinic, alpha 1 (muscle)	is-a	Topic	.
+cholinergic receptor, nicotinic, alpha 10	Chromosome	Chromosome 11 (human)	.
+cholinergic receptor, nicotinic, alpha 10	Genome	Human genome	.
+cholinergic receptor, nicotinic, alpha 10	Locus	11 - [3643392,3649189]	.
+cholinergic receptor, nicotinic, alpha 10	NCBI ID	"57053"	.
+cholinergic receptor, nicotinic, alpha 10	Symbol	"CHRNA10"	.
+cholinergic receptor, nicotinic, alpha 10	is-a	Gene	.
+cholinergic receptor, nicotinic, alpha 10	is-a	Topic	.
+cholinergic receptor, nicotinic, alpha 2 (neuronal)	Chromosome	Chromosome 8 (human)	.
+cholinergic receptor, nicotinic, alpha 2 (neuronal)	Genome	Human genome	.
+cholinergic receptor, nicotinic, alpha 2 (neuronal)	Locus	8 - [27374181,27392674]	.
+cholinergic receptor, nicotinic, alpha 2 (neuronal)	NCBI ID	"1135"	.
+cholinergic receptor, nicotinic, alpha 2 (neuronal)	Symbol	"CHRNA2"	.
+cholinergic receptor, nicotinic, alpha 2 (neuronal)	is-a	Gene	.
+cholinergic receptor, nicotinic, alpha 2 (neuronal)	is-a	Topic	.
+cholinergic receptor, nicotinic, alpha 3	Alternate Symbol	"MGC104879"	.
+cholinergic receptor, nicotinic, alpha 3	Chromosome	Chromosome 15 (human)	.
+cholinergic receptor, nicotinic, alpha 3	Genome	Human genome	.
+cholinergic receptor, nicotinic, alpha 3	Locus	15 - [76674705,76700376]	.
+cholinergic receptor, nicotinic, alpha 3	NCBI ID	"1136"	.
+cholinergic receptor, nicotinic, alpha 3	Symbol	"CHRNA3"	.
+cholinergic receptor, nicotinic, alpha 3	is-a	Gene	.
+cholinergic receptor, nicotinic, alpha 3	is-a	Topic	.
+cholinergic receptor, nicotinic, alpha 4	Alternate Symbol	"BFNC"	.
+cholinergic receptor, nicotinic, alpha 4	Alternate Symbol	"EBN"	.
+cholinergic receptor, nicotinic, alpha 4	Alternate Symbol	"EBN1"	.
+cholinergic receptor, nicotinic, alpha 4	Alternate Symbol	"NACRA4"	.
+cholinergic receptor, nicotinic, alpha 4	Chromosome	Chromosome 20 (human)	.
+cholinergic receptor, nicotinic, alpha 4	Genome	Human genome	.
+cholinergic receptor, nicotinic, alpha 4	Locus	20 - [61445108,61463191]	.
+cholinergic receptor, nicotinic, alpha 4	NCBI ID	"1137"	.
+cholinergic receptor, nicotinic, alpha 4	Symbol	"CHRNA4"	.
+cholinergic receptor, nicotinic, alpha 4	is-a	Gene	.
+cholinergic receptor, nicotinic, alpha 4	is-a	Topic	.
+cholinergic receptor, nicotinic, alpha 5	Chromosome	Chromosome 15 (human)	.
+cholinergic receptor, nicotinic, alpha 5	Genome	Human genome	.
+cholinergic receptor, nicotinic, alpha 5	Locus	15 + [76644960,76673514]	.
+cholinergic receptor, nicotinic, alpha 5	NCBI ID	"1138"	.
+cholinergic receptor, nicotinic, alpha 5	Symbol	"CHRNA5"	.
+cholinergic receptor, nicotinic, alpha 5	is-a	Gene	.
+cholinergic receptor, nicotinic, alpha 5	is-a	Topic	.
+cholinergic receptor, nicotinic, alpha 6	Alternate Symbol	"CHNRA6"	.
+cholinergic receptor, nicotinic, alpha 6	Chromosome	Chromosome 8 (human)	.
+cholinergic receptor, nicotinic, alpha 6	Genome	Human genome	.
+cholinergic receptor, nicotinic, alpha 6	Locus	8 - [42726919,42742775]	.
+cholinergic receptor, nicotinic, alpha 6	NCBI ID	"8973"	.
+cholinergic receptor, nicotinic, alpha 6	Symbol	"CHRNA6"	.
+cholinergic receptor, nicotinic, alpha 6	is-a	Gene	.
+cholinergic receptor, nicotinic, alpha 6	is-a	Topic	.
+cholinergic receptor, nicotinic, alpha 7	Alternate Symbol	"NACHRA7"	.
+cholinergic receptor, nicotinic, alpha 7	Chromosome	Chromosome 15 (human)	.
+cholinergic receptor, nicotinic, alpha 7	Genome	Human genome	.
+cholinergic receptor, nicotinic, alpha 7	Locus	15 + [30110017,30248540]	.
+cholinergic receptor, nicotinic, alpha 7	NCBI ID	"1139"	.
+cholinergic receptor, nicotinic, alpha 7	Symbol	"CHRNA7"	.
+cholinergic receptor, nicotinic, alpha 7	is-a	Gene	.
+cholinergic receptor, nicotinic, alpha 7	is-a	Topic	.
+cholinergic receptor, nicotinic, alpha 9	Alternate Symbol	"HSA243342"	.
+cholinergic receptor, nicotinic, alpha 9	Alternate Symbol	"MGC142109"	.
+cholinergic receptor, nicotinic, alpha 9	Alternate Symbol	"MGC142135"	.
+cholinergic receptor, nicotinic, alpha 9	Alternate Symbol	"NACHRA9"	.
+cholinergic receptor, nicotinic, alpha 9	Chromosome	Chromosome 4 (human)	.
+cholinergic receptor, nicotinic, alpha 9	Genome	Human genome	.
+cholinergic receptor, nicotinic, alpha 9	Locus	4 + [40032225,40051729]	.
+cholinergic receptor, nicotinic, alpha 9	NCBI ID	"55584"	.
+cholinergic receptor, nicotinic, alpha 9	Symbol	"CHRNA9"	.
+cholinergic receptor, nicotinic, alpha 9	is-a	Gene	.
+cholinergic receptor, nicotinic, alpha 9	is-a	Topic	.
+cholinergic receptor, nicotinic, beta 1 (muscle)	Alternate Symbol	"ACHRB"	.
+cholinergic receptor, nicotinic, beta 1 (muscle)	Alternate Symbol	"CHRNB"	.
+cholinergic receptor, nicotinic, beta 1 (muscle)	Alternate Symbol	"CMS1D"	.
+cholinergic receptor, nicotinic, beta 1 (muscle)	Alternate Symbol	"CMS2A"	.
+cholinergic receptor, nicotinic, beta 1 (muscle)	Alternate Symbol	"SCCMS"	.
+cholinergic receptor, nicotinic, beta 1 (muscle)	Chromosome	Chromosome 17 (human)	.
+cholinergic receptor, nicotinic, beta 1 (muscle)	Genome	Human genome	.
+cholinergic receptor, nicotinic, beta 1 (muscle)	Locus	17 + [7289129,7301655]	.
+cholinergic receptor, nicotinic, beta 1 (muscle)	NCBI ID	"1140"	.
+cholinergic receptor, nicotinic, beta 1 (muscle)	Symbol	"CHRNB1"	.
+cholinergic receptor, nicotinic, beta 1 (muscle)	is-a	Gene	.
+cholinergic receptor, nicotinic, beta 1 (muscle)	is-a	Topic	.
+cholinergic receptor, nicotinic, beta 2 (neuronal)	Alternate Symbol	"EFNL3"	.
+cholinergic receptor, nicotinic, beta 2 (neuronal)	Alternate Symbol	"nAChRB2"	.
+cholinergic receptor, nicotinic, beta 2 (neuronal)	Chromosome	Chromosome 1 (human)	.
+cholinergic receptor, nicotinic, beta 2 (neuronal)	Genome	Human genome	.
+cholinergic receptor, nicotinic, beta 2 (neuronal)	Locus	1 + [152806880,152815706]	.
+cholinergic receptor, nicotinic, beta 2 (neuronal)	NCBI ID	"1141"	.
+cholinergic receptor, nicotinic, beta 2 (neuronal)	Symbol	"CHRNB2"	.
+cholinergic receptor, nicotinic, beta 2 (neuronal)	is-a	Gene	.
+cholinergic receptor, nicotinic, beta 2 (neuronal)	is-a	Topic	.
+cholinergic receptor, nicotinic, beta 3	Chromosome	Chromosome 8 (human)	.
+cholinergic receptor, nicotinic, beta 3	Genome	Human genome	.
+cholinergic receptor, nicotinic, beta 3	Locus	8 + [42671718,42712547]	.
+cholinergic receptor, nicotinic, beta 3	NCBI ID	"1142"	.
+cholinergic receptor, nicotinic, beta 3	Symbol	"CHRNB3"	.
+cholinergic receptor, nicotinic, beta 3	is-a	Gene	.
+cholinergic receptor, nicotinic, beta 3	is-a	Topic	.
+cholinergic receptor, nicotinic, beta 4	Chromosome	Chromosome 15 (human)	.
+cholinergic receptor, nicotinic, beta 4	Genome	Human genome	.
+cholinergic receptor, nicotinic, beta 4	Locus	15 - [76703690,76720641]	.
+cholinergic receptor, nicotinic, beta 4	NCBI ID	"1143"	.
+cholinergic receptor, nicotinic, beta 4	Symbol	"CHRNB4"	.
+cholinergic receptor, nicotinic, beta 4	is-a	Gene	.
+cholinergic receptor, nicotinic, beta 4	is-a	Topic	.
+cholinergic receptor, nicotinic, delta	Alternate Symbol	"ACHRD"	.
+cholinergic receptor, nicotinic, delta	Alternate Symbol	"CMS2A"	.
+cholinergic receptor, nicotinic, delta	Alternate Symbol	"FCCMS"	.
+cholinergic receptor, nicotinic, delta	Alternate Symbol	"SCCMS"	.
+cholinergic receptor, nicotinic, delta	Chromosome	Chromosome 2 (human)	.
+cholinergic receptor, nicotinic, delta	Genome	Human genome	.
+cholinergic receptor, nicotinic, delta	Locus	2 + [233099165,233108448]	.
+cholinergic receptor, nicotinic, delta	NCBI ID	"1144"	.
+cholinergic receptor, nicotinic, delta	Symbol	"CHRND"	.
+cholinergic receptor, nicotinic, delta	is-a	Gene	.
+cholinergic receptor, nicotinic, delta	is-a	Topic	.
+cholinergic receptor, nicotinic, epsilon	Alternate Symbol	"ACHRE"	.
+cholinergic receptor, nicotinic, epsilon	Alternate Symbol	"CMS1D"	.
+cholinergic receptor, nicotinic, epsilon	Alternate Symbol	"CMS1E"	.
+cholinergic receptor, nicotinic, epsilon	Alternate Symbol	"CMS2A"	.
+cholinergic receptor, nicotinic, epsilon	Alternate Symbol	"FCCMS"	.
+cholinergic receptor, nicotinic, epsilon	Alternate Symbol	"SCCMS"	.
+cholinergic receptor, nicotinic, epsilon	Chromosome	Chromosome 17 (human)	.
+cholinergic receptor, nicotinic, epsilon	Genome	Human genome	.
+cholinergic receptor, nicotinic, epsilon	Locus	17 - [4741839,4747147]	.
+cholinergic receptor, nicotinic, epsilon	NCBI ID	"1145"	.
+cholinergic receptor, nicotinic, epsilon	Symbol	"CHRNE"	.
+cholinergic receptor, nicotinic, epsilon	is-a	Gene	.
+cholinergic receptor, nicotinic, epsilon	is-a	Topic	.
+cholinergic receptor, nicotinic, gamma	Alternate Symbol	"ACHRG"	.
+cholinergic receptor, nicotinic, gamma	Alternate Symbol	"MGC133376"	.
+cholinergic receptor, nicotinic, gamma	Chromosome	Chromosome 2 (human)	.
+cholinergic receptor, nicotinic, gamma	Genome	Human genome	.
+cholinergic receptor, nicotinic, gamma	Locus	2 + [233112680,233119281]	.
+cholinergic receptor, nicotinic, gamma	NCBI ID	"1146"	.
+cholinergic receptor, nicotinic, gamma	Symbol	"CHRNG"	.
+cholinergic receptor, nicotinic, gamma	is-a	Gene	.
+cholinergic receptor, nicotinic, gamma	is-a	Topic	.
+cholinesterase (serum) 2	Genome	Human genome	.
+cholinesterase (serum) 2	NCBI ID	"1110"	.
+cholinesterase (serum) 2	Symbol	"CHE2"	.
+cholinesterase (serum) 2	is-a	Gene	.
+cholinesterase (serum) 2	is-a	Topic	.
+cholinesterase activity	Broader Group	carboxylic ester hydrolase activity	.
+cholinesterase activity	Data Source	m/02l1vmn	.
+cholinesterase activity	Description	"Catalysis of the reaction: an acylcholine + H2O = choline + a carboxylic acid anion."@en	.
+cholinesterase activity	Gene	acetylcholinesterase (Yt blood group)	.
+cholinesterase activity	Gene	butyrylcholinesterase	.
+cholinesterase activity	Gene	choline kinase alpha	.
+cholinesterase activity	Group Type	Molecular function	.
+cholinesterase activity	Identifier	"GO:0004104"	.
+cholinesterase activity	is-a	Gene Group	.
+cholinesterase activity	is-a	Gene Ontology Group	.
+cholinesterase activity	is-a	Topic	.

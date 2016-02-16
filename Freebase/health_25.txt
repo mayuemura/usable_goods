@@ -1,0 +1,16 @@
+Isoflavones vs Isoflavone	Left guid	"9202a8c04000641f80000000006382c7"	.
+Isoflavones vs Isoflavone	Right guid	"9202a8c04000641f8000000009180301"	.
+Isoflavones vs Isoflavone	Status	closed (m/03p3rv7)	.
+Isoflavones vs Isoflavone	Vote	m/08njyn2	.
+Isoflavones vs Isoflavone	Vote	m/08nmdxm	.
+Isoflavones vs Isoflavone	Vote	m/08tj025	.
+Isoflavones vs Isoflavone	is-a	Merge Task	.
+Isoflavones vs Isoflavone	is-a	Task	.
+Isoflavones vs Isoflavone	Left guid	"9202a8c04000641f80000000006382c7"	.
+Isoflavones vs Isoflavone	Right guid	"9202a8c04000641f8000000009180301"	.
+Isoflavones vs Isoflavone	Status	closed (m/03p3rv7)	.
+Isoflavones vs Isoflavone	Vote	m/08njyn2	.
+Isoflavones vs Isoflavone	Vote	m/08nmdxm	.
+Isoflavones vs Isoflavone	Vote	m/08tj025	.
+Isoflavones vs Isoflavone	is-a	Merge Task	.
+Isoflavones vs Isoflavone	is-a	Task	.

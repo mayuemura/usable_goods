@@ -1,0 +1,58 @@
+Orlistat	ATC Code	"A08AB01"	.
+Orlistat	Active moiety	Orlistat	.
+Orlistat	Ca ID	"96829-58-2"	.
+Orlistat	Drugbank	"APRD00255"	.
+Orlistat	Legal status	Over-the-counter drug	.
+Orlistat	Legal status	Prescription drug	.
+Orlistat	Mechanism of action	Lipase Inhibitor	.
+Orlistat	Pharmacological class	Intestinal Lipase Inhibitor	.
+Orlistat	Pregnancy category	Pregnancy Category X (FDA)	.
+Orlistat	PubChem ID	"3034010"	.
+Orlistat	Used To Treat	Obesity	.
+Orlistat	is-a	Drug	.
+Orlistat	is-a	Drug ingredient	.
+Orlistat	is-a	Medical Treatment	.
+Orlistat	is-a	Topic	.
+Orlistat	ATC Code	"A08AB01"	.
+Orlistat	Active moiety	Orlistat	.
+Orlistat	Ca ID	"96829-58-2"	.
+Orlistat	Drugbank	"APRD00255"	.
+Orlistat	Legal status	Over-the-counter drug	.
+Orlistat	Legal status	Prescription drug	.
+Orlistat	Mechanism of action	Lipase Inhibitor	.
+Orlistat	Pharmacological class	Intestinal Lipase Inhibitor	.
+Orlistat	Pregnancy category	Pregnancy Category X (FDA)	.
+Orlistat	PubChem ID	"3034010"	.
+Orlistat	Used To Treat	Obesity	.
+Orlistat	is-a	Drug	.
+Orlistat	is-a	Drug ingredient	.
+Orlistat	is-a	Medical Treatment	.
+Orlistat	is-a	Topic	.
+Orlistat 120 capsule	Active ingredient	Orlistat	.
+Orlistat 120 capsule	Active ingredient moiety	Orlistat	.
+Orlistat 120 capsule	Brand name	"Xenical"@en	.
+Orlistat 120 capsule	Dosage form	Capsule	.
+Orlistat 120 capsule	Drug category	Drug (Quotation Subject)	.
+Orlistat 120 capsule	Formulation of	Orlistat	.
+Orlistat 120 capsule	Legal status	Prescription drug	.
+Orlistat 120 capsule	Route of administration	Oral (Drug administration route)	.
+Orlistat 120 capsule	Routed drug	Orlistat Oral	.
+Orlistat 120 capsule	is-a	Drug formulation	.
+Orlistat 120 capsule	is-a	Topic	.
+Orlistat 60 capsule	Active ingredient	Orlistat	.
+Orlistat 60 capsule	Active ingredient moiety	Orlistat	.
+Orlistat 60 capsule	Brand name	"Alli"@en	.
+Orlistat 60 capsule	Dosage form	Capsule	.
+Orlistat 60 capsule	Drug category	Drug (Quotation Subject)	.
+Orlistat 60 capsule	Formulation of	Orlistat	.
+Orlistat 60 capsule	Legal status	Over-the-counter drug	.
+Orlistat 60 capsule	Route of administration	Oral (Drug administration route)	.
+Orlistat 60 capsule	Routed drug	Orlistat Oral	.
+Orlistat 60 capsule	is-a	Drug formulation	.
+Orlistat 60 capsule	is-a	Topic	.
+Orlistat Oral	Route of administration	Oral (Drug administration route)	.
+Orlistat Oral	Routed drug of	Orlistat	.
+Orlistat Oral	is-a	Condition prevention factors	.
+Orlistat Oral	is-a	Medical Treatment	.
+Orlistat Oral	is-a	Routed drug	.
+Orlistat Oral	is-a	Topic	.

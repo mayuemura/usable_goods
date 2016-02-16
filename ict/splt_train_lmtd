@@ -1,5 +1,5 @@
 
-B-Trg	Diprobase	NNP
+O	Diprobase	NNP
 O	is	VBZ
 O	an	DT
 B-Eff	emollient	JJ
@@ -10,14 +10,14 @@ I-Eff	eczema	NN
 I-Eff	and	CC
 I-Eff	dermatitis	NN
 
-B-Trg	It	PRP
+O	It	PRP
 O	is	VBZ
 O	an	DT
 B-Eff	occlusive	JJ
 I-Eff	emollient	JJ
 O	meaning	VBG
 O	that	IN
-B-Trg	it	PRP
+O	it	PRP
 B-Eff	restores	VBZ
 I-Eff	the	DT
 I-Eff	layer	NN
@@ -36,7 +36,7 @@ I-Eff	loss	NN
 
 O	This	DT
 O	gives	VBZ
-B-Trg	its	PRP$
+O	its	PRP$
 O	tendency	NN
 O	to	TO
 B-Eff	make	VB
@@ -45,17 +45,17 @@ I-Eff	applied	JJ
 I-Eff	area	NN
 I-Eff	sticky	JJ
 
-B-Trg	Egg	NNP
-I-Trg	oil	NN
+O	Egg	NNP
+O	oil	NN
 O	also	RB
 O	known	VBN
 O	as	IN
-B-Trg	egg	NN
-I-Trg	yolk	NN
-I-Trg	oil	NN
+O	egg	NN
+O	yolk	NN
+O	oil	NN
 O	or	CC
-B-Trg	ovum	NN
-I-Trg	oil	NN
+O	ovum	NN
+O	oil	NN
 O	is	VBZ
 O	derived	VBN
 O	from	IN
@@ -82,7 +82,7 @@ O	zeaxanthin	NN
 O	and	CC
 O	immunoglobulins	NNS
 
-B-Trg	It	PRP
+O	It	PRP
 O	is	VBZ
 O	free	JJ
 O	of	IN
@@ -112,7 +112,7 @@ I-Eff	skin	NN
 I-Eff	care	NN
 
 O	The	DT
-B-Trg	product	NN
+O	product	NN
 O	has	VBZ
 O	several	JJ
 O	historical	JJ
@@ -129,8 +129,8 @@ B-MOU	Traditional	JJ
 I-MOU	Chinese	JJ
 I-MOU	medicine	NN
 O	uses	VBZ
-B-Trg	egg	NN
-I-Trg	oil	NN
+O	egg	NN
+O	oil	NN
 B-Eff	for	IN
 I-Eff	burns	NNS
 I-Eff	eczema	NN
@@ -150,8 +150,8 @@ I-Eff	frostbite	NN
 I-Eff	and	CC
 I-Eff	hemorrhoids	NNS
 
-B-Trg	Eye	NNP
-I-Trg	black	JJ
+O	Eye	NNP
+O	black	JJ
 O	is	VBZ
 O	a	DT
 O	grease	NN
@@ -165,7 +165,7 @@ I-Eff	light	JJ
 I-Eff	pollution	NN
 I-Eff	glare	NN
 
-B-Trg	It	PRP
+O	It	PRP
 O	is	VBZ
 O	often	RB
 O	used	VBN
@@ -187,7 +187,7 @@ O	an	DT
 O	airborne	JJ
 O	ball	NN
 
-B-Trg	It	PRP
+O	It	PRP
 O	is	VBZ
 O	a	DT
 O	form	NN
@@ -199,8 +199,8 @@ O	or	CC
 O	war	NN
 O	paint	NN
 
-B-Trg	Eyelash	NNP
-I-Trg	Extensions	NNPS
+O	Eyelash	NNP
+O	Extensions	NNPS
 O	is	VBZ
 O	a	DT
 O	practice	NN
@@ -216,7 +216,7 @@ I-Eff	natural	JJ
 I-Eff	eyelashes	NNS
 
 O	The	DT
-B-Trg	extensions	NNS
+O	extensions	NNS
 O	may	MD
 O	consist	VB
 O	of	IN
@@ -230,7 +230,7 @@ O	Methods	NNS
 O	of	IN
 O	applying	VBG
 O	the	DT
-B-Trg	extensions	NNS
+O	extensions	NNS
 O	include	VBP
 B-MOU	full	JJ
 I-MOU	strips	NNS
@@ -240,13 +240,13 @@ B-MOU	individual	JJ
 I-MOU	one-by-one	JJ
 I-MOU	extensions	NNS
 
-B-Trg	Nail	VB
-I-Trg	polish	NN
+O	Nail	VB
+O	polish	NN
 O	also	RB
 O	known	VBN
 O	as	IN
-B-Trg	nail	NN
-I-Trg	varnish	NN
+O	nail	NN
+O	varnish	NN
 O	is	VBZ
 O	a	DT
 O	lacquer	NN
@@ -269,14 +269,14 @@ I-Eff	nail	NN
 I-Eff	plates	NNS
 
 O	The	DT
-B-Trg	formulation	NN
+O	formulation	NN
 O	has	VBZ
 O	been	VBN
 O	revised	VBN
 O	repeatedly	RB
 O	to	TO
 O	enhance	VB
-B-Trg	its	PRP$
+O	its	PRP$
 B-Eff	decorative	JJ
 I-Eff	effects	NNS
 O	and	CC
@@ -300,12 +300,12 @@ O	and	CC
 O	other	JJ
 O	components	NNS
 
-B-Trg	Eyelid	JJ
-I-Trg	glue	NN
+O	Eyelid	JJ
+O	glue	NN
 O	commonly	RB
 O	called	VBN
-B-Trg	eye	NN
-I-Trg	putti	NNS
+O	eye	NN
+O	putti	NNS
 O	is	VBZ
 O	a	DT
 O	type	NN
@@ -327,8 +327,8 @@ I-Eff	without	IN
 I-Eff	a	DT
 I-Eff	crease	NN
 
-B-Trg	Eyelid	JJ
-I-Trg	glue	NN
+O	Eyelid	JJ
+O	glue	NN
 O	is	VBZ
 O	a	DT
 O	water-soluble	JJ
@@ -339,7 +339,7 @@ O	be	VB
 O	easily	RB
 O	removed	VBN
 
-B-Trg	Eyeliner	NNP
+O	Eyeliner	NNP
 O	is	VBZ
 O	a	DT
 O	cosmetic	NN
@@ -349,7 +349,7 @@ B-Eff	define	VB
 I-Eff	the	DT
 I-Eff	eyes	NNS
 
-B-Trg	It	PRP
+O	It	PRP
 O	is	VBZ
 B-MOU	applied	VBN
 I-MOU	around	IN
@@ -367,8 +367,8 @@ I-Eff	of	IN
 I-Eff	aesthetic	JJ
 I-Eff	effects	NNS
 
-B-Trg	Eye	NNP
-I-Trg	shadow	NN
+O	Eye	NNP
+O	shadow	NN
 O	is	VBZ
 O	a	DT
 O	cosmetic	NN
@@ -383,7 +383,7 @@ I-MOU	under	IN
 I-MOU	the	DT
 I-MOU	eyebrows	NNS
 
-B-Trg	It	PRP
+O	It	PRP
 O	is	VBZ
 O	commonly	RB
 O	used	VBN
@@ -400,8 +400,8 @@ B-Eff	look	VB
 I-Eff	more	RBR
 I-Eff	attractive	JJ
 
-B-Trg	Eye	NNP
-I-Trg	shadow	NN
+O	Eye	NNP
+O	shadow	NN
 O	can	MD
 B-Eff	add	VB
 I-Eff	depth	NN
@@ -423,8 +423,8 @@ I-Eff	to	TO
 I-Eff	the	DT
 I-Eff	eyes	NNS
 
-B-Trg	Eye	NNP
-I-Trg	shadow	NN
+O	Eye	NNP
+O	shadow	NN
 O	comes	VBZ
 O	in	IN
 O	many	JJ
@@ -433,7 +433,7 @@ O	colors	NNS
 O	and	CC
 O	textures	NNS
 
-B-Trg	It	PRP
+O	It	PRP
 O	is	VBZ
 O	usually	RB
 O	made	VBN
@@ -454,8 +454,8 @@ O	or	CC
 O	mousse	NN
 O	form	NN
 
-B-Trg	Face	NNP
-I-Trg	powder	NN
+O	Face	NNP
+O	powder	NN
 O	is	VBZ
 O	a	DT
 O	cosmetic	JJ
@@ -515,7 +515,7 @@ I-MOU	no	DT
 I-MOU	base	NN
 I-MOU	foundation	NN
 
-B-Trg	Powder	NNP
+O	Powder	NNP
 B-Eff	tones	NNS
 I-Eff	the	DT
 I-Eff	face	NN
@@ -526,11 +526,11 @@ I-Eff	even	RB
 I-Eff	appearance	NN
 
 O	A	DT
-B-Trg	facial	JJ
-I-Trg	prosthetic	JJ
+O	facial	JJ
+O	prosthetic	JJ
 O	or	CC
-B-Trg	facial	JJ
-I-Trg	prosthesis	NN
+O	facial	JJ
+O	prosthesis	NN
 O	is	VBZ
 O	an	DT
 O	artificial	JJ
@@ -560,9 +560,9 @@ O	film	NN
 O	or	CC
 O	television	NN
 O	industry	NN
-B-Trg	facial	JJ
-I-Trg	prosthetic	JJ
-I-Trg	makeup	NN
+O	facial	JJ
+O	prosthetic	JJ
+O	makeup	NN
 B-Eff	alters	VBZ
 I-Eff	a	DT
 I-Eff	person	NN
@@ -573,8 +573,8 @@ I-Eff	into	IN
 I-Eff	something	NN
 I-Eff	extraordinary	JJ
 
-B-Trg	Facial	JJ
-I-Trg	prosthetics	NNS
+O	Facial	JJ
+O	prosthetics	NNS
 O	can	MD
 O	be	VB
 O	made	VBN
@@ -619,8 +619,8 @@ O	they	PRP
 O	are	VBP
 
 O	A	DT
-B-Trg	facial	JJ
-I-Trg	prosthesis	NN
+O	facial	JJ
+O	prosthesis	NN
 O	can	MD
 O	also	RB
 B-Eff	transform	VB
@@ -637,7 +637,7 @@ O	animals	NNS
 O	and	CC
 O	others	NNS
 
-B-Trg	Foundation	NNP
+O	Foundation	NNP
 O	is	VBZ
 O	a	DT
 O	skin	NN
@@ -678,10 +678,10 @@ O	generally	RB
 O	referred	VBN
 O	to	TO
 O	as	IN
-B-Trg	body	NN
-I-Trg	painting	NN
+O	body	NN
+O	painting	NN
 
-B-Trg	Glitter	NNP
+O	Glitter	NNP
 O	describes	VBZ
 O	an	DT
 O	assortment	NN
@@ -691,7 +691,7 @@ O	flat	JJ
 O	reflective	JJ
 O	particles	NNS
 
-B-Trg	Glitter	NNP
+O	Glitter	NNP
 O	particles	NNS
 B-Eff	reflect	VBP
 I-Eff	light	NN
@@ -706,7 +706,7 @@ I-Eff	sparkle	NN
 I-Eff	or	CC
 I-Eff	shimmer	NN
 
-B-Trg	Glitter	NNP
+O	Glitter	NNP
 O	is	VBZ
 O	like	IN
 O	confetti	NN
@@ -718,7 +718,7 @@ O	smaller	JJR
 O	Since	IN
 O	prehistoric	JJ
 O	times	NNS
-B-Trg	glitter	NN
+O	glitter	NN
 O	has	VBZ
 O	been	VBN
 O	made	VBN
@@ -745,7 +745,7 @@ O	II	NNP
 O	with	IN
 O	German	JJ
 O	glass	NN
-B-Trg	glitter	NN
+O	glitter	NN
 O	unavailable	JJ
 
 O	Ruschmann	NNP
@@ -757,7 +757,7 @@ O	scrap	NN
 O	material	NN
 O	ground	NN
 O	into	IN
-B-Trg	glitter	NN
+O	glitter	NN
 O	made	VBN
 O	of	IN
 O	plastics	NNS
@@ -780,9 +780,9 @@ O	a	DT
 O	producer	NN
 O	of	IN
 O	industrial	JJ
-B-Trg	glitter	NN
+O	glitter	NN
 
-B-Trg	Helioplex	NNP
+O	Helioplex	NNP
 O	is	VBZ
 O	a	DT
 O	formulation	NN
@@ -843,26 +843,26 @@ O	Active	JJ
 O	Photobarrier	NN
 O	Complex	NN
 
-B-Trg	Herbal	JJ
-I-Trg	distillates	NNS
+O	Herbal	JJ
+O	distillates	NNS
 O	also	RB
 O	called	VBN
-B-Trg	floral	JJ
-I-Trg	water	NN
-B-Trg	hydrosol	NN
-B-Trg	hydrolate	NN
-B-Trg	herbal	JJ
-I-Trg	water	NN
+O	floral	JJ
+O	water	NN
+O	hydrosol	NN
+O	hydrolate	NN
+O	herbal	JJ
+O	water	NN
 O	and	CC
-B-Trg	essential	JJ
-I-Trg	water	NN
+O	essential	JJ
+O	water	NN
 O	are	VBP
 O	aqueous	JJ
 O	products	NNS
 O	of	IN
 O	distillation	NN
 
-B-Trg	They	PRP
+O	They	PRP
 O	are	VBP
 O	colloidal	JJ
 O	suspensions	NNS
@@ -890,8 +890,8 @@ O	from	IN
 O	plants/herbs	NNS
 
 O	These	DT
-B-Trg	herbal	JJ
-I-Trg	distillates	NNS
+O	herbal	JJ
+O	distillates	NNS
 B-Eff	have	VBP
 I-Eff	uses	NNS
 I-Eff	as	IN
@@ -902,8 +902,8 @@ I-Eff	cosmetics	NNS
 I-Eff	skin	NN
 I-Eff	care	NN
 
-B-Trg	Herbal	JJ
-I-Trg	distillates	NNS
+O	Herbal	JJ
+O	distillates	NNS
 O	are	VBP
 O	produced	VBN
 O	in	IN
@@ -927,7 +927,7 @@ O	the	DT
 O	top	NN
 O	of	IN
 O	the	DT
-B-Trg	distillate	NN
+O	distillate	NN
 O	where	WRB
 O	it	PRP
 O	is	VBZ
@@ -936,38 +936,38 @@ O	leaving	VBG
 O	behind	IN
 O	the	DT
 O	watery	JJ
-B-Trg	distillate	NN
+O	distillate	NN
 
-B-Trg	Hydrolyzed	VBN
-I-Trg	collagen	NN
+O	Hydrolyzed	VBN
+O	collagen	NN
 O	is	VBZ
 O	a	DT
 O	form	NN
 O	of	IN
 O	collagen	NN
 
-B-Trg	It	PRP
+O	It	PRP
 O	is	VBZ
 O	also	RB
 O	called	VBN
-B-Trg	collagen	NN
-I-Trg	hydrolysate	NN
-B-Trg	collagen	NN
-I-Trg	peptide	NN
-B-Trg	gelatine	NN
-B-Trg	gelatine	NN
-I-Trg	hydrolysate	NN
+O	collagen	NN
+O	hydrolysate	NN
+O	collagen	NN
+O	peptide	NN
+O	gelatine	NN
+O	gelatine	NN
+O	hydrolysate	NN
 O	and	CC
-B-Trg	hydrolyzed	VBN
-I-Trg	gelatine	NN
+O	hydrolyzed	VBN
+O	gelatine	NN
 
 O	A	DT
-B-Trg	kabuki	FW
-I-Trg	brush	NN
+O	kabuki	FW
+O	brush	NN
 O	sometimes	RB
 O	called	VBN
-B-Trg	mushroom	NN
-I-Trg	brush	NN
+O	mushroom	NN
+O	brush	NN
 O	is	VBZ
 O	a	DT
 O	makeup	NN
@@ -981,7 +981,7 @@ O	dense	JJ
 O	bristles	VBZ
 
 O	The	DT
-B-Trg	brush	NN
+O	brush	NN
 O	head	NN
 O	is	VBZ
 O	most	RBS
@@ -1012,7 +1012,7 @@ O	horse	NN
 O	hair	NN
 O	but	CC
 O	most	JJS
-B-Trg	brushes	NNS
+O	brushes	NNS
 O	available	JJ
 O	now	RB
 O	on	IN
@@ -1022,7 +1022,7 @@ O	have	VBP
 O	synthetic	JJ
 O	bristles	VBZ
 
-B-Trg	Perfume	NN
+O	Perfume	NN
 O	is	VBZ
 O	a	DT
 O	mixture	NN
@@ -1052,7 +1052,7 @@ I-Eff	a	DT
 I-Eff	pleasant	JJ
 I-Eff	scent	NN
 
-B-Trg	Perfumes	NNS
+O	Perfumes	NNS
 O	have	VBP
 O	been	VBN
 O	known	VBN
@@ -1075,7 +1075,7 @@ O	archaeological	JJ
 O	digs	NNS
 
 O	Modern	NNP
-B-Trg	perfumery	NN
+O	perfumery	NN
 O	began	VBD
 O	in	IN
 O	the	DT
@@ -1100,7 +1100,7 @@ O	for	IN
 O	the	DT
 O	composition	NN
 O	of	IN
-B-Trg	perfumes	NNS
+O	perfumes	NNS
 O	with	IN
 O	smells	VBZ
 O	previously	RB
@@ -1111,7 +1111,7 @@ O	natural	JJ
 O	aromatics	NNS
 O	alone	RB
 
-B-Trg	Kohl	NNP
+O	Kohl	NNP
 O	is	VBZ
 O	an	DT
 O	ancient	JJ
@@ -1124,7 +1124,7 @@ O	grinding	VBG
 O	stibnite	NN
 O	Sb2S3	NN
 
-B-Trg	It	PRP
+O	It	PRP
 O	is	VBZ
 O	widely	RB
 O	used	VBN
@@ -1160,7 +1160,7 @@ I-Eff	for	IN
 I-Eff	the	DT
 I-Eff	eyelashes	NNS
 
-B-Trg	It	PRP
+O	It	PRP
 O	is	VBZ
 O	worn	JJ
 O	mostly	RB
@@ -1174,7 +1174,7 @@ O	men	NNS
 O	and	CC
 O	children	NNS
 
-B-Trg	Kohl	NNP
+O	Kohl	NNP
 O	has	VBZ
 O	also	RB
 O	been	VBN
@@ -1194,7 +1194,7 @@ O	addition	NN
 O	mothers	NNS
 O	would	MD
 O	apply	VB
-B-Trg	kohl	NN
+O	kohl	NN
 O	to	TO
 O	their	PRP$
 O	infants	NNS
@@ -1203,7 +1203,7 @@ O	soon	RB
 O	after	IN
 O	birth	NN
 
-B-Trg	Kumkuma	NNP
+O	Kumkuma	NNP
 O	is	VBZ
 O	a	DT
 O	powder	NN
@@ -1216,7 +1216,7 @@ I-Eff	markings	NNS
 O	in	IN
 O	India	NNP
 
-B-Trg	It	PRP
+O	It	PRP
 O	is	VBZ
 O	either	CC
 O	made	VBN
@@ -1253,21 +1253,21 @@ O	color	NN
 
 O	In	IN
 O	India	NNP
-B-Trg	it	PRP
+O	it	PRP
 O	is	VBZ
 O	known	VBN
 O	by	IN
 O	various	JJ
 O	names	NNS
 O	including	VBG
-B-Trg	kuṅkumam	NN
-B-Trg	kumkuma	NN
-B-Trg	kumkum	NN
-B-Trg	kunkumam	NN
-B-Trg	Kungkumam	NNP
+O	kuṅkumam	NN
+O	kumkuma	NN
+O	kumkum	NN
+O	kunkumam	NN
+O	Kungkumam	NNP
 
-B-Trg	Lip	NN
-I-Trg	gloss	VBP
+O	Lip	NN
+O	gloss	VBP
 O	is	VBZ
 O	a	DT
 O	product	NN
@@ -1287,7 +1287,7 @@ I-Eff	a	DT
 I-Eff	subtle	JJ
 I-Eff	color	NN
 
-B-Trg	It	PRP
+O	It	PRP
 O	is	VBZ
 O	distributed	VBN
 O	as	IN
@@ -1313,7 +1313,7 @@ O	soothing	JJ
 O	purposes	NNS
 
 O	The	DT
-B-Trg	product	NN
+O	product	NN
 O	is	VBZ
 O	available	JJ
 O	in	IN
@@ -1335,19 +1335,19 @@ O	and	CC
 O	metallic	JJ
 O	finishes	NNS
 
-B-Trg	Lip	NN
-I-Trg	liner	NN
+O	Lip	NN
+O	liner	NN
 O	also	RB
 O	known	VBN
 O	as	IN
-B-Trg	lip	NN
-I-Trg	pencil	NN
+O	lip	NN
+O	pencil	NN
 O	is	VBZ
 O	a	DT
 O	cosmetic	JJ
 O	product	NN
 
-B-Trg	It	PRP
+O	It	PRP
 O	is	VBZ
 O	intended	VBN
 O	to	TO
@@ -1370,7 +1370,7 @@ I-Eff	a	DT
 I-Eff	smooth	JJ
 I-Eff	shape	NN
 
-B-Trg	It	PRP
+O	It	PRP
 O	is	VBZ
 O	also	RB
 O	used	VBN
@@ -1403,7 +1403,7 @@ I-Eff	out	RP
 I-Eff	more	RBR
 
 O	The	DT
-B-Trg	product	NN
+O	product	NN
 O	is	VBZ
 O	usually	RB
 O	sold	VBN
@@ -1415,8 +1415,8 @@ O	or	CC
 O	pencil	NN
 O	form	NN
 
-B-Trg	Lip	NN
-I-Trg	liner	NN
+O	Lip	NN
+O	liner	NN
 O	is	VBZ
 O	usually	RB
 O	available	JJ
@@ -1435,8 +1435,8 @@ O	browns	NNS
 O	plums	NNS
 O	etc.	FW
 
-B-Trg	Lip	NN
-I-Trg	stain	VBP
+O	Lip	NN
+O	stain	VBP
 O	is	VBZ
 O	a	DT
 O	cosmetic	JJ
@@ -1455,7 +1455,7 @@ O	liquid	NN
 O	or	CC
 O	gel	NN
 
-B-Trg	It	PRP
+O	It	PRP
 O	generally	RB
 O	stays	VBZ
 O	on	IN
@@ -1473,7 +1473,7 @@ I-Eff	the	DT
 I-Eff	lips	NNS
 
 O	However	RB
-B-Trg	it	PRP
+O	it	PRP
 O	can	MD
 B-Eff	dry	VB
 I-Eff	the	DT
@@ -1485,7 +1485,7 @@ O	recommended	VBN
 O	for	IN
 O	winter	NN
 
-B-Trg	Lipstick	NN
+O	Lipstick	NN
 O	is	VBZ
 O	a	DT
 O	cosmetic	JJ
@@ -1511,7 +1511,7 @@ O	colors	NNS
 O	and	CC
 O	types	NNS
 O	of	IN
-B-Trg	lipstick	NN
+O	lipstick	NN
 O	exist	VBP
 
 O	As	IN
@@ -1521,7 +1521,7 @@ O	other	JJ
 O	types	NNS
 O	of	IN
 O	makeup	NN
-B-Trg	lipstick	NN
+O	lipstick	NN
 O	is	VBZ
 O	typically	RB
 O	but	CC
@@ -1534,7 +1534,7 @@ O	women	NNS
 O	The	DT
 O	use	NN
 O	of	IN
-B-Trg	lipstick	NN
+O	lipstick	NN
 O	dates	NNS
 O	back	RB
 O	to	TO
@@ -1542,8 +1542,8 @@ O	medieval	JJ
 O	times	NNS
 
 O	A	DT
-B-Trg	makeup	NN
-I-Trg	brush	NN
+O	makeup	NN
+O	brush	NN
 O	is	VBZ
 O	a	DT
 O	tool	NN
@@ -1611,7 +1611,7 @@ O	sizes	NNS
 O	of	IN
 O	make	VBP
 O	up	RP
-B-Trg	brushes	NNS
+O	brushes	NNS
 O	depending	VBG
 O	on	IN
 O	the	DT
@@ -1649,7 +1649,7 @@ O	flat	JJ
 O	or	CC
 O	tapered	JJ
 
-B-Trg	Mascara	NN
+O	Mascara	NN
 O	is	VBZ
 O	a	DT
 O	cosmetic	JJ
@@ -1660,7 +1660,7 @@ B-Eff	enhance	VB
 I-Eff	the	DT
 I-Eff	eyes	NNS
 
-B-Trg	It	PRP
+O	It	PRP
 O	may	MD
 B-Eff	darken	VB
 I-Eff	thicken	VB
@@ -1682,7 +1682,7 @@ O	or	CC
 O	cream	NN
 O	the	DT
 O	modern	JJ
-B-Trg	mascara	NN
+O	mascara	NN
 O	product	NN
 O	has	VBZ
 O	various	JJ
@@ -1702,7 +1702,7 @@ O	and	CC
 O	preservatives	NNS
 
 O	An	DT
-B-Trg	acupressure	NN
+O	acupressure	NN
 O	mat	NN
 O	is	VBZ
 O	a	DT
@@ -1730,16 +1730,16 @@ O	protruding	VBG
 O	spikes	NNS
 
 O	An	DT
-B-Trg	adhesive	JJ
-I-Trg	bandage	NN
+O	adhesive	JJ
+O	bandage	NN
 O	also	RB
 O	called	VBD
 O	a	DT
-B-Trg	sticking	NN
-I-Trg	plaster	NN
+O	sticking	NN
+O	plaster	NN
 O	or	CC
 O	simply	RB
-B-Trg	plaster	NN
+O	plaster	NN
 O	in	IN
 O	British	JJ
 O	English	NNP
@@ -1760,7 +1760,7 @@ I-Eff	a	DT
 I-Eff	full-size	JJ
 I-Eff	bandage	NN
 
-B-Trg	They	PRP
+O	They	PRP
 O	are	VBP
 O	also	RB
 O	known	VBN
@@ -1768,23 +1768,23 @@ O	by	IN
 O	the	DT
 O	genericized	VBN
 O	trademarks	NNS
-B-Trg	Band-Aid	NNP
+O	Band-Aid	NNP
 O	as	IN
-B-Trg	band-aid	NN
+O	band-aid	NN
 O	or	CC
-B-Trg	band	NN
-I-Trg	aid	NN
+O	band	NN
+O	aid	NN
 O	in	IN
 O	the	DT
 O	US	NNP
 O	or	CC
-B-Trg	Elastoplast	NN
+O	Elastoplast	NN
 O	in	IN
 O	the	DT
 O	UK	NNP
 
-B-Trg	Air	NNP
-I-Trg	fresheners	NNS
+O	Air	NNP
+O	fresheners	NNS
 O	are	VBP
 O	consumer	NN
 O	products	NNS
@@ -1810,8 +1810,8 @@ O	methods	NNS
 O	and	CC
 O	brands	NNS
 O	of	IN
-B-Trg	air	NN
-I-Trg	freshener	NN
+O	air	NN
+O	freshener	NN
 
 O	Some	DT
 O	of	IN
@@ -1819,8 +1819,8 @@ O	the	DT
 O	different	JJ
 O	types	NNS
 O	of	IN
-B-Trg	air	NN
-I-Trg	fresheners	NNS
+O	air	NN
+O	fresheners	NNS
 O	include	VBP
 O	sprays	NNS
 O	candles	NNS
@@ -1831,8 +1831,8 @@ O	and	CC
 O	plug-ins	NNS
 
 O	Some	DT
-B-Trg	air	NN
-I-Trg	fresheners	NNS
+O	air	NN
+O	fresheners	NNS
 O	have	VBP
 O	been	VBN
 O	known	VBN
@@ -1855,8 +1855,8 @@ O	is	VBZ
 O	to	TO
 O	use	VB
 
-B-Trg	Air	NNP
-I-Trg	freshening	VBG
+O	Air	NNP
+O	freshening	VBG
 O	is	VBZ
 O	not	RB
 O	only	RB
@@ -1865,8 +1865,8 @@ O	to	TO
 O	modern	JJ
 O	day	NN
 O	sprays	NNS
-B-Trg	air	NN
-I-Trg	freshening	NN
+O	air	NN
+O	freshening	NN
 O	also	RB
 O	can	MD
 O	involve	VB
@@ -1881,10 +1881,10 @@ O	hold	VBP
 O	items	NNS
 
 O	An	DT
-B-Trg	anesthetic	JJ
-B-Trg	anaesthetic	JJ
+O	anesthetic	JJ
+O	anaesthetic	JJ
 O	or	CC
-B-Trg	anæsthetic	JJ
+O	anæsthetic	JJ
 O	in	IN
 O	British	JJ
 O	English	NNP
@@ -1902,7 +1902,7 @@ I-Eff	loss	NN
 I-Eff	of	IN
 I-Eff	sensation	NN
 
-B-Trg	Anesthetics	NNS
+O	Anesthetics	NNS
 O	contrast	NN
 O	with	IN
 O	analgesics	NNS
@@ -1915,7 +1915,7 @@ O	eliminating	VBG
 O	sensation	NN
 
 O	These	DT
-B-Trg	drugs	NNS
+O	drugs	NNS
 O	are	VBP
 O	generally	RB
 O	administered	VBN
@@ -1927,7 +1927,7 @@ O	A	DT
 O	wide	JJ
 O	variety	NN
 O	of	IN
-B-Trg	drugs	NNS
+O	drugs	NNS
 O	are	VBP
 O	used	VBN
 O	in	IN
@@ -1935,7 +1935,7 @@ O	modern	JJ
 O	anesthetic	JJ
 O	practice	NN
 
-B-Trg	Many	JJ
+O	Many	JJ
 O	are	VBP
 O	rarely	RB
 O	used	VBN
@@ -1943,7 +1943,7 @@ O	outside	IN
 O	of	IN
 O	anesthesia	NN
 O	although	IN
-B-Trg	others	NNS
+O	others	NNS
 O	are	VBP
 O	used	VBN
 O	commonly	RB
@@ -1952,8 +1952,8 @@ O	all	DT
 O	disciplines	NNS
 
 O	An	DT
-B-Trg	antifungal	JJ
-I-Trg	medication	NN
+O	antifungal	JJ
+O	medication	NN
 O	is	VBZ
 O	a	DT
 O	pharmaceutical	JJ
@@ -1983,7 +1983,7 @@ I-Eff	and	CC
 I-Eff	others	NNS
 
 O	Such	JJ
-B-Trg	drugs	NNS
+O	drugs	NNS
 O	are	VBP
 O	usually	RB
 O	obtained	VBN
@@ -2001,7 +2001,7 @@ O	OTC	NNP
 O	over-the-counter	JJ
 
 O	An	DT
-B-Trg	antihistamine	NN
+O	antihistamine	NN
 O	is	VBZ
 O	a	DT
 O	type	NN
@@ -2019,7 +2019,7 @@ I-Eff	in	IN
 I-Eff	the	DT
 I-Eff	body	NN
 
-B-Trg	Antihistamines	NNS
+O	Antihistamines	NNS
 O	are	VBP
 O	subclassified	VBN
 O	according	VBG
@@ -2036,12 +2036,12 @@ O	two	CD
 O	largest	JJS
 O	classes	NNS
 O	of	IN
-B-Trg	antihistamines	NNS
+O	antihistamines	NNS
 O	are	VBP
 O	H1-antihistamines	NNS
 O	and	CC
 O	H2-antihistamines	NNS
-B-Trg	Antihistamines	NNS
+O	Antihistamines	NNS
 O	that	WDT
 O	target	VBP
 O	the	DT
@@ -2069,7 +2069,7 @@ I-Eff	for	IN
 I-Eff	insomnia	NN
 
 O	An	DT
-B-Trg	antioxidant	NN
+O	antioxidant	NN
 O	is	VBZ
 O	a	DT
 O	molecule	NN
@@ -2124,7 +2124,7 @@ O	to	TO
 O	the	DT
 O	cell	NN
 
-B-Trg	Antioxidants	NNS
+O	Antioxidants	NNS
 B-Eff	terminate	VBP
 I-Eff	these	DT
 I-Eff	chain	NN
@@ -2140,12 +2140,12 @@ I-Eff	other	JJ
 I-Eff	oxidation	NN
 I-Eff	reactions	NNS
 
-B-Trg	Antipruritics	NNS
+O	Antipruritics	NNS
 O	also	RB
 O	known	VBN
 O	as	IN
-B-Trg	anti-itch	JJ
-I-Trg	drugs	NNS
+O	anti-itch	JJ
+O	drugs	NNS
 O	are	VBP
 O	medications	NNS
 O	that	WDT
@@ -2196,7 +2196,7 @@ I-Eff	stinging	JJ
 I-Eff	nettle	NN
 
 O	A	DT
-B-Trg	bolster	VB
+O	bolster	VB
 O	is	VBZ
 O	a	DT
 O	long	JJ
@@ -2211,7 +2211,7 @@ O	down	RB
 O	or	CC
 O	fibre	NN
 
-B-Trg	Bolsters	NNS
+O	Bolsters	NNS
 O	are	VBP
 O	usually	RB
 O	firm	JJ
@@ -2236,25 +2236,25 @@ O	additional	JJ
 O	support	NN
 
 O	A	DT
-B-Trg	bolster	VB
+O	bolster	VB
 O	is	VBZ
 O	also	RB
 O	referred	VBN
 O	to	TO
 O	as	IN
 O	a	DT
-B-Trg	cushion	NN
+O	cushion	NN
 O	a	DT
-B-Trg	pillow	NN
+O	pillow	NN
 O	and	CC
 O	a	DT
-B-Trg	prop	VBP
+O	prop	VBP
 
 O	In	IN
 O	western	JJ
 O	countries	NNS
 O	a	DT
-B-Trg	bolster	VB
+O	bolster	VB
 O	is	VBZ
 O	usually	RB
 B-MOU	placed	VBN
@@ -2285,13 +2285,13 @@ I-MOU	high	JJ
 I-MOU	rigid	JJ
 I-MOU	sides	NNS
 
-B-Trg	Chest	NN
-I-Trg	rub	NN
-B-Trg	cold	JJ
-I-Trg	rub	NN
+O	Chest	NN
+O	rub	NN
+O	cold	JJ
+O	rub	NN
 O	or	CC
-B-Trg	vapor/vapour	NN
-I-Trg	rub	NN
+O	vapor/vapour	NN
+O	rub	NN
 O	is	VBZ
 O	a	DT
 O	mentholated	JJ
@@ -2314,7 +2314,7 @@ I-Eff	the	DT
 I-Eff	common	JJ
 I-Eff	cold	NN
 
-B-Trg	It	PRP
+O	It	PRP
 O	is	VBZ
 B-MOU	applied	VBN
 I-MOU	to	TO
@@ -2325,7 +2325,7 @@ O	immediately	RB
 O	before	IN
 O	sleeping	VBG
 
-B-Trg	Toothpaste	NN
+O	Toothpaste	NN
 O	is	VBZ
 O	a	DT
 O	paste	VBP
@@ -2350,7 +2350,7 @@ I-Eff	health	NN
 I-Eff	of	IN
 I-Eff	teeth	NNS
 
-B-Trg	Toothpaste	NN
+O	Toothpaste	NN
 O	is	VBZ
 B-Eff	used	VBN
 I-Eff	to	TO
@@ -2394,8 +2394,8 @@ I-Eff	gum	NN
 I-Eff	disease	NN
 I-Eff	gingivitis	NN
 
-B-Trg	Dental	JJ
-I-Trg	floss	NN
+O	Dental	JJ
+O	floss	NN
 O	is	VBZ
 O	a	DT
 O	cord	NN
@@ -2421,7 +2421,7 @@ I-MOU	unable	JJ
 I-MOU	to	TO
 I-MOU	reach	VB
 
-B-Trg	It	PRP
+O	It	PRP
 O	has	VBZ
 O	been	VBN
 O	widely	RB
@@ -2476,8 +2476,8 @@ O	toothbrushing	NN
 O	alone	RB
 
 O	A	DT
-B-Trg	dietary	JJ
-I-Trg	supplement	NN
+O	dietary	JJ
+O	supplement	NN
 O	is	VBZ
 O	intended	VBN
 O	to	TO
@@ -2494,7 +2494,7 @@ I-Eff	sufficient	JJ
 I-Eff	quantities	NNS
 
 O	An	DT
-B-Trg	earplug	NN
+O	earplug	NN
 O	is	VBZ
 O	a	DT
 O	device	NN
@@ -2530,17 +2530,17 @@ I-Eff	excessive	JJ
 I-Eff	wind	NN
 
 O	A	DT
-B-Trg	finger	NN
-I-Trg	cot	NN
+O	finger	NN
+O	cot	NN
 O	also	RB
-B-Trg	finger	NN
-I-Trg	frock	NN
+O	finger	NN
+O	frock	NN
 O	or	CC
-B-Trg	finger	NN
-I-Trg	stall	VBP
+O	finger	NN
+O	stall	VBP
 O	informally	RB
-B-Trg	finger	NN
-I-Trg	condom	NN
+O	finger	NN
+O	condom	NN
 O	is	VBZ
 O	a	DT
 O	medical	JJ
@@ -2566,8 +2566,8 @@ O	medical	JJ
 O	and	CC
 O	rubber	NN
 O	gloves	NNS
-B-Trg	finger	NN
-I-Trg	cots	NNS
+O	finger	NN
+O	cots	NNS
 O	may	MD
 O	be	VB
 O	made	VBN
@@ -2585,10 +2585,10 @@ O	and	CC
 O	vinyl	NN
 
 O	A	DT
-B-Trg	glucose	NN
-I-Trg	meter	NN
+O	glucose	NN
+O	meter	NN
 O	or	CC
-B-Trg	glucometer	NN
+O	glucometer	NN
 O	is	VBZ
 O	a	DT
 O	medical	JJ
@@ -2604,7 +2604,7 @@ I-Eff	in	IN
 I-Eff	the	DT
 I-Eff	blood	NN
 
-B-Trg	It	PRP
+O	It	PRP
 O	can	MD
 O	also	RB
 O	be	VB
@@ -2624,7 +2624,7 @@ I-MOU	the	DT
 I-MOU	glucose	NN
 I-MOU	chart	NN
 
-B-Trg	It	PRP
+O	It	PRP
 O	is	VBZ
 O	a	DT
 O	key	JJ
@@ -2665,7 +2665,7 @@ I-MOU	test	NN
 I-MOU	strip	NN
 O	that	IN
 O	the	DT
-B-Trg	meter	NN
+O	meter	NN
 O	reads	VBZ
 O	and	CC
 O	uses	VBZ
@@ -2677,7 +2677,7 @@ I-Eff	glucose	NN
 I-Eff	level	NN
 
 O	The	DT
-B-Trg	meter	NN
+O	meter	NN
 O	then	RB
 B-Eff	displays	VBZ
 I-Eff	the	DT
@@ -2689,7 +2689,7 @@ I-Eff	mg/dl	NN
 I-Eff	or	CC
 I-Eff	mmol/l	NN
 
-B-Trg	Gluten	NNP
+O	Gluten	NNP
 O	is	VBZ
 O	a	DT
 O	protein	NN
@@ -2705,7 +2705,7 @@ O	barley	NN
 O	and	CC
 O	rye	NN
 
-B-Trg	Gluten	NNP
+O	Gluten	NNP
 B-Eff	gives	VBZ
 I-Eff	elasticity	NN
 I-Eff	to	TO
@@ -2727,8 +2727,8 @@ I-Eff	a	DT
 I-Eff	chewy	JJ
 I-Eff	texture	NN
 
-B-Trg	Green	NNP
-I-Trg	tea	NN
+O	Green	NNP
+O	tea	NN
 O	is	VBZ
 O	made	VBN
 O	from	IN
@@ -2753,11 +2753,11 @@ O	the	DT
 B-Eff	health	NN
 I-Eff	benefits	NNS
 O	of	IN
-B-Trg	green	JJ
-I-Trg	tea	NN
+O	green	JJ
+O	tea	NN
 O	based	VBN
 O	on	IN
-B-Trg	its	PRP$
+O	its	PRP$
 O	chemical	NN
 O	composition	NN
 O	in	FW
@@ -2788,13 +2788,13 @@ O	study	NN
 O	to	TO
 O	evaluate	VB
 
-B-Trg	Growth	NN
-I-Trg	hormone	NN
-B-Trg	GH	NN
+O	Growth	NN
+O	hormone	NN
+O	GH	NN
 O	also	RB
 O	known	VBN
 O	as	IN
-B-Trg	somatotropin	NN
+O	somatotropin	NN
 O	or	CC
 O	as	IN
 O	human	JJ
@@ -2822,7 +2822,7 @@ O	and	CC
 O	other	JJ
 O	animals	NNS
 
-B-Trg	It	PRP
+O	It	PRP
 O	is	VBZ
 O	thus	RB
 O	important	JJ
@@ -2830,7 +2830,7 @@ O	in	IN
 B-Eff	human	JJ
 I-Eff	development	NN
 
-B-Trg	It	PRP
+O	It	PRP
 O	is	VBZ
 O	a	DT
 O	type	NN
@@ -2846,8 +2846,8 @@ O	kinds	NNS
 O	of	IN
 O	cells	NNS
 
-B-Trg	Growth	NN
-I-Trg	hormone	NN
+O	Growth	NN
+O	hormone	NN
 O	is	VBZ
 O	a	DT
 O	191-amino	JJ
@@ -2874,15 +2874,15 @@ O	pituitary	JJ
 O	gland	NN
 
 O	A	DT
-B-Trg	hand	NN
-I-Trg	antiseptic	JJ
-B-Trg	hand	NN
-I-Trg	disinfectant	NN
-B-Trg	hand	NN
-I-Trg	sanitiser	NN
+O	hand	NN
+O	antiseptic	JJ
+O	hand	NN
+O	disinfectant	NN
+O	hand	NN
+O	sanitiser	NN
 O	or	CC
-B-Trg	hand	NN
-I-Trg	sanitizer	NN
+O	hand	NN
+O	sanitizer	NN
 O	is	VBZ
 B-Eff	a	DT
 I-Eff	supplement	NN
@@ -2911,8 +2911,8 @@ O	The	DT
 O	active	JJ
 O	ingredient	NN
 O	in	IN
-B-Trg	hand	NN
-I-Trg	sanitizers	NNS
+O	hand	NN
+O	sanitizers	NNS
 O	may	MD
 O	be	VB
 O	isopropyl	JJ
@@ -2956,8 +2956,8 @@ O	of	IN
 O	plants	NNS
 
 O	Alcohol-based	JJ
-B-Trg	hand	NN
-I-Trg	sanitizers	NNS
+O	hand	NN
+O	sanitizers	NNS
 O	are	VBP
 O	more	RBR
 O	effective	JJ
@@ -2975,7 +2975,7 @@ I-Eff	hands	NNS
 O	as	RB
 O	much	RB
 
-B-Trg	Hibiscus	NNP
+O	Hibiscus	NNP
 O	tea	NN
 O	is	VBZ
 O	a	DT
@@ -2999,7 +2999,7 @@ O	Hibiscus	NN
 O	sabdariffa	NN
 O	flower	NN
 
-B-Trg	It	PRP
+O	It	PRP
 O	is	VBZ
 B-MOU	consumed	VBN
 I-MOU	both	DT
@@ -3008,11 +3008,11 @@ I-MOU	and	CC
 I-MOU	cold	JJ
 
 O	A	DT
-B-Trg	hot	JJ
-I-Trg	water	NN
-I-Trg	bottle	NN
+O	hot	JJ
+O	water	NN
+O	bottle	NN
 O	or	CC
-B-Trg	hottie	NN
+O	hottie	NN
 O	is	VBZ
 O	a	DT
 O	container	NN
@@ -3048,11 +3048,11 @@ I-Eff	the	DT
 I-Eff	body	NN
 
 O	An	DT
-B-Trg	ice	NN
-I-Trg	pack	NN
+O	ice	NN
+O	pack	NN
 O	or	CC
-B-Trg	gel	NN
-I-Trg	pack	NN
+O	gel	NN
+O	pack	NN
 O	is	VBZ
 O	a	DT
 O	portable	JJ
@@ -3109,7 +3109,7 @@ O	of	IN
 O	water	NN
 
 O	These	DT
-B-Trg	packs	NNS
+O	packs	NNS
 O	are	VBP
 O	commonly	RB
 O	used	VBN
@@ -3143,9 +3143,9 @@ I-Eff	products	NNS
 I-Eff	cool	JJ
 I-Eff	during	IN
 I-Eff	transport	NN
-B-Trg	iFood	NN
-B-Trg	isotopic	JJ
-I-Trg	food	NN
+O	iFood	NN
+O	isotopic	JJ
+O	food	NN
 O	contains	VBZ
 O	nutritients	NNS
 O	in	IN
@@ -3214,12 +3214,12 @@ O	abundance	NN
 
 B-MOU	Consumption	NN
 O	of	IN
-B-Trg	foods	NNS
-I-Trg	relatively	RB
-I-Trg	rich	JJ
-I-Trg	in	IN
-I-Trg	heavy	JJ
-I-Trg	isotopes	NNS
+O	foods	NNS
+O	relatively	RB
+O	rich	JJ
+O	in	IN
+O	heavy	JJ
+O	isotopes	NNS
 O	especially	RB
 O	at	IN
 O	the	DT
@@ -3256,7 +3256,7 @@ O	the	DT
 O	human	JJ
 O	cells	NNS
 
-B-Trg	Isoflavones	NNS
+O	Isoflavones	NNS
 O	are	VBP
 O	a	DT
 O	type	NN
@@ -3274,13 +3274,13 @@ B-Eff	phytoestrogens	NNS
 O	in	IN
 O	mammals	NNS
 
-B-Trg	Some	DT
+O	Some	DT
 O	are	VBP
 O	termed	VBN
-B-Trg	antioxidants	NNS
+O	antioxidants	NNS
 O	because	IN
 O	of	IN
-B-Trg	their	PRP$
+O	their	PRP$
 O	ability	NN
 O	to	TO
 B-Eff	trap	NN
@@ -3296,7 +3296,7 @@ I-Eff	breast	NN
 I-Eff	cancer	NN
 O	from	IN
 O	soy	NN
-B-Trg	isoflavones	NNS
+O	isoflavones	NNS
 O	was	VBD
 O	only	RB
 O	shown	VBN
@@ -3309,8 +3309,8 @@ O	Cancer	NN
 O	Survival	NN
 O	Study	NN
 
-B-Trg	Aloe	NNP
-I-Trg	vera	NN
+O	Aloe	NNP
+O	vera	NN
 O	is	VBZ
 O	a	DT
 O	succulent	JJ
@@ -3319,8 +3319,8 @@ O	species	NNS
 
 O	Extracts	NNS
 O	from	IN
-B-Trg	Aloe	NNP
-I-Trg	vera	NN
+O	Aloe	NNP
+O	vera	NN
 O	are	VBP
 O	widely	RB
 O	used	VBN
@@ -3354,8 +3354,8 @@ O	effectiveness	NN
 O	or	CC
 O	safety	NN
 O	of	IN
-B-Trg	Aloe	NNP
-I-Trg	vera	NN
+O	Aloe	NNP
+O	vera	NN
 O	extracts	NNS
 O	for	IN
 O	either	CC
@@ -3377,8 +3377,8 @@ O	other	JJ
 O	studies	NNS
 
 O	Non-decolorized	JJ
-B-Trg	aloe	NN
-I-Trg	vera	NN
+O	aloe	NN
+O	vera	NN
 O	leaf	NN
 O	extract	NN
 O	has	VBZ
@@ -3401,7 +3401,7 @@ O	along	IN
 O	with	IN
 O	goldenseal	NN
 
-B-Trg	Althaea	NNP
+O	Althaea	NNP
 O	is	VBZ
 O	a	DT
 O	genus	NN
@@ -3421,14 +3421,14 @@ O	Asia	NNP
 
 O	It	PRP
 O	includes	VBZ
-B-Trg	Althaea	NNP
-I-Trg	officinalis	NN
+O	Althaea	NNP
+O	officinalis	NN
 O	also	RB
 O	known	VBN
 O	as	IN
 O	the	DT
-B-Trg	marshmallow	NN
-I-Trg	plant	NN
+O	marshmallow	NN
+O	plant	NN
 O	whence	VBP
 O	the	DT
 O	fluffy	JJ
@@ -3477,16 +3477,16 @@ O	3	CD
 O	7	CD
 O	lobes	NNS
 
-B-Trg	Angelica	NNP
-I-Trg	sinensis	NNP
+O	Angelica	NNP
+O	sinensis	NNP
 O	commonly	RB
 O	known	VBN
 O	as	IN
-B-Trg	dong	FW
-I-Trg	quai	FW
+O	dong	FW
+O	quai	FW
 O	or	CC
-B-Trg	female	JJ
-I-Trg	ginseng	NN
+O	female	JJ
+O	ginseng	NN
 O	is	VBZ
 O	a	DT
 O	herb	NN
@@ -3498,8 +3498,8 @@ O	Apiaceae	NNP
 O	indigenous	JJ
 O	to	TO
 O	China	NNP
-B-Trg	Angelica	NNP
-I-Trg	sinensis	VBZ
+O	Angelica	NNP
+O	sinensis	VBZ
 O	grows	VBZ
 O	in	IN
 O	cool	JJ
@@ -3536,12 +3536,12 @@ O	of	IN
 O	years	NNS
 
 O	The	DT
-B-Trg	globe	NN
-I-Trg	artichoke	NN
-B-Trg	Cynara	NN
-I-Trg	cardunculus	NN
+O	globe	NN
+O	artichoke	NN
+O	Cynara	NN
+O	cardunculus	NN
 O	var	NN
-B-Trg	scolymus	NN
+O	scolymus	NN
 O	is	VBZ
 O	a	DT
 O	variety	NN
@@ -3559,8 +3559,8 @@ O	The	DT
 O	edible	JJ
 O	portion	NN
 O	of	IN
-B-Trg	the	DT
-I-Trg	plant	NN
+O	the	DT
+O	plant	NN
 O	consists	VBZ
 O	of	IN
 O	the	DT
@@ -3575,7 +3575,7 @@ O	bloom	NN
 
 O	The	DT
 O	budding	VBG
-B-Trg	artichoke	NN
+O	artichoke	NN
 O	flower-head	NN
 O	is	VBZ
 O	a	DT
@@ -3613,8 +3613,8 @@ O	form	NN
 O	Another	DT
 O	variety	NN
 O	of	IN
-B-Trg	the	DT
-I-Trg	species	NNS
+O	the	DT
+O	species	NNS
 O	is	VBZ
 O	the	DT
 O	cardoon	NN
@@ -3627,7 +3627,7 @@ O	the	DT
 O	Mediterranean	JJ
 O	region	NN
 
-B-Trg	Astragalus	NN
+O	Astragalus	NN
 O	is	VBZ
 O	a	DT
 O	large	JJ
@@ -3652,7 +3652,7 @@ O	the	DT
 O	subfamily	NN
 O	Faboideae	NN
 
-B-Trg	It	PRP
+O	It	PRP
 O	is	VBZ
 O	the	DT
 O	largest	JJS
@@ -3665,8 +3665,8 @@ O	of	IN
 O	described	VBN
 O	species	NNS
 
-B-Trg	The	DT
-I-Trg	genus	NN
+O	The	DT
+O	genus	NN
 O	is	VBZ
 O	native	JJ
 O	to	TO
@@ -3680,19 +3680,19 @@ O	Hemisphere	NNP
 O	Common	JJ
 O	names	NNS
 O	include	VBP
-B-Trg	milkvetch	NN
+O	milkvetch	NN
 O	most	RBS
 O	species	NNS
-B-Trg	locoweed	JJ
+O	locoweed	JJ
 O	in	IN
 O	North	NNP
 O	America	NNP
 O	some	DT
 O	species	NNS
 O	and	CC
-B-Trg	goat	NN
-I-Trg	s	POS
-I-Trg	thorn	NN
+O	goat	NN
+O	s	POS
+O	thorn	NN
 O	A.	NN
 O	gummifer	NN
 O	A.	NN
@@ -3711,7 +3711,7 @@ O	are	VBP
 O	more	RBR
 O	vine-like	JJ
 
-B-Trg	Bilberries	NNS
+O	Bilberries	NNS
 O	are	VBP
 O	any	DT
 O	of	IN
@@ -3753,7 +3753,7 @@ O	closely	RB
 O	related	JJ
 O	species	NNS
 
-B-Trg	Bilberries	NNS
+O	Bilberries	NNS
 O	are	VBP
 O	distinct	JJ
 O	from	IN
@@ -3764,7 +3764,7 @@ O	related	JJ
 O	to	TO
 O	them	PRP
 
-B-Trg	Bromelain	NNP
+O	Bromelain	NNP
 O	is	VBZ
 O	a	DT
 O	protein	NN
@@ -3788,8 +3788,8 @@ O	plant	NN
 O	and	CC
 O	fruit	NN
 
-B-Trg	The	DT
-I-Trg	extract	NN
+O	The	DT
+O	extract	NN
 O	has	VBZ
 O	a	DT
 O	history	NN
@@ -3802,7 +3802,7 @@ O	As	IN
 O	a	DT
 B-MOU	culinary	JJ
 I-MOU	ingredient	NN
-B-Trg	it	PRP
+O	it	PRP
 O	may	MD
 O	be	VB
 O	used	VBN
@@ -3813,7 +3813,7 @@ I-Eff	tenderizer	NN
 
 O	The	DT
 O	term	NN
-B-Trg	bromelain	NN
+O	bromelain	NN
 O	may	MD
 O	refer	VB
 O	to	TO
@@ -3859,12 +3859,12 @@ O	of	IN
 O	research	NN
 O	models	NNS
 O	for	IN
-B-Trg	its	PRP$
+O	its	PRP$
 O	possible	JJ
 B-Eff	efficacy	NN
 I-Eff	against	IN
 I-Eff	diseases	NNS
-B-Trg	bromelain	NN
+O	bromelain	NN
 O	has	VBZ
 O	no	DT
 O	established	JJ
@@ -3877,31 +3877,31 @@ O	or	CC
 O	drug	NN
 
 O	The	DT
-B-Trg	cayenne	NN
-I-Trg	pepper	NN
+O	cayenne	NN
+O	pepper	NN
 O	also	RB
 O	known	VBN
 O	as	IN
 O	the	DT
-B-Trg	Guinea	NNP
-I-Trg	spice	NN
-B-Trg	cow-horn	JJ
-I-Trg	pepper	NN
-B-Trg	red	JJ
-I-Trg	hot	JJ
-I-Trg	chili	NNS
-I-Trg	pepper	NN
-B-Trg	aleva	NN
-B-Trg	bird	NN
-I-Trg	pepper	NN
+O	Guinea	NNP
+O	spice	NN
+O	cow-horn	JJ
+O	pepper	NN
+O	red	JJ
+O	hot	JJ
+O	chili	NNS
+O	pepper	NN
+O	aleva	NN
+O	bird	NN
+O	pepper	NN
 O	or	CC
 O	especially	RB
 O	in	IN
 O	its	PRP$
 O	powdered	JJ
 O	form	NN
-B-Trg	red	JJ
-I-Trg	pepper	NN
+O	red	JJ
+O	pepper	NN
 O	is	VBZ
 O	a	DT
 O	List	NN

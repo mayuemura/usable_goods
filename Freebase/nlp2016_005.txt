@@ -1,0 +1,2467 @@
+Astragalus	Higher classification	Dicotyledon	.
+Astragalus	Higher classification	Embryophyte	.
+Astragalus	Higher classification	Eukaryote	.
+Astragalus	Higher classification	Fabaceae	.
+Astragalus	Higher classification	Fabales	.
+Astragalus	Higher classification	Faboideae	.
+Astragalus	Higher classification	Flowering plant	.
+Astragalus	Higher classification	Plant	.
+Astragalus	Higher classification	Rosidae	.
+Astragalus	Higher classification	Spermatophyte	.
+Astragalus	ITIS Taxon S/N	"25392"	.
+Astragalus	NCBI Taxon ID	"20400"	.
+Astragalus	Rank	Genus	.
+Astragalus	Scientific name	"Astragalus"@en	.
+Astragalus	is-a	Dicotyledon	.
+Astragalus	is-a	Embryophyte	.
+Astragalus	is-a	Eukaryote	.
+Astragalus	is-a	Fabaceae	.
+Astragalus	is-a	Fabales	.
+Astragalus	is-a	Faboideae	.
+Astragalus	is-a	Flowering plant	.
+Astragalus	is-a	Organism Classification	.
+Astragalus	is-a	Plant	.
+Astragalus	is-a	Rosidae	.
+Astragalus	is-a	Spermatophyte	.
+Astragalus	is-a	Topic	.
+Astragalus	Higher classification	Dicotyledon	.
+Astragalus	Higher classification	Embryophyte	.
+Astragalus	Higher classification	Eukaryote	.
+Astragalus	Higher classification	Fabaceae	.
+Astragalus	Higher classification	Fabales	.
+Astragalus	Higher classification	Faboideae	.
+Astragalus	Higher classification	Flowering plant	.
+Astragalus	Higher classification	Plant	.
+Astragalus	Higher classification	Rosidae	.
+Astragalus	Higher classification	Spermatophyte	.
+Astragalus	ITIS Taxon S/N	"25392"	.
+Astragalus	NCBI Taxon ID	"20400"	.
+Astragalus	Rank	Genus	.
+Astragalus	Scientific name	"Astragalus"@en	.
+Astragalus	is-a	Dicotyledon	.
+Astragalus	is-a	Embryophyte	.
+Astragalus	is-a	Eukaryote	.
+Astragalus	is-a	Fabaceae	.
+Astragalus	is-a	Fabales	.
+Astragalus	is-a	Faboideae	.
+Astragalus	is-a	Flowering plant	.
+Astragalus	is-a	Organism Classification	.
+Astragalus	is-a	Plant	.
+Astragalus	is-a	Rosidae	.
+Astragalus	is-a	Spermatophyte	.
+Astragalus	is-a	Topic	.
+Astragalus Nuttallii Leaf/Berberis Vulgaris Root Bark/Selenicereus Grandiflorus Stem/Lytta Vesicatoria/Activated Charcoal/Silybum Marianum Seed/Ceanothus Americanus Leaf/Chelidonium Majus/Chionanthus Virginicus Bark/Dioscorea Villosa Root/Mucuna Pruriens Fruit Trichome/Equisetum Hyemale/Veronicastrum Virginicum Root/Lycopodium Clavatum Spore/Strychnos Nux-Vomica Seed/Sulfur/Solidago Virgaurea Flowering Top/Taraxacum Officinale Homeopathic Preparation Oral	Route of administration	Oral (Drug administration route)	.
+Astragalus Nuttallii Leaf/Berberis Vulgaris Root Bark/Selenicereus Grandiflorus Stem/Lytta Vesicatoria/Activated Charcoal/Silybum Marianum Seed/Ceanothus Americanus Leaf/Chelidonium Majus/Chionanthus Virginicus Bark/Dioscorea Villosa Root/Mucuna Pruriens Fruit Trichome/Equisetum Hyemale/Veronicastrum Virginicum Root/Lycopodium Clavatum Spore/Strychnos Nux-Vomica Seed/Sulfur/Solidago Virgaurea Flowering Top/Taraxacum Officinale Homeopathic Preparation Oral	Routed drug of	Astragalus nuttallii leaf/Berberis vulgaris root bark/Selenicereus grandiflorus stem/Lytta vesicatoria/Activated charcoal/Silybum marianum seed/Ceanothus americanus leaf/Chelidonium majus/Chionanthus virginicus bark/Dioscorea villosa root/Mucuna pruriens fruit trichome/Equisetum hyemale/Veronicastrum virginicum root/Lycopodium clavatum spore/Strychnos nux-vomica seed/Sulfur/Solidago virgaurea flowering top/Taraxacum officinale homeopathic preparation	.
+Astragalus Nuttallii Leaf/Berberis Vulgaris Root Bark/Selenicereus Grandiflorus Stem/Lytta Vesicatoria/Activated Charcoal/Silybum Marianum Seed/Ceanothus Americanus Leaf/Chelidonium Majus/Chionanthus Virginicus Bark/Dioscorea Villosa Root/Mucuna Pruriens Fruit Trichome/Equisetum Hyemale/Veronicastrum Virginicum Root/Lycopodium Clavatum Spore/Strychnos Nux-Vomica Seed/Sulfur/Solidago Virgaurea Flowering Top/Taraxacum Officinale Homeopathic Preparation Oral	is-a	Condition prevention factors	.
+Astragalus Nuttallii Leaf/Berberis Vulgaris Root Bark/Selenicereus Grandiflorus Stem/Lytta Vesicatoria/Activated Charcoal/Silybum Marianum Seed/Ceanothus Americanus Leaf/Chelidonium Majus/Chionanthus Virginicus Bark/Dioscorea Villosa Root/Mucuna Pruriens Fruit Trichome/Equisetum Hyemale/Veronicastrum Virginicum Root/Lycopodium Clavatum Spore/Strychnos Nux-Vomica Seed/Sulfur/Solidago Virgaurea Flowering Top/Taraxacum Officinale Homeopathic Preparation Oral	is-a	Medical Treatment	.
+Astragalus Nuttallii Leaf/Berberis Vulgaris Root Bark/Selenicereus Grandiflorus Stem/Lytta Vesicatoria/Activated Charcoal/Silybum Marianum Seed/Ceanothus Americanus Leaf/Chelidonium Majus/Chionanthus Virginicus Bark/Dioscorea Villosa Root/Mucuna Pruriens Fruit Trichome/Equisetum Hyemale/Veronicastrum Virginicum Root/Lycopodium Clavatum Spore/Strychnos Nux-Vomica Seed/Sulfur/Solidago Virgaurea Flowering Top/Taraxacum Officinale Homeopathic Preparation Oral	is-a	Routed drug	.
+Astragalus Nuttallii Leaf/Berberis Vulgaris Root Bark/Selenicereus Grandiflorus Stem/Lytta Vesicatoria/Activated Charcoal/Silybum Marianum Seed/Ceanothus Americanus Leaf/Chelidonium Majus/Chionanthus Virginicus Bark/Dioscorea Villosa Root/Mucuna Pruriens Fruit Trichome/Equisetum Hyemale/Veronicastrum Virginicum Root/Lycopodium Clavatum Spore/Strychnos Nux-Vomica Seed/Sulfur/Solidago Virgaurea Flowering Top/Taraxacum Officinale Homeopathic Preparation Oral	is-a	Topic	.
+Astragalus Root, Astragalus Membranaceus	Author	Roy Upton	.
+Astragalus Root, Astragalus Membranaceus	is-a	Book	.
+Astragalus Root, Astragalus Membranaceus	is-a	Topic	.
+Astragalus Root, Astragalus Membranaceus	is-a	Written Work	.
+Astragalus acutirostris	Higher classification	Astragalus	.
+Astragalus acutirostris	Higher classification	Dicotyledon	.
+Astragalus acutirostris	Higher classification	Embryophyte	.
+Astragalus acutirostris	Higher classification	Eukaryote	.
+Astragalus acutirostris	Higher classification	Fabaceae	.
+Astragalus acutirostris	Higher classification	Fabales	.
+Astragalus acutirostris	Higher classification	Faboideae	.
+Astragalus acutirostris	Higher classification	Flowering plant	.
+Astragalus acutirostris	Higher classification	Plant	.
+Astragalus acutirostris	Higher classification	Rosidae	.
+Astragalus acutirostris	Higher classification	Spermatophyte	.
+Astragalus acutirostris	ITIS Taxon S/N	"25398"	.
+Astragalus acutirostris	Rank	Species (Organism Classification Rank)	.
+Astragalus acutirostris	Scientific name	"Astragalus acutirostris"@en	.
+Astragalus acutirostris	is-a	Astragalus	.
+Astragalus acutirostris	is-a	Dicotyledon	.
+Astragalus acutirostris	is-a	Embryophyte	.
+Astragalus acutirostris	is-a	Eukaryote	.
+Astragalus acutirostris	is-a	Fabaceae	.
+Astragalus acutirostris	is-a	Fabales	.
+Astragalus acutirostris	is-a	Faboideae	.
+Astragalus acutirostris	is-a	Flowering plant	.
+Astragalus acutirostris	is-a	Organism Classification	.
+Astragalus acutirostris	is-a	Plant	.
+Astragalus acutirostris	is-a	Rosidae	.
+Astragalus acutirostris	is-a	Spermatophyte	.
+Astragalus acutirostris	is-a	Topic	.
+Astragalus agnicidus	Higher classification	Astragalus	.
+Astragalus agnicidus	Higher classification	Dicotyledon	.
+Astragalus agnicidus	Higher classification	Embryophyte	.
+Astragalus agnicidus	Higher classification	Eukaryote	.
+Astragalus agnicidus	Higher classification	Fabaceae	.
+Astragalus agnicidus	Higher classification	Fabales	.
+Astragalus agnicidus	Higher classification	Faboideae	.
+Astragalus agnicidus	Higher classification	Flowering plant	.
+Astragalus agnicidus	Higher classification	Plant	.
+Astragalus agnicidus	Higher classification	Rosidae	.
+Astragalus agnicidus	Higher classification	Spermatophyte	.
+Astragalus agnicidus	ITIS Taxon S/N	"25404"	.
+Astragalus agnicidus	Rank	Species (Organism Classification Rank)	.
+Astragalus agnicidus	Scientific name	"Astragalus agnicidus"@en	.
+Astragalus agnicidus	is-a	Astragalus	.
+Astragalus agnicidus	is-a	Dicotyledon	.
+Astragalus agnicidus	is-a	Embryophyte	.
+Astragalus agnicidus	is-a	Eukaryote	.
+Astragalus agnicidus	is-a	Fabaceae	.
+Astragalus agnicidus	is-a	Fabales	.
+Astragalus agnicidus	is-a	Faboideae	.
+Astragalus agnicidus	is-a	Flowering plant	.
+Astragalus agnicidus	is-a	Organism Classification	.
+Astragalus agnicidus	is-a	Plant	.
+Astragalus agnicidus	is-a	Rosidae	.
+Astragalus agnicidus	is-a	Spermatophyte	.
+Astragalus agnicidus	is-a	Topic	.
+Astragalus agrestis	Higher classification	Astragalus	.
+Astragalus agrestis	Higher classification	Dicotyledon	.
+Astragalus agrestis	Higher classification	Embryophyte	.
+Astragalus agrestis	Higher classification	Eukaryote	.
+Astragalus agrestis	Higher classification	Fabaceae	.
+Astragalus agrestis	Higher classification	Fabales	.
+Astragalus agrestis	Higher classification	Faboideae	.
+Astragalus agrestis	Higher classification	Flowering plant	.
+Astragalus agrestis	Higher classification	Plant	.
+Astragalus agrestis	Higher classification	Rosidae	.
+Astragalus agrestis	Higher classification	Spermatophyte	.
+Astragalus agrestis	ITIS Taxon S/N	"25405"	.
+Astragalus agrestis	Rank	Species (Organism Classification Rank)	.
+Astragalus agrestis	Scientific name	"Astragalus agrestis"@en	.
+Astragalus agrestis	is-a	Astragalus	.
+Astragalus agrestis	is-a	Dicotyledon	.
+Astragalus agrestis	is-a	Embryophyte	.
+Astragalus agrestis	is-a	Eukaryote	.
+Astragalus agrestis	is-a	Fabaceae	.
+Astragalus agrestis	is-a	Fabales	.
+Astragalus agrestis	is-a	Faboideae	.
+Astragalus agrestis	is-a	Flowering plant	.
+Astragalus agrestis	is-a	Organism Classification	.
+Astragalus agrestis	is-a	Plant	.
+Astragalus agrestis	is-a	Rosidae	.
+Astragalus agrestis	is-a	Spermatophyte	.
+Astragalus agrestis	is-a	Topic	.
+Astragalus albens	Higher classification	Astragalus	.
+Astragalus albens	Higher classification	Dicotyledon	.
+Astragalus albens	Higher classification	Embryophyte	.
+Astragalus albens	Higher classification	Eukaryote	.
+Astragalus albens	Higher classification	Fabaceae	.
+Astragalus albens	Higher classification	Fabales	.
+Astragalus albens	Higher classification	Faboideae	.
+Astragalus albens	Higher classification	Flowering plant	.
+Astragalus albens	Higher classification	Plant	.
+Astragalus albens	Higher classification	Rosidae	.
+Astragalus albens	Higher classification	Spermatophyte	.
+Astragalus albens	ITIS Taxon S/N	"25406"	.
+Astragalus albens	Rank	Species (Organism Classification Rank)	.
+Astragalus albens	Scientific name	"Astragalus albens"@en	.
+Astragalus albens	is-a	Astragalus	.
+Astragalus albens	is-a	Dicotyledon	.
+Astragalus albens	is-a	Embryophyte	.
+Astragalus albens	is-a	Eukaryote	.
+Astragalus albens	is-a	Fabaceae	.
+Astragalus albens	is-a	Fabales	.
+Astragalus albens	is-a	Faboideae	.
+Astragalus albens	is-a	Flowering plant	.
+Astragalus albens	is-a	Organism Classification	.
+Astragalus albens	is-a	Plant	.
+Astragalus albens	is-a	Rosidae	.
+Astragalus albens	is-a	Spermatophyte	.
+Astragalus albens	is-a	Topic	.
+Astragalus ampullarioides	Scientific name	"Astragalus ampullarioides"@en	.
+Astragalus ampullarioides	is-a	Organism Classification	.
+Astragalus ampullarioides	is-a	Topic	.
+Astragalus and its segregates as represened in Colorado (Book Edition)	Edition Of	Astragalus and its segregates as represened in Colorado (Book)	.
+Astragalus and its segregates as represened in Colorado (Book Edition)	Place of publication	New York City	.
+Astragalus and its segregates as represened in Colorado (Book Edition)	Publication date	"1906"^^<http://www.w3.org/2001/XMLSchema#gYear>	.
+Astragalus and its segregates as represened in Colorado (Book Edition)	Stanford OPAC	"2240071"	.
+Astragalus and its segregates as represened in Colorado (Book Edition)	is-a	Book Edition	.
+Astragalus and its segregates as represened in Colorado (Book Edition)	is-a	Cataloged instance	.
+Astragalus and its segregates as represened in Colorado (Book Edition)	is-a	Topic	.
+Astragalus and its segregates as represened in Colorado (Book)	Author	Per Axel Rydberg	.
+Astragalus and its segregates as represened in Colorado (Book)	is-a	Book	.
+Astragalus and its segregates as represened in Colorado (Book)	is-a	Topic	.
+Astragalus and its segregates as represened in Colorado (Book)	is-a	Written Work	.
+Astragalus andersonii	Higher classification	Astragalus	.
+Astragalus andersonii	Higher classification	Dicotyledon	.
+Astragalus andersonii	Higher classification	Embryophyte	.
+Astragalus andersonii	Higher classification	Eukaryote	.
+Astragalus andersonii	Higher classification	Fabaceae	.
+Astragalus andersonii	Higher classification	Fabales	.
+Astragalus andersonii	Higher classification	Faboideae	.
+Astragalus andersonii	Higher classification	Flowering plant	.
+Astragalus andersonii	Higher classification	Plant	.
+Astragalus andersonii	Higher classification	Rosidae	.
+Astragalus andersonii	Higher classification	Spermatophyte	.
+Astragalus andersonii	ITIS Taxon S/N	"25416"	.
+Astragalus andersonii	Rank	Species (Organism Classification Rank)	.
+Astragalus andersonii	Scientific name	"Astragalus andersonii"@en	.
+Astragalus andersonii	is-a	Astragalus	.
+Astragalus andersonii	is-a	Dicotyledon	.
+Astragalus andersonii	is-a	Embryophyte	.
+Astragalus andersonii	is-a	Eukaryote	.
+Astragalus andersonii	is-a	Fabaceae	.
+Astragalus andersonii	is-a	Fabales	.
+Astragalus andersonii	is-a	Faboideae	.
+Astragalus andersonii	is-a	Flowering plant	.
+Astragalus andersonii	is-a	Organism Classification	.
+Astragalus andersonii	is-a	Plant	.
+Astragalus andersonii	is-a	Rosidae	.
+Astragalus andersonii	is-a	Spermatophyte	.
+Astragalus andersonii	is-a	Topic	.
+Astragalus anserinus	Scientific name	"Astragalus anserinus"@en	.
+Astragalus anserinus	is-a	Organism Classification	.
+Astragalus anserinus	is-a	Topic	.
+Astragalus anxius	Higher classification	Astragalus	.
+Astragalus anxius	Higher classification	Dicotyledon	.
+Astragalus anxius	Higher classification	Embryophyte	.
+Astragalus anxius	Higher classification	Eukaryote	.
+Astragalus anxius	Higher classification	Fabaceae	.
+Astragalus anxius	Higher classification	Fabales	.
+Astragalus anxius	Higher classification	Faboideae	.
+Astragalus anxius	Higher classification	Flowering plant	.
+Astragalus anxius	Higher classification	Plant	.
+Astragalus anxius	Higher classification	Rosidae	.
+Astragalus anxius	Higher classification	Spermatophyte	.
+Astragalus anxius	ITIS Taxon S/N	"507434"	.
+Astragalus anxius	Rank	Species (Organism Classification Rank)	.
+Astragalus anxius	Scientific name	"Astragalus anxius"@en	.
+Astragalus anxius	is-a	Astragalus	.
+Astragalus anxius	is-a	Dicotyledon	.
+Astragalus anxius	is-a	Embryophyte	.
+Astragalus anxius	is-a	Eukaryote	.
+Astragalus anxius	is-a	Fabaceae	.
+Astragalus anxius	is-a	Fabales	.
+Astragalus anxius	is-a	Faboideae	.
+Astragalus anxius	is-a	Flowering plant	.
+Astragalus anxius	is-a	Organism Classification	.
+Astragalus anxius	is-a	Plant	.
+Astragalus anxius	is-a	Rosidae	.
+Astragalus anxius	is-a	Spermatophyte	.
+Astragalus anxius	is-a	Topic	.
+Astragalus applegatei	Scientific name	"Astragalus applegatei"@en	.
+Astragalus applegatei	is-a	Organism Classification	.
+Astragalus applegatei	is-a	Topic	.
+Astragalus asymmetricus	Higher classification	Astragalus	.
+Astragalus asymmetricus	Higher classification	Dicotyledon	.
+Astragalus asymmetricus	Higher classification	Embryophyte	.
+Astragalus asymmetricus	Higher classification	Eukaryote	.
+Astragalus asymmetricus	Higher classification	Fabaceae	.
+Astragalus asymmetricus	Higher classification	Fabales	.
+Astragalus asymmetricus	Higher classification	Faboideae	.
+Astragalus asymmetricus	Higher classification	Flowering plant	.
+Astragalus asymmetricus	Higher classification	Plant	.
+Astragalus asymmetricus	Higher classification	Rosidae	.
+Astragalus asymmetricus	Higher classification	Spermatophyte	.
+Astragalus asymmetricus	ITIS Taxon S/N	"25427"	.
+Astragalus asymmetricus	Rank	Species (Organism Classification Rank)	.
+Astragalus asymmetricus	Scientific name	"Astragalus asymmetricus"@en	.
+Astragalus asymmetricus	is-a	Astragalus	.
+Astragalus asymmetricus	is-a	Dicotyledon	.
+Astragalus asymmetricus	is-a	Embryophyte	.
+Astragalus asymmetricus	is-a	Eukaryote	.
+Astragalus asymmetricus	is-a	Fabaceae	.
+Astragalus asymmetricus	is-a	Fabales	.
+Astragalus asymmetricus	is-a	Faboideae	.
+Astragalus asymmetricus	is-a	Flowering plant	.
+Astragalus asymmetricus	is-a	Organism Classification	.
+Astragalus asymmetricus	is-a	Plant	.
+Astragalus asymmetricus	is-a	Rosidae	.
+Astragalus asymmetricus	is-a	Spermatophyte	.
+Astragalus asymmetricus	is-a	Topic	.
+Astragalus atropilosulus	Higher classification	Dicotyledon	.
+Astragalus atropilosulus	Higher classification	Embryophyte	.
+Astragalus atropilosulus	Higher classification	Eukaryote	.
+Astragalus atropilosulus	Higher classification	Fabaceae	.
+Astragalus atropilosulus	Higher classification	Fabales	.
+Astragalus atropilosulus	Higher classification	Faboideae	.
+Astragalus atropilosulus	Higher classification	Flowering plant	.
+Astragalus atropilosulus	Higher classification	Plant	.
+Astragalus atropilosulus	Higher classification	Rosidae	.
+Astragalus atropilosulus	Higher classification	Spermatophyte	.
+Astragalus atropilosulus	Scientific name	"Astragalus atropilosulus"@en	.
+Astragalus atropilosulus	is-a	Dicotyledon	.
+Astragalus atropilosulus	is-a	Embryophyte	.
+Astragalus atropilosulus	is-a	Eukaryote	.
+Astragalus atropilosulus	is-a	Fabaceae	.
+Astragalus atropilosulus	is-a	Fabales	.
+Astragalus atropilosulus	is-a	Faboideae	.
+Astragalus atropilosulus	is-a	Flowering plant	.
+Astragalus atropilosulus	is-a	Organism Classification	.
+Astragalus atropilosulus	is-a	Plant	.
+Astragalus atropilosulus	is-a	Rosidae	.
+Astragalus atropilosulus	is-a	Spermatophyte	.
+Astragalus atropilosulus	is-a	Topic	.
+Astragalus austiniae	Higher classification	Astragalus	.
+Astragalus austiniae	Higher classification	Dicotyledon	.
+Astragalus austiniae	Higher classification	Embryophyte	.
+Astragalus austiniae	Higher classification	Eukaryote	.
+Astragalus austiniae	Higher classification	Fabaceae	.
+Astragalus austiniae	Higher classification	Fabales	.
+Astragalus austiniae	Higher classification	Faboideae	.
+Astragalus austiniae	Higher classification	Flowering plant	.
+Astragalus austiniae	Higher classification	Plant	.
+Astragalus austiniae	Higher classification	Rosidae	.
+Astragalus austiniae	Higher classification	Spermatophyte	.
+Astragalus austiniae	ITIS Taxon S/N	"25430"	.
+Astragalus austiniae	Rank	Species (Organism Classification Rank)	.
+Astragalus austiniae	Scientific name	"Astragalus austiniae"@en	.
+Astragalus austiniae	is-a	Astragalus	.
+Astragalus austiniae	is-a	Dicotyledon	.
+Astragalus austiniae	is-a	Embryophyte	.
+Astragalus austiniae	is-a	Eukaryote	.
+Astragalus austiniae	is-a	Fabaceae	.
+Astragalus austiniae	is-a	Fabales	.
+Astragalus austiniae	is-a	Faboideae	.
+Astragalus austiniae	is-a	Flowering plant	.
+Astragalus austiniae	is-a	Organism Classification	.
+Astragalus austiniae	is-a	Plant	.
+Astragalus austiniae	is-a	Rosidae	.
+Astragalus austiniae	is-a	Spermatophyte	.
+Astragalus austiniae	is-a	Topic	.
+Astragalus bernardinus	Higher classification	Astragalus	.
+Astragalus bernardinus	Higher classification	Dicotyledon	.
+Astragalus bernardinus	Higher classification	Embryophyte	.
+Astragalus bernardinus	Higher classification	Eukaryote	.
+Astragalus bernardinus	Higher classification	Fabaceae	.
+Astragalus bernardinus	Higher classification	Fabales	.
+Astragalus bernardinus	Higher classification	Faboideae	.
+Astragalus bernardinus	Higher classification	Flowering plant	.
+Astragalus bernardinus	Higher classification	Plant	.
+Astragalus bernardinus	Higher classification	Rosidae	.
+Astragalus bernardinus	Higher classification	Spermatophyte	.
+Astragalus bernardinus	ITIS Taxon S/N	"25436"	.
+Astragalus bernardinus	Rank	Species (Organism Classification Rank)	.
+Astragalus bernardinus	Scientific name	"Astragalus bernardinus"@en	.
+Astragalus bernardinus	is-a	Astragalus	.
+Astragalus bernardinus	is-a	Dicotyledon	.
+Astragalus bernardinus	is-a	Embryophyte	.
+Astragalus bernardinus	is-a	Eukaryote	.
+Astragalus bernardinus	is-a	Fabaceae	.
+Astragalus bernardinus	is-a	Fabales	.
+Astragalus bernardinus	is-a	Faboideae	.
+Astragalus bernardinus	is-a	Flowering plant	.
+Astragalus bernardinus	is-a	Organism Classification	.
+Astragalus bernardinus	is-a	Plant	.
+Astragalus bernardinus	is-a	Rosidae	.
+Astragalus bernardinus	is-a	Spermatophyte	.
+Astragalus bernardinus	is-a	Topic	.
+Astragalus bibullatus	Higher classification	Astragalus	.
+Astragalus bibullatus	Higher classification	Dicotyledon	.
+Astragalus bibullatus	Higher classification	Embryophyte	.
+Astragalus bibullatus	Higher classification	Eukaryote	.
+Astragalus bibullatus	Higher classification	Fabaceae	.
+Astragalus bibullatus	Higher classification	Fabales	.
+Astragalus bibullatus	Higher classification	Faboideae	.
+Astragalus bibullatus	Higher classification	Flowering plant	.
+Astragalus bibullatus	Higher classification	Plant	.
+Astragalus bibullatus	Higher classification	Rosidae	.
+Astragalus bibullatus	Higher classification	Spermatophyte	.
+Astragalus bibullatus	ITIS Taxon S/N	"192810"	.
+Astragalus bibullatus	Rank	Species (Organism Classification Rank)	.
+Astragalus bibullatus	Scientific name	"Astragalus bibullatus"@en	.
+Astragalus bibullatus	is-a	Astragalus	.
+Astragalus bibullatus	is-a	Dicotyledon	.
+Astragalus bibullatus	is-a	Embryophyte	.
+Astragalus bibullatus	is-a	Eukaryote	.
+Astragalus bibullatus	is-a	Fabaceae	.
+Astragalus bibullatus	is-a	Fabales	.
+Astragalus bibullatus	is-a	Faboideae	.
+Astragalus bibullatus	is-a	Flowering plant	.
+Astragalus bibullatus	is-a	Organism Classification	.
+Astragalus bibullatus	is-a	Plant	.
+Astragalus bibullatus	is-a	Rosidae	.
+Astragalus bibullatus	is-a	Spermatophyte	.
+Astragalus bibullatus	is-a	Topic	.
+Astragalus bicristatus	Higher classification	Astragalus	.
+Astragalus bicristatus	Higher classification	Dicotyledon	.
+Astragalus bicristatus	Higher classification	Embryophyte	.
+Astragalus bicristatus	Higher classification	Eukaryote	.
+Astragalus bicristatus	Higher classification	Fabaceae	.
+Astragalus bicristatus	Higher classification	Fabales	.
+Astragalus bicristatus	Higher classification	Faboideae	.
+Astragalus bicristatus	Higher classification	Flowering plant	.
+Astragalus bicristatus	Higher classification	Plant	.
+Astragalus bicristatus	Higher classification	Rosidae	.
+Astragalus bicristatus	Higher classification	Spermatophyte	.
+Astragalus bicristatus	ITIS Taxon S/N	"25437"	.
+Astragalus bicristatus	Rank	Species (Organism Classification Rank)	.
+Astragalus bicristatus	Scientific name	"Astragalus bicristatus"@en	.
+Astragalus bicristatus	is-a	Astragalus	.
+Astragalus bicristatus	is-a	Dicotyledon	.
+Astragalus bicristatus	is-a	Embryophyte	.
+Astragalus bicristatus	is-a	Eukaryote	.
+Astragalus bicristatus	is-a	Fabaceae	.
+Astragalus bicristatus	is-a	Fabales	.
+Astragalus bicristatus	is-a	Faboideae	.
+Astragalus bicristatus	is-a	Flowering plant	.
+Astragalus bicristatus	is-a	Organism Classification	.
+Astragalus bicristatus	is-a	Plant	.
+Astragalus bicristatus	is-a	Rosidae	.
+Astragalus bicristatus	is-a	Spermatophyte	.
+Astragalus bicristatus	is-a	Topic	.
+Astragalus bidentatus	Higher classification	Astragalus	.
+Astragalus bidentatus	Higher classification	Dicotyledon	.
+Astragalus bidentatus	Higher classification	Embryophyte	.
+Astragalus bidentatus	Higher classification	Eukaryote	.
+Astragalus bidentatus	Higher classification	Fabaceae	.
+Astragalus bidentatus	Higher classification	Fabales	.
+Astragalus bidentatus	Higher classification	Faboideae	.
+Astragalus bidentatus	Higher classification	Flowering plant	.
+Astragalus bidentatus	Higher classification	Plant	.
+Astragalus bidentatus	Higher classification	Rosidae	.
+Astragalus bidentatus	Higher classification	Spermatophyte	.
+Astragalus bidentatus	Rank	Species (Organism Classification Rank)	.
+Astragalus bidentatus	Scientific name	"Astragalus bidentatus"@en	.
+Astragalus bidentatus	is-a	Astragalus	.
+Astragalus bidentatus	is-a	Dicotyledon	.
+Astragalus bidentatus	is-a	Embryophyte	.
+Astragalus bidentatus	is-a	Eukaryote	.
+Astragalus bidentatus	is-a	Fabaceae	.
+Astragalus bidentatus	is-a	Fabales	.
+Astragalus bidentatus	is-a	Faboideae	.
+Astragalus bidentatus	is-a	Flowering plant	.
+Astragalus bidentatus	is-a	Organism Classification	.
+Astragalus bidentatus	is-a	Plant	.
+Astragalus bidentatus	is-a	Rosidae	.
+Astragalus bidentatus	is-a	Spermatophyte	.
+Astragalus bidentatus	is-a	Topic	.
+Astragalus bisulcatus	Higher classification	Astragalus	.
+Astragalus bisulcatus	Higher classification	Dicotyledon	.
+Astragalus bisulcatus	Higher classification	Embryophyte	.
+Astragalus bisulcatus	Higher classification	Eukaryote	.
+Astragalus bisulcatus	Higher classification	Fabaceae	.
+Astragalus bisulcatus	Higher classification	Fabales	.
+Astragalus bisulcatus	Higher classification	Faboideae	.
+Astragalus bisulcatus	Higher classification	Flowering plant	.
+Astragalus bisulcatus	Higher classification	Plant	.
+Astragalus bisulcatus	Higher classification	Rosidae	.
+Astragalus bisulcatus	Higher classification	Spermatophyte	.
+Astragalus bisulcatus	ITIS Taxon S/N	"25438"	.
+Astragalus bisulcatus	Rank	Species (Organism Classification Rank)	.
+Astragalus bisulcatus	Scientific name	"Astragalus bisulcatus"@en	.
+Astragalus bisulcatus	is-a	Astragalus	.
+Astragalus bisulcatus	is-a	Dicotyledon	.
+Astragalus bisulcatus	is-a	Embryophyte	.
+Astragalus bisulcatus	is-a	Eukaryote	.
+Astragalus bisulcatus	is-a	Fabaceae	.
+Astragalus bisulcatus	is-a	Fabales	.
+Astragalus bisulcatus	is-a	Faboideae	.
+Astragalus bisulcatus	is-a	Flowering plant	.
+Astragalus bisulcatus	is-a	Organism Classification	.
+Astragalus bisulcatus	is-a	Plant	.
+Astragalus bisulcatus	is-a	Rosidae	.
+Astragalus bisulcatus	is-a	Spermatophyte	.
+Astragalus bisulcatus	is-a	Topic	.
+Astragalus bolanderi	Higher classification	Astragalus	.
+Astragalus bolanderi	Higher classification	Dicotyledon	.
+Astragalus bolanderi	Higher classification	Embryophyte	.
+Astragalus bolanderi	Higher classification	Eukaryote	.
+Astragalus bolanderi	Higher classification	Fabaceae	.
+Astragalus bolanderi	Higher classification	Fabales	.
+Astragalus bolanderi	Higher classification	Faboideae	.
+Astragalus bolanderi	Higher classification	Flowering plant	.
+Astragalus bolanderi	Higher classification	Plant	.
+Astragalus bolanderi	Higher classification	Rosidae	.
+Astragalus bolanderi	Higher classification	Spermatophyte	.
+Astragalus bolanderi	ITIS Taxon S/N	"25440"	.
+Astragalus bolanderi	Rank	Species (Organism Classification Rank)	.
+Astragalus bolanderi	Scientific name	"Astragalus bolanderi"@en	.
+Astragalus bolanderi	is-a	Astragalus	.
+Astragalus bolanderi	is-a	Dicotyledon	.
+Astragalus bolanderi	is-a	Embryophyte	.
+Astragalus bolanderi	is-a	Eukaryote	.
+Astragalus bolanderi	is-a	Fabaceae	.
+Astragalus bolanderi	is-a	Fabales	.
+Astragalus bolanderi	is-a	Faboideae	.
+Astragalus bolanderi	is-a	Flowering plant	.
+Astragalus bolanderi	is-a	Organism Classification	.
+Astragalus bolanderi	is-a	Plant	.
+Astragalus bolanderi	is-a	Rosidae	.
+Astragalus bolanderi	is-a	Spermatophyte	.
+Astragalus bolanderi	is-a	Topic	.
+Astragalus brachycalyx	Scientific name	"Astragalus brachycalyx"@en	.
+Astragalus brachycalyx	is-a	Organism Classification	.
+Astragalus brachycalyx	is-a	Topic	.
+Astragalus brauntonii	Higher classification	Astragalus	.
+Astragalus brauntonii	Higher classification	Dicotyledon	.
+Astragalus brauntonii	Higher classification	Embryophyte	.
+Astragalus brauntonii	Higher classification	Eukaryote	.
+Astragalus brauntonii	Higher classification	Fabaceae	.
+Astragalus brauntonii	Higher classification	Fabales	.
+Astragalus brauntonii	Higher classification	Faboideae	.
+Astragalus brauntonii	Higher classification	Flowering plant	.
+Astragalus brauntonii	Higher classification	Plant	.
+Astragalus brauntonii	Higher classification	Rosidae	.
+Astragalus brauntonii	Higher classification	Spermatophyte	.
+Astragalus brauntonii	ITIS Taxon S/N	"25443"	.
+Astragalus brauntonii	Rank	Species (Organism Classification Rank)	.
+Astragalus brauntonii	Scientific name	"Astragalus brauntonii"@en	.
+Astragalus brauntonii	is-a	Astragalus	.
+Astragalus brauntonii	is-a	Dicotyledon	.
+Astragalus brauntonii	is-a	Embryophyte	.
+Astragalus brauntonii	is-a	Eukaryote	.
+Astragalus brauntonii	is-a	Fabaceae	.
+Astragalus brauntonii	is-a	Fabales	.
+Astragalus brauntonii	is-a	Faboideae	.
+Astragalus brauntonii	is-a	Flowering plant	.
+Astragalus brauntonii	is-a	Organism Classification	.
+Astragalus brauntonii	is-a	Plant	.
+Astragalus brauntonii	is-a	Rosidae	.
+Astragalus brauntonii	is-a	Spermatophyte	.
+Astragalus brauntonii	is-a	Topic	.
+Astragalus breweri	Higher classification	Astragalus	.
+Astragalus breweri	Higher classification	Dicotyledon	.
+Astragalus breweri	Higher classification	Embryophyte	.
+Astragalus breweri	Higher classification	Eukaryote	.
+Astragalus breweri	Higher classification	Fabaceae	.
+Astragalus breweri	Higher classification	Fabales	.
+Astragalus breweri	Higher classification	Faboideae	.
+Astragalus breweri	Higher classification	Flowering plant	.
+Astragalus breweri	Higher classification	Plant	.
+Astragalus breweri	Higher classification	Rosidae	.
+Astragalus breweri	Higher classification	Spermatophyte	.
+Astragalus breweri	ITIS Taxon S/N	"25445"	.
+Astragalus breweri	Rank	Species (Organism Classification Rank)	.
+Astragalus breweri	Scientific name	"Astragalus breweri"@en	.
+Astragalus breweri	is-a	Astragalus	.
+Astragalus breweri	is-a	Dicotyledon	.
+Astragalus breweri	is-a	Embryophyte	.
+Astragalus breweri	is-a	Eukaryote	.
+Astragalus breweri	is-a	Fabaceae	.
+Astragalus breweri	is-a	Fabales	.
+Astragalus breweri	is-a	Faboideae	.
+Astragalus breweri	is-a	Flowering plant	.
+Astragalus breweri	is-a	Organism Classification	.
+Astragalus breweri	is-a	Plant	.
+Astragalus breweri	is-a	Rosidae	.
+Astragalus breweri	is-a	Spermatophyte	.
+Astragalus breweri	is-a	Topic	.
+Astragalus californicus	Higher classification	Astragalus	.
+Astragalus californicus	Higher classification	Dicotyledon	.
+Astragalus californicus	Higher classification	Embryophyte	.
+Astragalus californicus	Higher classification	Eukaryote	.
+Astragalus californicus	Higher classification	Fabaceae	.
+Astragalus californicus	Higher classification	Fabales	.
+Astragalus californicus	Higher classification	Faboideae	.
+Astragalus californicus	Higher classification	Flowering plant	.
+Astragalus californicus	Higher classification	Plant	.
+Astragalus californicus	Higher classification	Rosidae	.
+Astragalus californicus	Higher classification	Spermatophyte	.
+Astragalus californicus	ITIS Taxon S/N	"25447"	.
+Astragalus californicus	Rank	Species (Organism Classification Rank)	.
+Astragalus californicus	Scientific name	"Astragalus californicus"@en	.
+Astragalus californicus	is-a	Astragalus	.
+Astragalus californicus	is-a	Dicotyledon	.
+Astragalus californicus	is-a	Embryophyte	.
+Astragalus californicus	is-a	Eukaryote	.
+Astragalus californicus	is-a	Fabaceae	.
+Astragalus californicus	is-a	Fabales	.
+Astragalus californicus	is-a	Faboideae	.
+Astragalus californicus	is-a	Flowering plant	.
+Astragalus californicus	is-a	Organism Classification	.
+Astragalus californicus	is-a	Plant	.
+Astragalus californicus	is-a	Rosidae	.
+Astragalus californicus	is-a	Spermatophyte	.
+Astragalus californicus	is-a	Topic	.
+Astragalus canadensis	Higher classification	Astragalus	.
+Astragalus canadensis	Higher classification	Dicotyledon	.
+Astragalus canadensis	Higher classification	Embryophyte	.
+Astragalus canadensis	Higher classification	Eukaryote	.
+Astragalus canadensis	Higher classification	Fabaceae	.
+Astragalus canadensis	Higher classification	Fabales	.
+Astragalus canadensis	Higher classification	Faboideae	.
+Astragalus canadensis	Higher classification	Flowering plant	.
+Astragalus canadensis	Higher classification	Plant	.
+Astragalus canadensis	Higher classification	Rosidae	.
+Astragalus canadensis	Higher classification	Spermatophyte	.
+Astragalus canadensis	ITIS Taxon S/N	"25451"	.
+Astragalus canadensis	NCBI Taxon ID	"20408"	.
+Astragalus canadensis	Rank	Species (Organism Classification Rank)	.
+Astragalus canadensis	Scientific name	"Astragalus canadensis"@en	.
+Astragalus canadensis	is-a	Astragalus	.
+Astragalus canadensis	is-a	Dicotyledon	.
+Astragalus canadensis	is-a	Embryophyte	.
+Astragalus canadensis	is-a	Eukaryote	.
+Astragalus canadensis	is-a	Fabaceae	.
+Astragalus canadensis	is-a	Fabales	.
+Astragalus canadensis	is-a	Faboideae	.
+Astragalus canadensis	is-a	Flowering plant	.
+Astragalus canadensis	is-a	Organism Classification	.
+Astragalus canadensis	is-a	Plant	.
+Astragalus canadensis	is-a	Rosidae	.
+Astragalus canadensis	is-a	Spermatophyte	.
+Astragalus canadensis	is-a	Topic	.
+Astragalus casei	Higher classification	Astragalus	.
+Astragalus casei	Higher classification	Dicotyledon	.
+Astragalus casei	Higher classification	Embryophyte	.
+Astragalus casei	Higher classification	Eukaryote	.
+Astragalus casei	Higher classification	Fabaceae	.
+Astragalus casei	Higher classification	Fabales	.
+Astragalus casei	Higher classification	Faboideae	.
+Astragalus casei	Higher classification	Flowering plant	.
+Astragalus casei	Higher classification	Plant	.
+Astragalus casei	Higher classification	Rosidae	.
+Astragalus casei	Higher classification	Spermatophyte	.
+Astragalus casei	ITIS Taxon S/N	"25454"	.
+Astragalus casei	Rank	Species (Organism Classification Rank)	.
+Astragalus casei	Scientific name	"Astragalus casei"@en	.
+Astragalus casei	is-a	Astragalus	.
+Astragalus casei	is-a	Dicotyledon	.
+Astragalus casei	is-a	Embryophyte	.
+Astragalus casei	is-a	Eukaryote	.
+Astragalus casei	is-a	Fabaceae	.
+Astragalus casei	is-a	Fabales	.
+Astragalus casei	is-a	Faboideae	.
+Astragalus casei	is-a	Flowering plant	.
+Astragalus casei	is-a	Organism Classification	.
+Astragalus casei	is-a	Plant	.
+Astragalus casei	is-a	Rosidae	.
+Astragalus casei	is-a	Spermatophyte	.
+Astragalus casei	is-a	Topic	.
+Astragalus cavanillesii	Higher classification	Astragalus	.
+Astragalus cavanillesii	Higher classification	Dicotyledon	.
+Astragalus cavanillesii	Higher classification	Embryophyte	.
+Astragalus cavanillesii	Higher classification	Eukaryote	.
+Astragalus cavanillesii	Higher classification	Fabaceae	.
+Astragalus cavanillesii	Higher classification	Fabales	.
+Astragalus cavanillesii	Higher classification	Faboideae	.
+Astragalus cavanillesii	Higher classification	Flowering plant	.
+Astragalus cavanillesii	Higher classification	Plant	.
+Astragalus cavanillesii	Higher classification	Rosidae	.
+Astragalus cavanillesii	Higher classification	Spermatophyte	.
+Astragalus cavanillesii	Rank	Species (Organism Classification Rank)	.
+Astragalus cavanillesii	Scientific name	"Astragalus cavanillesii"@en	.
+Astragalus cavanillesii	is-a	Astragalus	.
+Astragalus cavanillesii	is-a	Dicotyledon	.
+Astragalus cavanillesii	is-a	Embryophyte	.
+Astragalus cavanillesii	is-a	Eukaryote	.
+Astragalus cavanillesii	is-a	Fabaceae	.
+Astragalus cavanillesii	is-a	Fabales	.
+Astragalus cavanillesii	is-a	Faboideae	.
+Astragalus cavanillesii	is-a	Flowering plant	.
+Astragalus cavanillesii	is-a	Organism Classification	.
+Astragalus cavanillesii	is-a	Plant	.
+Astragalus cavanillesii	is-a	Rosidae	.
+Astragalus cavanillesii	is-a	Spermatophyte	.
+Astragalus cavanillesii	is-a	Topic	.
+Astragalus cimae	Higher classification	Astragalus	.
+Astragalus cimae	Higher classification	Dicotyledon	.
+Astragalus cimae	Higher classification	Embryophyte	.
+Astragalus cimae	Higher classification	Eukaryote	.
+Astragalus cimae	Higher classification	Fabaceae	.
+Astragalus cimae	Higher classification	Fabales	.
+Astragalus cimae	Higher classification	Faboideae	.
+Astragalus cimae	Higher classification	Flowering plant	.
+Astragalus cimae	Higher classification	Plant	.
+Astragalus cimae	Higher classification	Rosidae	.
+Astragalus cimae	Higher classification	Spermatophyte	.
+Astragalus cimae	ITIS Taxon S/N	"25465"	.
+Astragalus cimae	Rank	Species (Organism Classification Rank)	.
+Astragalus cimae	Scientific name	"Astragalus cimae"@en	.
+Astragalus cimae	is-a	Astragalus	.
+Astragalus cimae	is-a	Dicotyledon	.
+Astragalus cimae	is-a	Embryophyte	.
+Astragalus cimae	is-a	Eukaryote	.
+Astragalus cimae	is-a	Fabaceae	.
+Astragalus cimae	is-a	Fabales	.
+Astragalus cimae	is-a	Faboideae	.
+Astragalus cimae	is-a	Flowering plant	.
+Astragalus cimae	is-a	Organism Classification	.
+Astragalus cimae	is-a	Plant	.
+Astragalus cimae	is-a	Rosidae	.
+Astragalus cimae	is-a	Spermatophyte	.
+Astragalus cimae	is-a	Topic	.
+Astragalus clarianus	Scientific name	"Astragalus clarianus"@en	.
+Astragalus clarianus	is-a	Organism Classification	.
+Astragalus clarianus	is-a	Topic	.
+Astragalus clevelandii	Higher classification	Astragalus	.
+Astragalus clevelandii	Higher classification	Dicotyledon	.
+Astragalus clevelandii	Higher classification	Embryophyte	.
+Astragalus clevelandii	Higher classification	Eukaryote	.
+Astragalus clevelandii	Higher classification	Fabaceae	.
+Astragalus clevelandii	Higher classification	Fabales	.
+Astragalus clevelandii	Higher classification	Faboideae	.
+Astragalus clevelandii	Higher classification	Flowering plant	.
+Astragalus clevelandii	Higher classification	Plant	.
+Astragalus clevelandii	Higher classification	Rosidae	.
+Astragalus clevelandii	Higher classification	Spermatophyte	.
+Astragalus clevelandii	ITIS Taxon S/N	"25467"	.
+Astragalus clevelandii	Rank	Species (Organism Classification Rank)	.
+Astragalus clevelandii	Scientific name	"Astragalus clevelandii"@en	.
+Astragalus clevelandii	is-a	Astragalus	.
+Astragalus clevelandii	is-a	Dicotyledon	.
+Astragalus clevelandii	is-a	Embryophyte	.
+Astragalus clevelandii	is-a	Eukaryote	.
+Astragalus clevelandii	is-a	Fabaceae	.
+Astragalus clevelandii	is-a	Fabales	.
+Astragalus clevelandii	is-a	Faboideae	.
+Astragalus clevelandii	is-a	Flowering plant	.
+Astragalus clevelandii	is-a	Organism Classification	.
+Astragalus clevelandii	is-a	Plant	.
+Astragalus clevelandii	is-a	Rosidae	.
+Astragalus clevelandii	is-a	Spermatophyte	.
+Astragalus clevelandii	is-a	Topic	.
+Astragalus coccineus	Higher classification	Astragalus	.
+Astragalus coccineus	Higher classification	Dicotyledon	.
+Astragalus coccineus	Higher classification	Embryophyte	.
+Astragalus coccineus	Higher classification	Eukaryote	.
+Astragalus coccineus	Higher classification	Fabaceae	.
+Astragalus coccineus	Higher classification	Fabales	.
+Astragalus coccineus	Higher classification	Faboideae	.
+Astragalus coccineus	Higher classification	Flowering plant	.
+Astragalus coccineus	Higher classification	Plant	.
+Astragalus coccineus	Higher classification	Rosidae	.
+Astragalus coccineus	Higher classification	Spermatophyte	.
+Astragalus coccineus	ITIS Taxon S/N	"25469"	.
+Astragalus coccineus	Rank	Species (Organism Classification Rank)	.
+Astragalus coccineus	Scientific name	"Astragalus coccineus"@en	.
+Astragalus coccineus	is-a	Astragalus	.
+Astragalus coccineus	is-a	Dicotyledon	.
+Astragalus coccineus	is-a	Embryophyte	.
+Astragalus coccineus	is-a	Eukaryote	.
+Astragalus coccineus	is-a	Fabaceae	.
+Astragalus coccineus	is-a	Fabales	.
+Astragalus coccineus	is-a	Faboideae	.
+Astragalus coccineus	is-a	Flowering plant	.
+Astragalus coccineus	is-a	Organism Classification	.
+Astragalus coccineus	is-a	Plant	.
+Astragalus coccineus	is-a	Rosidae	.
+Astragalus coccineus	is-a	Spermatophyte	.
+Astragalus coccineus	is-a	Topic	.
+Astragalus congdonii	Higher classification	Astragalus	.
+Astragalus congdonii	Higher classification	Dicotyledon	.
+Astragalus congdonii	Higher classification	Embryophyte	.
+Astragalus congdonii	Higher classification	Eukaryote	.
+Astragalus congdonii	Higher classification	Fabaceae	.
+Astragalus congdonii	Higher classification	Fabales	.
+Astragalus congdonii	Higher classification	Faboideae	.
+Astragalus congdonii	Higher classification	Flowering plant	.
+Astragalus congdonii	Higher classification	Plant	.
+Astragalus congdonii	Higher classification	Rosidae	.
+Astragalus congdonii	Higher classification	Spermatophyte	.
+Astragalus congdonii	ITIS Taxon S/N	"25473"	.
+Astragalus congdonii	Rank	Species (Organism Classification Rank)	.
+Astragalus congdonii	Scientific name	"Astragalus congdonii"@en	.
+Astragalus congdonii	is-a	Astragalus	.
+Astragalus congdonii	is-a	Dicotyledon	.
+Astragalus congdonii	is-a	Embryophyte	.
+Astragalus congdonii	is-a	Eukaryote	.
+Astragalus congdonii	is-a	Fabaceae	.
+Astragalus congdonii	is-a	Fabales	.
+Astragalus congdonii	is-a	Faboideae	.
+Astragalus congdonii	is-a	Flowering plant	.
+Astragalus congdonii	is-a	Organism Classification	.
+Astragalus congdonii	is-a	Plant	.
+Astragalus congdonii	is-a	Rosidae	.
+Astragalus congdonii	is-a	Spermatophyte	.
+Astragalus congdonii	is-a	Topic	.
+Astragalus cremnophylax	Scientific name	"Astragalus cremnophylax"@en	.
+Astragalus cremnophylax	is-a	Organism Classification	.
+Astragalus cremnophylax	is-a	Topic	.
+Astragalus crotalariae	Higher classification	Astragalus	.
+Astragalus crotalariae	Higher classification	Dicotyledon	.
+Astragalus crotalariae	Higher classification	Embryophyte	.
+Astragalus crotalariae	Higher classification	Eukaryote	.
+Astragalus crotalariae	Higher classification	Fabaceae	.
+Astragalus crotalariae	Higher classification	Fabales	.
+Astragalus crotalariae	Higher classification	Faboideae	.
+Astragalus crotalariae	Higher classification	Flowering plant	.
+Astragalus crotalariae	Higher classification	Plant	.
+Astragalus crotalariae	Higher classification	Rosidae	.
+Astragalus crotalariae	Higher classification	Spermatophyte	.
+Astragalus crotalariae	ITIS Taxon S/N	"25483"	.
+Astragalus crotalariae	Rank	Species (Organism Classification Rank)	.
+Astragalus crotalariae	Scientific name	"Astragalus crotalariae"@en	.
+Astragalus crotalariae	is-a	Astragalus	.
+Astragalus crotalariae	is-a	Dicotyledon	.
+Astragalus crotalariae	is-a	Embryophyte	.
+Astragalus crotalariae	is-a	Eukaryote	.
+Astragalus crotalariae	is-a	Fabaceae	.
+Astragalus crotalariae	is-a	Fabales	.
+Astragalus crotalariae	is-a	Faboideae	.
+Astragalus crotalariae	is-a	Flowering plant	.
+Astragalus crotalariae	is-a	Organism Classification	.
+Astragalus crotalariae	is-a	Plant	.
+Astragalus crotalariae	is-a	Rosidae	.
+Astragalus crotalariae	is-a	Spermatophyte	.
+Astragalus crotalariae	is-a	Topic	.
+Astragalus curtipes	Higher classification	Astragalus	.
+Astragalus curtipes	Higher classification	Dicotyledon	.
+Astragalus curtipes	Higher classification	Embryophyte	.
+Astragalus curtipes	Higher classification	Eukaryote	.
+Astragalus curtipes	Higher classification	Fabaceae	.
+Astragalus curtipes	Higher classification	Fabales	.
+Astragalus curtipes	Higher classification	Faboideae	.
+Astragalus curtipes	Higher classification	Flowering plant	.
+Astragalus curtipes	Higher classification	Plant	.
+Astragalus curtipes	Higher classification	Rosidae	.
+Astragalus curtipes	Higher classification	Spermatophyte	.
+Astragalus curtipes	ITIS Taxon S/N	"25484"	.
+Astragalus curtipes	Rank	Species (Organism Classification Rank)	.
+Astragalus curtipes	Scientific name	"Astragalus curtipes"@en	.
+Astragalus curtipes	is-a	Astragalus	.
+Astragalus curtipes	is-a	Dicotyledon	.
+Astragalus curtipes	is-a	Embryophyte	.
+Astragalus curtipes	is-a	Eukaryote	.
+Astragalus curtipes	is-a	Fabaceae	.
+Astragalus curtipes	is-a	Fabales	.
+Astragalus curtipes	is-a	Faboideae	.
+Astragalus curtipes	is-a	Flowering plant	.
+Astragalus curtipes	is-a	Organism Classification	.
+Astragalus curtipes	is-a	Plant	.
+Astragalus curtipes	is-a	Rosidae	.
+Astragalus curtipes	is-a	Spermatophyte	.
+Astragalus curtipes	is-a	Topic	.
+Astragalus deanei	Higher classification	Astragalus	.
+Astragalus deanei	Higher classification	Dicotyledon	.
+Astragalus deanei	Higher classification	Embryophyte	.
+Astragalus deanei	Higher classification	Eukaryote	.
+Astragalus deanei	Higher classification	Fabaceae	.
+Astragalus deanei	Higher classification	Fabales	.
+Astragalus deanei	Higher classification	Faboideae	.
+Astragalus deanei	Higher classification	Flowering plant	.
+Astragalus deanei	Higher classification	Plant	.
+Astragalus deanei	Higher classification	Rosidae	.
+Astragalus deanei	Higher classification	Spermatophyte	.
+Astragalus deanei	ITIS Taxon S/N	"25489"	.
+Astragalus deanei	Rank	Species (Organism Classification Rank)	.
+Astragalus deanei	Scientific name	"Astragalus deanei"@en	.
+Astragalus deanei	is-a	Astragalus	.
+Astragalus deanei	is-a	Dicotyledon	.
+Astragalus deanei	is-a	Embryophyte	.
+Astragalus deanei	is-a	Eukaryote	.
+Astragalus deanei	is-a	Fabaceae	.
+Astragalus deanei	is-a	Fabales	.
+Astragalus deanei	is-a	Faboideae	.
+Astragalus deanei	is-a	Flowering plant	.
+Astragalus deanei	is-a	Organism Classification	.
+Astragalus deanei	is-a	Plant	.
+Astragalus deanei	is-a	Rosidae	.
+Astragalus deanei	is-a	Spermatophyte	.
+Astragalus deanei	is-a	Topic	.
+Astragalus desereticus	Scientific name	"Astragalus desereticus"@en	.
+Astragalus desereticus	is-a	Organism Classification	.
+Astragalus desereticus	is-a	Topic	.
+Astragalus didymocarpus	Higher classification	Astragalus	.
+Astragalus didymocarpus	Higher classification	Dicotyledon	.
+Astragalus didymocarpus	Higher classification	Embryophyte	.
+Astragalus didymocarpus	Higher classification	Eukaryote	.
+Astragalus didymocarpus	Higher classification	Fabaceae	.
+Astragalus didymocarpus	Higher classification	Fabales	.
+Astragalus didymocarpus	Higher classification	Faboideae	.
+Astragalus didymocarpus	Higher classification	Flowering plant	.
+Astragalus didymocarpus	Higher classification	Plant	.
+Astragalus didymocarpus	Higher classification	Rosidae	.
+Astragalus didymocarpus	Higher classification	Spermatophyte	.
+Astragalus didymocarpus	ITIS Taxon S/N	"25495"	.
+Astragalus didymocarpus	Rank	Species (Organism Classification Rank)	.
+Astragalus didymocarpus	Scientific name	"Astragalus didymocarpus"@en	.
+Astragalus didymocarpus	is-a	Astragalus	.
+Astragalus didymocarpus	is-a	Dicotyledon	.
+Astragalus didymocarpus	is-a	Embryophyte	.
+Astragalus didymocarpus	is-a	Eukaryote	.
+Astragalus didymocarpus	is-a	Fabaceae	.
+Astragalus didymocarpus	is-a	Fabales	.
+Astragalus didymocarpus	is-a	Faboideae	.
+Astragalus didymocarpus	is-a	Flowering plant	.
+Astragalus didymocarpus	is-a	Organism Classification	.
+Astragalus didymocarpus	is-a	Plant	.
+Astragalus didymocarpus	is-a	Rosidae	.
+Astragalus didymocarpus	is-a	Spermatophyte	.
+Astragalus didymocarpus	is-a	Topic	.
+Astragalus douglasii	Higher classification	Astragalus	.
+Astragalus douglasii	Higher classification	Dicotyledon	.
+Astragalus douglasii	Higher classification	Embryophyte	.
+Astragalus douglasii	Higher classification	Eukaryote	.
+Astragalus douglasii	Higher classification	Fabaceae	.
+Astragalus douglasii	Higher classification	Fabales	.
+Astragalus douglasii	Higher classification	Faboideae	.
+Astragalus douglasii	Higher classification	Flowering plant	.
+Astragalus douglasii	Higher classification	Plant	.
+Astragalus douglasii	Higher classification	Rosidae	.
+Astragalus douglasii	Higher classification	Spermatophyte	.
+Astragalus douglasii	ITIS Taxon S/N	"25498"	.
+Astragalus douglasii	Rank	Species (Organism Classification Rank)	.
+Astragalus douglasii	Scientific name	"Astragalus douglasii"@en	.
+Astragalus douglasii	is-a	Astragalus	.
+Astragalus douglasii	is-a	Dicotyledon	.
+Astragalus douglasii	is-a	Embryophyte	.
+Astragalus douglasii	is-a	Eukaryote	.
+Astragalus douglasii	is-a	Fabaceae	.
+Astragalus douglasii	is-a	Fabales	.
+Astragalus douglasii	is-a	Faboideae	.
+Astragalus douglasii	is-a	Flowering plant	.
+Astragalus douglasii	is-a	Organism Classification	.
+Astragalus douglasii	is-a	Plant	.
+Astragalus douglasii	is-a	Rosidae	.
+Astragalus douglasii	is-a	Spermatophyte	.
+Astragalus douglasii	is-a	Topic	.
+Astragalus ertterae	Higher classification	Astragalus	.
+Astragalus ertterae	Higher classification	Dicotyledon	.
+Astragalus ertterae	Higher classification	Embryophyte	.
+Astragalus ertterae	Higher classification	Eukaryote	.
+Astragalus ertterae	Higher classification	Fabaceae	.
+Astragalus ertterae	Higher classification	Fabales	.
+Astragalus ertterae	Higher classification	Faboideae	.
+Astragalus ertterae	Higher classification	Flowering plant	.
+Astragalus ertterae	Higher classification	Plant	.
+Astragalus ertterae	Higher classification	Rosidae	.
+Astragalus ertterae	Higher classification	Spermatophyte	.
+Astragalus ertterae	ITIS Taxon S/N	"192813"	.
+Astragalus ertterae	Rank	Species (Organism Classification Rank)	.
+Astragalus ertterae	Scientific name	"Astragalus ertterae"@en	.
+Astragalus ertterae	is-a	Astragalus	.
+Astragalus ertterae	is-a	Dicotyledon	.
+Astragalus ertterae	is-a	Embryophyte	.
+Astragalus ertterae	is-a	Eukaryote	.
+Astragalus ertterae	is-a	Fabaceae	.
+Astragalus ertterae	is-a	Fabales	.
+Astragalus ertterae	is-a	Faboideae	.
+Astragalus ertterae	is-a	Flowering plant	.
+Astragalus ertterae	is-a	Organism Classification	.
+Astragalus ertterae	is-a	Plant	.
+Astragalus ertterae	is-a	Rosidae	.
+Astragalus ertterae	is-a	Spermatophyte	.
+Astragalus ertterae	is-a	Topic	.
+Astragalus filipes	Higher classification	Astragalus	.
+Astragalus filipes	Higher classification	Dicotyledon	.
+Astragalus filipes	Higher classification	Embryophyte	.
+Astragalus filipes	Higher classification	Eukaryote	.
+Astragalus filipes	Higher classification	Fabaceae	.
+Astragalus filipes	Higher classification	Fabales	.
+Astragalus filipes	Higher classification	Faboideae	.
+Astragalus filipes	Higher classification	Flowering plant	.
+Astragalus filipes	Higher classification	Plant	.
+Astragalus filipes	Higher classification	Rosidae	.
+Astragalus filipes	Higher classification	Spermatophyte	.
+Astragalus filipes	ITIS Taxon S/N	"25515"	.
+Astragalus filipes	Rank	Species (Organism Classification Rank)	.
+Astragalus filipes	Scientific name	"Astragalus filipes"@en	.
+Astragalus filipes	is-a	Astragalus	.
+Astragalus filipes	is-a	Dicotyledon	.
+Astragalus filipes	is-a	Embryophyte	.
+Astragalus filipes	is-a	Eukaryote	.
+Astragalus filipes	is-a	Fabaceae	.
+Astragalus filipes	is-a	Fabales	.
+Astragalus filipes	is-a	Faboideae	.
+Astragalus filipes	is-a	Flowering plant	.
+Astragalus filipes	is-a	Organism Classification	.
+Astragalus filipes	is-a	Plant	.
+Astragalus filipes	is-a	Rosidae	.
+Astragalus filipes	is-a	Spermatophyte	.
+Astragalus filipes	is-a	Topic	.
+Astragalus funereus	Higher classification	Astragalus	.
+Astragalus funereus	Higher classification	Dicotyledon	.
+Astragalus funereus	Higher classification	Embryophyte	.
+Astragalus funereus	Higher classification	Eukaryote	.
+Astragalus funereus	Higher classification	Fabaceae	.
+Astragalus funereus	Higher classification	Fabales	.
+Astragalus funereus	Higher classification	Faboideae	.
+Astragalus funereus	Higher classification	Flowering plant	.
+Astragalus funereus	Higher classification	Plant	.
+Astragalus funereus	Higher classification	Rosidae	.
+Astragalus funereus	Higher classification	Spermatophyte	.
+Astragalus funereus	ITIS Taxon S/N	"25519"	.
+Astragalus funereus	Rank	Species (Organism Classification Rank)	.
+Astragalus funereus	Scientific name	"Astragalus funereus"@en	.
+Astragalus funereus	is-a	Astragalus	.
+Astragalus funereus	is-a	Dicotyledon	.
+Astragalus funereus	is-a	Embryophyte	.
+Astragalus funereus	is-a	Eukaryote	.
+Astragalus funereus	is-a	Fabaceae	.
+Astragalus funereus	is-a	Fabales	.
+Astragalus funereus	is-a	Faboideae	.
+Astragalus funereus	is-a	Flowering plant	.
+Astragalus funereus	is-a	Organism Classification	.
+Astragalus funereus	is-a	Plant	.
+Astragalus funereus	is-a	Rosidae	.
+Astragalus funereus	is-a	Spermatophyte	.
+Astragalus funereus	is-a	Topic	.
+Astragalus gambelianus	Higher classification	Astragalus	.
+Astragalus gambelianus	Higher classification	Dicotyledon	.
+Astragalus gambelianus	Higher classification	Embryophyte	.
+Astragalus gambelianus	Higher classification	Eukaryote	.
+Astragalus gambelianus	Higher classification	Fabaceae	.
+Astragalus gambelianus	Higher classification	Fabales	.
+Astragalus gambelianus	Higher classification	Faboideae	.
+Astragalus gambelianus	Higher classification	Flowering plant	.
+Astragalus gambelianus	Higher classification	Plant	.
+Astragalus gambelianus	Higher classification	Rosidae	.
+Astragalus gambelianus	Higher classification	Spermatophyte	.
+Astragalus gambelianus	ITIS Taxon S/N	"25520"	.
+Astragalus gambelianus	Rank	Species (Organism Classification Rank)	.
+Astragalus gambelianus	Scientific name	"Astragalus gambelianus"@en	.
+Astragalus gambelianus	is-a	Astragalus	.
+Astragalus gambelianus	is-a	Dicotyledon	.
+Astragalus gambelianus	is-a	Embryophyte	.
+Astragalus gambelianus	is-a	Eukaryote	.
+Astragalus gambelianus	is-a	Fabaceae	.
+Astragalus gambelianus	is-a	Fabales	.
+Astragalus gambelianus	is-a	Faboideae	.
+Astragalus gambelianus	is-a	Flowering plant	.
+Astragalus gambelianus	is-a	Organism Classification	.
+Astragalus gambelianus	is-a	Plant	.
+Astragalus gambelianus	is-a	Rosidae	.
+Astragalus gambelianus	is-a	Spermatophyte	.
+Astragalus gambelianus	is-a	Topic	.
+Astragalus geminiflorus	Higher classification	Astragalus	.
+Astragalus geminiflorus	Higher classification	Dicotyledon	.
+Astragalus geminiflorus	Higher classification	Embryophyte	.
+Astragalus geminiflorus	Higher classification	Eukaryote	.
+Astragalus geminiflorus	Higher classification	Fabaceae	.
+Astragalus geminiflorus	Higher classification	Fabales	.
+Astragalus geminiflorus	Higher classification	Faboideae	.
+Astragalus geminiflorus	Higher classification	Flowering plant	.
+Astragalus geminiflorus	Higher classification	Plant	.
+Astragalus geminiflorus	Higher classification	Rosidae	.
+Astragalus geminiflorus	Higher classification	Spermatophyte	.
+Astragalus geminiflorus	Rank	Species (Organism Classification Rank)	.
+Astragalus geminiflorus	Scientific name	"Astragalus geminiflorus"@en	.
+Astragalus geminiflorus	is-a	Astragalus	.
+Astragalus geminiflorus	is-a	Dicotyledon	.
+Astragalus geminiflorus	is-a	Embryophyte	.
+Astragalus geminiflorus	is-a	Eukaryote	.
+Astragalus geminiflorus	is-a	Fabaceae	.
+Astragalus geminiflorus	is-a	Fabales	.
+Astragalus geminiflorus	is-a	Faboideae	.
+Astragalus geminiflorus	is-a	Flowering plant	.
+Astragalus geminiflorus	is-a	Organism Classification	.
+Astragalus geminiflorus	is-a	Plant	.
+Astragalus geminiflorus	is-a	Rosidae	.
+Astragalus geminiflorus	is-a	Spermatophyte	.
+Astragalus geminiflorus	is-a	Topic	.
+Astragalus gibbsii	Higher classification	Astragalus	.
+Astragalus gibbsii	Higher classification	Dicotyledon	.
+Astragalus gibbsii	Higher classification	Embryophyte	.
+Astragalus gibbsii	Higher classification	Eukaryote	.
+Astragalus gibbsii	Higher classification	Fabaceae	.
+Astragalus gibbsii	Higher classification	Fabales	.
+Astragalus gibbsii	Higher classification	Faboideae	.
+Astragalus gibbsii	Higher classification	Flowering plant	.
+Astragalus gibbsii	Higher classification	Plant	.
+Astragalus gibbsii	Higher classification	Rosidae	.
+Astragalus gibbsii	Higher classification	Spermatophyte	.
+Astragalus gibbsii	ITIS Taxon S/N	"25522"	.
+Astragalus gibbsii	Rank	Species (Organism Classification Rank)	.
+Astragalus gibbsii	Scientific name	"Astragalus gibbsii"@en	.
+Astragalus gibbsii	is-a	Astragalus	.
+Astragalus gibbsii	is-a	Dicotyledon	.
+Astragalus gibbsii	is-a	Embryophyte	.
+Astragalus gibbsii	is-a	Eukaryote	.
+Astragalus gibbsii	is-a	Fabaceae	.
+Astragalus gibbsii	is-a	Fabales	.
+Astragalus gibbsii	is-a	Faboideae	.
+Astragalus gibbsii	is-a	Flowering plant	.
+Astragalus gibbsii	is-a	Organism Classification	.
+Astragalus gibbsii	is-a	Plant	.
+Astragalus gibbsii	is-a	Rosidae	.
+Astragalus gibbsii	is-a	Spermatophyte	.
+Astragalus gibbsii	is-a	Topic	.
+Astragalus gilmanii	Higher classification	Astragalus	.
+Astragalus gilmanii	Higher classification	Dicotyledon	.
+Astragalus gilmanii	Higher classification	Embryophyte	.
+Astragalus gilmanii	Higher classification	Eukaryote	.
+Astragalus gilmanii	Higher classification	Fabaceae	.
+Astragalus gilmanii	Higher classification	Fabales	.
+Astragalus gilmanii	Higher classification	Faboideae	.
+Astragalus gilmanii	Higher classification	Flowering plant	.
+Astragalus gilmanii	Higher classification	Plant	.
+Astragalus gilmanii	Higher classification	Rosidae	.
+Astragalus gilmanii	Higher classification	Spermatophyte	.
+Astragalus gilmanii	ITIS Taxon S/N	"25525"	.
+Astragalus gilmanii	Rank	Species (Organism Classification Rank)	.
+Astragalus gilmanii	Scientific name	"Astragalus gilmanii"@en	.
+Astragalus gilmanii	is-a	Astragalus	.
+Astragalus gilmanii	is-a	Dicotyledon	.
+Astragalus gilmanii	is-a	Embryophyte	.
+Astragalus gilmanii	is-a	Eukaryote	.
+Astragalus gilmanii	is-a	Fabaceae	.
+Astragalus gilmanii	is-a	Fabales	.
+Astragalus gilmanii	is-a	Faboideae	.
+Astragalus gilmanii	is-a	Flowering plant	.
+Astragalus gilmanii	is-a	Organism Classification	.
+Astragalus gilmanii	is-a	Plant	.
+Astragalus gilmanii	is-a	Rosidae	.
+Astragalus gilmanii	is-a	Spermatophyte	.
+Astragalus gilmanii	is-a	Topic	.
+Astragalus glycyphyllos	Higher classification	Astragalus	.
+Astragalus glycyphyllos	Higher classification	Dicotyledon	.
+Astragalus glycyphyllos	Higher classification	Embryophyte	.
+Astragalus glycyphyllos	Higher classification	Eukaryote	.
+Astragalus glycyphyllos	Higher classification	Fabaceae	.
+Astragalus glycyphyllos	Higher classification	Fabales	.
+Astragalus glycyphyllos	Higher classification	Faboideae	.
+Astragalus glycyphyllos	Higher classification	Flowering plant	.
+Astragalus glycyphyllos	Higher classification	Plant	.
+Astragalus glycyphyllos	Higher classification	Rosidae	.
+Astragalus glycyphyllos	Higher classification	Spermatophyte	.
+Astragalus glycyphyllos	ITIS Taxon S/N	"25527"	.
+Astragalus glycyphyllos	NCBI Taxon ID	"83862"	.
+Astragalus glycyphyllos	Rank	Species (Organism Classification Rank)	.
+Astragalus glycyphyllos	Scientific name	"Astragalus glycyphyllos"@en	.
+Astragalus glycyphyllos	is-a	Astragalus	.
+Astragalus glycyphyllos	is-a	Dicotyledon	.
+Astragalus glycyphyllos	is-a	Embryophyte	.
+Astragalus glycyphyllos	is-a	Eukaryote	.
+Astragalus glycyphyllos	is-a	Fabaceae	.
+Astragalus glycyphyllos	is-a	Fabales	.
+Astragalus glycyphyllos	is-a	Faboideae	.
+Astragalus glycyphyllos	is-a	Flowering plant	.
+Astragalus glycyphyllos	is-a	Organism Classification	.
+Astragalus glycyphyllos	is-a	Plant	.
+Astragalus glycyphyllos	is-a	Rosidae	.
+Astragalus glycyphyllos	is-a	Spermatophyte	.
+Astragalus glycyphyllos	is-a	Topic	.
+Astragalus holmgreniorum	Scientific name	"Astragalus holmgreniorum"@en	.
+Astragalus holmgreniorum	is-a	Organism Classification	.
+Astragalus holmgreniorum	is-a	Topic	.
+Astragalus humillimus	Scientific name	"Astragalus humillimus"@en	.
+Astragalus humillimus	is-a	Organism Classification	.
+Astragalus humillimus	is-a	Topic	.
+Astragalus inversus	Higher classification	Astragalus	.
+Astragalus inversus	Higher classification	Dicotyledon	.
+Astragalus inversus	Higher classification	Embryophyte	.
+Astragalus inversus	Higher classification	Eukaryote	.
+Astragalus inversus	Higher classification	Fabaceae	.
+Astragalus inversus	Higher classification	Fabales	.
+Astragalus inversus	Higher classification	Faboideae	.
+Astragalus inversus	Higher classification	Flowering plant	.
+Astragalus inversus	Higher classification	Plant	.
+Astragalus inversus	Higher classification	Rosidae	.
+Astragalus inversus	Higher classification	Spermatophyte	.
+Astragalus inversus	ITIS Taxon S/N	"25545"	.
+Astragalus inversus	Rank	Species (Organism Classification Rank)	.
+Astragalus inversus	Scientific name	"Astragalus inversus"@en	.
+Astragalus inversus	is-a	Astragalus	.
+Astragalus inversus	is-a	Dicotyledon	.
+Astragalus inversus	is-a	Embryophyte	.
+Astragalus inversus	is-a	Eukaryote	.
+Astragalus inversus	is-a	Fabaceae	.
+Astragalus inversus	is-a	Fabales	.
+Astragalus inversus	is-a	Faboideae	.
+Astragalus inversus	is-a	Flowering plant	.
+Astragalus inversus	is-a	Organism Classification	.
+Astragalus inversus	is-a	Plant	.
+Astragalus inversus	is-a	Rosidae	.
+Astragalus inversus	is-a	Spermatophyte	.
+Astragalus inversus	is-a	Topic	.
+Astragalus inyoensis	Higher classification	Astragalus	.
+Astragalus inyoensis	Higher classification	Dicotyledon	.
+Astragalus inyoensis	Higher classification	Embryophyte	.
+Astragalus inyoensis	Higher classification	Eukaryote	.
+Astragalus inyoensis	Higher classification	Fabaceae	.
+Astragalus inyoensis	Higher classification	Fabales	.
+Astragalus inyoensis	Higher classification	Faboideae	.
+Astragalus inyoensis	Higher classification	Flowering plant	.
+Astragalus inyoensis	Higher classification	Plant	.
+Astragalus inyoensis	Higher classification	Rosidae	.
+Astragalus inyoensis	Higher classification	Spermatophyte	.
+Astragalus inyoensis	ITIS Taxon S/N	"25546"	.
+Astragalus inyoensis	Rank	Species (Organism Classification Rank)	.
+Astragalus inyoensis	Scientific name	"Astragalus inyoensis"@en	.
+Astragalus inyoensis	is-a	Astragalus	.
+Astragalus inyoensis	is-a	Dicotyledon	.
+Astragalus inyoensis	is-a	Embryophyte	.
+Astragalus inyoensis	is-a	Eukaryote	.
+Astragalus inyoensis	is-a	Fabaceae	.
+Astragalus inyoensis	is-a	Fabales	.
+Astragalus inyoensis	is-a	Faboideae	.
+Astragalus inyoensis	is-a	Flowering plant	.
+Astragalus inyoensis	is-a	Organism Classification	.
+Astragalus inyoensis	is-a	Plant	.
+Astragalus inyoensis	is-a	Rosidae	.
+Astragalus inyoensis	is-a	Spermatophyte	.
+Astragalus inyoensis	is-a	Topic	.
+Astragalus jaegerianus	Higher classification	Astragalus	.
+Astragalus jaegerianus	Higher classification	Dicotyledon	.
+Astragalus jaegerianus	Higher classification	Embryophyte	.
+Astragalus jaegerianus	Higher classification	Eukaryote	.
+Astragalus jaegerianus	Higher classification	Fabaceae	.
+Astragalus jaegerianus	Higher classification	Fabales	.
+Astragalus jaegerianus	Higher classification	Faboideae	.
+Astragalus jaegerianus	Higher classification	Flowering plant	.
+Astragalus jaegerianus	Higher classification	Plant	.
+Astragalus jaegerianus	Higher classification	Rosidae	.
+Astragalus jaegerianus	Higher classification	Spermatophyte	.
+Astragalus jaegerianus	ITIS Taxon S/N	"25550"	.
+Astragalus jaegerianus	Rank	Species (Organism Classification Rank)	.
+Astragalus jaegerianus	Scientific name	"Astragalus jaegerianus"@en	.
+Astragalus jaegerianus	is-a	Astragalus	.
+Astragalus jaegerianus	is-a	Dicotyledon	.
+Astragalus jaegerianus	is-a	Embryophyte	.
+Astragalus jaegerianus	is-a	Eukaryote	.
+Astragalus jaegerianus	is-a	Fabaceae	.
+Astragalus jaegerianus	is-a	Fabales	.
+Astragalus jaegerianus	is-a	Faboideae	.
+Astragalus jaegerianus	is-a	Flowering plant	.
+Astragalus jaegerianus	is-a	Organism Classification	.
+Astragalus jaegerianus	is-a	Plant	.
+Astragalus jaegerianus	is-a	Rosidae	.
+Astragalus jaegerianus	is-a	Spermatophyte	.
+Astragalus jaegerianus	is-a	Topic	.
+Astragalus johannis-howellii	Higher classification	Astragalus	.
+Astragalus johannis-howellii	Higher classification	Dicotyledon	.
+Astragalus johannis-howellii	Higher classification	Embryophyte	.
+Astragalus johannis-howellii	Higher classification	Eukaryote	.
+Astragalus johannis-howellii	Higher classification	Fabaceae	.
+Astragalus johannis-howellii	Higher classification	Fabales	.
+Astragalus johannis-howellii	Higher classification	Faboideae	.
+Astragalus johannis-howellii	Higher classification	Flowering plant	.
+Astragalus johannis-howellii	Higher classification	Plant	.
+Astragalus johannis-howellii	Higher classification	Rosidae	.
+Astragalus johannis-howellii	Higher classification	Spermatophyte	.
+Astragalus johannis-howellii	ITIS Taxon S/N	"25552"	.
+Astragalus johannis-howellii	Rank	Species (Organism Classification Rank)	.
+Astragalus johannis-howellii	Scientific name	"Astragalus johannis-howellii"@en	.
+Astragalus johannis-howellii	is-a	Astragalus	.
+Astragalus johannis-howellii	is-a	Dicotyledon	.
+Astragalus johannis-howellii	is-a	Embryophyte	.
+Astragalus johannis-howellii	is-a	Eukaryote	.
+Astragalus johannis-howellii	is-a	Fabaceae	.
+Astragalus johannis-howellii	is-a	Fabales	.
+Astragalus johannis-howellii	is-a	Faboideae	.
+Astragalus johannis-howellii	is-a	Flowering plant	.
+Astragalus johannis-howellii	is-a	Organism Classification	.
+Astragalus johannis-howellii	is-a	Plant	.
+Astragalus johannis-howellii	is-a	Rosidae	.
+Astragalus johannis-howellii	is-a	Spermatophyte	.
+Astragalus johannis-howellii	is-a	Topic	.
+Astragalus kentrophyta	Higher classification	Astragalus	.
+Astragalus kentrophyta	Higher classification	Dicotyledon	.
+Astragalus kentrophyta	Higher classification	Embryophyte	.
+Astragalus kentrophyta	Higher classification	Eukaryote	.
+Astragalus kentrophyta	Higher classification	Fabaceae	.
+Astragalus kentrophyta	Higher classification	Fabales	.
+Astragalus kentrophyta	Higher classification	Faboideae	.
+Astragalus kentrophyta	Higher classification	Flowering plant	.
+Astragalus kentrophyta	Higher classification	Plant	.
+Astragalus kentrophyta	Higher classification	Rosidae	.
+Astragalus kentrophyta	Higher classification	Spermatophyte	.
+Astragalus kentrophyta	ITIS Taxon S/N	"25553"	.
+Astragalus kentrophyta	Rank	Species (Organism Classification Rank)	.
+Astragalus kentrophyta	Scientific name	"Astragalus kentrophyta"@en	.
+Astragalus kentrophyta	is-a	Astragalus	.
+Astragalus kentrophyta	is-a	Dicotyledon	.
+Astragalus kentrophyta	is-a	Embryophyte	.
+Astragalus kentrophyta	is-a	Eukaryote	.
+Astragalus kentrophyta	is-a	Fabaceae	.
+Astragalus kentrophyta	is-a	Fabales	.
+Astragalus kentrophyta	is-a	Faboideae	.
+Astragalus kentrophyta	is-a	Flowering plant	.
+Astragalus kentrophyta	is-a	Organism Classification	.
+Astragalus kentrophyta	is-a	Plant	.
+Astragalus kentrophyta	is-a	Rosidae	.
+Astragalus kentrophyta	is-a	Spermatophyte	.
+Astragalus kentrophyta	is-a	Topic	.
+Astragalus layneae	Higher classification	Astragalus	.
+Astragalus layneae	Higher classification	Dicotyledon	.
+Astragalus layneae	Higher classification	Embryophyte	.
+Astragalus layneae	Higher classification	Eukaryote	.
+Astragalus layneae	Higher classification	Fabaceae	.
+Astragalus layneae	Higher classification	Fabales	.
+Astragalus layneae	Higher classification	Faboideae	.
+Astragalus layneae	Higher classification	Flowering plant	.
+Astragalus layneae	Higher classification	Plant	.
+Astragalus layneae	Higher classification	Rosidae	.
+Astragalus layneae	Higher classification	Spermatophyte	.
+Astragalus layneae	ITIS Taxon S/N	"25555"	.
+Astragalus layneae	Rank	Species (Organism Classification Rank)	.
+Astragalus layneae	Scientific name	"Astragalus layneae"@en	.
+Astragalus layneae	is-a	Astragalus	.
+Astragalus layneae	is-a	Dicotyledon	.
+Astragalus layneae	is-a	Embryophyte	.
+Astragalus layneae	is-a	Eukaryote	.
+Astragalus layneae	is-a	Fabaceae	.
+Astragalus layneae	is-a	Fabales	.
+Astragalus layneae	is-a	Faboideae	.
+Astragalus layneae	is-a	Flowering plant	.
+Astragalus layneae	is-a	Organism Classification	.
+Astragalus layneae	is-a	Plant	.
+Astragalus layneae	is-a	Rosidae	.
+Astragalus layneae	is-a	Spermatophyte	.
+Astragalus layneae	is-a	Topic	.
+Astragalus lemmonii	Higher classification	Astragalus	.
+Astragalus lemmonii	Higher classification	Dicotyledon	.
+Astragalus lemmonii	Higher classification	Embryophyte	.
+Astragalus lemmonii	Higher classification	Eukaryote	.
+Astragalus lemmonii	Higher classification	Fabaceae	.
+Astragalus lemmonii	Higher classification	Fabales	.
+Astragalus lemmonii	Higher classification	Faboideae	.
+Astragalus lemmonii	Higher classification	Flowering plant	.
+Astragalus lemmonii	Higher classification	Plant	.
+Astragalus lemmonii	Higher classification	Rosidae	.
+Astragalus lemmonii	Higher classification	Spermatophyte	.
+Astragalus lemmonii	ITIS Taxon S/N	"25557"	.
+Astragalus lemmonii	Rank	Species (Organism Classification Rank)	.
+Astragalus lemmonii	Scientific name	"Astragalus lemmonii"@en	.
+Astragalus lemmonii	is-a	Astragalus	.
+Astragalus lemmonii	is-a	Dicotyledon	.
+Astragalus lemmonii	is-a	Embryophyte	.
+Astragalus lemmonii	is-a	Eukaryote	.
+Astragalus lemmonii	is-a	Fabaceae	.
+Astragalus lemmonii	is-a	Fabales	.
+Astragalus lemmonii	is-a	Faboideae	.
+Astragalus lemmonii	is-a	Flowering plant	.
+Astragalus lemmonii	is-a	Organism Classification	.
+Astragalus lemmonii	is-a	Plant	.
+Astragalus lemmonii	is-a	Rosidae	.
+Astragalus lemmonii	is-a	Spermatophyte	.
+Astragalus lemmonii	is-a	Topic	.
+Astragalus lentiformis	Higher classification	Astragalus	.
+Astragalus lentiformis	Higher classification	Dicotyledon	.
+Astragalus lentiformis	Higher classification	Embryophyte	.
+Astragalus lentiformis	Higher classification	Eukaryote	.
+Astragalus lentiformis	Higher classification	Fabaceae	.
+Astragalus lentiformis	Higher classification	Fabales	.
+Astragalus lentiformis	Higher classification	Faboideae	.
+Astragalus lentiformis	Higher classification	Flowering plant	.
+Astragalus lentiformis	Higher classification	Plant	.
+Astragalus lentiformis	Higher classification	Rosidae	.
+Astragalus lentiformis	Higher classification	Spermatophyte	.
+Astragalus lentiformis	ITIS Taxon S/N	"25558"	.
+Astragalus lentiformis	Rank	Species (Organism Classification Rank)	.
+Astragalus lentiformis	Scientific name	"Astragalus lentiformis"@en	.
+Astragalus lentiformis	is-a	Astragalus	.
+Astragalus lentiformis	is-a	Dicotyledon	.
+Astragalus lentiformis	is-a	Embryophyte	.
+Astragalus lentiformis	is-a	Eukaryote	.
+Astragalus lentiformis	is-a	Fabaceae	.
+Astragalus lentiformis	is-a	Fabales	.
+Astragalus lentiformis	is-a	Faboideae	.
+Astragalus lentiformis	is-a	Flowering plant	.
+Astragalus lentiformis	is-a	Organism Classification	.
+Astragalus lentiformis	is-a	Plant	.
+Astragalus lentiformis	is-a	Rosidae	.
+Astragalus lentiformis	is-a	Spermatophyte	.
+Astragalus lentiformis	is-a	Topic	.
+Astragalus lentiginosus	Higher classification	Astragalus	.
+Astragalus lentiginosus	Higher classification	Dicotyledon	.
+Astragalus lentiginosus	Higher classification	Embryophyte	.
+Astragalus lentiginosus	Higher classification	Eukaryote	.
+Astragalus lentiginosus	Higher classification	Fabaceae	.
+Astragalus lentiginosus	Higher classification	Fabales	.
+Astragalus lentiginosus	Higher classification	Faboideae	.
+Astragalus lentiginosus	Higher classification	Flowering plant	.
+Astragalus lentiginosus	Higher classification	Plant	.
+Astragalus lentiginosus	Higher classification	Rosidae	.
+Astragalus lentiginosus	Higher classification	Spermatophyte	.
+Astragalus lentiginosus	ITIS Taxon S/N	"25559"	.
+Astragalus lentiginosus	Rank	Species (Organism Classification Rank)	.
+Astragalus lentiginosus	Scientific name	"Astragalus lentiginosus"@en	.
+Astragalus lentiginosus	is-a	Astragalus	.
+Astragalus lentiginosus	is-a	Dicotyledon	.
+Astragalus lentiginosus	is-a	Embryophyte	.
+Astragalus lentiginosus	is-a	Eukaryote	.
+Astragalus lentiginosus	is-a	Fabaceae	.
+Astragalus lentiginosus	is-a	Fabales	.
+Astragalus lentiginosus	is-a	Faboideae	.
+Astragalus lentiginosus	is-a	Flowering plant	.
+Astragalus lentiginosus	is-a	Organism Classification	.
+Astragalus lentiginosus	is-a	Plant	.
+Astragalus lentiginosus	is-a	Rosidae	.
+Astragalus lentiginosus	is-a	Spermatophyte	.
+Astragalus lentiginosus	is-a	Topic	.
+Astragalus leucolobus	Higher classification	Astragalus	.
+Astragalus leucolobus	Higher classification	Dicotyledon	.
+Astragalus leucolobus	Higher classification	Embryophyte	.
+Astragalus leucolobus	Higher classification	Eukaryote	.
+Astragalus leucolobus	Higher classification	Fabaceae	.
+Astragalus leucolobus	Higher classification	Fabales	.
+Astragalus leucolobus	Higher classification	Faboideae	.
+Astragalus leucolobus	Higher classification	Flowering plant	.
+Astragalus leucolobus	Higher classification	Plant	.
+Astragalus leucolobus	Higher classification	Rosidae	.
+Astragalus leucolobus	Higher classification	Spermatophyte	.
+Astragalus leucolobus	ITIS Taxon S/N	"25562"	.
+Astragalus leucolobus	Rank	Species (Organism Classification Rank)	.
+Astragalus leucolobus	Scientific name	"Astragalus leucolobus"@en	.
+Astragalus leucolobus	is-a	Astragalus	.
+Astragalus leucolobus	is-a	Dicotyledon	.
+Astragalus leucolobus	is-a	Embryophyte	.
+Astragalus leucolobus	is-a	Eukaryote	.
+Astragalus leucolobus	is-a	Fabaceae	.
+Astragalus leucolobus	is-a	Fabales	.
+Astragalus leucolobus	is-a	Faboideae	.
+Astragalus leucolobus	is-a	Flowering plant	.
+Astragalus leucolobus	is-a	Organism Classification	.
+Astragalus leucolobus	is-a	Plant	.
+Astragalus leucolobus	is-a	Rosidae	.
+Astragalus leucolobus	is-a	Spermatophyte	.
+Astragalus leucolobus	is-a	Topic	.
+Astragalus malacus	Higher classification	Astragalus	.
+Astragalus malacus	Higher classification	Dicotyledon	.
+Astragalus malacus	Higher classification	Embryophyte	.
+Astragalus malacus	Higher classification	Eukaryote	.
+Astragalus malacus	Higher classification	Fabaceae	.
+Astragalus malacus	Higher classification	Fabales	.
+Astragalus malacus	Higher classification	Faboideae	.
+Astragalus malacus	Higher classification	Flowering plant	.
+Astragalus malacus	Higher classification	Plant	.
+Astragalus malacus	Higher classification	Rosidae	.
+Astragalus malacus	Higher classification	Spermatophyte	.
+Astragalus malacus	ITIS Taxon S/N	"25574"	.
+Astragalus malacus	Rank	Species (Organism Classification Rank)	.
+Astragalus malacus	Scientific name	"Astragalus malacus"@en	.
+Astragalus malacus	is-a	Astragalus	.
+Astragalus malacus	is-a	Dicotyledon	.
+Astragalus malacus	is-a	Embryophyte	.
+Astragalus malacus	is-a	Eukaryote	.
+Astragalus malacus	is-a	Fabaceae	.
+Astragalus malacus	is-a	Fabales	.
+Astragalus malacus	is-a	Faboideae	.
+Astragalus malacus	is-a	Flowering plant	.
+Astragalus malacus	is-a	Organism Classification	.
+Astragalus malacus	is-a	Plant	.
+Astragalus malacus	is-a	Rosidae	.
+Astragalus malacus	is-a	Spermatophyte	.
+Astragalus malacus	is-a	Topic	.
+Astragalus membranaceus, echinacea angustifolia 3/12/12/3/30/12/3/30/3/30/30/3/30/8 liquid	Active ingredient	Astragalus propinquus root	.
+Astragalus membranaceus, echinacea angustifolia 3/12/12/3/30/12/3/30/3/30/30/3/30/8 liquid	Active ingredient	Carbo animalis	.
+Astragalus membranaceus, echinacea angustifolia 3/12/12/3/30/12/3/30/3/30/30/3/30/8 liquid	Active ingredient	Causticum	.
+Astragalus membranaceus, echinacea angustifolia 3/12/12/3/30/12/3/30/3/30/30/3/30/8 liquid	Active ingredient	Desiccated thyroid extract	.
+Astragalus membranaceus, echinacea angustifolia 3/12/12/3/30/12/3/30/3/30/30/3/30/8 liquid	Active ingredient	Echinacea angustifolia	.
+Astragalus membranaceus, echinacea angustifolia 3/12/12/3/30/12/3/30/3/30/30/3/30/8 liquid	Active ingredient	Gelsemium sempervirens root	.
+Astragalus membranaceus, echinacea angustifolia 3/12/12/3/30/12/3/30/3/30/30/3/30/8 liquid	Active ingredient	Gold	.
+Astragalus membranaceus, echinacea angustifolia 3/12/12/3/30/12/3/30/3/30/30/3/30/8 liquid	Active ingredient	Goldenseal	.
+Astragalus membranaceus, echinacea angustifolia 3/12/12/3/30/12/3/30/3/30/30/3/30/8 liquid	Active ingredient	Phosphorus	.
+Astragalus membranaceus, echinacea angustifolia 3/12/12/3/30/12/3/30/3/30/30/3/30/8 liquid	Active ingredient	Smilax regelii root	.
+Astragalus membranaceus, echinacea angustifolia 3/12/12/3/30/12/3/30/3/30/30/3/30/8 liquid	Active ingredient	Sodium sulfate	.
+Astragalus membranaceus, echinacea angustifolia 3/12/12/3/30/12/3/30/3/30/30/3/30/8 liquid	Active ingredient	Sulfur	.
+Astragalus membranaceus, echinacea angustifolia 3/12/12/3/30/12/3/30/3/30/30/3/30/8 liquid	Active ingredient	Tabebuia impetiginosa bark	.
+Astragalus membranaceus, echinacea angustifolia 3/12/12/3/30/12/3/30/3/30/30/3/30/8 liquid	Active ingredient	Thuja occidentalis leafy twig	.
+Astragalus membranaceus, echinacea angustifolia 3/12/12/3/30/12/3/30/3/30/30/3/30/8 liquid	Active ingredient moiety	Astragalus propinquus root	.
+Astragalus membranaceus, echinacea angustifolia 3/12/12/3/30/12/3/30/3/30/30/3/30/8 liquid	Active ingredient moiety	Carbo animalis	.
+Astragalus membranaceus, echinacea angustifolia 3/12/12/3/30/12/3/30/3/30/30/3/30/8 liquid	Active ingredient moiety	Causticum	.
+Astragalus membranaceus, echinacea angustifolia 3/12/12/3/30/12/3/30/3/30/30/3/30/8 liquid	Active ingredient moiety	Desiccated thyroid extract	.
+Astragalus membranaceus, echinacea angustifolia 3/12/12/3/30/12/3/30/3/30/30/3/30/8 liquid	Active ingredient moiety	Echinacea angustifolia	.
+Astragalus membranaceus, echinacea angustifolia 3/12/12/3/30/12/3/30/3/30/30/3/30/8 liquid	Active ingredient moiety	Gelsemium sempervirens root	.
+Astragalus membranaceus, echinacea angustifolia 3/12/12/3/30/12/3/30/3/30/30/3/30/8 liquid	Active ingredient moiety	Gold	.
+Astragalus membranaceus, echinacea angustifolia 3/12/12/3/30/12/3/30/3/30/30/3/30/8 liquid	Active ingredient moiety	Goldenseal	.
+Astragalus membranaceus, echinacea angustifolia 3/12/12/3/30/12/3/30/3/30/30/3/30/8 liquid	Active ingredient moiety	Phosphorus	.
+Astragalus membranaceus, echinacea angustifolia 3/12/12/3/30/12/3/30/3/30/30/3/30/8 liquid	Active ingredient moiety	Smilax regelii root	.
+Astragalus membranaceus, echinacea angustifolia 3/12/12/3/30/12/3/30/3/30/30/3/30/8 liquid	Active ingredient moiety	Sodium	.
+Astragalus membranaceus, echinacea angustifolia 3/12/12/3/30/12/3/30/3/30/30/3/30/8 liquid	Active ingredient moiety	Sulfur	.
+Astragalus membranaceus, echinacea angustifolia 3/12/12/3/30/12/3/30/3/30/30/3/30/8 liquid	Active ingredient moiety	Tabebuia impetiginosa bark	.
+Astragalus membranaceus, echinacea angustifolia 3/12/12/3/30/12/3/30/3/30/30/3/30/8 liquid	Active ingredient moiety	Thuja occidentalis leafy twig	.
+Astragalus membranaceus, echinacea angustifolia 3/12/12/3/30/12/3/30/3/30/30/3/30/8 liquid	Brand name	"Inflammation II"@en	.
+Astragalus membranaceus, echinacea angustifolia 3/12/12/3/30/12/3/30/3/30/30/3/30/8 liquid	Dosage form	Liquid	.
+Astragalus membranaceus, echinacea angustifolia 3/12/12/3/30/12/3/30/3/30/30/3/30/8 liquid	Drug category	Homeopathic (Drug formulation category)	.
+Astragalus membranaceus, echinacea angustifolia 3/12/12/3/30/12/3/30/3/30/30/3/30/8 liquid	Formulation of	Echinacea angustifolia/Goldenseal/Smilax regelii root/Tabebuia impetiginosa bark/Thyroid, unspecified/Gold/Causticum/Sodium cation/Gelsemium sempervirens root/Phosphorus/Sulfur/Thuja occidentalis leafy twig/Astragalus propinquus root/Carbo animalis homeopathic preparation	.
+Astragalus membranaceus, echinacea angustifolia 3/12/12/3/30/12/3/30/3/30/30/3/30/8 liquid	Legal status	Not evaluated by FDA	.
+Astragalus membranaceus, echinacea angustifolia 3/12/12/3/30/12/3/30/3/30/30/3/30/8 liquid	Legal status	Over-the-counter drug	.
+Astragalus membranaceus, echinacea angustifolia 3/12/12/3/30/12/3/30/3/30/30/3/30/8 liquid	Route of administration	Oral (Drug administration route)	.
+Astragalus membranaceus, echinacea angustifolia 3/12/12/3/30/12/3/30/3/30/30/3/30/8 liquid	Routed drug	Echinacea Angustifolia/Goldenseal/Smilax Regelii Root/Tabebuia Impetiginosa Bark/Thyroid, Unspecified/Gold/Causticum/Sodium Cation/Gelsemium Sempervirens Root/Phosphorus/Sulfur/Thuja Occidentalis Leafy Twig/Astragalus Propinquus Root/Carbo Animalis Homeopathic Preparation Oral	.
+Astragalus membranaceus, echinacea angustifolia 3/12/12/3/30/12/3/30/3/30/30/3/30/8 liquid	is-a	Drug formulation	.
+Astragalus membranaceus, echinacea angustifolia 3/12/12/3/30/12/3/30/3/30/30/3/30/8 liquid	is-a	Topic	.
+Astragalus miguelensis	Higher classification	Astragalus	.
+Astragalus miguelensis	Higher classification	Dicotyledon	.
+Astragalus miguelensis	Higher classification	Embryophyte	.
+Astragalus miguelensis	Higher classification	Eukaryote	.
+Astragalus miguelensis	Higher classification	Fabaceae	.
+Astragalus miguelensis	Higher classification	Fabales	.
+Astragalus miguelensis	Higher classification	Faboideae	.
+Astragalus miguelensis	Higher classification	Flowering plant	.
+Astragalus miguelensis	Higher classification	Plant	.
+Astragalus miguelensis	Higher classification	Rosidae	.
+Astragalus miguelensis	Higher classification	Spermatophyte	.
+Astragalus miguelensis	ITIS Taxon S/N	"25581"	.
+Astragalus miguelensis	Rank	Species (Organism Classification Rank)	.
+Astragalus miguelensis	Scientific name	"Astragalus miguelensis"@en	.
+Astragalus miguelensis	is-a	Astragalus	.
+Astragalus miguelensis	is-a	Dicotyledon	.
+Astragalus miguelensis	is-a	Embryophyte	.
+Astragalus miguelensis	is-a	Eukaryote	.
+Astragalus miguelensis	is-a	Fabaceae	.
+Astragalus miguelensis	is-a	Fabales	.
+Astragalus miguelensis	is-a	Faboideae	.
+Astragalus miguelensis	is-a	Flowering plant	.
+Astragalus miguelensis	is-a	Organism Classification	.
+Astragalus miguelensis	is-a	Plant	.
+Astragalus miguelensis	is-a	Rosidae	.
+Astragalus miguelensis	is-a	Spermatophyte	.
+Astragalus miguelensis	is-a	Topic	.
+Astragalus mohavensis	Higher classification	Astragalus	.
+Astragalus mohavensis	Higher classification	Dicotyledon	.
+Astragalus mohavensis	Higher classification	Embryophyte	.
+Astragalus mohavensis	Higher classification	Eukaryote	.
+Astragalus mohavensis	Higher classification	Fabaceae	.
+Astragalus mohavensis	Higher classification	Fabales	.
+Astragalus mohavensis	Higher classification	Faboideae	.
+Astragalus mohavensis	Higher classification	Flowering plant	.
+Astragalus mohavensis	Higher classification	Plant	.
+Astragalus mohavensis	Higher classification	Rosidae	.
+Astragalus mohavensis	Higher classification	Spermatophyte	.
+Astragalus mohavensis	ITIS Taxon S/N	"25587"	.
+Astragalus mohavensis	Rank	Species (Organism Classification Rank)	.
+Astragalus mohavensis	Scientific name	"Astragalus mohavensis"@en	.
+Astragalus mohavensis	is-a	Astragalus	.
+Astragalus mohavensis	is-a	Dicotyledon	.
+Astragalus mohavensis	is-a	Embryophyte	.
+Astragalus mohavensis	is-a	Eukaryote	.
+Astragalus mohavensis	is-a	Fabaceae	.
+Astragalus mohavensis	is-a	Fabales	.
+Astragalus mohavensis	is-a	Faboideae	.
+Astragalus mohavensis	is-a	Flowering plant	.
+Astragalus mohavensis	is-a	Organism Classification	.
+Astragalus mohavensis	is-a	Plant	.
+Astragalus mohavensis	is-a	Rosidae	.
+Astragalus mohavensis	is-a	Spermatophyte	.
+Astragalus mohavensis	is-a	Topic	.
+Astragalus monoensis	Higher classification	Astragalus	.
+Astragalus monoensis	Higher classification	Dicotyledon	.
+Astragalus monoensis	Higher classification	Embryophyte	.
+Astragalus monoensis	Higher classification	Eukaryote	.
+Astragalus monoensis	Higher classification	Fabaceae	.
+Astragalus monoensis	Higher classification	Fabales	.
+Astragalus monoensis	Higher classification	Faboideae	.
+Astragalus monoensis	Higher classification	Flowering plant	.
+Astragalus monoensis	Higher classification	Plant	.
+Astragalus monoensis	Higher classification	Rosidae	.
+Astragalus monoensis	Higher classification	Spermatophyte	.
+Astragalus monoensis	ITIS Taxon S/N	"25591"	.
+Astragalus monoensis	Rank	Species (Organism Classification Rank)	.
+Astragalus monoensis	Scientific name	"Astragalus monoensis"@en	.
+Astragalus monoensis	is-a	Astragalus	.
+Astragalus monoensis	is-a	Dicotyledon	.
+Astragalus monoensis	is-a	Embryophyte	.
+Astragalus monoensis	is-a	Eukaryote	.
+Astragalus monoensis	is-a	Fabaceae	.
+Astragalus monoensis	is-a	Fabales	.
+Astragalus monoensis	is-a	Faboideae	.
+Astragalus monoensis	is-a	Flowering plant	.
+Astragalus monoensis	is-a	Organism Classification	.
+Astragalus monoensis	is-a	Plant	.
+Astragalus monoensis	is-a	Rosidae	.
+Astragalus monoensis	is-a	Spermatophyte	.
+Astragalus monoensis	is-a	Topic	.
+Astragalus monspessulanus	Scientific name	"Astragalus monspessulanus"@en	.
+Astragalus monspessulanus	is-a	Organism Classification	.
+Astragalus monspessulanus	is-a	Topic	.
+Astragalus nevinii	Higher classification	Astragalus	.
+Astragalus nevinii	Higher classification	Dicotyledon	.
+Astragalus nevinii	Higher classification	Embryophyte	.
+Astragalus nevinii	Higher classification	Eukaryote	.
+Astragalus nevinii	Higher classification	Fabaceae	.
+Astragalus nevinii	Higher classification	Fabales	.
+Astragalus nevinii	Higher classification	Faboideae	.
+Astragalus nevinii	Higher classification	Flowering plant	.
+Astragalus nevinii	Higher classification	Plant	.
+Astragalus nevinii	Higher classification	Rosidae	.
+Astragalus nevinii	Higher classification	Spermatophyte	.
+Astragalus nevinii	ITIS Taxon S/N	"25601"	.
+Astragalus nevinii	Rank	Species (Organism Classification Rank)	.
+Astragalus nevinii	Scientific name	"Astragalus nevinii"@en	.
+Astragalus nevinii	is-a	Astragalus	.
+Astragalus nevinii	is-a	Dicotyledon	.
+Astragalus nevinii	is-a	Embryophyte	.
+Astragalus nevinii	is-a	Eukaryote	.
+Astragalus nevinii	is-a	Fabaceae	.
+Astragalus nevinii	is-a	Fabales	.
+Astragalus nevinii	is-a	Faboideae	.
+Astragalus nevinii	is-a	Flowering plant	.
+Astragalus nevinii	is-a	Organism Classification	.
+Astragalus nevinii	is-a	Plant	.
+Astragalus nevinii	is-a	Rosidae	.
+Astragalus nevinii	is-a	Spermatophyte	.
+Astragalus nevinii	is-a	Topic	.
+Astragalus newberryi	Higher classification	Astragalus	.
+Astragalus newberryi	Higher classification	Dicotyledon	.
+Astragalus newberryi	Higher classification	Embryophyte	.
+Astragalus newberryi	Higher classification	Eukaryote	.
+Astragalus newberryi	Higher classification	Fabaceae	.
+Astragalus newberryi	Higher classification	Fabales	.
+Astragalus newberryi	Higher classification	Faboideae	.
+Astragalus newberryi	Higher classification	Flowering plant	.
+Astragalus newberryi	Higher classification	Plant	.
+Astragalus newberryi	Higher classification	Rosidae	.
+Astragalus newberryi	Higher classification	Spermatophyte	.
+Astragalus newberryi	ITIS Taxon S/N	"25602"	.
+Astragalus newberryi	NCBI Taxon ID	"457885"	.
+Astragalus newberryi	Rank	Species (Organism Classification Rank)	.
+Astragalus newberryi	Scientific name	"Astragalus newberryi"@en	.
+Astragalus newberryi	is-a	Astragalus	.
+Astragalus newberryi	is-a	Dicotyledon	.
+Astragalus newberryi	is-a	Embryophyte	.
+Astragalus newberryi	is-a	Eukaryote	.
+Astragalus newberryi	is-a	Fabaceae	.
+Astragalus newberryi	is-a	Fabales	.
+Astragalus newberryi	is-a	Faboideae	.
+Astragalus newberryi	is-a	Flowering plant	.
+Astragalus newberryi	is-a	Organism Classification	.
+Astragalus newberryi	is-a	Plant	.
+Astragalus newberryi	is-a	Rosidae	.
+Astragalus newberryi	is-a	Spermatophyte	.
+Astragalus newberryi	is-a	Topic	.
+Astragalus nitidiflorus	Scientific name	"Astragalus nitidiflorus"@en	.
+Astragalus nitidiflorus	is-a	Organism Classification	.
+Astragalus nitidiflorus	is-a	Topic	.
+Astragalus nutans	Higher classification	Astragalus	.
+Astragalus nutans	Higher classification	Dicotyledon	.
+Astragalus nutans	Higher classification	Embryophyte	.
+Astragalus nutans	Higher classification	Eukaryote	.
+Astragalus nutans	Higher classification	Fabaceae	.
+Astragalus nutans	Higher classification	Fabales	.
+Astragalus nutans	Higher classification	Faboideae	.
+Astragalus nutans	Higher classification	Flowering plant	.
+Astragalus nutans	Higher classification	Plant	.
+Astragalus nutans	Higher classification	Rosidae	.
+Astragalus nutans	Higher classification	Spermatophyte	.
+Astragalus nutans	ITIS Taxon S/N	"25606"	.
+Astragalus nutans	Rank	Species (Organism Classification Rank)	.
+Astragalus nutans	Scientific name	"Astragalus nutans"@en	.
+Astragalus nutans	is-a	Astragalus	.
+Astragalus nutans	is-a	Dicotyledon	.
+Astragalus nutans	is-a	Embryophyte	.
+Astragalus nutans	is-a	Eukaryote	.
+Astragalus nutans	is-a	Fabaceae	.
+Astragalus nutans	is-a	Fabales	.
+Astragalus nutans	is-a	Faboideae	.
+Astragalus nutans	is-a	Flowering plant	.
+Astragalus nutans	is-a	Organism Classification	.
+Astragalus nutans	is-a	Plant	.
+Astragalus nutans	is-a	Rosidae	.
+Astragalus nutans	is-a	Spermatophyte	.
+Astragalus nutans	is-a	Topic	.
+Astragalus nuttallianus	Higher classification	Astragalus	.
+Astragalus nuttallianus	Higher classification	Dicotyledon	.
+Astragalus nuttallianus	Higher classification	Embryophyte	.
+Astragalus nuttallianus	Higher classification	Eukaryote	.
+Astragalus nuttallianus	Higher classification	Fabaceae	.
+Astragalus nuttallianus	Higher classification	Fabales	.
+Astragalus nuttallianus	Higher classification	Faboideae	.
+Astragalus nuttallianus	Higher classification	Flowering plant	.
+Astragalus nuttallianus	Higher classification	Plant	.
+Astragalus nuttallianus	Higher classification	Rosidae	.
+Astragalus nuttallianus	Higher classification	Spermatophyte	.
+Astragalus nuttallianus	ITIS Taxon S/N	"25607"	.
+Astragalus nuttallianus	Rank	Species (Organism Classification Rank)	.
+Astragalus nuttallianus	Scientific name	"Astragalus nuttallianus"@en	.
+Astragalus nuttallianus	is-a	Astragalus	.
+Astragalus nuttallianus	is-a	Dicotyledon	.
+Astragalus nuttallianus	is-a	Embryophyte	.
+Astragalus nuttallianus	is-a	Eukaryote	.
+Astragalus nuttallianus	is-a	Fabaceae	.
+Astragalus nuttallianus	is-a	Fabales	.
+Astragalus nuttallianus	is-a	Faboideae	.
+Astragalus nuttallianus	is-a	Flowering plant	.
+Astragalus nuttallianus	is-a	Organism Classification	.
+Astragalus nuttallianus	is-a	Plant	.
+Astragalus nuttallianus	is-a	Rosidae	.
+Astragalus nuttallianus	is-a	Spermatophyte	.
+Astragalus nuttallianus	is-a	Topic	.
+Astragalus nuttallii	Higher classification	Astragalus	.
+Astragalus nuttallii	Higher classification	Dicotyledon	.
+Astragalus nuttallii	Higher classification	Embryophyte	.
+Astragalus nuttallii	Higher classification	Eukaryote	.
+Astragalus nuttallii	Higher classification	Fabaceae	.
+Astragalus nuttallii	Higher classification	Fabales	.
+Astragalus nuttallii	Higher classification	Faboideae	.
+Astragalus nuttallii	Higher classification	Flowering plant	.
+Astragalus nuttallii	Higher classification	Plant	.
+Astragalus nuttallii	Higher classification	Rosidae	.
+Astragalus nuttallii	Higher classification	Spermatophyte	.
+Astragalus nuttallii	ITIS Taxon S/N	"25608"	.
+Astragalus nuttallii	Rank	Species (Organism Classification Rank)	.
+Astragalus nuttallii	Scientific name	"Astragalus nuttallii"@en	.
+Astragalus nuttallii	is-a	Astragalus	.
+Astragalus nuttallii	is-a	Dicotyledon	.
+Astragalus nuttallii	is-a	Embryophyte	.
+Astragalus nuttallii	is-a	Eukaryote	.
+Astragalus nuttallii	is-a	Fabaceae	.
+Astragalus nuttallii	is-a	Fabales	.
+Astragalus nuttallii	is-a	Faboideae	.
+Astragalus nuttallii	is-a	Flowering plant	.
+Astragalus nuttallii	is-a	Organism Classification	.
+Astragalus nuttallii	is-a	Plant	.
+Astragalus nuttallii	is-a	Rosidae	.
+Astragalus nuttallii	is-a	Spermatophyte	.
+Astragalus nuttallii	is-a	Topic	.
+Astragalus nuttallii leaf	is-a	Drug ingredient	.
+Astragalus nuttallii leaf/Berberis vulgaris root bark/Selenicereus grandiflorus stem/Lytta vesicatoria/Activated charcoal/Silybum marianum seed/Ceanothus americanus leaf/Chelidonium majus/Chionanthus virginicus bark/Dioscorea villosa root/Mucuna pruriens fruit trichome/Equisetum hyemale/Veronicastrum virginicum root/Lycopodium clavatum spore/Strychnos nux-vomica seed/Sulfur/Solidago virgaurea flowering top/Taraxacum officinale homeopathic preparation	Active moiety	Activated carbon	.
+Astragalus nuttallii leaf/Berberis vulgaris root bark/Selenicereus grandiflorus stem/Lytta vesicatoria/Activated charcoal/Silybum marianum seed/Ceanothus americanus leaf/Chelidonium majus/Chionanthus virginicus bark/Dioscorea villosa root/Mucuna pruriens fruit trichome/Equisetum hyemale/Veronicastrum virginicum root/Lycopodium clavatum spore/Strychnos nux-vomica seed/Sulfur/Solidago virgaurea flowering top/Taraxacum officinale homeopathic preparation	Active moiety	Astragalus nuttallii leaf	.
+Astragalus nuttallii leaf/Berberis vulgaris root bark/Selenicereus grandiflorus stem/Lytta vesicatoria/Activated charcoal/Silybum marianum seed/Ceanothus americanus leaf/Chelidonium majus/Chionanthus virginicus bark/Dioscorea villosa root/Mucuna pruriens fruit trichome/Equisetum hyemale/Veronicastrum virginicum root/Lycopodium clavatum spore/Strychnos nux-vomica seed/Sulfur/Solidago virgaurea flowering top/Taraxacum officinale homeopathic preparation	Active moiety	Berberis vulgaris root bark	.
+Astragalus nuttallii leaf/Berberis vulgaris root bark/Selenicereus grandiflorus stem/Lytta vesicatoria/Activated charcoal/Silybum marianum seed/Ceanothus americanus leaf/Chelidonium majus/Chionanthus virginicus bark/Dioscorea villosa root/Mucuna pruriens fruit trichome/Equisetum hyemale/Veronicastrum virginicum root/Lycopodium clavatum spore/Strychnos nux-vomica seed/Sulfur/Solidago virgaurea flowering top/Taraxacum officinale homeopathic preparation	Active moiety	Ceanothus americanus leaf	.
+Astragalus nuttallii leaf/Berberis vulgaris root bark/Selenicereus grandiflorus stem/Lytta vesicatoria/Activated charcoal/Silybum marianum seed/Ceanothus americanus leaf/Chelidonium majus/Chionanthus virginicus bark/Dioscorea villosa root/Mucuna pruriens fruit trichome/Equisetum hyemale/Veronicastrum virginicum root/Lycopodium clavatum spore/Strychnos nux-vomica seed/Sulfur/Solidago virgaurea flowering top/Taraxacum officinale homeopathic preparation	Active moiety	Chelidonium	.
+Astragalus nuttallii leaf/Berberis vulgaris root bark/Selenicereus grandiflorus stem/Lytta vesicatoria/Activated charcoal/Silybum marianum seed/Ceanothus americanus leaf/Chelidonium majus/Chionanthus virginicus bark/Dioscorea villosa root/Mucuna pruriens fruit trichome/Equisetum hyemale/Veronicastrum virginicum root/Lycopodium clavatum spore/Strychnos nux-vomica seed/Sulfur/Solidago virgaurea flowering top/Taraxacum officinale homeopathic preparation	Active moiety	Chionanthus virginicus bark	.
+Astragalus nuttallii leaf/Berberis vulgaris root bark/Selenicereus grandiflorus stem/Lytta vesicatoria/Activated charcoal/Silybum marianum seed/Ceanothus americanus leaf/Chelidonium majus/Chionanthus virginicus bark/Dioscorea villosa root/Mucuna pruriens fruit trichome/Equisetum hyemale/Veronicastrum virginicum root/Lycopodium clavatum spore/Strychnos nux-vomica seed/Sulfur/Solidago virgaurea flowering top/Taraxacum officinale homeopathic preparation	Active moiety	Common Dandelion	.
+Astragalus nuttallii leaf/Berberis vulgaris root bark/Selenicereus grandiflorus stem/Lytta vesicatoria/Activated charcoal/Silybum marianum seed/Ceanothus americanus leaf/Chelidonium majus/Chionanthus virginicus bark/Dioscorea villosa root/Mucuna pruriens fruit trichome/Equisetum hyemale/Veronicastrum virginicum root/Lycopodium clavatum spore/Strychnos nux-vomica seed/Sulfur/Solidago virgaurea flowering top/Taraxacum officinale homeopathic preparation	Active moiety	Dioscorea villosa root	.
+Astragalus nuttallii leaf/Berberis vulgaris root bark/Selenicereus grandiflorus stem/Lytta vesicatoria/Activated charcoal/Silybum marianum seed/Ceanothus americanus leaf/Chelidonium majus/Chionanthus virginicus bark/Dioscorea villosa root/Mucuna pruriens fruit trichome/Equisetum hyemale/Veronicastrum virginicum root/Lycopodium clavatum spore/Strychnos nux-vomica seed/Sulfur/Solidago virgaurea flowering top/Taraxacum officinale homeopathic preparation	Active moiety	Equisetum hyemale	.
+Astragalus nuttallii leaf/Berberis vulgaris root bark/Selenicereus grandiflorus stem/Lytta vesicatoria/Activated charcoal/Silybum marianum seed/Ceanothus americanus leaf/Chelidonium majus/Chionanthus virginicus bark/Dioscorea villosa root/Mucuna pruriens fruit trichome/Equisetum hyemale/Veronicastrum virginicum root/Lycopodium clavatum spore/Strychnos nux-vomica seed/Sulfur/Solidago virgaurea flowering top/Taraxacum officinale homeopathic preparation	Active moiety	Lycopodium clavatum spore	.
+Astragalus nuttallii leaf/Berberis vulgaris root bark/Selenicereus grandiflorus stem/Lytta vesicatoria/Activated charcoal/Silybum marianum seed/Ceanothus americanus leaf/Chelidonium majus/Chionanthus virginicus bark/Dioscorea villosa root/Mucuna pruriens fruit trichome/Equisetum hyemale/Veronicastrum virginicum root/Lycopodium clavatum spore/Strychnos nux-vomica seed/Sulfur/Solidago virgaurea flowering top/Taraxacum officinale homeopathic preparation	Active moiety	Mucuna pruriens fruit trichome	.
+Astragalus nuttallii leaf/Berberis vulgaris root bark/Selenicereus grandiflorus stem/Lytta vesicatoria/Activated charcoal/Silybum marianum seed/Ceanothus americanus leaf/Chelidonium majus/Chionanthus virginicus bark/Dioscorea villosa root/Mucuna pruriens fruit trichome/Equisetum hyemale/Veronicastrum virginicum root/Lycopodium clavatum spore/Strychnos nux-vomica seed/Sulfur/Solidago virgaurea flowering top/Taraxacum officinale homeopathic preparation	Active moiety	Selenicereus grandiflorus stem	.
+Astragalus nuttallii leaf/Berberis vulgaris root bark/Selenicereus grandiflorus stem/Lytta vesicatoria/Activated charcoal/Silybum marianum seed/Ceanothus americanus leaf/Chelidonium majus/Chionanthus virginicus bark/Dioscorea villosa root/Mucuna pruriens fruit trichome/Equisetum hyemale/Veronicastrum virginicum root/Lycopodium clavatum spore/Strychnos nux-vomica seed/Sulfur/Solidago virgaurea flowering top/Taraxacum officinale homeopathic preparation	Active moiety	Silybum marianum seed	.
+Astragalus nuttallii leaf/Berberis vulgaris root bark/Selenicereus grandiflorus stem/Lytta vesicatoria/Activated charcoal/Silybum marianum seed/Ceanothus americanus leaf/Chelidonium majus/Chionanthus virginicus bark/Dioscorea villosa root/Mucuna pruriens fruit trichome/Equisetum hyemale/Veronicastrum virginicum root/Lycopodium clavatum spore/Strychnos nux-vomica seed/Sulfur/Solidago virgaurea flowering top/Taraxacum officinale homeopathic preparation	Active moiety	Solidago virgaurea flowering top	.
+Astragalus nuttallii leaf/Berberis vulgaris root bark/Selenicereus grandiflorus stem/Lytta vesicatoria/Activated charcoal/Silybum marianum seed/Ceanothus americanus leaf/Chelidonium majus/Chionanthus virginicus bark/Dioscorea villosa root/Mucuna pruriens fruit trichome/Equisetum hyemale/Veronicastrum virginicum root/Lycopodium clavatum spore/Strychnos nux-vomica seed/Sulfur/Solidago virgaurea flowering top/Taraxacum officinale homeopathic preparation	Active moiety	Spanish fly	.
+Astragalus nuttallii leaf/Berberis vulgaris root bark/Selenicereus grandiflorus stem/Lytta vesicatoria/Activated charcoal/Silybum marianum seed/Ceanothus americanus leaf/Chelidonium majus/Chionanthus virginicus bark/Dioscorea villosa root/Mucuna pruriens fruit trichome/Equisetum hyemale/Veronicastrum virginicum root/Lycopodium clavatum spore/Strychnos nux-vomica seed/Sulfur/Solidago virgaurea flowering top/Taraxacum officinale homeopathic preparation	Active moiety	Strychnos nux-vomica seed	.
+Astragalus nuttallii leaf/Berberis vulgaris root bark/Selenicereus grandiflorus stem/Lytta vesicatoria/Activated charcoal/Silybum marianum seed/Ceanothus americanus leaf/Chelidonium majus/Chionanthus virginicus bark/Dioscorea villosa root/Mucuna pruriens fruit trichome/Equisetum hyemale/Veronicastrum virginicum root/Lycopodium clavatum spore/Strychnos nux-vomica seed/Sulfur/Solidago virgaurea flowering top/Taraxacum officinale homeopathic preparation	Active moiety	Sulfur	.
+Astragalus nuttallii leaf/Berberis vulgaris root bark/Selenicereus grandiflorus stem/Lytta vesicatoria/Activated charcoal/Silybum marianum seed/Ceanothus americanus leaf/Chelidonium majus/Chionanthus virginicus bark/Dioscorea villosa root/Mucuna pruriens fruit trichome/Equisetum hyemale/Veronicastrum virginicum root/Lycopodium clavatum spore/Strychnos nux-vomica seed/Sulfur/Solidago virgaurea flowering top/Taraxacum officinale homeopathic preparation	Active moiety	Veronicastrum virginicum root	.
+Astragalus nuttallii leaf/Berberis vulgaris root bark/Selenicereus grandiflorus stem/Lytta vesicatoria/Activated charcoal/Silybum marianum seed/Ceanothus americanus leaf/Chelidonium majus/Chionanthus virginicus bark/Dioscorea villosa root/Mucuna pruriens fruit trichome/Equisetum hyemale/Veronicastrum virginicum root/Lycopodium clavatum spore/Strychnos nux-vomica seed/Sulfur/Solidago virgaurea flowering top/Taraxacum officinale homeopathic preparation	Legal status	Not evaluated by FDA	.
+Astragalus nuttallii leaf/Berberis vulgaris root bark/Selenicereus grandiflorus stem/Lytta vesicatoria/Activated charcoal/Silybum marianum seed/Ceanothus americanus leaf/Chelidonium majus/Chionanthus virginicus bark/Dioscorea villosa root/Mucuna pruriens fruit trichome/Equisetum hyemale/Veronicastrum virginicum root/Lycopodium clavatum spore/Strychnos nux-vomica seed/Sulfur/Solidago virgaurea flowering top/Taraxacum officinale homeopathic preparation	is-a	Drug	.
+Astragalus nuttallii leaf/Berberis vulgaris root bark/Selenicereus grandiflorus stem/Lytta vesicatoria/Activated charcoal/Silybum marianum seed/Ceanothus americanus leaf/Chelidonium majus/Chionanthus virginicus bark/Dioscorea villosa root/Mucuna pruriens fruit trichome/Equisetum hyemale/Veronicastrum virginicum root/Lycopodium clavatum spore/Strychnos nux-vomica seed/Sulfur/Solidago virgaurea flowering top/Taraxacum officinale homeopathic preparation	is-a	Topic	.
+Astragalus obscurus	Higher classification	Astragalus	.
+Astragalus obscurus	Higher classification	Dicotyledon	.
+Astragalus obscurus	Higher classification	Embryophyte	.
+Astragalus obscurus	Higher classification	Eukaryote	.
+Astragalus obscurus	Higher classification	Fabaceae	.
+Astragalus obscurus	Higher classification	Fabales	.
+Astragalus obscurus	Higher classification	Faboideae	.
+Astragalus obscurus	Higher classification	Flowering plant	.
+Astragalus obscurus	Higher classification	Plant	.
+Astragalus obscurus	Higher classification	Rosidae	.
+Astragalus obscurus	Higher classification	Spermatophyte	.
+Astragalus obscurus	ITIS Taxon S/N	"25612"	.
+Astragalus obscurus	Rank	Species (Organism Classification Rank)	.
+Astragalus obscurus	Scientific name	"Astragalus obscurus"@en	.
+Astragalus obscurus	is-a	Astragalus	.
+Astragalus obscurus	is-a	Dicotyledon	.
+Astragalus obscurus	is-a	Embryophyte	.
+Astragalus obscurus	is-a	Eukaryote	.
+Astragalus obscurus	is-a	Fabaceae	.
+Astragalus obscurus	is-a	Fabales	.
+Astragalus obscurus	is-a	Faboideae	.
+Astragalus obscurus	is-a	Flowering plant	.
+Astragalus obscurus	is-a	Organism Classification	.
+Astragalus obscurus	is-a	Plant	.
+Astragalus obscurus	is-a	Rosidae	.
+Astragalus obscurus	is-a	Spermatophyte	.
+Astragalus obscurus	is-a	Topic	.
+Astragalus oocarpus	Higher classification	Astragalus	.
+Astragalus oocarpus	Higher classification	Dicotyledon	.
+Astragalus oocarpus	Higher classification	Embryophyte	.
+Astragalus oocarpus	Higher classification	Eukaryote	.
+Astragalus oocarpus	Higher classification	Fabaceae	.
+Astragalus oocarpus	Higher classification	Fabales	.
+Astragalus oocarpus	Higher classification	Faboideae	.
+Astragalus oocarpus	Higher classification	Flowering plant	.
+Astragalus oocarpus	Higher classification	Plant	.
+Astragalus oocarpus	Higher classification	Rosidae	.
+Astragalus oocarpus	Higher classification	Spermatophyte	.
+Astragalus oocarpus	ITIS Taxon S/N	"25615"	.
+Astragalus oocarpus	Rank	Species (Organism Classification Rank)	.
+Astragalus oocarpus	Scientific name	"Astragalus oocarpus"@en	.
+Astragalus oocarpus	is-a	Astragalus	.
+Astragalus oocarpus	is-a	Dicotyledon	.
+Astragalus oocarpus	is-a	Embryophyte	.
+Astragalus oocarpus	is-a	Eukaryote	.
+Astragalus oocarpus	is-a	Fabaceae	.
+Astragalus oocarpus	is-a	Fabales	.
+Astragalus oocarpus	is-a	Faboideae	.
+Astragalus oocarpus	is-a	Flowering plant	.
+Astragalus oocarpus	is-a	Organism Classification	.
+Astragalus oocarpus	is-a	Plant	.
+Astragalus oocarpus	is-a	Rosidae	.
+Astragalus oocarpus	is-a	Spermatophyte	.
+Astragalus oocarpus	is-a	Topic	.
+Astragalus oophorus	Higher classification	Astragalus	.
+Astragalus oophorus	Higher classification	Dicotyledon	.
+Astragalus oophorus	Higher classification	Embryophyte	.
+Astragalus oophorus	Higher classification	Eukaryote	.
+Astragalus oophorus	Higher classification	Fabaceae	.
+Astragalus oophorus	Higher classification	Fabales	.
+Astragalus oophorus	Higher classification	Faboideae	.
+Astragalus oophorus	Higher classification	Flowering plant	.
+Astragalus oophorus	Higher classification	Plant	.
+Astragalus oophorus	Higher classification	Rosidae	.
+Astragalus oophorus	Higher classification	Spermatophyte	.
+Astragalus oophorus	ITIS Taxon S/N	"25616"	.
+Astragalus oophorus	Rank	Species (Organism Classification Rank)	.
+Astragalus oophorus	Scientific name	"Astragalus oophorus"@en	.
+Astragalus oophorus	is-a	Astragalus	.
+Astragalus oophorus	is-a	Dicotyledon	.
+Astragalus oophorus	is-a	Embryophyte	.
+Astragalus oophorus	is-a	Eukaryote	.
+Astragalus oophorus	is-a	Fabaceae	.
+Astragalus oophorus	is-a	Fabales	.
+Astragalus oophorus	is-a	Faboideae	.
+Astragalus oophorus	is-a	Flowering plant	.
+Astragalus oophorus	is-a	Organism Classification	.
+Astragalus oophorus	is-a	Plant	.
+Astragalus oophorus	is-a	Rosidae	.
+Astragalus oophorus	is-a	Spermatophyte	.
+Astragalus oophorus	is-a	Topic	.
+Astragalus osterhoutii	Scientific name	"Astragalus osterhoutii"@en	.
+Astragalus osterhoutii	is-a	Organism Classification	.
+Astragalus osterhoutii	is-a	Topic	.
+Astragalus oxyphysus	Higher classification	Astragalus	.
+Astragalus oxyphysus	Higher classification	Dicotyledon	.
+Astragalus oxyphysus	Higher classification	Embryophyte	.
+Astragalus oxyphysus	Higher classification	Eukaryote	.
+Astragalus oxyphysus	Higher classification	Fabaceae	.
+Astragalus oxyphysus	Higher classification	Fabales	.
+Astragalus oxyphysus	Higher classification	Faboideae	.
+Astragalus oxyphysus	Higher classification	Flowering plant	.
+Astragalus oxyphysus	Higher classification	Plant	.
+Astragalus oxyphysus	Higher classification	Rosidae	.
+Astragalus oxyphysus	Higher classification	Spermatophyte	.
+Astragalus oxyphysus	ITIS Taxon S/N	"25619"	.
+Astragalus oxyphysus	Rank	Species (Organism Classification Rank)	.
+Astragalus oxyphysus	Scientific name	"Astragalus oxyphysus"@en	.
+Astragalus oxyphysus	is-a	Astragalus	.
+Astragalus oxyphysus	is-a	Dicotyledon	.
+Astragalus oxyphysus	is-a	Embryophyte	.
+Astragalus oxyphysus	is-a	Eukaryote	.
+Astragalus oxyphysus	is-a	Fabaceae	.
+Astragalus oxyphysus	is-a	Fabales	.
+Astragalus oxyphysus	is-a	Faboideae	.
+Astragalus oxyphysus	is-a	Flowering plant	.
+Astragalus oxyphysus	is-a	Organism Classification	.
+Astragalus oxyphysus	is-a	Plant	.
+Astragalus oxyphysus	is-a	Rosidae	.
+Astragalus oxyphysus	is-a	Spermatophyte	.
+Astragalus oxyphysus	is-a	Topic	.
+Astragalus pachypus	Higher classification	Astragalus	.
+Astragalus pachypus	Higher classification	Dicotyledon	.
+Astragalus pachypus	Higher classification	Embryophyte	.
+Astragalus pachypus	Higher classification	Eukaryote	.
+Astragalus pachypus	Higher classification	Fabaceae	.
+Astragalus pachypus	Higher classification	Fabales	.
+Astragalus pachypus	Higher classification	Faboideae	.
+Astragalus pachypus	Higher classification	Flowering plant	.
+Astragalus pachypus	Higher classification	Plant	.
+Astragalus pachypus	Higher classification	Rosidae	.
+Astragalus pachypus	Higher classification	Spermatophyte	.
+Astragalus pachypus	ITIS Taxon S/N	"25620"	.
+Astragalus pachypus	Rank	Species (Organism Classification Rank)	.
+Astragalus pachypus	Scientific name	"Astragalus pachypus"@en	.
+Astragalus pachypus	is-a	Astragalus	.
+Astragalus pachypus	is-a	Dicotyledon	.
+Astragalus pachypus	is-a	Embryophyte	.
+Astragalus pachypus	is-a	Eukaryote	.
+Astragalus pachypus	is-a	Fabaceae	.
+Astragalus pachypus	is-a	Fabales	.
+Astragalus pachypus	is-a	Faboideae	.
+Astragalus pachypus	is-a	Flowering plant	.
+Astragalus pachypus	is-a	Organism Classification	.
+Astragalus pachypus	is-a	Plant	.
+Astragalus pachypus	is-a	Rosidae	.
+Astragalus pachypus	is-a	Spermatophyte	.
+Astragalus pachypus	is-a	Topic	.
+Astragalus panamintensis	Higher classification	Astragalus	.
+Astragalus panamintensis	Higher classification	Dicotyledon	.
+Astragalus panamintensis	Higher classification	Embryophyte	.
+Astragalus panamintensis	Higher classification	Eukaryote	.
+Astragalus panamintensis	Higher classification	Fabaceae	.
+Astragalus panamintensis	Higher classification	Fabales	.
+Astragalus panamintensis	Higher classification	Faboideae	.
+Astragalus panamintensis	Higher classification	Flowering plant	.
+Astragalus panamintensis	Higher classification	Plant	.
+Astragalus panamintensis	Higher classification	Rosidae	.
+Astragalus panamintensis	Higher classification	Spermatophyte	.
+Astragalus panamintensis	ITIS Taxon S/N	"25622"	.
+Astragalus panamintensis	Rank	Species (Organism Classification Rank)	.
+Astragalus panamintensis	Scientific name	"Astragalus panamintensis"@en	.
+Astragalus panamintensis	is-a	Astragalus	.
+Astragalus panamintensis	is-a	Dicotyledon	.
+Astragalus panamintensis	is-a	Embryophyte	.
+Astragalus panamintensis	is-a	Eukaryote	.
+Astragalus panamintensis	is-a	Fabaceae	.
+Astragalus panamintensis	is-a	Fabales	.
+Astragalus panamintensis	is-a	Faboideae	.
+Astragalus panamintensis	is-a	Flowering plant	.
+Astragalus panamintensis	is-a	Organism Classification	.
+Astragalus panamintensis	is-a	Plant	.
+Astragalus panamintensis	is-a	Rosidae	.
+Astragalus panamintensis	is-a	Spermatophyte	.
+Astragalus panamintensis	is-a	Topic	.
+Astragalus pauperculus	Higher classification	Astragalus	.
+Astragalus pauperculus	Higher classification	Dicotyledon	.
+Astragalus pauperculus	Higher classification	Embryophyte	.
+Astragalus pauperculus	Higher classification	Eukaryote	.
+Astragalus pauperculus	Higher classification	Fabaceae	.
+Astragalus pauperculus	Higher classification	Fabales	.
+Astragalus pauperculus	Higher classification	Faboideae	.
+Astragalus pauperculus	Higher classification	Flowering plant	.
+Astragalus pauperculus	Higher classification	Plant	.
+Astragalus pauperculus	Higher classification	Rosidae	.
+Astragalus pauperculus	Higher classification	Spermatophyte	.
+Astragalus pauperculus	ITIS Taxon S/N	"25626"	.
+Astragalus pauperculus	Rank	Species (Organism Classification Rank)	.
+Astragalus pauperculus	Scientific name	"Astragalus pauperculus"@en	.
+Astragalus pauperculus	is-a	Astragalus	.
+Astragalus pauperculus	is-a	Dicotyledon	.
+Astragalus pauperculus	is-a	Embryophyte	.
+Astragalus pauperculus	is-a	Eukaryote	.
+Astragalus pauperculus	is-a	Fabaceae	.
+Astragalus pauperculus	is-a	Fabales	.
+Astragalus pauperculus	is-a	Faboideae	.
+Astragalus pauperculus	is-a	Flowering plant	.
+Astragalus pauperculus	is-a	Organism Classification	.
+Astragalus pauperculus	is-a	Plant	.
+Astragalus pauperculus	is-a	Rosidae	.
+Astragalus pauperculus	is-a	Spermatophyte	.
+Astragalus pauperculus	is-a	Topic	.
+Astragalus phoenix	Scientific name	"Astragalus phoenix"@en	.
+Astragalus phoenix	is-a	Organism Classification	.
+Astragalus phoenix	is-a	Topic	.
+Astragalus platytropis	Higher classification	Astragalus	.
+Astragalus platytropis	Higher classification	Dicotyledon	.
+Astragalus platytropis	Higher classification	Embryophyte	.
+Astragalus platytropis	Higher classification	Eukaryote	.
+Astragalus platytropis	Higher classification	Fabaceae	.
+Astragalus platytropis	Higher classification	Fabales	.
+Astragalus platytropis	Higher classification	Faboideae	.
+Astragalus platytropis	Higher classification	Flowering plant	.
+Astragalus platytropis	Higher classification	Plant	.
+Astragalus platytropis	Higher classification	Rosidae	.
+Astragalus platytropis	Higher classification	Spermatophyte	.
+Astragalus platytropis	ITIS Taxon S/N	"25635"	.
+Astragalus platytropis	Rank	Species (Organism Classification Rank)	.
+Astragalus platytropis	Scientific name	"Astragalus platytropis"@en	.
+Astragalus platytropis	is-a	Astragalus	.
+Astragalus platytropis	is-a	Dicotyledon	.
+Astragalus platytropis	is-a	Embryophyte	.
+Astragalus platytropis	is-a	Eukaryote	.
+Astragalus platytropis	is-a	Fabaceae	.
+Astragalus platytropis	is-a	Fabales	.
+Astragalus platytropis	is-a	Faboideae	.
+Astragalus platytropis	is-a	Flowering plant	.
+Astragalus platytropis	is-a	Organism Classification	.
+Astragalus platytropis	is-a	Plant	.
+Astragalus platytropis	is-a	Rosidae	.
+Astragalus platytropis	is-a	Spermatophyte	.
+Astragalus platytropis	is-a	Topic	.
+Astragalus pomonensis	Higher classification	Astragalus	.
+Astragalus pomonensis	Higher classification	Dicotyledon	.
+Astragalus pomonensis	Higher classification	Embryophyte	.
+Astragalus pomonensis	Higher classification	Eukaryote	.
+Astragalus pomonensis	Higher classification	Fabaceae	.
+Astragalus pomonensis	Higher classification	Fabales	.
+Astragalus pomonensis	Higher classification	Faboideae	.
+Astragalus pomonensis	Higher classification	Flowering plant	.
+Astragalus pomonensis	Higher classification	Plant	.
+Astragalus pomonensis	Higher classification	Rosidae	.
+Astragalus pomonensis	Higher classification	Spermatophyte	.
+Astragalus pomonensis	ITIS Taxon S/N	"25637"	.
+Astragalus pomonensis	Rank	Species (Organism Classification Rank)	.
+Astragalus pomonensis	Scientific name	"Astragalus pomonensis"@en	.
+Astragalus pomonensis	is-a	Astragalus	.
+Astragalus pomonensis	is-a	Dicotyledon	.
+Astragalus pomonensis	is-a	Embryophyte	.
+Astragalus pomonensis	is-a	Eukaryote	.
+Astragalus pomonensis	is-a	Fabaceae	.
+Astragalus pomonensis	is-a	Fabales	.
+Astragalus pomonensis	is-a	Faboideae	.
+Astragalus pomonensis	is-a	Flowering plant	.
+Astragalus pomonensis	is-a	Organism Classification	.
+Astragalus pomonensis	is-a	Plant	.
+Astragalus pomonensis	is-a	Rosidae	.
+Astragalus pomonensis	is-a	Spermatophyte	.
+Astragalus pomonensis	is-a	Topic	.
+Astragalus propinquus root	is-a	Drug ingredient	.
+Astragalus pseudiodanthus	Higher classification	Astragalus	.
+Astragalus pseudiodanthus	Higher classification	Dicotyledon	.
+Astragalus pseudiodanthus	Higher classification	Embryophyte	.
+Astragalus pseudiodanthus	Higher classification	Eukaryote	.
+Astragalus pseudiodanthus	Higher classification	Fabaceae	.
+Astragalus pseudiodanthus	Higher classification	Fabales	.
+Astragalus pseudiodanthus	Higher classification	Faboideae	.
+Astragalus pseudiodanthus	Higher classification	Flowering plant	.
+Astragalus pseudiodanthus	Higher classification	Plant	.
+Astragalus pseudiodanthus	Higher classification	Rosidae	.
+Astragalus pseudiodanthus	Higher classification	Spermatophyte	.
+Astragalus pseudiodanthus	ITIS Taxon S/N	"25643"	.
+Astragalus pseudiodanthus	Rank	Species (Organism Classification Rank)	.
+Astragalus pseudiodanthus	Scientific name	"Astragalus pseudiodanthus"@en	.
+Astragalus pseudiodanthus	is-a	Astragalus	.
+Astragalus pseudiodanthus	is-a	Dicotyledon	.
+Astragalus pseudiodanthus	is-a	Embryophyte	.
+Astragalus pseudiodanthus	is-a	Eukaryote	.
+Astragalus pseudiodanthus	is-a	Fabaceae	.
+Astragalus pseudiodanthus	is-a	Fabales	.
+Astragalus pseudiodanthus	is-a	Faboideae	.
+Astragalus pseudiodanthus	is-a	Flowering plant	.
+Astragalus pseudiodanthus	is-a	Organism Classification	.
+Astragalus pseudiodanthus	is-a	Plant	.
+Astragalus pseudiodanthus	is-a	Rosidae	.
+Astragalus pseudiodanthus	is-a	Spermatophyte	.
+Astragalus pseudiodanthus	is-a	Topic	.
+Astragalus pulsiferae	Higher classification	Astragalus	.
+Astragalus pulsiferae	Higher classification	Dicotyledon	.
+Astragalus pulsiferae	Higher classification	Embryophyte	.
+Astragalus pulsiferae	Higher classification	Eukaryote	.
+Astragalus pulsiferae	Higher classification	Fabaceae	.
+Astragalus pulsiferae	Higher classification	Fabales	.
+Astragalus pulsiferae	Higher classification	Faboideae	.
+Astragalus pulsiferae	Higher classification	Flowering plant	.
+Astragalus pulsiferae	Higher classification	Plant	.
+Astragalus pulsiferae	Higher classification	Rosidae	.
+Astragalus pulsiferae	Higher classification	Spermatophyte	.
+Astragalus pulsiferae	ITIS Taxon S/N	"25646"	.
+Astragalus pulsiferae	Rank	Species (Organism Classification Rank)	.
+Astragalus pulsiferae	Scientific name	"Astragalus pulsiferae"@en	.
+Astragalus pulsiferae	is-a	Astragalus	.
+Astragalus pulsiferae	is-a	Dicotyledon	.
+Astragalus pulsiferae	is-a	Embryophyte	.
+Astragalus pulsiferae	is-a	Eukaryote	.
+Astragalus pulsiferae	is-a	Fabaceae	.
+Astragalus pulsiferae	is-a	Fabales	.
+Astragalus pulsiferae	is-a	Faboideae	.
+Astragalus pulsiferae	is-a	Flowering plant	.
+Astragalus pulsiferae	is-a	Organism Classification	.
+Astragalus pulsiferae	is-a	Plant	.
+Astragalus pulsiferae	is-a	Rosidae	.
+Astragalus pulsiferae	is-a	Spermatophyte	.
+Astragalus pulsiferae	is-a	Topic	.
+Astragalus purshii	Higher classification	Astragalus	.
+Astragalus purshii	Higher classification	Dicotyledon	.
+Astragalus purshii	Higher classification	Embryophyte	.
+Astragalus purshii	Higher classification	Eukaryote	.
+Astragalus purshii	Higher classification	Fabaceae	.
+Astragalus purshii	Higher classification	Fabales	.
+Astragalus purshii	Higher classification	Faboideae	.
+Astragalus purshii	Higher classification	Flowering plant	.
+Astragalus purshii	Higher classification	Plant	.
+Astragalus purshii	Higher classification	Rosidae	.
+Astragalus purshii	Higher classification	Spermatophyte	.
+Astragalus purshii	ITIS Taxon S/N	"25648"	.
+Astragalus purshii	Rank	Species (Organism Classification Rank)	.
+Astragalus purshii	Scientific name	"Astragalus purshii"@en	.
+Astragalus purshii	is-a	Astragalus	.
+Astragalus purshii	is-a	Dicotyledon	.
+Astragalus purshii	is-a	Embryophyte	.
+Astragalus purshii	is-a	Eukaryote	.
+Astragalus purshii	is-a	Fabaceae	.
+Astragalus purshii	is-a	Fabales	.
+Astragalus purshii	is-a	Faboideae	.
+Astragalus purshii	is-a	Flowering plant	.
+Astragalus purshii	is-a	Organism Classification	.
+Astragalus purshii	is-a	Plant	.
+Astragalus purshii	is-a	Rosidae	.
+Astragalus purshii	is-a	Spermatophyte	.
+Astragalus purshii	is-a	Topic	.
+Astragalus pycnostachyus	Higher classification	Astragalus	.
+Astragalus pycnostachyus	Higher classification	Dicotyledon	.
+Astragalus pycnostachyus	Higher classification	Embryophyte	.
+Astragalus pycnostachyus	Higher classification	Eukaryote	.
+Astragalus pycnostachyus	Higher classification	Fabaceae	.
+Astragalus pycnostachyus	Higher classification	Fabales	.
+Astragalus pycnostachyus	Higher classification	Faboideae	.
+Astragalus pycnostachyus	Higher classification	Flowering plant	.
+Astragalus pycnostachyus	Higher classification	Plant	.
+Astragalus pycnostachyus	Higher classification	Rosidae	.
+Astragalus pycnostachyus	Higher classification	Spermatophyte	.
+Astragalus pycnostachyus	ITIS Taxon S/N	"25649"	.
+Astragalus pycnostachyus	Rank	Species (Organism Classification Rank)	.
+Astragalus pycnostachyus	Scientific name	"Astragalus pycnostachyus"@en	.
+Astragalus pycnostachyus	is-a	Astragalus	.
+Astragalus pycnostachyus	is-a	Dicotyledon	.
+Astragalus pycnostachyus	is-a	Embryophyte	.
+Astragalus pycnostachyus	is-a	Eukaryote	.
+Astragalus pycnostachyus	is-a	Fabaceae	.
+Astragalus pycnostachyus	is-a	Fabales	.
+Astragalus pycnostachyus	is-a	Faboideae	.
+Astragalus pycnostachyus	is-a	Flowering plant	.
+Astragalus pycnostachyus	is-a	Organism Classification	.
+Astragalus pycnostachyus	is-a	Plant	.
+Astragalus pycnostachyus	is-a	Rosidae	.
+Astragalus pycnostachyus	is-a	Spermatophyte	.
+Astragalus pycnostachyus	is-a	Topic	.
+Astragalus pycnostachyus var. lanosissimus	Higher classification	Dicotyledon	.
+Astragalus pycnostachyus var. lanosissimus	Higher classification	Embryophyte	.
+Astragalus pycnostachyus var. lanosissimus	Higher classification	Eukaryote	.
+Astragalus pycnostachyus var. lanosissimus	Higher classification	Fabaceae	.
+Astragalus pycnostachyus var. lanosissimus	Higher classification	Fabales	.
+Astragalus pycnostachyus var. lanosissimus	Higher classification	Faboideae	.
+Astragalus pycnostachyus var. lanosissimus	Higher classification	Flowering plant	.
+Astragalus pycnostachyus var. lanosissimus	Higher classification	Plant	.
+Astragalus pycnostachyus var. lanosissimus	Higher classification	Rosidae	.
+Astragalus pycnostachyus var. lanosissimus	Higher classification	Spermatophyte	.
+Astragalus pycnostachyus var. lanosissimus	is-a	Dicotyledon	.
+Astragalus pycnostachyus var. lanosissimus	is-a	Embryophyte	.
+Astragalus pycnostachyus var. lanosissimus	is-a	Eukaryote	.
+Astragalus pycnostachyus var. lanosissimus	is-a	Fabaceae	.
+Astragalus pycnostachyus var. lanosissimus	is-a	Fabales	.
+Astragalus pycnostachyus var. lanosissimus	is-a	Faboideae	.
+Astragalus pycnostachyus var. lanosissimus	is-a	Flowering plant	.
+Astragalus pycnostachyus var. lanosissimus	is-a	Organism Classification	.
+Astragalus pycnostachyus var. lanosissimus	is-a	Plant	.
+Astragalus pycnostachyus var. lanosissimus	is-a	Rosidae	.
+Astragalus pycnostachyus var. lanosissimus	is-a	Spermatophyte	.
+Astragalus pycnostachyus var. lanosissimus	is-a	Topic	.
+Astragalus rattanii	Higher classification	Astragalus	.
+Astragalus rattanii	Higher classification	Dicotyledon	.
+Astragalus rattanii	Higher classification	Embryophyte	.
+Astragalus rattanii	Higher classification	Eukaryote	.
+Astragalus rattanii	Higher classification	Fabaceae	.
+Astragalus rattanii	Higher classification	Fabales	.
+Astragalus rattanii	Higher classification	Faboideae	.
+Astragalus rattanii	Higher classification	Flowering plant	.
+Astragalus rattanii	Higher classification	Plant	.
+Astragalus rattanii	Higher classification	Rosidae	.
+Astragalus rattanii	Higher classification	Spermatophyte	.
+Astragalus rattanii	ITIS Taxon S/N	"25652"	.
+Astragalus rattanii	Rank	Species (Organism Classification Rank)	.
+Astragalus rattanii	Scientific name	"Astragalus rattanii"@en	.
+Astragalus rattanii	is-a	Astragalus	.
+Astragalus rattanii	is-a	Dicotyledon	.
+Astragalus rattanii	is-a	Embryophyte	.
+Astragalus rattanii	is-a	Eukaryote	.
+Astragalus rattanii	is-a	Fabaceae	.
+Astragalus rattanii	is-a	Fabales	.
+Astragalus rattanii	is-a	Faboideae	.
+Astragalus rattanii	is-a	Flowering plant	.
+Astragalus rattanii	is-a	Organism Classification	.
+Astragalus rattanii	is-a	Plant	.
+Astragalus rattanii	is-a	Rosidae	.
+Astragalus rattanii	is-a	Spermatophyte	.
+Astragalus rattanii	is-a	Topic	.
+Astragalus robbinsii	Scientific name	"Astragalus robbinsii"@en	.
+Astragalus robbinsii	is-a	Organism Classification	.
+Astragalus robbinsii	is-a	Topic	.
+Astragalus sabulonum	Higher classification	Astragalus	.
+Astragalus sabulonum	Higher classification	Dicotyledon	.
+Astragalus sabulonum	Higher classification	Embryophyte	.
+Astragalus sabulonum	Higher classification	Eukaryote	.
+Astragalus sabulonum	Higher classification	Fabaceae	.
+Astragalus sabulonum	Higher classification	Fabales	.
+Astragalus sabulonum	Higher classification	Faboideae	.
+Astragalus sabulonum	Higher classification	Flowering plant	.
+Astragalus sabulonum	Higher classification	Plant	.
+Astragalus sabulonum	Higher classification	Rosidae	.
+Astragalus sabulonum	Higher classification	Spermatophyte	.
+Astragalus sabulonum	ITIS Taxon S/N	"25663"	.
+Astragalus sabulonum	Rank	Species (Organism Classification Rank)	.
+Astragalus sabulonum	Scientific name	"Astragalus sabulonum"@en	.
+Astragalus sabulonum	is-a	Astragalus	.
+Astragalus sabulonum	is-a	Dicotyledon	.
+Astragalus sabulonum	is-a	Embryophyte	.
+Astragalus sabulonum	is-a	Eukaryote	.
+Astragalus sabulonum	is-a	Fabaceae	.
+Astragalus sabulonum	is-a	Fabales	.
+Astragalus sabulonum	is-a	Faboideae	.
+Astragalus sabulonum	is-a	Flowering plant	.
+Astragalus sabulonum	is-a	Organism Classification	.
+Astragalus sabulonum	is-a	Plant	.
+Astragalus sabulonum	is-a	Rosidae	.
+Astragalus sabulonum	is-a	Spermatophyte	.
+Astragalus sabulonum	is-a	Topic	.
+Astragalus scaphoides	Scientific name	"Astragalus scaphoides"@en	.
+Astragalus scaphoides	is-a	Organism Classification	.
+Astragalus scaphoides	is-a	Topic	.
+Astragalus shevockii	Higher classification	Astragalus	.
+Astragalus shevockii	Higher classification	Dicotyledon	.
+Astragalus shevockii	Higher classification	Embryophyte	.
+Astragalus shevockii	Higher classification	Eukaryote	.
+Astragalus shevockii	Higher classification	Fabaceae	.
+Astragalus shevockii	Higher classification	Fabales	.
+Astragalus shevockii	Higher classification	Faboideae	.
+Astragalus shevockii	Higher classification	Flowering plant	.
+Astragalus shevockii	Higher classification	Plant	.
+Astragalus shevockii	Higher classification	Rosidae	.
+Astragalus shevockii	Higher classification	Spermatophyte	.
+Astragalus shevockii	ITIS Taxon S/N	"25677"	.
+Astragalus shevockii	Rank	Species (Organism Classification Rank)	.
+Astragalus shevockii	Scientific name	"Astragalus shevockii"@en	.
+Astragalus shevockii	is-a	Astragalus	.
+Astragalus shevockii	is-a	Dicotyledon	.
+Astragalus shevockii	is-a	Embryophyte	.
+Astragalus shevockii	is-a	Eukaryote	.
+Astragalus shevockii	is-a	Fabaceae	.
+Astragalus shevockii	is-a	Fabales	.
+Astragalus shevockii	is-a	Faboideae	.
+Astragalus shevockii	is-a	Flowering plant	.
+Astragalus shevockii	is-a	Organism Classification	.
+Astragalus shevockii	is-a	Plant	.
+Astragalus shevockii	is-a	Rosidae	.
+Astragalus shevockii	is-a	Spermatophyte	.
+Astragalus shevockii	is-a	Topic	.
+Astragalus siculus	Scientific name	"Astragalus siculus"@en	.
+Astragalus siculus	is-a	Organism Classification	.
+Astragalus siculus	is-a	Topic	.
+Astragalus sprucei	Higher classification	Astragalus	.
+Astragalus sprucei	Higher classification	Dicotyledon	.
+Astragalus sprucei	Higher classification	Embryophyte	.
+Astragalus sprucei	Higher classification	Eukaryote	.
+Astragalus sprucei	Higher classification	Fabaceae	.
+Astragalus sprucei	Higher classification	Fabales	.
+Astragalus sprucei	Higher classification	Faboideae	.
+Astragalus sprucei	Higher classification	Flowering plant	.
+Astragalus sprucei	Higher classification	Plant	.
+Astragalus sprucei	Higher classification	Rosidae	.
+Astragalus sprucei	Higher classification	Spermatophyte	.
+Astragalus sprucei	Rank	Species (Organism Classification Rank)	.
+Astragalus sprucei	Scientific name	"Astragalus sprucei"@en	.
+Astragalus sprucei	is-a	Astragalus	.
+Astragalus sprucei	is-a	Dicotyledon	.
+Astragalus sprucei	is-a	Embryophyte	.
+Astragalus sprucei	is-a	Eukaryote	.
+Astragalus sprucei	is-a	Fabaceae	.
+Astragalus sprucei	is-a	Fabales	.
+Astragalus sprucei	is-a	Faboideae	.
+Astragalus sprucei	is-a	Flowering plant	.
+Astragalus sprucei	is-a	Organism Classification	.
+Astragalus sprucei	is-a	Plant	.
+Astragalus sprucei	is-a	Rosidae	.
+Astragalus sprucei	is-a	Spermatophyte	.
+Astragalus sprucei	is-a	Topic	.
+Astragalus subvestitus	Higher classification	Astragalus	.
+Astragalus subvestitus	Higher classification	Dicotyledon	.
+Astragalus subvestitus	Higher classification	Embryophyte	.
+Astragalus subvestitus	Higher classification	Eukaryote	.
+Astragalus subvestitus	Higher classification	Fabaceae	.
+Astragalus subvestitus	Higher classification	Fabales	.
+Astragalus subvestitus	Higher classification	Faboideae	.
+Astragalus subvestitus	Higher classification	Flowering plant	.
+Astragalus subvestitus	Higher classification	Plant	.
+Astragalus subvestitus	Higher classification	Rosidae	.
+Astragalus subvestitus	Higher classification	Spermatophyte	.
+Astragalus subvestitus	ITIS Taxon S/N	"25693"	.
+Astragalus subvestitus	Rank	Species (Organism Classification Rank)	.
+Astragalus subvestitus	Scientific name	"Astragalus subvestitus"@en	.
+Astragalus subvestitus	is-a	Astragalus	.
+Astragalus subvestitus	is-a	Dicotyledon	.
+Astragalus subvestitus	is-a	Embryophyte	.
+Astragalus subvestitus	is-a	Eukaryote	.
+Astragalus subvestitus	is-a	Fabaceae	.
+Astragalus subvestitus	is-a	Fabales	.
+Astragalus subvestitus	is-a	Faboideae	.
+Astragalus subvestitus	is-a	Flowering plant	.
+Astragalus subvestitus	is-a	Organism Classification	.
+Astragalus subvestitus	is-a	Plant	.
+Astragalus subvestitus	is-a	Rosidae	.
+Astragalus subvestitus	is-a	Spermatophyte	.
+Astragalus subvestitus	is-a	Topic	.
+Astragalus tener	Higher classification	Astragalus	.
+Astragalus tener	Higher classification	Dicotyledon	.
+Astragalus tener	Higher classification	Embryophyte	.
+Astragalus tener	Higher classification	Eukaryote	.
+Astragalus tener	Higher classification	Fabaceae	.
+Astragalus tener	Higher classification	Fabales	.
+Astragalus tener	Higher classification	Faboideae	.
+Astragalus tener	Higher classification	Flowering plant	.
+Astragalus tener	Higher classification	Plant	.
+Astragalus tener	Higher classification	Rosidae	.
+Astragalus tener	Higher classification	Spermatophyte	.
+Astragalus tener	ITIS Taxon S/N	"25697"	.
+Astragalus tener	Rank	Species (Organism Classification Rank)	.
+Astragalus tener	Scientific name	"Astragalus tener"@en	.
+Astragalus tener	is-a	Astragalus	.
+Astragalus tener	is-a	Dicotyledon	.
+Astragalus tener	is-a	Embryophyte	.
+Astragalus tener	is-a	Eukaryote	.
+Astragalus tener	is-a	Fabaceae	.
+Astragalus tener	is-a	Fabales	.
+Astragalus tener	is-a	Faboideae	.
+Astragalus tener	is-a	Flowering plant	.
+Astragalus tener	is-a	Organism Classification	.
+Astragalus tener	is-a	Plant	.
+Astragalus tener	is-a	Rosidae	.
+Astragalus tener	is-a	Spermatophyte	.
+Astragalus tener	is-a	Topic	.
+Astragalus tidestromii	Higher classification	Astragalus	.
+Astragalus tidestromii	Higher classification	Dicotyledon	.
+Astragalus tidestromii	Higher classification	Embryophyte	.
+Astragalus tidestromii	Higher classification	Eukaryote	.
+Astragalus tidestromii	Higher classification	Fabaceae	.
+Astragalus tidestromii	Higher classification	Fabales	.
+Astragalus tidestromii	Higher classification	Faboideae	.
+Astragalus tidestromii	Higher classification	Flowering plant	.
+Astragalus tidestromii	Higher classification	Plant	.
+Astragalus tidestromii	Higher classification	Rosidae	.
+Astragalus tidestromii	Higher classification	Spermatophyte	.
+Astragalus tidestromii	ITIS Taxon S/N	"25703"	.
+Astragalus tidestromii	Rank	Species (Organism Classification Rank)	.
+Astragalus tidestromii	Scientific name	"Astragalus tidestromii"@en	.
+Astragalus tidestromii	is-a	Astragalus	.
+Astragalus tidestromii	is-a	Dicotyledon	.
+Astragalus tidestromii	is-a	Embryophyte	.
+Astragalus tidestromii	is-a	Eukaryote	.
+Astragalus tidestromii	is-a	Fabaceae	.
+Astragalus tidestromii	is-a	Fabales	.
+Astragalus tidestromii	is-a	Faboideae	.
+Astragalus tidestromii	is-a	Flowering plant	.
+Astragalus tidestromii	is-a	Organism Classification	.
+Astragalus tidestromii	is-a	Plant	.
+Astragalus tidestromii	is-a	Rosidae	.
+Astragalus tidestromii	is-a	Spermatophyte	.
+Astragalus tidestromii	is-a	Topic	.
+Astragalus traskiae	Higher classification	Astragalus	.
+Astragalus traskiae	Higher classification	Dicotyledon	.
+Astragalus traskiae	Higher classification	Embryophyte	.
+Astragalus traskiae	Higher classification	Eukaryote	.
+Astragalus traskiae	Higher classification	Fabaceae	.
+Astragalus traskiae	Higher classification	Fabales	.
+Astragalus traskiae	Higher classification	Faboideae	.
+Astragalus traskiae	Higher classification	Flowering plant	.
+Astragalus traskiae	Higher classification	Plant	.
+Astragalus traskiae	Higher classification	Rosidae	.
+Astragalus traskiae	Higher classification	Spermatophyte	.
+Astragalus traskiae	ITIS Taxon S/N	"25707"	.
+Astragalus traskiae	Rank	Species (Organism Classification Rank)	.
+Astragalus traskiae	Scientific name	"Astragalus traskiae"@en	.
+Astragalus traskiae	is-a	Astragalus	.
+Astragalus traskiae	is-a	Dicotyledon	.
+Astragalus traskiae	is-a	Embryophyte	.
+Astragalus traskiae	is-a	Eukaryote	.
+Astragalus traskiae	is-a	Fabaceae	.
+Astragalus traskiae	is-a	Fabales	.
+Astragalus traskiae	is-a	Faboideae	.
+Astragalus traskiae	is-a	Flowering plant	.
+Astragalus traskiae	is-a	Organism Classification	.
+Astragalus traskiae	is-a	Plant	.
+Astragalus traskiae	is-a	Rosidae	.
+Astragalus traskiae	is-a	Spermatophyte	.
+Astragalus traskiae	is-a	Topic	.
+Astragalus tricarinatus	Higher classification	Astragalus	.
+Astragalus tricarinatus	Higher classification	Dicotyledon	.
+Astragalus tricarinatus	Higher classification	Embryophyte	.
+Astragalus tricarinatus	Higher classification	Eukaryote	.
+Astragalus tricarinatus	Higher classification	Fabaceae	.
+Astragalus tricarinatus	Higher classification	Fabales	.
+Astragalus tricarinatus	Higher classification	Faboideae	.
+Astragalus tricarinatus	Higher classification	Flowering plant	.
+Astragalus tricarinatus	Higher classification	Plant	.
+Astragalus tricarinatus	Higher classification	Rosidae	.
+Astragalus tricarinatus	Higher classification	Spermatophyte	.
+Astragalus tricarinatus	ITIS Taxon S/N	"25708"	.
+Astragalus tricarinatus	Rank	Species (Organism Classification Rank)	.
+Astragalus tricarinatus	Scientific name	"Astragalus tricarinatus"@en	.
+Astragalus tricarinatus	is-a	Astragalus	.
+Astragalus tricarinatus	is-a	Dicotyledon	.
+Astragalus tricarinatus	is-a	Embryophyte	.
+Astragalus tricarinatus	is-a	Eukaryote	.
+Astragalus tricarinatus	is-a	Fabaceae	.
+Astragalus tricarinatus	is-a	Fabales	.
+Astragalus tricarinatus	is-a	Faboideae	.
+Astragalus tricarinatus	is-a	Flowering plant	.
+Astragalus tricarinatus	is-a	Organism Classification	.
+Astragalus tricarinatus	is-a	Plant	.
+Astragalus tricarinatus	is-a	Rosidae	.
+Astragalus tricarinatus	is-a	Spermatophyte	.
+Astragalus tricarinatus	is-a	Topic	.
+Astragalus trichopodus	Higher classification	Astragalus	.
+Astragalus trichopodus	Higher classification	Dicotyledon	.
+Astragalus trichopodus	Higher classification	Embryophyte	.
+Astragalus trichopodus	Higher classification	Eukaryote	.
+Astragalus trichopodus	Higher classification	Fabaceae	.
+Astragalus trichopodus	Higher classification	Fabales	.
+Astragalus trichopodus	Higher classification	Faboideae	.
+Astragalus trichopodus	Higher classification	Flowering plant	.
+Astragalus trichopodus	Higher classification	Plant	.
+Astragalus trichopodus	Higher classification	Rosidae	.
+Astragalus trichopodus	Higher classification	Spermatophyte	.
+Astragalus trichopodus	ITIS Taxon S/N	"25709"	.
+Astragalus trichopodus	Rank	Species (Organism Classification Rank)	.
+Astragalus trichopodus	Scientific name	"Astragalus trichopodus"@en	.
+Astragalus trichopodus	is-a	Astragalus	.
+Astragalus trichopodus	is-a	Dicotyledon	.
+Astragalus trichopodus	is-a	Embryophyte	.
+Astragalus trichopodus	is-a	Eukaryote	.
+Astragalus trichopodus	is-a	Fabaceae	.
+Astragalus trichopodus	is-a	Fabales	.
+Astragalus trichopodus	is-a	Faboideae	.
+Astragalus trichopodus	is-a	Flowering plant	.
+Astragalus trichopodus	is-a	Organism Classification	.
+Astragalus trichopodus	is-a	Plant	.
+Astragalus trichopodus	is-a	Rosidae	.
+Astragalus trichopodus	is-a	Spermatophyte	.
+Astragalus trichopodus	is-a	Topic	.
+Astragalus umbraticus	Higher classification	Astragalus	.
+Astragalus umbraticus	Higher classification	Dicotyledon	.
+Astragalus umbraticus	Higher classification	Embryophyte	.
+Astragalus umbraticus	Higher classification	Eukaryote	.
+Astragalus umbraticus	Higher classification	Fabaceae	.
+Astragalus umbraticus	Higher classification	Fabales	.
+Astragalus umbraticus	Higher classification	Faboideae	.
+Astragalus umbraticus	Higher classification	Flowering plant	.
+Astragalus umbraticus	Higher classification	Plant	.
+Astragalus umbraticus	Higher classification	Rosidae	.
+Astragalus umbraticus	Higher classification	Spermatophyte	.
+Astragalus umbraticus	ITIS Taxon S/N	"25714"	.
+Astragalus umbraticus	Rank	Species (Organism Classification Rank)	.
+Astragalus umbraticus	Scientific name	"Astragalus umbraticus"@en	.
+Astragalus umbraticus	is-a	Astragalus	.
+Astragalus umbraticus	is-a	Dicotyledon	.
+Astragalus umbraticus	is-a	Embryophyte	.
+Astragalus umbraticus	is-a	Eukaryote	.
+Astragalus umbraticus	is-a	Fabaceae	.
+Astragalus umbraticus	is-a	Fabales	.
+Astragalus umbraticus	is-a	Faboideae	.
+Astragalus umbraticus	is-a	Flowering plant	.
+Astragalus umbraticus	is-a	Organism Classification	.
+Astragalus umbraticus	is-a	Plant	.
+Astragalus umbraticus	is-a	Rosidae	.
+Astragalus umbraticus	is-a	Spermatophyte	.
+Astragalus umbraticus	is-a	Topic	.
+Astragalus webberi	Higher classification	Astragalus	.
+Astragalus webberi	Higher classification	Dicotyledon	.
+Astragalus webberi	Higher classification	Embryophyte	.
+Astragalus webberi	Higher classification	Eukaryote	.
+Astragalus webberi	Higher classification	Fabaceae	.
+Astragalus webberi	Higher classification	Fabales	.
+Astragalus webberi	Higher classification	Faboideae	.
+Astragalus webberi	Higher classification	Flowering plant	.
+Astragalus webberi	Higher classification	Plant	.
+Astragalus webberi	Higher classification	Rosidae	.
+Astragalus webberi	Higher classification	Spermatophyte	.
+Astragalus webberi	ITIS Taxon S/N	"25723"	.
+Astragalus webberi	Rank	Species (Organism Classification Rank)	.
+Astragalus webberi	Scientific name	"Astragalus webberi"@en	.
+Astragalus webberi	is-a	Astragalus	.
+Astragalus webberi	is-a	Dicotyledon	.
+Astragalus webberi	is-a	Embryophyte	.
+Astragalus webberi	is-a	Eukaryote	.
+Astragalus webberi	is-a	Fabaceae	.
+Astragalus webberi	is-a	Fabales	.
+Astragalus webberi	is-a	Faboideae	.
+Astragalus webberi	is-a	Flowering plant	.
+Astragalus webberi	is-a	Organism Classification	.
+Astragalus webberi	is-a	Plant	.
+Astragalus webberi	is-a	Rosidae	.
+Astragalus webberi	is-a	Spermatophyte	.
+Astragalus webberi	is-a	Topic	.
+Astragalus whitneyi	Higher classification	Astragalus	.
+Astragalus whitneyi	Higher classification	Dicotyledon	.
+Astragalus whitneyi	Higher classification	Embryophyte	.
+Astragalus whitneyi	Higher classification	Eukaryote	.
+Astragalus whitneyi	Higher classification	Fabaceae	.
+Astragalus whitneyi	Higher classification	Fabales	.
+Astragalus whitneyi	Higher classification	Faboideae	.
+Astragalus whitneyi	Higher classification	Flowering plant	.
+Astragalus whitneyi	Higher classification	Plant	.
+Astragalus whitneyi	Higher classification	Rosidae	.
+Astragalus whitneyi	Higher classification	Spermatophyte	.
+Astragalus whitneyi	ITIS Taxon S/N	"25725"	.
+Astragalus whitneyi	Rank	Species (Organism Classification Rank)	.
+Astragalus whitneyi	Scientific name	"Astragalus whitneyi"@en	.
+Astragalus whitneyi	is-a	Astragalus	.
+Astragalus whitneyi	is-a	Dicotyledon	.
+Astragalus whitneyi	is-a	Embryophyte	.
+Astragalus whitneyi	is-a	Eukaryote	.
+Astragalus whitneyi	is-a	Fabaceae	.
+Astragalus whitneyi	is-a	Fabales	.
+Astragalus whitneyi	is-a	Faboideae	.
+Astragalus whitneyi	is-a	Flowering plant	.
+Astragalus whitneyi	is-a	Organism Classification	.
+Astragalus whitneyi	is-a	Plant	.
+Astragalus whitneyi	is-a	Rosidae	.
+Astragalus whitneyi	is-a	Spermatophyte	.
+Astragalus whitneyi	is-a	Topic	.
+Astragalus zionis	Higher classification	Astragalus	.
+Astragalus zionis	Higher classification	Dicotyledon	.
+Astragalus zionis	Higher classification	Embryophyte	.
+Astragalus zionis	Higher classification	Eukaryote	.
+Astragalus zionis	Higher classification	Fabaceae	.
+Astragalus zionis	Higher classification	Fabales	.
+Astragalus zionis	Higher classification	Faboideae	.
+Astragalus zionis	Higher classification	Flowering plant	.
+Astragalus zionis	Higher classification	Plant	.
+Astragalus zionis	Higher classification	Rosidae	.
+Astragalus zionis	Higher classification	Spermatophyte	.
+Astragalus zionis	ITIS Taxon S/N	"25734"	.
+Astragalus zionis	Rank	Species (Organism Classification Rank)	.
+Astragalus zionis	Scientific name	"Astragalus zionis"@en	.
+Astragalus zionis	is-a	Astragalus	.
+Astragalus zionis	is-a	Dicotyledon	.
+Astragalus zionis	is-a	Embryophyte	.
+Astragalus zionis	is-a	Eukaryote	.
+Astragalus zionis	is-a	Fabaceae	.
+Astragalus zionis	is-a	Fabales	.
+Astragalus zionis	is-a	Faboideae	.
+Astragalus zionis	is-a	Flowering plant	.
+Astragalus zionis	is-a	Organism Classification	.
+Astragalus zionis	is-a	Plant	.
+Astragalus zionis	is-a	Rosidae	.
+Astragalus zionis	is-a	Spermatophyte	.
+Astragalus zionis	is-a	Topic	.

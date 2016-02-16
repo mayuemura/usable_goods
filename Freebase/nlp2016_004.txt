@@ -1,0 +1,1200 @@
+Artichoke	Compatible with dietary restriction	Gluten-free diet	.
+Artichoke	Compatible with dietary restriction	Veganism	.
+Artichoke	Compatible with dietary restriction	Vegetarian food	.
+Artichoke	Energy per 100g	"197.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke	Higher classification	Angiospermae	.
+Artichoke	Higher classification	Asteraceae	.
+Artichoke	Higher classification	Asterales	.
+Artichoke	Higher classification	Asterids	.
+Artichoke	Higher classification	Cynara	.
+Artichoke	Higher classification	Eudicots	.
+Artichoke	Higher classification	Eukaryote	.
+Artichoke	Higher classification	Plant	.
+Artichoke	ITIS Taxon S/N	"37222"	.
+Artichoke	NCBI Taxon ID	"59895"	.
+Artichoke	Nutrient per 100g	Alpha-Tocopherol	.
+Artichoke	Nutrient per 100g	Ash (Nutrient)	.
+Artichoke	Nutrient per 100g	Beta-carotene	.
+Artichoke	Nutrient per 100g	Betaine	.
+Artichoke	Nutrient per 100g	Calcium	.
+Artichoke	Nutrient per 100g	Carbohydrate	.
+Artichoke	Nutrient per 100g	Choline	.
+Artichoke	Nutrient per 100g	Copper	.
+Artichoke	Nutrient per 100g	Dietary fiber	.
+Artichoke	Nutrient per 100g	Dietary folate equivalents	.
+Artichoke	Nutrient per 100g	Folic acid	.
+Artichoke	Nutrient per 100g	Food folates	.
+Artichoke	Nutrient per 100g	Iron	.
+Artichoke	Nutrient per 100g	Lauric acid	.
+Artichoke	Nutrient per 100g	Linoleic acid	.
+Artichoke	Nutrient per 100g	Linolenic acid	.
+Artichoke	Nutrient per 100g	Lipid	.
+Artichoke	Nutrient per 100g	Lutein & zeaxanthin	.
+Artichoke	Nutrient per 100g	Magnesium	.
+Artichoke	Nutrient per 100g	Manganese	.
+Artichoke	Nutrient per 100g	Monounsaturated fat	.
+Artichoke	Nutrient per 100g	Myristic acid	.
+Artichoke	Nutrient per 100g	Niacin	.
+Artichoke	Nutrient per 100g	Oleic acid	.
+Artichoke	Nutrient per 100g	Palmitic acid	.
+Artichoke	Nutrient per 100g	Pantothenic acid	.
+Artichoke	Nutrient per 100g	Phosphorus	.
+Artichoke	Nutrient per 100g	Phytonadione	.
+Artichoke	Nutrient per 100g	Polyunsaturated fat	.
+Artichoke	Nutrient per 100g	Potassium	.
+Artichoke	Nutrient per 100g	Protein (Nutrient)	.
+Artichoke	Nutrient per 100g	Retinol Activity Equivalents	.
+Artichoke	Nutrient per 100g	Riboflavin	.
+Artichoke	Nutrient per 100g	Saturated fat	.
+Artichoke	Nutrient per 100g	Selenium	.
+Artichoke	Nutrient per 100g	Sodium	.
+Artichoke	Nutrient per 100g	Stearic acid	.
+Artichoke	Nutrient per 100g	Sugar	.
+Artichoke	Nutrient per 100g	Thiamine	.
+Artichoke	Nutrient per 100g	Vitamin A	.
+Artichoke	Nutrient per 100g	Vitamin B-6	.
+Artichoke	Nutrient per 100g	Vitamin C	.
+Artichoke	Nutrient per 100g	Water	.
+Artichoke	Nutrient per 100g	Zinc	.
+Artichoke	Rank	Species (Organism Classification Rank)	.
+Artichoke	Scientific name	"Cynara cardunculus var. scolymus"@en	.
+Artichoke	USDA Equivalent	"11007"	.
+Artichoke	USDA ID	"11007"	.
+Artichoke	is-a	Angiospermae	.
+Artichoke	is-a	Asteraceae	.
+Artichoke	is-a	Asterales	.
+Artichoke	is-a	Asterids	.
+Artichoke	is-a	Cynara	.
+Artichoke	is-a	Drug ingredient	.
+Artichoke	is-a	Eudicots	.
+Artichoke	is-a	Eukaryote	.
+Artichoke	is-a	Food	.
+Artichoke	is-a	Ingredient	.
+Artichoke	is-a	Organism Classification	.
+Artichoke	is-a	Plant	.
+Artichoke	is-a	Topic	.
+Artichoke	is-a	Vegetable	.
+Artichoke (Canonical Version) #1	Length	"282.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke (Canonical Version) #1	Recorded by	The Raisins	.
+Artichoke (Canonical Version) #1	Recording of Composition	Artichoke (m/0_mjr_4)	.
+Artichoke (Canonical Version) #1	is-a	Canonical Version	.
+Artichoke (Canonical Version) #1	is-a	Musical Recording	.
+Artichoke (Canonical Version) #1	is-a	Topic	.
+Artichoke (Canonical Version) #12	Length	"167.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke (Canonical Version) #12	Recorded by	Zoë Boekbinder	.
+Artichoke (Canonical Version) #12	is-a	Canonical Version	.
+Artichoke (Canonical Version) #12	is-a	Musical Recording	.
+Artichoke (Canonical Version) #12	is-a	Topic	.
+Artichoke (Canonical Version) #15	Length	"144.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke (Canonical Version) #15	Recorded by	Carter Peace Mission	.
+Artichoke (Canonical Version) #15	Release	Ladies, Ladies, Ladies (Musical Release)	.
+Artichoke (Canonical Version) #15	is-a	Canonical Version	.
+Artichoke (Canonical Version) #15	is-a	Musical Recording	.
+Artichoke (Canonical Version) #15	is-a	Topic	.
+Artichoke (Canonical Version) #2	Length	"147.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke (Canonical Version) #2	Recorded by	Benoît Charcosset	.
+Artichoke (Canonical Version) #2	is-a	Canonical Version	.
+Artichoke (Canonical Version) #2	is-a	Musical Recording	.
+Artichoke (Canonical Version) #2	is-a	Topic	.
+Artichoke (Canonical Version) #3	Length	"76.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke (Canonical Version) #3	Recorded by	Anitek	.
+Artichoke (Canonical Version) #3	Recorded by	Tab (Musical Artist)	.
+Artichoke (Canonical Version) #3	is-a	Canonical Version	.
+Artichoke (Canonical Version) #3	is-a	Musical Recording	.
+Artichoke (Canonical Version) #3	is-a	Topic	.
+Artichoke (Canonical Version) #6	Length	"236.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke (Canonical Version) #6	Recorded by	Pandit (Musical Artist)	.
+Artichoke (Canonical Version) #6	is-a	Canonical Version	.
+Artichoke (Canonical Version) #6	is-a	Musical Recording	.
+Artichoke (Canonical Version) #6	is-a	Topic	.
+Artichoke (Composition)	Composer	Kudsi Ergüner	.
+Artichoke (Digital media Musical Release)	Credited A	"Maf"	.
+Artichoke (Digital media Musical Release)	Format	Digital media	.
+Artichoke (Digital media Musical Release)	Release Date	"2012-08-18"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Artichoke (Digital media Musical Release)	Release of	Artichoke (Musical Album)	.
+Artichoke (Digital media Musical Release)	is-a	Creative Work	.
+Artichoke (Digital media Musical Release)	is-a	Musical Release	.
+Artichoke (Digital media Musical Release)	is-a	Topic	.
+Artichoke (Film)	Directed by	John Cook (Film Director)	.
+Artichoke (Film)	Film festival	1984 Berlin International Film Festival	.
+Artichoke (Film)	Initial release date	"1983"^^<http://www.w3.org/2001/XMLSchema#gYear>	.
+Artichoke (Film)	is-a	Film	.
+Artichoke (Film)	is-a	Topic	.
+Artichoke (Musical Album)	Album content type	Compilation album	.
+Artichoke (Musical Album)	Artist	Benoît Charcosset	.
+Artichoke (Musical Album)	Initial release date	"2012-08-18"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Artichoke (Musical Album)	Primary release	Artichoke (Digital media Musical Release)	.
+Artichoke (Musical Album)	Release type	Album	.
+Artichoke (Musical Album)	is-a	Musical Album	.
+Artichoke (Musical Album)	is-a	Topic	.
+Artichoke (Musical Group)	is-a	Musical Artist	.
+Artichoke (Musical Group)	is-a	Musical Group	.
+Artichoke (Musical Group)	is-a	Topic	.
+Artichoke (Musical Recording) #10	Length	"187.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke (Musical Recording) #10	Recorded by	First Coat	.
+Artichoke (Musical Recording) #10	Release	Move Like Sparrows	.
+Artichoke (Musical Recording) #10	is-a	Canonical Version	.
+Artichoke (Musical Recording) #10	is-a	Musical Recording	.
+Artichoke (Musical Recording) #10	is-a	Topic	.
+Artichoke (Musical Recording) #11	Canonical version	Artichoke (Musical Recording) #14	.
+Artichoke (Musical Recording) #11	Length	"401.96"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke (Musical Recording) #11	Recorded by	Cibo Matto	.
+Artichoke (Musical Recording) #11	Recording of Composition	Artichoke (Composition)	.
+Artichoke (Musical Recording) #11	Release	Viva! La Woman (Consumer product) #1	.
+Artichoke (Musical Recording) #11	Release	Viva! La Woman (Consumer product) #2	.
+Artichoke (Musical Recording) #11	is-a	Musical Recording	.
+Artichoke (Musical Recording) #11	is-a	Topic	.
+Artichoke (Musical Recording) #13	Length	"284.16"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke (Musical Recording) #13	Recorded by	Essence (Musical Artist) #25	.
+Artichoke (Musical Recording) #13	Release	Mariposa (Consumer product)	.
+Artichoke (Musical Recording) #13	is-a	Canonical Version	.
+Artichoke (Musical Recording) #13	is-a	Musical Recording	.
+Artichoke (Musical Recording) #13	is-a	Topic	.
+Artichoke (Musical Recording) #14	Length	"420.373"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke (Musical Recording) #14	Recorded by	Cibo Matto	.
+Artichoke (Musical Recording) #14	Recording of Composition	Artichoke (Composition)	.
+Artichoke (Musical Recording) #14	Release	Viva! La Woman (Consumer product) #3	.
+Artichoke (Musical Recording) #14	Release	Viva! La Woman (Consumer product) #4	.
+Artichoke (Musical Recording) #14	is-a	Canonical Version	.
+Artichoke (Musical Recording) #14	is-a	Musical Recording	.
+Artichoke (Musical Recording) #14	is-a	Topic	.
+Artichoke (Musical Recording) #4	Recorded by	Jason Webley	.
+Artichoke (Musical Recording) #4	Recorded by	Reverend Peyton	.
+Artichoke (Musical Recording) #4	Release	2 Bottles of Wine (Compact Disc Musical Release)	.
+Artichoke (Musical Recording) #4	is-a	Canonical Version	.
+Artichoke (Musical Recording) #4	is-a	Musical Recording	.
+Artichoke (Musical Recording) #4	is-a	Topic	.
+Artichoke (Musical Recording) #5	Canonical version	Artichoke (Musical Recording) #14	.
+Artichoke (Musical Recording) #5	Length	"396.426"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke (Musical Recording) #5	Recorded by	Cibo Matto	.
+Artichoke (Musical Recording) #5	Recording of Composition	Artichoke (Composition)	.
+Artichoke (Musical Recording) #5	Release	Pom Pom: The Essential Cibo Matto (Consumer product)	.
+Artichoke (Musical Recording) #5	is-a	Musical Recording	.
+Artichoke (Musical Recording) #5	is-a	Topic	.
+Artichoke (Musical Recording) #7	Length	"147.453"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke (Musical Recording) #7	Recorded by	Virginia Tech Juxtaposition	.
+Artichoke (Musical Recording) #7	Release	Homespun (Consumer product) #6	.
+Artichoke (Musical Recording) #7	is-a	Canonical Version	.
+Artichoke (Musical Recording) #7	is-a	Musical Recording	.
+Artichoke (Musical Recording) #7	is-a	Topic	.
+Artichoke (Musical Recording) #8	Length	"193.626"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke (Musical Recording) #8	Recorded by	psychodots	.
+Artichoke (Musical Recording) #8	Recording of Composition	Artichoke (m/0_mjr_4)	.
+Artichoke (Musical Recording) #8	Release	psychodots (Compact Disc Musical Release)	.
+Artichoke (Musical Recording) #8	is-a	Canonical Version	.
+Artichoke (Musical Recording) #8	is-a	Musical Recording	.
+Artichoke (Musical Recording) #8	is-a	Topic	.
+Artichoke (Musical Recording) #9	Canonical version	Artichoke (version) (Musical Recording)	.
+Artichoke (Musical Recording) #9	Length	"361.093"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke (Musical Recording) #9	Recorded by	Norscq	.
+Artichoke (Musical Recording) #9	Release	Lavatronic (Musical Release)	.
+Artichoke (Musical Recording) #9	is-a	Musical Recording	.
+Artichoke (Musical Recording) #9	is-a	Topic	.
+Artichoke (TV Episode)	Episode number	"17"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (TV Episode)	Previous episode	Po'boy	.
+Artichoke (TV Episode)	Season	Essence of Emeril - Season 1	.
+Artichoke (TV Episode)	Season number	"1"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (TV Episode)	Series	Essence of Emeril	.
+Artichoke (TV Episode)	TVRage Episode ID	"431136"	.
+Artichoke (TV Episode)	is-a	TV Episode	.
+Artichoke (TV Episode)	is-a	Topic	.
+Artichoke (United States of America)	Contained by	Americas	.
+Artichoke (United States of America)	Contained by	Big Stone County	.
+Artichoke (United States of America)	Contained by	Contiguous United States	.
+Artichoke (United States of America)	Contained by	Continental United States	.
+Artichoke (United States of America)	Contained by	DVD Region 1	.
+Artichoke (United States of America)	Contained by	Minnesota	.
+Artichoke (United States of America)	Contained by	North America	.
+Artichoke (United States of America)	Contained by	Northern Hemisphere	.
+Artichoke (United States of America)	Contained by	United States of America	.
+Artichoke (United States of America)	Contained by	United States, with Territories	.
+Artichoke (United States of America)	Contained by	Western Hemisphere	.
+Artichoke (United States of America)	GNIS ID	"654575"	.
+Artichoke (United States of America)	is-a	City/Town/Village	.
+Artichoke (United States of America)	is-a	Dated location	.
+Artichoke (United States of America)	is-a	Location	.
+Artichoke (United States of America)	is-a	Statistical region	.
+Artichoke (United States of America)	is-a	Topic	.
+Artichoke (VII) (Canonical Version)	Length	"298.226"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke (VII) (Canonical Version)	Recorded by	Caroline's Spine	.
+Artichoke (VII) (Canonical Version)	Release	Caroline's Spine (Musical Release)	.
+Artichoke (VII) (Canonical Version)	is-a	Canonical Version	.
+Artichoke (VII) (Canonical Version)	is-a	Musical Recording	.
+Artichoke (VII) (Canonical Version)	is-a	Topic	.
+Artichoke (VII) (m/0lh381_)	Recording	Artichoke (VII) (Canonical Version)	.
+Artichoke (VII) (m/0lh381_)	Release	Caroline's Spine (Musical Release)	.
+Artichoke (VII) (m/0lh381_)	Track #	"4"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (VII) (m/0lh381_)	is-a	Release track	.
+Artichoke (VII) (m/0lh381_)	is-a	Topic	.
+Artichoke (Written Work)	Author	Olena Pchilka	.
+Artichoke (Written Work)	Date written	"1907"^^<http://www.w3.org/2001/XMLSchema#gYear>	.
+Artichoke (Written Work)	is-a	Topic	.
+Artichoke (Written Work)	is-a	Written Work	.
+Artichoke (m/0_jywcx)	Recording	Artichoke (Musical Recording) #4	.
+Artichoke (m/0_jywcx)	Release	2 Bottles of Wine (Compact Disc Musical Release)	.
+Artichoke (m/0_jywcx)	Track #	"2"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (m/0_mjr_4)	Kind of composition	Song	.
+Artichoke (m/0_mjr_4)	Language	English Language	.
+Artichoke (m/0kj04rp)	Recording	Artichoke (Musical Recording) #11	.
+Artichoke (m/0kj04rp)	Release	Viva! La Woman (Consumer product) #1	.
+Artichoke (m/0kj04rp)	Track #	"10"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (m/0kj04rp)	is-a	Release track	.
+Artichoke (m/0kj04rp)	is-a	Topic	.
+Artichoke (m/0kj04v7)	Recording	Artichoke (Musical Recording) #14	.
+Artichoke (m/0kj04v7)	Release	Viva! La Woman (Consumer product) #3	.
+Artichoke (m/0kj04v7)	Track #	"10"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (m/0kj04v7)	is-a	Release track	.
+Artichoke (m/0kj04v7)	is-a	Topic	.
+Artichoke (m/0l1p_65)	Recording	Artichoke (Musical Recording) #13	.
+Artichoke (m/0l1p_65)	Release	Mariposa (Consumer product)	.
+Artichoke (m/0l1p_65)	Track #	"12"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (m/0l1p_65)	is-a	Release track	.
+Artichoke (m/0l1p_65)	is-a	Topic	.
+Artichoke (m/0lcjv1x)	Recording	Artichoke (Musical Recording) #11	.
+Artichoke (m/0lcjv1x)	Release	Viva! La Woman (Consumer product) #2	.
+Artichoke (m/0lcjv1x)	Track #	"10"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (m/0lcjv1x)	is-a	Release track	.
+Artichoke (m/0lcjv1x)	is-a	Topic	.
+Artichoke (m/0lmcyfh)	Recording	Artichoke (Canonical Version) #15	.
+Artichoke (m/0lmcyfh)	Release	Ladies, Ladies, Ladies (Musical Release)	.
+Artichoke (m/0lmcyfh)	Track #	"8"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (m/0lmcyfh)	is-a	Release track	.
+Artichoke (m/0lmcyfh)	is-a	Topic	.
+Artichoke (m/0lpt4hq)	Recording	Artichoke (Musical Recording) #9	.
+Artichoke (m/0lpt4hq)	Release	Lavatronic (Musical Release)	.
+Artichoke (m/0lpt4hq)	Track #	"7"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (m/0lpt4hq)	is-a	Release track	.
+Artichoke (m/0lpt4hq)	is-a	Topic	.
+Artichoke (m/0lt6x39)	Recording	Artichoke (Musical Recording) #8	.
+Artichoke (m/0lt6x39)	Release	psychodots (Compact Disc Musical Release)	.
+Artichoke (m/0lt6x39)	Track #	"7"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (m/0lt6x39)	is-a	Release track	.
+Artichoke (m/0lt6x39)	is-a	Topic	.
+Artichoke (m/0lxyfl3)	Recording	Artichoke (Musical Recording) #5	.
+Artichoke (m/0lxyfl3)	Release	Pom Pom: The Essential Cibo Matto (Consumer product)	.
+Artichoke (m/0lxyfl3)	Track #	"15"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (m/0lxyfl3)	is-a	Release track	.
+Artichoke (m/0lxyfl3)	is-a	Topic	.
+Artichoke (m/0lzll6h)	Recording	Artichoke (Musical Recording) #7	.
+Artichoke (m/0lzll6h)	Release	Homespun (Consumer product) #6	.
+Artichoke (m/0lzll6h)	Track #	"9"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (m/0lzll6h)	is-a	Release track	.
+Artichoke (m/0lzll6h)	is-a	Topic	.
+Artichoke (m/0mfsgzg)	Recording	Artichoke (Musical Recording) #10	.
+Artichoke (m/0mfsgzg)	Release	Move Like Sparrows	.
+Artichoke (m/0mfsgzg)	Track #	"2"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (m/0mfsgzg)	is-a	Release track	.
+Artichoke (m/0mfsgzg)	is-a	Topic	.
+Artichoke (m/0mghkg1)	Recording	Artichoke (Musical Recording) #14	.
+Artichoke (m/0mghkg1)	Release	Viva! La Woman (Consumer product) #4	.
+Artichoke (m/0mghkg1)	Track #	"10"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (m/0mghkg1)	is-a	Release track	.
+Artichoke (m/0mghkg1)	is-a	Topic	.
+Artichoke (m/0q611yp)	Recording	Artichoke (Canonical Version) #12	.
+Artichoke (m/0q611yp)	Release	Darling Specimens (Consumer product)	.
+Artichoke (m/0q611yp)	Track #	"5"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (m/0q611yp)	is-a	Release track	.
+Artichoke (m/0q611yp)	is-a	Topic	.
+Artichoke (m/0q8yl5h)	Recording	Artichoke (Canonical Version) #3	.
+Artichoke (m/0q8yl5h)	Release	Project Monarch (Digital media Musical Release)	.
+Artichoke (m/0q8yl5h)	Track #	"6"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (m/0q8yl5h)	is-a	Release track	.
+Artichoke (m/0q8yl5h)	is-a	Topic	.
+Artichoke (m/0rr7wjg)	Recording	Artichoke (Musical Recording) #4	.
+Artichoke (m/0rr7wjg)	Release	2 Bottles of Wine (Compact Disc Musical Release)	.
+Artichoke (m/0rr7wjg)	Track #	"4"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (m/0rr7wjg)	is-a	Release track	.
+Artichoke (m/0rr7wjg)	is-a	Topic	.
+Artichoke (m/0vbqdfv)	Recording	Artichoke (Canonical Version) #6	.
+Artichoke (m/0vbqdfv)	Release	Eternity Spin (Compact Disc Musical Release)	.
+Artichoke (m/0vbqdfv)	Track #	"2"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (m/0vbqdfv)	is-a	Release track	.
+Artichoke (m/0vbqdfv)	is-a	Topic	.
+Artichoke (m/0vcrd0t)	Recording	Artichoke (Canonical Version) #2	.
+Artichoke (m/0vcrd0t)	Release	Artichoke (Digital media Musical Release)	.
+Artichoke (m/0vcrd0t)	Track #	"3"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (m/0vcrd0t)	is-a	Release track	.
+Artichoke (m/0vcrd0t)	is-a	Topic	.
+Artichoke (m/0xk4bcq)	Recording	Artichoke (Canonical Version) #1	.
+Artichoke (m/0xk4bcq)	Release	Everything and More (Consumer product)	.
+Artichoke (m/0xk4bcq)	Track #	"50"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (m/0xk4bcq)	is-a	Release track	.
+Artichoke (m/0xk4bcq)	is-a	Topic	.
+Artichoke (version) (Musical Recording)	Length	"270.866"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke (version) (Musical Recording)	Recorded by	Norscq	.
+Artichoke (version) (Musical Recording)	Release	Lavatron X: 20 Remixes Stereo de Norscq	.
+Artichoke (version) (Musical Recording)	is-a	Canonical Version	.
+Artichoke (version) (Musical Recording)	is-a	Musical Recording	.
+Artichoke (version) (Musical Recording)	is-a	Topic	.
+Artichoke (version) (m/0mnglfs)	Recording	Artichoke (version) (Musical Recording)	.
+Artichoke (version) (m/0mnglfs)	Release	Lavatron X: 20 Remixes Stereo de Norscq	.
+Artichoke (version) (m/0mnglfs)	Track #	"12"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (version) (m/0mnglfs)	is-a	Release track	.
+Artichoke (version) (m/0mnglfs)	is-a	Topic	.
+Artichoke	Compatible with dietary restriction	Gluten-free diet	.
+Artichoke	Compatible with dietary restriction	Veganism	.
+Artichoke	Compatible with dietary restriction	Vegetarian food	.
+Artichoke	Energy per 100g	"197.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke	Higher classification	Angiospermae	.
+Artichoke	Higher classification	Asteraceae	.
+Artichoke	Higher classification	Asterales	.
+Artichoke	Higher classification	Asterids	.
+Artichoke	Higher classification	Cynara	.
+Artichoke	Higher classification	Eudicots	.
+Artichoke	Higher classification	Eukaryote	.
+Artichoke	Higher classification	Plant	.
+Artichoke	ITIS Taxon S/N	"37222"	.
+Artichoke	NCBI Taxon ID	"59895"	.
+Artichoke	Nutrient per 100g	Alpha-Tocopherol	.
+Artichoke	Nutrient per 100g	Ash (Nutrient)	.
+Artichoke	Nutrient per 100g	Beta-carotene	.
+Artichoke	Nutrient per 100g	Betaine	.
+Artichoke	Nutrient per 100g	Calcium	.
+Artichoke	Nutrient per 100g	Carbohydrate	.
+Artichoke	Nutrient per 100g	Choline	.
+Artichoke	Nutrient per 100g	Copper	.
+Artichoke	Nutrient per 100g	Dietary fiber	.
+Artichoke	Nutrient per 100g	Dietary folate equivalents	.
+Artichoke	Nutrient per 100g	Folic acid	.
+Artichoke	Nutrient per 100g	Food folates	.
+Artichoke	Nutrient per 100g	Iron	.
+Artichoke	Nutrient per 100g	Lauric acid	.
+Artichoke	Nutrient per 100g	Linoleic acid	.
+Artichoke	Nutrient per 100g	Linolenic acid	.
+Artichoke	Nutrient per 100g	Lipid	.
+Artichoke	Nutrient per 100g	Lutein & zeaxanthin	.
+Artichoke	Nutrient per 100g	Magnesium	.
+Artichoke	Nutrient per 100g	Manganese	.
+Artichoke	Nutrient per 100g	Monounsaturated fat	.
+Artichoke	Nutrient per 100g	Myristic acid	.
+Artichoke	Nutrient per 100g	Niacin	.
+Artichoke	Nutrient per 100g	Oleic acid	.
+Artichoke	Nutrient per 100g	Palmitic acid	.
+Artichoke	Nutrient per 100g	Pantothenic acid	.
+Artichoke	Nutrient per 100g	Phosphorus	.
+Artichoke	Nutrient per 100g	Phytonadione	.
+Artichoke	Nutrient per 100g	Polyunsaturated fat	.
+Artichoke	Nutrient per 100g	Potassium	.
+Artichoke	Nutrient per 100g	Protein (Nutrient)	.
+Artichoke	Nutrient per 100g	Retinol Activity Equivalents	.
+Artichoke	Nutrient per 100g	Riboflavin	.
+Artichoke	Nutrient per 100g	Saturated fat	.
+Artichoke	Nutrient per 100g	Selenium	.
+Artichoke	Nutrient per 100g	Sodium	.
+Artichoke	Nutrient per 100g	Stearic acid	.
+Artichoke	Nutrient per 100g	Sugar	.
+Artichoke	Nutrient per 100g	Thiamine	.
+Artichoke	Nutrient per 100g	Vitamin A	.
+Artichoke	Nutrient per 100g	Vitamin B-6	.
+Artichoke	Nutrient per 100g	Vitamin C	.
+Artichoke	Nutrient per 100g	Water	.
+Artichoke	Nutrient per 100g	Zinc	.
+Artichoke	Rank	Species (Organism Classification Rank)	.
+Artichoke	Scientific name	"Cynara cardunculus var. scolymus"@en	.
+Artichoke	USDA Equivalent	"11007"	.
+Artichoke	USDA ID	"11007"	.
+Artichoke	is-a	Angiospermae	.
+Artichoke	is-a	Asteraceae	.
+Artichoke	is-a	Asterales	.
+Artichoke	is-a	Asterids	.
+Artichoke	is-a	Cynara	.
+Artichoke	is-a	Drug ingredient	.
+Artichoke	is-a	Eudicots	.
+Artichoke	is-a	Eukaryote	.
+Artichoke	is-a	Food	.
+Artichoke	is-a	Ingredient	.
+Artichoke	is-a	Organism Classification	.
+Artichoke	is-a	Plant	.
+Artichoke	is-a	Topic	.
+Artichoke	is-a	Vegetable	.
+Artichoke & other poems	Edition Of	Artichoke and Other Poems	.
+Artichoke & other poems	ISBN	9780870227912	.
+Artichoke & other poems	ISBN-13	"9780870227912"	.
+Artichoke & other poems	Place of publication	Honolulu	.
+Artichoke & other poems	Publication date	"1969"^^<http://www.w3.org/2001/XMLSchema#gYear>	.
+Artichoke & other poems	Stanford OPAC	"564784"	.
+Artichoke & other poems	is-a	Book Edition	.
+Artichoke & other poems	is-a	Cataloged instance	.
+Artichoke & other poems	is-a	Topic	.
+Artichoke (Canonical Version) #1	Length	"282.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke (Canonical Version) #1	Recorded by	The Raisins	.
+Artichoke (Canonical Version) #1	Recording of Composition	Artichoke (m/0_mjr_4)	.
+Artichoke (Canonical Version) #1	is-a	Canonical Version	.
+Artichoke (Canonical Version) #1	is-a	Musical Recording	.
+Artichoke (Canonical Version) #1	is-a	Topic	.
+Artichoke (Canonical Version) #12	Length	"167.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke (Canonical Version) #12	Recorded by	Zoë Boekbinder	.
+Artichoke (Canonical Version) #12	is-a	Canonical Version	.
+Artichoke (Canonical Version) #12	is-a	Musical Recording	.
+Artichoke (Canonical Version) #12	is-a	Topic	.
+Artichoke (Canonical Version) #15	Length	"144.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke (Canonical Version) #15	Recorded by	Carter Peace Mission	.
+Artichoke (Canonical Version) #15	Release	Ladies, Ladies, Ladies (Musical Release)	.
+Artichoke (Canonical Version) #15	is-a	Canonical Version	.
+Artichoke (Canonical Version) #15	is-a	Musical Recording	.
+Artichoke (Canonical Version) #15	is-a	Topic	.
+Artichoke (Canonical Version) #2	Length	"147.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke (Canonical Version) #2	Recorded by	Benoît Charcosset	.
+Artichoke (Canonical Version) #2	is-a	Canonical Version	.
+Artichoke (Canonical Version) #2	is-a	Musical Recording	.
+Artichoke (Canonical Version) #2	is-a	Topic	.
+Artichoke (Canonical Version) #3	Length	"76.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke (Canonical Version) #3	Recorded by	Anitek	.
+Artichoke (Canonical Version) #3	Recorded by	Tab (Musical Artist)	.
+Artichoke (Canonical Version) #3	is-a	Canonical Version	.
+Artichoke (Canonical Version) #3	is-a	Musical Recording	.
+Artichoke (Canonical Version) #3	is-a	Topic	.
+Artichoke (Canonical Version) #6	Length	"236.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke (Canonical Version) #6	Recorded by	Pandit (Musical Artist)	.
+Artichoke (Canonical Version) #6	is-a	Canonical Version	.
+Artichoke (Canonical Version) #6	is-a	Musical Recording	.
+Artichoke (Canonical Version) #6	is-a	Topic	.
+Artichoke (Composition)	Composer	Kudsi Ergüner	.
+Artichoke (Digital media Musical Release)	Credited A	"Maf"	.
+Artichoke (Digital media Musical Release)	Format	Digital media	.
+Artichoke (Digital media Musical Release)	Release Date	"2012-08-18"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Artichoke (Digital media Musical Release)	Release of	Artichoke (Musical Album)	.
+Artichoke (Digital media Musical Release)	is-a	Creative Work	.
+Artichoke (Digital media Musical Release)	is-a	Musical Release	.
+Artichoke (Digital media Musical Release)	is-a	Topic	.
+Artichoke (Film)	Directed by	John Cook (Film Director)	.
+Artichoke (Film)	Film festival	1984 Berlin International Film Festival	.
+Artichoke (Film)	Initial release date	"1983"^^<http://www.w3.org/2001/XMLSchema#gYear>	.
+Artichoke (Film)	is-a	Film	.
+Artichoke (Film)	is-a	Topic	.
+Artichoke (Musical Album)	Album content type	Compilation album	.
+Artichoke (Musical Album)	Artist	Benoît Charcosset	.
+Artichoke (Musical Album)	Initial release date	"2012-08-18"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Artichoke (Musical Album)	Primary release	Artichoke (Digital media Musical Release)	.
+Artichoke (Musical Album)	Release type	Album	.
+Artichoke (Musical Album)	is-a	Musical Album	.
+Artichoke (Musical Album)	is-a	Topic	.
+Artichoke (Musical Group)	is-a	Musical Artist	.
+Artichoke (Musical Group)	is-a	Musical Group	.
+Artichoke (Musical Group)	is-a	Topic	.
+Artichoke (Musical Recording) #10	Length	"187.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke (Musical Recording) #10	Recorded by	First Coat	.
+Artichoke (Musical Recording) #10	Release	Move Like Sparrows	.
+Artichoke (Musical Recording) #10	is-a	Canonical Version	.
+Artichoke (Musical Recording) #10	is-a	Musical Recording	.
+Artichoke (Musical Recording) #10	is-a	Topic	.
+Artichoke (Musical Recording) #11	Canonical version	Artichoke (Musical Recording) #14	.
+Artichoke (Musical Recording) #11	Length	"401.96"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke (Musical Recording) #11	Recorded by	Cibo Matto	.
+Artichoke (Musical Recording) #11	Recording of Composition	Artichoke (Composition)	.
+Artichoke (Musical Recording) #11	Release	Viva! La Woman (Consumer product) #1	.
+Artichoke (Musical Recording) #11	Release	Viva! La Woman (Consumer product) #2	.
+Artichoke (Musical Recording) #11	is-a	Musical Recording	.
+Artichoke (Musical Recording) #11	is-a	Topic	.
+Artichoke (Musical Recording) #13	Length	"284.16"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke (Musical Recording) #13	Recorded by	Essence (Musical Artist) #25	.
+Artichoke (Musical Recording) #13	Release	Mariposa (Consumer product)	.
+Artichoke (Musical Recording) #13	is-a	Canonical Version	.
+Artichoke (Musical Recording) #13	is-a	Musical Recording	.
+Artichoke (Musical Recording) #13	is-a	Topic	.
+Artichoke (Musical Recording) #14	Length	"420.373"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke (Musical Recording) #14	Recorded by	Cibo Matto	.
+Artichoke (Musical Recording) #14	Recording of Composition	Artichoke (Composition)	.
+Artichoke (Musical Recording) #14	Release	Viva! La Woman (Consumer product) #3	.
+Artichoke (Musical Recording) #14	Release	Viva! La Woman (Consumer product) #4	.
+Artichoke (Musical Recording) #14	is-a	Canonical Version	.
+Artichoke (Musical Recording) #14	is-a	Musical Recording	.
+Artichoke (Musical Recording) #14	is-a	Topic	.
+Artichoke (Musical Recording) #4	Recorded by	Jason Webley	.
+Artichoke (Musical Recording) #4	Recorded by	Reverend Peyton	.
+Artichoke (Musical Recording) #4	Release	2 Bottles of Wine (Compact Disc Musical Release)	.
+Artichoke (Musical Recording) #4	is-a	Canonical Version	.
+Artichoke (Musical Recording) #4	is-a	Musical Recording	.
+Artichoke (Musical Recording) #4	is-a	Topic	.
+Artichoke (Musical Recording) #5	Canonical version	Artichoke (Musical Recording) #14	.
+Artichoke (Musical Recording) #5	Length	"396.426"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke (Musical Recording) #5	Recorded by	Cibo Matto	.
+Artichoke (Musical Recording) #5	Recording of Composition	Artichoke (Composition)	.
+Artichoke (Musical Recording) #5	Release	Pom Pom: The Essential Cibo Matto (Consumer product)	.
+Artichoke (Musical Recording) #5	is-a	Musical Recording	.
+Artichoke (Musical Recording) #5	is-a	Topic	.
+Artichoke (Musical Recording) #7	Length	"147.453"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke (Musical Recording) #7	Recorded by	Virginia Tech Juxtaposition	.
+Artichoke (Musical Recording) #7	Release	Homespun (Consumer product) #6	.
+Artichoke (Musical Recording) #7	is-a	Canonical Version	.
+Artichoke (Musical Recording) #7	is-a	Musical Recording	.
+Artichoke (Musical Recording) #7	is-a	Topic	.
+Artichoke (Musical Recording) #8	Length	"193.626"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke (Musical Recording) #8	Recorded by	psychodots	.
+Artichoke (Musical Recording) #8	Recording of Composition	Artichoke (m/0_mjr_4)	.
+Artichoke (Musical Recording) #8	Release	psychodots (Compact Disc Musical Release)	.
+Artichoke (Musical Recording) #8	is-a	Canonical Version	.
+Artichoke (Musical Recording) #8	is-a	Musical Recording	.
+Artichoke (Musical Recording) #8	is-a	Topic	.
+Artichoke (Musical Recording) #9	Canonical version	Artichoke (version) (Musical Recording)	.
+Artichoke (Musical Recording) #9	Length	"361.093"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke (Musical Recording) #9	Recorded by	Norscq	.
+Artichoke (Musical Recording) #9	Release	Lavatronic (Musical Release)	.
+Artichoke (Musical Recording) #9	is-a	Musical Recording	.
+Artichoke (Musical Recording) #9	is-a	Topic	.
+Artichoke (TV Episode)	Episode number	"17"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (TV Episode)	Previous episode	Po'boy	.
+Artichoke (TV Episode)	Season	Essence of Emeril - Season 1	.
+Artichoke (TV Episode)	Season number	"1"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (TV Episode)	Series	Essence of Emeril	.
+Artichoke (TV Episode)	TVRage Episode ID	"431136"	.
+Artichoke (TV Episode)	is-a	TV Episode	.
+Artichoke (TV Episode)	is-a	Topic	.
+Artichoke (United States of America)	Contained by	Americas	.
+Artichoke (United States of America)	Contained by	Big Stone County	.
+Artichoke (United States of America)	Contained by	Contiguous United States	.
+Artichoke (United States of America)	Contained by	Continental United States	.
+Artichoke (United States of America)	Contained by	DVD Region 1	.
+Artichoke (United States of America)	Contained by	Minnesota	.
+Artichoke (United States of America)	Contained by	North America	.
+Artichoke (United States of America)	Contained by	Northern Hemisphere	.
+Artichoke (United States of America)	Contained by	United States of America	.
+Artichoke (United States of America)	Contained by	United States, with Territories	.
+Artichoke (United States of America)	Contained by	Western Hemisphere	.
+Artichoke (United States of America)	GNIS ID	"654575"	.
+Artichoke (United States of America)	is-a	City/Town/Village	.
+Artichoke (United States of America)	is-a	Dated location	.
+Artichoke (United States of America)	is-a	Location	.
+Artichoke (United States of America)	is-a	Statistical region	.
+Artichoke (United States of America)	is-a	Topic	.
+Artichoke (VII) (Canonical Version)	Length	"298.226"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke (VII) (Canonical Version)	Recorded by	Caroline's Spine	.
+Artichoke (VII) (Canonical Version)	Release	Caroline's Spine (Musical Release)	.
+Artichoke (VII) (Canonical Version)	is-a	Canonical Version	.
+Artichoke (VII) (Canonical Version)	is-a	Musical Recording	.
+Artichoke (VII) (Canonical Version)	is-a	Topic	.
+Artichoke (VII) (m/0lh381_)	Recording	Artichoke (VII) (Canonical Version)	.
+Artichoke (VII) (m/0lh381_)	Release	Caroline's Spine (Musical Release)	.
+Artichoke (VII) (m/0lh381_)	Track #	"4"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (VII) (m/0lh381_)	is-a	Release track	.
+Artichoke (VII) (m/0lh381_)	is-a	Topic	.
+Artichoke (Written Work)	Author	Olena Pchilka	.
+Artichoke (Written Work)	Date written	"1907"^^<http://www.w3.org/2001/XMLSchema#gYear>	.
+Artichoke (Written Work)	is-a	Topic	.
+Artichoke (Written Work)	is-a	Written Work	.
+Artichoke (m/0_jywcx)	Recording	Artichoke (Musical Recording) #4	.
+Artichoke (m/0_jywcx)	Release	2 Bottles of Wine (Compact Disc Musical Release)	.
+Artichoke (m/0_jywcx)	Track #	"2"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (m/0_mjr_4)	Kind of composition	Song	.
+Artichoke (m/0_mjr_4)	Language	English Language	.
+Artichoke (m/0kj04rp)	Recording	Artichoke (Musical Recording) #11	.
+Artichoke (m/0kj04rp)	Release	Viva! La Woman (Consumer product) #1	.
+Artichoke (m/0kj04rp)	Track #	"10"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (m/0kj04rp)	is-a	Release track	.
+Artichoke (m/0kj04rp)	is-a	Topic	.
+Artichoke (m/0kj04v7)	Recording	Artichoke (Musical Recording) #14	.
+Artichoke (m/0kj04v7)	Release	Viva! La Woman (Consumer product) #3	.
+Artichoke (m/0kj04v7)	Track #	"10"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (m/0kj04v7)	is-a	Release track	.
+Artichoke (m/0kj04v7)	is-a	Topic	.
+Artichoke (m/0l1p_65)	Recording	Artichoke (Musical Recording) #13	.
+Artichoke (m/0l1p_65)	Release	Mariposa (Consumer product)	.
+Artichoke (m/0l1p_65)	Track #	"12"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (m/0l1p_65)	is-a	Release track	.
+Artichoke (m/0l1p_65)	is-a	Topic	.
+Artichoke (m/0lcjv1x)	Recording	Artichoke (Musical Recording) #11	.
+Artichoke (m/0lcjv1x)	Release	Viva! La Woman (Consumer product) #2	.
+Artichoke (m/0lcjv1x)	Track #	"10"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (m/0lcjv1x)	is-a	Release track	.
+Artichoke (m/0lcjv1x)	is-a	Topic	.
+Artichoke (m/0lmcyfh)	Recording	Artichoke (Canonical Version) #15	.
+Artichoke (m/0lmcyfh)	Release	Ladies, Ladies, Ladies (Musical Release)	.
+Artichoke (m/0lmcyfh)	Track #	"8"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (m/0lmcyfh)	is-a	Release track	.
+Artichoke (m/0lmcyfh)	is-a	Topic	.
+Artichoke (m/0lpt4hq)	Recording	Artichoke (Musical Recording) #9	.
+Artichoke (m/0lpt4hq)	Release	Lavatronic (Musical Release)	.
+Artichoke (m/0lpt4hq)	Track #	"7"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (m/0lpt4hq)	is-a	Release track	.
+Artichoke (m/0lpt4hq)	is-a	Topic	.
+Artichoke (m/0lt6x39)	Recording	Artichoke (Musical Recording) #8	.
+Artichoke (m/0lt6x39)	Release	psychodots (Compact Disc Musical Release)	.
+Artichoke (m/0lt6x39)	Track #	"7"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (m/0lt6x39)	is-a	Release track	.
+Artichoke (m/0lt6x39)	is-a	Topic	.
+Artichoke (m/0lxyfl3)	Recording	Artichoke (Musical Recording) #5	.
+Artichoke (m/0lxyfl3)	Release	Pom Pom: The Essential Cibo Matto (Consumer product)	.
+Artichoke (m/0lxyfl3)	Track #	"15"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (m/0lxyfl3)	is-a	Release track	.
+Artichoke (m/0lxyfl3)	is-a	Topic	.
+Artichoke (m/0lzll6h)	Recording	Artichoke (Musical Recording) #7	.
+Artichoke (m/0lzll6h)	Release	Homespun (Consumer product) #6	.
+Artichoke (m/0lzll6h)	Track #	"9"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (m/0lzll6h)	is-a	Release track	.
+Artichoke (m/0lzll6h)	is-a	Topic	.
+Artichoke (m/0mfsgzg)	Recording	Artichoke (Musical Recording) #10	.
+Artichoke (m/0mfsgzg)	Release	Move Like Sparrows	.
+Artichoke (m/0mfsgzg)	Track #	"2"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (m/0mfsgzg)	is-a	Release track	.
+Artichoke (m/0mfsgzg)	is-a	Topic	.
+Artichoke (m/0mghkg1)	Recording	Artichoke (Musical Recording) #14	.
+Artichoke (m/0mghkg1)	Release	Viva! La Woman (Consumer product) #4	.
+Artichoke (m/0mghkg1)	Track #	"10"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (m/0mghkg1)	is-a	Release track	.
+Artichoke (m/0mghkg1)	is-a	Topic	.
+Artichoke (m/0q611yp)	Recording	Artichoke (Canonical Version) #12	.
+Artichoke (m/0q611yp)	Release	Darling Specimens (Consumer product)	.
+Artichoke (m/0q611yp)	Track #	"5"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (m/0q611yp)	is-a	Release track	.
+Artichoke (m/0q611yp)	is-a	Topic	.
+Artichoke (m/0q8yl5h)	Recording	Artichoke (Canonical Version) #3	.
+Artichoke (m/0q8yl5h)	Release	Project Monarch (Digital media Musical Release)	.
+Artichoke (m/0q8yl5h)	Track #	"6"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (m/0q8yl5h)	is-a	Release track	.
+Artichoke (m/0q8yl5h)	is-a	Topic	.
+Artichoke (m/0rr7wjg)	Recording	Artichoke (Musical Recording) #4	.
+Artichoke (m/0rr7wjg)	Release	2 Bottles of Wine (Compact Disc Musical Release)	.
+Artichoke (m/0rr7wjg)	Track #	"4"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (m/0rr7wjg)	is-a	Release track	.
+Artichoke (m/0rr7wjg)	is-a	Topic	.
+Artichoke (m/0vbqdfv)	Recording	Artichoke (Canonical Version) #6	.
+Artichoke (m/0vbqdfv)	Release	Eternity Spin (Compact Disc Musical Release)	.
+Artichoke (m/0vbqdfv)	Track #	"2"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (m/0vbqdfv)	is-a	Release track	.
+Artichoke (m/0vbqdfv)	is-a	Topic	.
+Artichoke (m/0vcrd0t)	Recording	Artichoke (Canonical Version) #2	.
+Artichoke (m/0vcrd0t)	Release	Artichoke (Digital media Musical Release)	.
+Artichoke (m/0vcrd0t)	Track #	"3"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (m/0vcrd0t)	is-a	Release track	.
+Artichoke (m/0vcrd0t)	is-a	Topic	.
+Artichoke (m/0xk4bcq)	Recording	Artichoke (Canonical Version) #1	.
+Artichoke (m/0xk4bcq)	Release	Everything and More (Consumer product)	.
+Artichoke (m/0xk4bcq)	Track #	"50"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (m/0xk4bcq)	is-a	Release track	.
+Artichoke (m/0xk4bcq)	is-a	Topic	.
+Artichoke (version) (Musical Recording)	Length	"270.866"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke (version) (Musical Recording)	Recorded by	Norscq	.
+Artichoke (version) (Musical Recording)	Release	Lavatron X: 20 Remixes Stereo de Norscq	.
+Artichoke (version) (Musical Recording)	is-a	Canonical Version	.
+Artichoke (version) (Musical Recording)	is-a	Musical Recording	.
+Artichoke (version) (Musical Recording)	is-a	Topic	.
+Artichoke (version) (m/0mnglfs)	Recording	Artichoke (version) (Musical Recording)	.
+Artichoke (version) (m/0mnglfs)	Release	Lavatron X: 20 Remixes Stereo de Norscq	.
+Artichoke (version) (m/0mnglfs)	Track #	"12"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke (version) (m/0mnglfs)	is-a	Release track	.
+Artichoke (version) (m/0mnglfs)	is-a	Topic	.
+Artichoke 0.05 injectable solution (Biologic Drug Formulation)	Active ingredient	Artichoke	.
+Artichoke 0.05 injectable solution (Biologic Drug Formulation)	Active ingredient moiety	Artichoke	.
+Artichoke 0.05 injectable solution (Biologic Drug Formulation)	Dosage form	Injectable solution	.
+Artichoke 0.05 injectable solution (Biologic Drug Formulation)	Drug category	Biologic	.
+Artichoke 0.05 injectable solution (Biologic Drug Formulation)	Formulation of	Artichoke extract	.
+Artichoke 0.05 injectable solution (Biologic Drug Formulation)	Legal status	Prescription drug	.
+Artichoke 0.05 injectable solution (Biologic Drug Formulation)	Route of administration	Intradermal	.
+Artichoke 0.05 injectable solution (Biologic Drug Formulation)	Route of administration	Subcutaneous injection	.
+Artichoke 0.05 injectable solution (Biologic Drug Formulation)	Routed drug	Artichoke Extract Intradermal	.
+Artichoke 0.05 injectable solution (Biologic Drug Formulation)	Routed drug	Artichoke Extract Subcutaneous	.
+Artichoke 0.05 injectable solution (Biologic Drug Formulation)	is-a	Drug formulation	.
+Artichoke 0.05 injectable solution (Biologic Drug Formulation)	is-a	Topic	.
+Artichoke 0.05 injectable solution (Consumer product) #1	Available in	United States of America	.
+Artichoke 0.05 injectable solution (Consumer product) #1	Discontinued	"false"	.
+Artichoke 0.05 injectable solution (Consumer product) #1	FDA application number	"BLA102192"	.
+Artichoke 0.05 injectable solution (Consumer product) #1	Generic drug	"false"	.
+Artichoke 0.05 injectable solution (Consumer product) #1	Label date	"2009-12-09"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Artichoke 0.05 injectable solution (Consumer product) #1	Label link	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=9cf0d617-467d-461f-b6d3-d2d926982bb7>	.
+Artichoke 0.05 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=9cf0d617-467d-461f-b6d3-d2d926982bb7#inv-1aa46620-007b-4a96-a186-655b130c74bd>	.
+Artichoke 0.05 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=9cf0d617-467d-461f-b6d3-d2d926982bb7#inv-2a110640-b863-4d21-8cfa-08f15fb0e83d>	.
+Artichoke 0.05 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=9cf0d617-467d-461f-b6d3-d2d926982bb7#inv-2e7217f0-7f21-4dd3-b964-85828c3c9fda>	.
+Artichoke 0.05 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=9cf0d617-467d-461f-b6d3-d2d926982bb7#inv-4b6e1172-a2ac-4b06-8039-248b765858f8>	.
+Artichoke 0.05 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=9cf0d617-467d-461f-b6d3-d2d926982bb7#inv-50284cc1-ddf3-4c36-af30-4576e667f6d2>	.
+Artichoke 0.05 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=9cf0d617-467d-461f-b6d3-d2d926982bb7#inv-663fbd63-aacf-486c-a7b4-3276190f333b>	.
+Artichoke 0.05 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=9cf0d617-467d-461f-b6d3-d2d926982bb7#inv-93c763ec-97b5-4e4c-b8cd-4c67e5985138>	.
+Artichoke 0.05 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=9cf0d617-467d-461f-b6d3-d2d926982bb7#inv-9e428dcb-5ca9-47e9-bf7b-0d0a089bb05c>	.
+Artichoke 0.05 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=9cf0d617-467d-461f-b6d3-d2d926982bb7#inv-a47ecd29-5cab-411e-affb-64b4671af9da>	.
+Artichoke 0.05 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=9cf0d617-467d-461f-b6d3-d2d926982bb7#inv-b422716d-1d17-4006-994a-a8ddeb2d8002>	.
+Artichoke 0.05 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=9cf0d617-467d-461f-b6d3-d2d926982bb7#inv-ba5d294f-bba8-4ce3-a444-285670a473e4>	.
+Artichoke 0.05 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=9cf0d617-467d-461f-b6d3-d2d926982bb7#inv-bcc12b16-eb16-4a93-9c95-0239472adf4e>	.
+Artichoke 0.05 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=9cf0d617-467d-461f-b6d3-d2d926982bb7#inv-cf91e1d7-a524-4f53-a3f0-87e3cd59352d>	.
+Artichoke 0.05 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=9cf0d617-467d-461f-b6d3-d2d926982bb7#inv-ea5d82ea-dc7e-431d-ab58-cd277ee691ae>	.
+Artichoke 0.05 injectable solution (Consumer product) #1	Manufactured form of	Artichoke 0.05 injectable solution (Biologic Drug Formulation)	.
+Artichoke 0.05 injectable solution (Consumer product) #1	Manufacturer	Nelco Laboratories	.
+Artichoke 0.05 injectable solution (Consumer product) #1	Marketing start date	"1972-08-29"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Artichoke 0.05 injectable solution (Consumer product) #1	NDC Product ID	"36987-1383"	.
+Artichoke 0.05 injectable solution (Consumer product) #1	is-a	Consumer product	.
+Artichoke 0.05 injectable solution (Consumer product) #1	is-a	Manufactured drug form	.
+Artichoke 0.05 injectable solution (Consumer product) #1	is-a	Topic	.
+Artichoke 0.05 injectable solution (Consumer product) #2	Available in	United States of America	.
+Artichoke 0.05 injectable solution (Consumer product) #2	Discontinued	"false"	.
+Artichoke 0.05 injectable solution (Consumer product) #2	FDA application number	"BLA102192"	.
+Artichoke 0.05 injectable solution (Consumer product) #2	Generic drug	"false"	.
+Artichoke 0.05 injectable solution (Consumer product) #2	Label date	"2009-12-09"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Artichoke 0.05 injectable solution (Consumer product) #2	Label link	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=b65366b5-55ea-49dc-8011-8ef9af097291>	.
+Artichoke 0.05 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=b65366b5-55ea-49dc-8011-8ef9af097291#inv-1aa46620-007b-4a96-a186-655b130c74bd>	.
+Artichoke 0.05 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=b65366b5-55ea-49dc-8011-8ef9af097291#inv-2a110640-b863-4d21-8cfa-08f15fb0e83d>	.
+Artichoke 0.05 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=b65366b5-55ea-49dc-8011-8ef9af097291#inv-2e7217f0-7f21-4dd3-b964-85828c3c9fda>	.
+Artichoke 0.05 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=b65366b5-55ea-49dc-8011-8ef9af097291#inv-4b6e1172-a2ac-4b06-8039-248b765858f8>	.
+Artichoke 0.05 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=b65366b5-55ea-49dc-8011-8ef9af097291#inv-50284cc1-ddf3-4c36-af30-4576e667f6d2>	.
+Artichoke 0.05 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=b65366b5-55ea-49dc-8011-8ef9af097291#inv-663fbd63-aacf-486c-a7b4-3276190f333b>	.
+Artichoke 0.05 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=b65366b5-55ea-49dc-8011-8ef9af097291#inv-93c763ec-97b5-4e4c-b8cd-4c67e5985138>	.
+Artichoke 0.05 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=b65366b5-55ea-49dc-8011-8ef9af097291#inv-9e428dcb-5ca9-47e9-bf7b-0d0a089bb05c>	.
+Artichoke 0.05 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=b65366b5-55ea-49dc-8011-8ef9af097291#inv-a47ecd29-5cab-411e-affb-64b4671af9da>	.
+Artichoke 0.05 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=b65366b5-55ea-49dc-8011-8ef9af097291#inv-b422716d-1d17-4006-994a-a8ddeb2d8002>	.
+Artichoke 0.05 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=b65366b5-55ea-49dc-8011-8ef9af097291#inv-ba5d294f-bba8-4ce3-a444-285670a473e4>	.
+Artichoke 0.05 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=b65366b5-55ea-49dc-8011-8ef9af097291#inv-bcc12b16-eb16-4a93-9c95-0239472adf4e>	.
+Artichoke 0.05 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=b65366b5-55ea-49dc-8011-8ef9af097291#inv-cf91e1d7-a524-4f53-a3f0-87e3cd59352d>	.
+Artichoke 0.05 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=b65366b5-55ea-49dc-8011-8ef9af097291#inv-ea5d82ea-dc7e-431d-ab58-cd277ee691ae>	.
+Artichoke 0.05 injectable solution (Consumer product) #2	Manufactured form of	Artichoke 0.05 injectable solution (Biologic Drug Formulation)	.
+Artichoke 0.05 injectable solution (Consumer product) #2	Manufacturer	Nelco Laboratories	.
+Artichoke 0.05 injectable solution (Consumer product) #2	Marketing start date	"1972-08-29"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Artichoke 0.05 injectable solution (Consumer product) #2	NDC Product ID	"36987-1382"	.
+Artichoke 0.05 injectable solution (Consumer product) #2	is-a	Consumer product	.
+Artichoke 0.05 injectable solution (Consumer product) #2	is-a	Manufactured drug form	.
+Artichoke 0.05 injectable solution (Consumer product) #2	is-a	Topic	.
+Artichoke 0.1 injectable solution (Biologic Drug Formulation)	Active ingredient	Artichoke	.
+Artichoke 0.1 injectable solution (Biologic Drug Formulation)	Active ingredient moiety	Artichoke	.
+Artichoke 0.1 injectable solution (Biologic Drug Formulation)	Dosage form	Injectable solution	.
+Artichoke 0.1 injectable solution (Biologic Drug Formulation)	Drug category	Biologic	.
+Artichoke 0.1 injectable solution (Biologic Drug Formulation)	Formulation of	Artichoke extract	.
+Artichoke 0.1 injectable solution (Biologic Drug Formulation)	Legal status	Prescription drug	.
+Artichoke 0.1 injectable solution (Biologic Drug Formulation)	Route of administration	Intradermal	.
+Artichoke 0.1 injectable solution (Biologic Drug Formulation)	Route of administration	Subcutaneous injection	.
+Artichoke 0.1 injectable solution (Biologic Drug Formulation)	Routed drug	Artichoke Extract Intradermal	.
+Artichoke 0.1 injectable solution (Biologic Drug Formulation)	Routed drug	Artichoke Extract Subcutaneous	.
+Artichoke 0.1 injectable solution (Biologic Drug Formulation)	is-a	Drug formulation	.
+Artichoke 0.1 injectable solution (Biologic Drug Formulation)	is-a	Topic	.
+Artichoke 0.1 injectable solution (Consumer product) #1	Available in	United States of America	.
+Artichoke 0.1 injectable solution (Consumer product) #1	Discontinued	"false"	.
+Artichoke 0.1 injectable solution (Consumer product) #1	FDA application number	"BLA102192"	.
+Artichoke 0.1 injectable solution (Consumer product) #1	Generic drug	"false"	.
+Artichoke 0.1 injectable solution (Consumer product) #1	Label date	"2009-12-09"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Artichoke 0.1 injectable solution (Consumer product) #1	Label link	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=42a03973-e3db-49f2-9264-f76aa831c045>	.
+Artichoke 0.1 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=42a03973-e3db-49f2-9264-f76aa831c045#inv-1aa46620-007b-4a96-a186-655b130c74bd>	.
+Artichoke 0.1 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=42a03973-e3db-49f2-9264-f76aa831c045#inv-271a837d-44bf-46b7-8a0f-c96dbc0e3cea>	.
+Artichoke 0.1 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=42a03973-e3db-49f2-9264-f76aa831c045#inv-2a110640-b863-4d21-8cfa-08f15fb0e83d>	.
+Artichoke 0.1 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=42a03973-e3db-49f2-9264-f76aa831c045#inv-2e7217f0-7f21-4dd3-b964-85828c3c9fda>	.
+Artichoke 0.1 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=42a03973-e3db-49f2-9264-f76aa831c045#inv-4b6e1172-a2ac-4b06-8039-248b765858f8>	.
+Artichoke 0.1 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=42a03973-e3db-49f2-9264-f76aa831c045#inv-663fbd63-aacf-486c-a7b4-3276190f333b>	.
+Artichoke 0.1 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=42a03973-e3db-49f2-9264-f76aa831c045#inv-93c763ec-97b5-4e4c-b8cd-4c67e5985138>	.
+Artichoke 0.1 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=42a03973-e3db-49f2-9264-f76aa831c045#inv-9e428dcb-5ca9-47e9-bf7b-0d0a089bb05c>	.
+Artichoke 0.1 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=42a03973-e3db-49f2-9264-f76aa831c045#inv-a47ecd29-5cab-411e-affb-64b4671af9da>	.
+Artichoke 0.1 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=42a03973-e3db-49f2-9264-f76aa831c045#inv-b422716d-1d17-4006-994a-a8ddeb2d8002>	.
+Artichoke 0.1 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=42a03973-e3db-49f2-9264-f76aa831c045#inv-ba5d294f-bba8-4ce3-a444-285670a473e4>	.
+Artichoke 0.1 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=42a03973-e3db-49f2-9264-f76aa831c045#inv-bcc12b16-eb16-4a93-9c95-0239472adf4e>	.
+Artichoke 0.1 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=42a03973-e3db-49f2-9264-f76aa831c045#inv-cf91e1d7-a524-4f53-a3f0-87e3cd59352d>	.
+Artichoke 0.1 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=42a03973-e3db-49f2-9264-f76aa831c045#inv-ea5d82ea-dc7e-431d-ab58-cd277ee691ae>	.
+Artichoke 0.1 injectable solution (Consumer product) #1	Manufactured form of	Artichoke 0.1 injectable solution (Biologic Drug Formulation)	.
+Artichoke 0.1 injectable solution (Consumer product) #1	Manufacturer	Nelco Laboratories	.
+Artichoke 0.1 injectable solution (Consumer product) #1	Marketing start date	"1972-08-29"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Artichoke 0.1 injectable solution (Consumer product) #1	NDC Product ID	"36987-1385"	.
+Artichoke 0.1 injectable solution (Consumer product) #1	is-a	Consumer product	.
+Artichoke 0.1 injectable solution (Consumer product) #1	is-a	Manufactured drug form	.
+Artichoke 0.1 injectable solution (Consumer product) #1	is-a	Topic	.
+Artichoke 0.1 injectable solution (Consumer product) #2	Available in	United States of America	.
+Artichoke 0.1 injectable solution (Consumer product) #2	Discontinued	"false"	.
+Artichoke 0.1 injectable solution (Consumer product) #2	FDA application number	"BLA102192"	.
+Artichoke 0.1 injectable solution (Consumer product) #2	Generic drug	"false"	.
+Artichoke 0.1 injectable solution (Consumer product) #2	Label date	"2009-12-09"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Artichoke 0.1 injectable solution (Consumer product) #2	Label link	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=6deab9bd-7a81-45ed-8a1c-b833b59b70b8>	.
+Artichoke 0.1 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=6deab9bd-7a81-45ed-8a1c-b833b59b70b8#inv-1aa46620-007b-4a96-a186-655b130c74bd>	.
+Artichoke 0.1 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=6deab9bd-7a81-45ed-8a1c-b833b59b70b8#inv-2a110640-b863-4d21-8cfa-08f15fb0e83d>	.
+Artichoke 0.1 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=6deab9bd-7a81-45ed-8a1c-b833b59b70b8#inv-2e7217f0-7f21-4dd3-b964-85828c3c9fda>	.
+Artichoke 0.1 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=6deab9bd-7a81-45ed-8a1c-b833b59b70b8#inv-38fe9cb8-53db-4bf9-a118-25051734a347>	.
+Artichoke 0.1 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=6deab9bd-7a81-45ed-8a1c-b833b59b70b8#inv-4b6e1172-a2ac-4b06-8039-248b765858f8>	.
+Artichoke 0.1 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=6deab9bd-7a81-45ed-8a1c-b833b59b70b8#inv-663fbd63-aacf-486c-a7b4-3276190f333b>	.
+Artichoke 0.1 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=6deab9bd-7a81-45ed-8a1c-b833b59b70b8#inv-93c763ec-97b5-4e4c-b8cd-4c67e5985138>	.
+Artichoke 0.1 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=6deab9bd-7a81-45ed-8a1c-b833b59b70b8#inv-9e428dcb-5ca9-47e9-bf7b-0d0a089bb05c>	.
+Artichoke 0.1 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=6deab9bd-7a81-45ed-8a1c-b833b59b70b8#inv-a47ecd29-5cab-411e-affb-64b4671af9da>	.
+Artichoke 0.1 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=6deab9bd-7a81-45ed-8a1c-b833b59b70b8#inv-b422716d-1d17-4006-994a-a8ddeb2d8002>	.
+Artichoke 0.1 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=6deab9bd-7a81-45ed-8a1c-b833b59b70b8#inv-ba5d294f-bba8-4ce3-a444-285670a473e4>	.
+Artichoke 0.1 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=6deab9bd-7a81-45ed-8a1c-b833b59b70b8#inv-bcc12b16-eb16-4a93-9c95-0239472adf4e>	.
+Artichoke 0.1 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=6deab9bd-7a81-45ed-8a1c-b833b59b70b8#inv-cf91e1d7-a524-4f53-a3f0-87e3cd59352d>	.
+Artichoke 0.1 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=6deab9bd-7a81-45ed-8a1c-b833b59b70b8#inv-ea5d82ea-dc7e-431d-ab58-cd277ee691ae>	.
+Artichoke 0.1 injectable solution (Consumer product) #2	Manufactured form of	Artichoke 0.1 injectable solution (Biologic Drug Formulation)	.
+Artichoke 0.1 injectable solution (Consumer product) #2	Manufacturer	Nelco Laboratories	.
+Artichoke 0.1 injectable solution (Consumer product) #2	Marketing start date	"1972-08-29"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Artichoke 0.1 injectable solution (Consumer product) #2	NDC Product ID	"36987-1384"	.
+Artichoke 0.1 injectable solution (Consumer product) #2	is-a	Consumer product	.
+Artichoke 0.1 injectable solution (Consumer product) #2	is-a	Manufactured drug form	.
+Artichoke 0.1 injectable solution (Consumer product) #2	is-a	Topic	.
+Artichoke Aegean ringspot virus	Rank	Species (Organism Classification Rank)	.
+Artichoke Aegean ringspot virus	is-a	Organism Classification	.
+Artichoke Aegean ringspot virus	is-a	Topic	.
+Artichoke Ann (Canonical Version)	Length	"220.52"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke Ann (Canonical Version)	Recorded by	Tuco's Lounge	.
+Artichoke Ann (Canonical Version)	Release	Wide Load (Musical Release)	.
+Artichoke Ann (Canonical Version)	is-a	Canonical Version	.
+Artichoke Ann (Canonical Version)	is-a	Musical Recording	.
+Artichoke Ann (Canonical Version)	is-a	Topic	.
+Artichoke Ann (m/0l9q04b)	Recording	Artichoke Ann (Canonical Version)	.
+Artichoke Ann (m/0l9q04b)	Release	Wide Load (Musical Release)	.
+Artichoke Ann (m/0l9q04b)	Track #	"10"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke Ann (m/0l9q04b)	is-a	Release track	.
+Artichoke Ann (m/0l9q04b)	is-a	Topic	.
+Artichoke Extract Intradermal	Route of administration	Intradermal	.
+Artichoke Extract Intradermal	Routed drug of	Artichoke extract	.
+Artichoke Extract Intradermal	is-a	Condition prevention factors	.
+Artichoke Extract Intradermal	is-a	Medical Treatment	.
+Artichoke Extract Intradermal	is-a	Routed drug	.
+Artichoke Extract Intradermal	is-a	Topic	.
+Artichoke Extract Subcutaneous	Route of administration	Subcutaneous injection	.
+Artichoke Extract Subcutaneous	Routed drug of	Artichoke extract	.
+Artichoke Extract Subcutaneous	is-a	Condition prevention factors	.
+Artichoke Extract Subcutaneous	is-a	Medical Treatment	.
+Artichoke Extract Subcutaneous	is-a	Routed drug	.
+Artichoke Extract Subcutaneous	is-a	Topic	.
+Artichoke Extravaganza	Author	Geraldine Duncann	.
+Artichoke Extravaganza	is-a	Book	.
+Artichoke Extravaganza	is-a	Topic	.
+Artichoke Extravaganza	is-a	Written Work	.
+Artichoke Festival	Episode number	"8"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke Festival	Original air date	"2006-06-14"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Artichoke Festival	Previous episode	Cajun Pirate Days	.
+Artichoke Festival	Season	All American Festivals - Season 5	.
+Artichoke Festival	Series	All American Festivals	.
+Artichoke Festival	TVRage Episode ID	"621457"	.
+Artichoke Festival	is-a	TV Episode	.
+Artichoke Festival	is-a	Topic	.
+Artichoke Funk (Musical Recording) #1	Canonical version	Artichoke Funk (Musical Recording) #2	.
+Artichoke Funk (Musical Recording) #1	Length	"252.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke Funk (Musical Recording) #1	Recorded by	Moreno Visini	.
+Artichoke Funk (Musical Recording) #1	Release	Ethno Dance 2000-Special Edition (Musical Release)	.
+Artichoke Funk (Musical Recording) #1	is-a	Musical Recording	.
+Artichoke Funk (Musical Recording) #1	is-a	Topic	.
+Artichoke Funk (Musical Recording) #2	Length	"355.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke Funk (Musical Recording) #2	Recorded by	Moreno Visini	.
+Artichoke Funk (Musical Recording) #2	Release	Jesterized (Compact Disc Musical Release)	.
+Artichoke Funk (Musical Recording) #2	is-a	Canonical Version	.
+Artichoke Funk (Musical Recording) #2	is-a	Musical Recording	.
+Artichoke Funk (Musical Recording) #2	is-a	Topic	.
+Artichoke Funk (m/0ly5xvb)	Recording	Artichoke Funk (Musical Recording) #2	.
+Artichoke Funk (m/0ly5xvb)	Release	Jesterized (Compact Disc Musical Release)	.
+Artichoke Funk (m/0ly5xvb)	Track #	"4"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke Funk (m/0ly5xvb)	is-a	Release track	.
+Artichoke Funk (m/0ly5xvb)	is-a	Topic	.
+Artichoke Funk (m/0mrdvnd)	Recording	Artichoke Funk (Musical Recording) #1	.
+Artichoke Funk (m/0mrdvnd)	Release	Ethno Dance 2000-Special Edition (Musical Release)	.
+Artichoke Funk (m/0mrdvnd)	Track #	"12"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke Funk (m/0mrdvnd)	is-a	Release track	.
+Artichoke Funk (m/0mrdvnd)	is-a	Topic	.
+Artichoke Funk (m/0q60d8q)	Recording	Artichoke Funk (Musical Recording) #1	.
+Artichoke Funk (m/0q60d8q)	Release	Global Lounge Sessions: The Balearic Sound of Ibiza (Compact Disc Musical Release)	.
+Artichoke Funk (m/0q60d8q)	Track #	"3"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke Funk (m/0q60d8q)	is-a	Release track	.
+Artichoke Funk (m/0q60d8q)	is-a	Topic	.
+Artichoke Hearts	Compatible with dietary restriction	Gluten-free diet	.
+Artichoke Hearts	Compatible with dietary restriction	Veganism	.
+Artichoke Hearts	Compatible with dietary restriction	Vegetarian food	.
+Artichoke Hearts	Energy per 100g	"197.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke Hearts	More general ingredient	Vegetable (Ingredient)	.
+Artichoke Hearts	Nutrient per 100g	Alpha-Tocopherol	.
+Artichoke Hearts	Nutrient per 100g	Ash (Nutrient)	.
+Artichoke Hearts	Nutrient per 100g	Beta-carotene	.
+Artichoke Hearts	Nutrient per 100g	Betaine	.
+Artichoke Hearts	Nutrient per 100g	Calcium	.
+Artichoke Hearts	Nutrient per 100g	Carbohydrate	.
+Artichoke Hearts	Nutrient per 100g	Choline	.
+Artichoke Hearts	Nutrient per 100g	Copper	.
+Artichoke Hearts	Nutrient per 100g	Dietary fiber	.
+Artichoke Hearts	Nutrient per 100g	Dietary folate equivalents	.
+Artichoke Hearts	Nutrient per 100g	Folic acid	.
+Artichoke Hearts	Nutrient per 100g	Food folates	.
+Artichoke Hearts	Nutrient per 100g	Iron	.
+Artichoke Hearts	Nutrient per 100g	Lauric acid	.
+Artichoke Hearts	Nutrient per 100g	Linoleic acid	.
+Artichoke Hearts	Nutrient per 100g	Linolenic acid	.
+Artichoke Hearts	Nutrient per 100g	Lipid	.
+Artichoke Hearts	Nutrient per 100g	Lutein & zeaxanthin	.
+Artichoke Hearts	Nutrient per 100g	Magnesium	.
+Artichoke Hearts	Nutrient per 100g	Manganese	.
+Artichoke Hearts	Nutrient per 100g	Monounsaturated fat	.
+Artichoke Hearts	Nutrient per 100g	Myristic acid	.
+Artichoke Hearts	Nutrient per 100g	Niacin	.
+Artichoke Hearts	Nutrient per 100g	Oleic acid	.
+Artichoke Hearts	Nutrient per 100g	Palmitic acid	.
+Artichoke Hearts	Nutrient per 100g	Pantothenic acid	.
+Artichoke Hearts	Nutrient per 100g	Phosphorus	.
+Artichoke Hearts	Nutrient per 100g	Phytonadione	.
+Artichoke Hearts	Nutrient per 100g	Polyunsaturated fat	.
+Artichoke Hearts	Nutrient per 100g	Potassium	.
+Artichoke Hearts	Nutrient per 100g	Protein (Nutrient)	.
+Artichoke Hearts	Nutrient per 100g	Retinol Activity Equivalents	.
+Artichoke Hearts	Nutrient per 100g	Riboflavin	.
+Artichoke Hearts	Nutrient per 100g	Saturated fat	.
+Artichoke Hearts	Nutrient per 100g	Selenium	.
+Artichoke Hearts	Nutrient per 100g	Sodium	.
+Artichoke Hearts	Nutrient per 100g	Stearic acid	.
+Artichoke Hearts	Nutrient per 100g	Sugar	.
+Artichoke Hearts	Nutrient per 100g	Thiamine	.
+Artichoke Hearts	Nutrient per 100g	Vitamin A	.
+Artichoke Hearts	Nutrient per 100g	Vitamin B-6	.
+Artichoke Hearts	Nutrient per 100g	Vitamin C	.
+Artichoke Hearts	Nutrient per 100g	Water	.
+Artichoke Hearts	Nutrient per 100g	Zinc	.
+Artichoke Hearts	USDA Equivalent	"11007"	.
+Artichoke Hearts	is-a	Food	.
+Artichoke Hearts	is-a	Ingredient	.
+Artichoke Hearts	is-a	Topic	.
+Artichoke Hearts	is-a	Vegetable	.
+Artichoke Hearts (Musical Recording)	Recorded by	Stratageme	.
+Artichoke Hearts (Musical Recording)	Release	Recession (Musical Release)	.
+Artichoke Hearts (Musical Recording)	is-a	Canonical Version	.
+Artichoke Hearts (Musical Recording)	is-a	Musical Recording	.
+Artichoke Hearts (Musical Recording)	is-a	Topic	.
+Artichoke Hearts (m/0myn1wx)	Recording	Artichoke Hearts (Musical Recording)	.
+Artichoke Hearts (m/0myn1wx)	Release	Recession (Musical Release)	.
+Artichoke Hearts (m/0myn1wx)	Track #	"4"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke Hearts (m/0myn1wx)	is-a	Release track	.
+Artichoke Hearts (m/0myn1wx)	is-a	Topic	.
+Artichoke Italian latent virus	Rank	Species (Organism Classification Rank)	.
+Artichoke Italian latent virus	is-a	Organism Classification	.
+Artichoke Italian latent virus	is-a	Topic	.
+Artichoke Man (Canonical Version)	Length	"2000.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke Man (Canonical Version)	Recorded by	Crutch (Musical Artist)	.
+Artichoke Man (Canonical Version)	Release	Sold By Weight (Musical Release)	.
+Artichoke Man (Canonical Version)	is-a	Canonical Version	.
+Artichoke Man (Canonical Version)	is-a	Musical Recording	.
+Artichoke Man (Canonical Version)	is-a	Topic	.
+Artichoke Man (m/0kwqxd_)	Recording	Artichoke Man (Canonical Version)	.
+Artichoke Man (m/0kwqxd_)	Release	Sold By Weight (Musical Release)	.
+Artichoke Man (m/0kwqxd_)	Track #	"10"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke Man (m/0kwqxd_)	is-a	Release track	.
+Artichoke Man (m/0kwqxd_)	is-a	Topic	.
+Artichoke Ocean Fields (Musical Recording) #1	Canonical version	Artichoke Ocean Fields (Musical Recording) #2	.
+Artichoke Ocean Fields (Musical Recording) #1	Length	"342.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke Ocean Fields (Musical Recording) #1	Recorded by	Rich Vreeland	.
+Artichoke Ocean Fields (Musical Recording) #1	Release	The Chronicles of Jammage the Jam Mage (Musical Release)	.
+Artichoke Ocean Fields (Musical Recording) #1	is-a	Musical Recording	.
+Artichoke Ocean Fields (Musical Recording) #1	is-a	Topic	.
+Artichoke Ocean Fields (Musical Recording) #2	Length	"340.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke Ocean Fields (Musical Recording) #2	Recorded by	Rich Vreeland	.
+Artichoke Ocean Fields (Musical Recording) #2	Release	The Chronicles of Jammage the Jam Mage (Digital media Musical Release)	.
+Artichoke Ocean Fields (Musical Recording) #2	is-a	Canonical Version	.
+Artichoke Ocean Fields (Musical Recording) #2	is-a	Musical Recording	.
+Artichoke Ocean Fields (Musical Recording) #2	is-a	Topic	.
+Artichoke Ocean Fields (m/0kk795r)	Recording	Artichoke Ocean Fields (Musical Recording) #1	.
+Artichoke Ocean Fields (m/0kk795r)	Release	The Chronicles of Jammage the Jam Mage (Musical Release)	.
+Artichoke Ocean Fields (m/0kk795r)	Track #	"3"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke Ocean Fields (m/0kk795r)	is-a	Release track	.
+Artichoke Ocean Fields (m/0kk795r)	is-a	Topic	.
+Artichoke Ocean Fields (m/0l9r0qz)	Recording	Artichoke Ocean Fields (Musical Recording) #2	.
+Artichoke Ocean Fields (m/0l9r0qz)	Release	The Chronicles of Jammage the Jam Mage (Digital media Musical Release)	.
+Artichoke Ocean Fields (m/0l9r0qz)	Track #	"3"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke Ocean Fields (m/0l9r0qz)	is-a	Release track	.
+Artichoke Ocean Fields (m/0l9r0qz)	is-a	Topic	.
+Artichoke Ocean Fields (m/0v_ws00)	Recording	Artichoke Ocean Fields (Musical Recording) #1	.
+Artichoke Ocean Fields (m/0v_ws00)	Release	The Chronicles of Jammage the Jam Mage (Digital media Musical Release)	.
+Artichoke Ocean Fields (m/0v_ws00)	Track #	"4"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke Ocean Fields (m/0v_ws00)	is-a	Release track	.
+Artichoke Ocean Fields (m/0v_ws00)	is-a	Topic	.
+Artichoke Perfume (Consumer product)	Credited A	"Zoë Boekbinder"	.
+Artichoke Perfume (Consumer product)	GTIN	"00694220395123"	.
+Artichoke Perfume (Consumer product)	Region	United States of America	.
+Artichoke Perfume (Consumer product)	Release Date	"2009"^^<http://www.w3.org/2001/XMLSchema#gYear>	.
+Artichoke Perfume (Consumer product)	Release of	Artichoke Perfume (Musical Album)	.
+Artichoke Perfume (Consumer product)	is-a	Consumer product	.
+Artichoke Perfume (Consumer product)	is-a	Creative Work	.
+Artichoke Perfume (Consumer product)	is-a	Musical Release	.
+Artichoke Perfume (Consumer product)	is-a	Topic	.
+Artichoke Perfume (Musical Album)	Artist	Zoë Boekbinder	.
+Artichoke Perfume (Musical Album)	Initial release date	"2009"^^<http://www.w3.org/2001/XMLSchema#gYear>	.
+Artichoke Perfume (Musical Album)	Primary release	Artichoke Perfume (Consumer product)	.
+Artichoke Perfume (Musical Album)	Release type	Album	.
+Artichoke Perfume (Musical Album)	is-a	Musical Album	.
+Artichoke Perfume (Musical Album)	is-a	Topic	.
+Artichoke Pie	Episode number	"13"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke Pie	Original air date	"1999-02-05"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Artichoke Pie	Previous episode	Home Sweet Home (TV Episode) #18	.
+Artichoke Pie	Season	Black Harbour - Season 3	.
+Artichoke Pie	Season number	"3"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke Pie	Series	Black Harbour	.
+Artichoke Pie	TVRage Episode ID	"286088"	.
+Artichoke Pie	is-a	TV Episode	.
+Artichoke Pie	is-a	Topic	.
+Artichoke Records	is-a	Business Operation	.
+Artichoke Records	is-a	Organisation	.
+Artichoke Records	is-a	Record label	.
+Artichoke Records	is-a	Topic	.
+Artichoke River	Contained by	Americas	.
+Artichoke River	Contained by	Contiguous United States	.
+Artichoke River	Contained by	Continental United States	.
+Artichoke River	Contained by	DVD Region 1	.
+Artichoke River	Contained by	Minnesota	.
+Artichoke River	Contained by	North America	.
+Artichoke River	Contained by	Northern Hemisphere	.
+Artichoke River	Contained by	United States of America	.
+Artichoke River	Contained by	United States, with Territories	.
+Artichoke River	Contained by	Western Hemisphere	.
+Artichoke River	is-a	Body Of Water	.
+Artichoke River	is-a	Geographical Feature	.
+Artichoke River	is-a	Location	.
+Artichoke River	is-a	River	.
+Artichoke River	is-a	Topic	.
+Artichoke Samurai (Musical Recording)	Length	"356.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke Samurai (Musical Recording)	is-a	Musical Recording	.
+Artichoke Samurai (Musical Recording)	is-a	Topic	.
+Artichoke Samurai (m/0nq_brw)	Recording	Artichoke Samurai (Musical Recording)	.
+Artichoke Samurai (m/0nq_brw)	Release	Guitars That Ate My Brain	.
+Artichoke Samurai (m/0nq_brw)	Track #	"6"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke Samurai (m/0nq_brw)	is-a	Release track	.
+Artichoke Samurai (m/0nq_brw)	is-a	Topic	.
+Artichoke Sandwich Bar	Contained by	Americas	.
+Artichoke Sandwich Bar	Contained by	Area code 316	.
+Artichoke Sandwich Bar	Contained by	Contiguous United States	.
+Artichoke Sandwich Bar	Contained by	Continental United States	.
+Artichoke Sandwich Bar	Contained by	DVD Region 1	.
+Artichoke Sandwich Bar	Contained by	Kansas	.
+Artichoke Sandwich Bar	Contained by	Midwestern United States	.
+Artichoke Sandwich Bar	Contained by	North America	.
+Artichoke Sandwich Bar	Contained by	Northern Hemisphere	.
+Artichoke Sandwich Bar	Contained by	Sedgwick County	.
+Artichoke Sandwich Bar	Contained by	United States of America	.
+Artichoke Sandwich Bar	Contained by	United States, with Territories	.
+Artichoke Sandwich Bar	Contained by	Western Hemisphere	.
+Artichoke Sandwich Bar	Contained by	Wichita	.
+Artichoke Sandwich Bar	Contained by	Wichita, KS Metropolitan Statistical Area	.
+Artichoke Sandwich Bar	is-a	Building	.
+Artichoke Sandwich Bar	is-a	Location	.
+Artichoke Sandwich Bar	is-a	Project focus	.
+Artichoke Sandwich Bar	is-a	Structure	.
+Artichoke Sandwich Bar	is-a	Topic	.
+Artichoke Sandwich Bar	is-a	Venue	.
+Artichoke Song (Canonical Version)	Recorded by	Peter Buckley Hill	.
+Artichoke Song (Canonical Version)	is-a	Canonical Version	.
+Artichoke Song (Canonical Version)	is-a	Musical Recording	.
+Artichoke Song (Canonical Version)	is-a	Topic	.
+Artichoke Song (m/0y8r5ll)	Recording	Artichoke Song (Canonical Version)	.
+Artichoke Song (m/0y8r5ll)	Release	Tubular Brains (Compact Disc Musical Release)	.
+Artichoke Song (m/0y8r5ll)	Track #	"12"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke Song (m/0y8r5ll)	is-a	Release track	.
+Artichoke Song (m/0y8r5ll)	is-a	Topic	.
+Artichoke Song (m/0yb6t86)	Recording	Artichoke Song (Canonical Version)	.
+Artichoke Song (m/0yb6t86)	Release	Tubular Brains (Compact Cassette Musical Release)	.
+Artichoke Song (m/0yb6t86)	Track #	"12"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke Song (m/0yb6t86)	is-a	Release track	.
+Artichoke Song (m/0yb6t86)	is-a	Topic	.
+Artichoke Township	Area	"92.203576728"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke Township	Contained by	Americas	.
+Artichoke Township	Contained by	Big Stone County	.
+Artichoke Township	Contained by	Contiguous United States	.
+Artichoke Township	Contained by	Continental United States	.
+Artichoke Township	Contained by	DVD Region 1	.
+Artichoke Township	Contained by	Minnesota	.
+Artichoke Township	Contained by	North America	.
+Artichoke Township	Contained by	Northern Hemisphere	.
+Artichoke Township	Contained by	United States of America	.
+Artichoke Township	Contained by	United States, with Territories	.
+Artichoke Township	Contained by	Western Hemisphere	.
+Artichoke Township	Time zone(s)	Central Time Zone	.
+Artichoke Township	is-a	City/Town/Village	.
+Artichoke Township	is-a	Dated location	.
+Artichoke Township	is-a	Location	.
+Artichoke Township	is-a	Statistical region	.
+Artichoke Township	is-a	Topic	.
+Artichoke and Cauliflowers (Canonical Version)	Length	"97.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichoke and Cauliflowers (Canonical Version)	Recorded by	Danny Spooner	.
+Artichoke and Cauliflowers (Canonical Version)	is-a	Canonical Version	.
+Artichoke and Cauliflowers (Canonical Version)	is-a	Musical Recording	.
+Artichoke and Cauliflowers (Canonical Version)	is-a	Topic	.
+Artichoke and Cauliflowers (m/0xl3d1q)	Recording	Artichoke and Cauliflowers (Canonical Version)	.
+Artichoke and Cauliflowers (m/0xl3d1q)	Release	Gorgeous, Game Girls (Musical Release)	.
+Artichoke and Cauliflowers (m/0xl3d1q)	Track #	"10"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichoke and Cauliflowers (m/0xl3d1q)	is-a	Release track	.
+Artichoke and Cauliflowers (m/0xl3d1q)	is-a	Topic	.
+Artichoke and Other Poems	Author	Phyllis Thompson	.
+Artichoke and Other Poems	is-a	Book	.
+Artichoke and Other Poems	is-a	Topic	.
+Artichoke and Other Poems	is-a	Written Work	.
+Artichoke extract	Active moiety	Artichoke	.
+Artichoke extract	Legal status	Prescription drug	.
+Artichoke extract	is-a	Drug	.
+Artichoke extract	is-a	Topic	.
+Artichoke latent virus	is-a	Organism Classification	.
+Artichoke latent virus	is-a	Topic	.
+Artichoke mottled crinkle virus	is-a	Organism Classification	.
+Artichoke mottled crinkle virus	is-a	Topic	.
+Artichoke on Linen	Author	Sta-Kris Inc	.
+Artichoke on Linen	is-a	Book	.
+Artichoke on Linen	is-a	Topic	.
+Artichoke on Linen	is-a	Written Work	.
+Artichoke to Za'atar (Cookbook)	Author	Greg Malouf	.
+Artichoke to Za'atar (Cookbook)	Author	Lucy Malouf	.
+Artichoke to Za'atar (Cookbook)	Date of first publication	"2008-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>	.
+Artichoke to Za'atar (Cookbook)	Genre	Cookbook	.
+Artichoke to Za'atar (Cookbook)	Subject	Cooking	.
+Artichoke to Za'atar (Cookbook)	is-a	Book	.
+Artichoke to Za'atar (Cookbook)	is-a	Topic	.
+Artichoke to Za'atar (Cookbook)	is-a	Written Work	.
+Artichoke to Za'atar (Hardcover)	Binding/format	Hardcover	.
+Artichoke to Za'atar (Hardcover)	Edition Of	Artichoke to Za'atar (Cookbook)	.
+Artichoke to Za'atar (Hardcover)	ISBN	9780520254138	.
+Artichoke to Za'atar (Hardcover)	ISBN (Old Property)	"9780520254138"@en	.
+Artichoke to Za'atar (Hardcover)	ISBN-13	"9780520254138"	.
+Artichoke to Za'atar (Hardcover)	OpenLibrary ID	"OL10434987M"	.
+Artichoke to Za'atar (Hardcover)	Publication date	"2008-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>	.
+Artichoke to Za'atar (Hardcover)	Publisher	University of California Press	.
+Artichoke to Za'atar (Hardcover)	is-a	Book Edition	.
+Artichoke to Za'atar (Hardcover)	is-a	Cataloged instance	.
+Artichoke to Za'atar (Hardcover)	is-a	Topic	.
+Artichoke yellow ringspot virus	Rank	Species (Organism Classification Rank)	.
+Artichoke yellow ringspot virus	is-a	Organism Classification	.
+Artichoke yellow ringspot virus	is-a	Topic	.
+Artichokes & Nasturtiums	Artist	Manny Farber	.
+Artichokes & Nasturtiums	is-a	Artwork	.
+Artichokes & Nasturtiums	is-a	Topic	.
+Artichokes (Musical Recording) #1	Length	"175.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichokes (Musical Recording) #1	Recorded by	Maps And Atlases	.
+Artichokes (Musical Recording) #1	Release	You and Me and the Mountain (Compact Disc Musical Release)	.
+Artichokes (Musical Recording) #1	Release	You and Me and the Mountain (Digital media Musical Release)	.
+Artichokes (Musical Recording) #1	is-a	Canonical Version	.
+Artichokes (Musical Recording) #1	is-a	Musical Recording	.
+Artichokes (Musical Recording) #1	is-a	Topic	.
+Artichokes (Musical Recording) #2	Length	"205.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Artichokes (Musical Recording) #2	Recorded by	Steve Goldberg and the Arch Enemies (Musical Group)	.
+Artichokes (Musical Recording) #2	Release	Steve Goldberg and the Arch Enemies (Compact Disc Musical Release)	.
+Artichokes (Musical Recording) #2	is-a	Canonical Version	.
+Artichokes (Musical Recording) #2	is-a	Musical Recording	.
+Artichokes (Musical Recording) #2	is-a	Topic	.
+Artichokes (m/0mffrx7)	Recording	Artichokes (Musical Recording) #1	.
+Artichokes (m/0mffrx7)	Release	You and Me and the Mountain (Digital media Musical Release)	.
+Artichokes (m/0mffrx7)	Track #	"2"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichokes (m/0mffrx7)	is-a	Release track	.
+Artichokes (m/0mffrx7)	is-a	Topic	.
+Artichokes (m/0mgmsmz)	Recording	Artichokes (Musical Recording) #1	.
+Artichokes (m/0mgmsmz)	Release	You and Me and the Mountain (Compact Disc Musical Release)	.
+Artichokes (m/0mgmsmz)	Track #	"2"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichokes (m/0mgmsmz)	is-a	Release track	.
+Artichokes (m/0mgmsmz)	is-a	Topic	.
+Artichokes (m/0msmdz3)	Recording	Artichokes (Musical Recording) #2	.
+Artichokes (m/0msmdz3)	Release	Steve Goldberg and the Arch Enemies (Compact Disc Musical Release)	.
+Artichokes (m/0msmdz3)	Track #	"8"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichokes (m/0msmdz3)	is-a	Release track	.
+Artichokes (m/0msmdz3)	is-a	Topic	.
+Artichokes From Top To Bottom (TV Episode) #1	Episode number	"12"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichokes From Top To Bottom (TV Episode) #1	Season	The French Chef - Season 2	.
+Artichokes From Top To Bottom (TV Episode) #1	Season number	"2"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichokes From Top To Bottom (TV Episode) #1	Series	The French Chef	.
+Artichokes From Top To Bottom (TV Episode) #1	is-a	TV Episode	.
+Artichokes From Top To Bottom (TV Episode) #1	is-a	Topic	.
+Artichokes From Top To Bottom (TV Episode) #2	Episode number	"12"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichokes From Top To Bottom (TV Episode) #2	Season	The French Chef - Season 2	.
+Artichokes From Top To Bottom (TV Episode) #2	Season number	"2"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichokes From Top To Bottom (TV Episode) #2	Series	The French Chef	.
+Artichokes From Top To Bottom (TV Episode) #2	is-a	TV Episode	.
+Artichokes From Top To Bottom (TV Episode) #2	is-a	Topic	.
+Artichokes Will Grow in Mimongo	Country of origin	Italy	.
+Artichokes Will Grow in Mimongo	Directed by	Fulvio Ottaviano	.
+Artichokes Will Grow in Mimongo	Film festival	1997 Karlovy Vary International Film Festival	.
+Artichokes Will Grow in Mimongo	Film festival	1998 Berlin International Film Festival	.
+Artichokes Will Grow in Mimongo	Genre	Comedy	.
+Artichokes Will Grow in Mimongo	Initial release date	"1996"^^<http://www.w3.org/2001/XMLSchema#gYear>	.
+Artichokes Will Grow in Mimongo	Language	Italian Language	.
+Artichokes Will Grow in Mimongo	Produced by	Francesco Ranieri Martinotti	.
+Artichokes Will Grow in Mimongo	Produced by	Laurentina Guidotti	.
+Artichokes Will Grow in Mimongo	Title ID	"tt0115970"	.
+Artichokes Will Grow in Mimongo	is-a	Award-Nominated Work	.
+Artichokes Will Grow in Mimongo	is-a	Award-Winning Work	.
+Artichokes Will Grow in Mimongo	is-a	Film	.
+Artichokes Will Grow in Mimongo	is-a	Topic	.
+Artichokes: Spanning the Globe	Author	Russ Parsons	.
+Artichokes: Spanning the Globe	Date of first publication	"1995-03-09"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Artichokes: Spanning the Globe	Mode Of Writing	Article	.
+Artichokes: Spanning the Globe	Published In	Los Angeles Times	.
+Artichokes: The Choke is On You	Episode number	"3"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichokes: The Choke is On You	Original air date	"2002-07-10"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Artichokes: The Choke is On You	Previous episode	Strawberry Sky	.
+Artichokes: The Choke is On You	Production number	"EA1F02"	.
+Artichokes: The Choke is On You	Season	Good Eats - Season 6	.
+Artichokes: The Choke is On You	Season number	"6"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Artichokes: The Choke is On You	Series	Good Eats	.
+Artichokes: The Choke is On You	TVRage Episode ID	"277729"	.
+Artichokes: The Choke is On You	is-a	TV Episode	.
+Artichokes: The Choke is On You	is-a	Topic	.

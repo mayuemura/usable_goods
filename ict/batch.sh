@@ -11,7 +11,7 @@ python PRF.py log_file_5.txt
 
 python PRF.py log_file_10.txt
 
-#~okazaki/local/bin/crfsuite learn -a ap -g387 -x -p max_iterations=20 train_lmtd.f > log_file_387.txt
+~okazaki/local/bin/crfsuite learn -a ap -g387 -x -p max_iterations=20 train_lmtd.f > log_file_387.txt
 
 python PRF.py log_file_387.txt
 

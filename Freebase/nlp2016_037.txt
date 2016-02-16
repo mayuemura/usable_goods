@@ -1,0 +1,76 @@
+Probiotic (Consumer product)	Credited A	"Okular"	.
+Probiotic (Consumer product)	Format	Compact disc	.
+Probiotic (Consumer product)	GTIN	"07090014381823"	.
+Probiotic (Consumer product)	Region	Norway	.
+Probiotic (Consumer product)	Release Date	"2011"^^<http://www.w3.org/2001/XMLSchema#gYear>	.
+Probiotic (Consumer product)	Release of	Probiotic (Musical Album)	.
+Probiotic (Consumer product)	is-a	Consumer product	.
+Probiotic (Consumer product)	is-a	Creative Work	.
+Probiotic (Consumer product)	is-a	Musical Release	.
+Probiotic (Consumer product)	is-a	Topic	.
+Probiotic (For Life) (Canonical Version)	Length	"301.32"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Probiotic (For Life) (Canonical Version)	Recorded by	m/0nhbrfq	.
+Probiotic (For Life) (Canonical Version)	is-a	Canonical Version	.
+Probiotic (For Life) (Canonical Version)	is-a	Musical Recording	.
+Probiotic (For Life) (Canonical Version)	is-a	Topic	.
+Probiotic (For Life) (m/0nr8l98)	Recording	Probiotic (For Life) (Canonical Version)	.
+Probiotic (For Life) (m/0nr8l98)	Release	Probiotic (Consumer product)	.
+Probiotic (For Life) (m/0nr8l98)	Track #	"2"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Probiotic (For Life) (m/0nr8l98)	is-a	Release track	.
+Probiotic (For Life) (m/0nr8l98)	is-a	Topic	.
+Probiotic (Musical Album)	Artist	m/0nhbrfq	.
+Probiotic (Musical Album)	Initial release date	"2011"^^<http://www.w3.org/2001/XMLSchema#gYear>	.
+Probiotic (Musical Album)	Primary release	Probiotic (Consumer product)	.
+Probiotic (Musical Album)	Release type	Album	.
+Probiotic (Musical Album)	is-a	Musical Album	.
+Probiotic (Musical Album)	is-a	Topic	.
+Probiotic (Consumer product)	Credited A	"Okular"	.
+Probiotic (Consumer product)	Format	Compact disc	.
+Probiotic (Consumer product)	GTIN	"07090014381823"	.
+Probiotic (Consumer product)	Region	Norway	.
+Probiotic (Consumer product)	Release Date	"2011"^^<http://www.w3.org/2001/XMLSchema#gYear>	.
+Probiotic (Consumer product)	Release of	Probiotic (Musical Album)	.
+Probiotic (Consumer product)	is-a	Consumer product	.
+Probiotic (Consumer product)	is-a	Creative Work	.
+Probiotic (Consumer product)	is-a	Musical Release	.
+Probiotic (Consumer product)	is-a	Topic	.
+Probiotic (For Life) (Canonical Version)	Length	"301.32"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Probiotic (For Life) (Canonical Version)	Recorded by	m/0nhbrfq	.
+Probiotic (For Life) (Canonical Version)	is-a	Canonical Version	.
+Probiotic (For Life) (Canonical Version)	is-a	Musical Recording	.
+Probiotic (For Life) (Canonical Version)	is-a	Topic	.
+Probiotic (For Life) (m/0nr8l98)	Recording	Probiotic (For Life) (Canonical Version)	.
+Probiotic (For Life) (m/0nr8l98)	Release	Probiotic (Consumer product)	.
+Probiotic (For Life) (m/0nr8l98)	Track #	"2"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Probiotic (For Life) (m/0nr8l98)	is-a	Release track	.
+Probiotic (For Life) (m/0nr8l98)	is-a	Topic	.
+Probiotic (Musical Album)	Artist	m/0nhbrfq	.
+Probiotic (Musical Album)	Initial release date	"2011"^^<http://www.w3.org/2001/XMLSchema#gYear>	.
+Probiotic (Musical Album)	Primary release	Probiotic (Consumer product)	.
+Probiotic (Musical Album)	Release type	Album	.
+Probiotic (Musical Album)	is-a	Musical Album	.
+Probiotic (Musical Album)	is-a	Topic	.
+Probiotica (TV Episode) #1	Episode number	"8"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Probiotica (TV Episode) #1	Original air date	"2007-12-13"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Probiotica (TV Episode) #1	Previous episode	Pannenkoek (TV Episode) #1	.
+Probiotica (TV Episode) #1	Season	Keuringsdienst van Waarde - Season 5	.
+Probiotica (TV Episode) #1	Season number	"5"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Probiotica (TV Episode) #1	Series	Keuringsdienst van Waarde	.
+Probiotica (TV Episode) #1	TVRage Episode ID	"744139"	.
+Probiotica (TV Episode) #1	is-a	TV Episode	.
+Probiotica (TV Episode) #1	is-a	Topic	.
+Probiotica (TV Episode) #2	Episode number	"3"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Probiotica (TV Episode) #2	Original air date	"2010-01-21"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Probiotica (TV Episode) #2	Season	Keuringsdienst van Waarde - Season 8	.
+Probiotica (TV Episode) #2	Season number	"8"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Probiotica (TV Episode) #2	Series	Keuringsdienst van Waarde	.
+Probiotica (TV Episode) #2	is-a	TV Episode	.
+Probiotica (TV Episode) #2	is-a	Topic	.
+Probiotics How Live Yogurt and Other Frien	Author	Leon Chaitow	.
+Probiotics How Live Yogurt and Other Frien	is-a	Book	.
+Probiotics How Live Yogurt and Other Frien	is-a	Topic	.
+Probiotics How Live Yogurt and Other Frien	is-a	Written Work	.
+Probiotics in Food	Author	Food and Agriculture Organization	.
+Probiotics in Food	is-a	Book	.
+Probiotics in Food	is-a	Topic	.
+Probiotics in Food	is-a	Written Work	.

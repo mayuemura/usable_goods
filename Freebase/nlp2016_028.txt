@@ -1,0 +1,115 @@
+Lipase Inhibitor	is-a	Drug mechanism of action	.
+Lipase Inhibitor	is-a	Topic	.
+lipase A, lysosomal acid, cholesterol esterase (Wolman disease)	Alternate Symbol	"CESD"	.
+lipase A, lysosomal acid, cholesterol esterase (Wolman disease)	Alternate Symbol	"LAL"	.
+lipase A, lysosomal acid, cholesterol esterase (Wolman disease)	Chromosome	Chromosome 10 (human)	.
+lipase A, lysosomal acid, cholesterol esterase (Wolman disease)	Genome	Human genome	.
+lipase A, lysosomal acid, cholesterol esterase (Wolman disease)	Locus	10 - [90963308,91001639]	.
+lipase A, lysosomal acid, cholesterol esterase (Wolman disease)	NCBI ID	"3988"	.
+lipase A, lysosomal acid, cholesterol esterase (Wolman disease)	Symbol	"LIPA"	.
+lipase A, lysosomal acid, cholesterol esterase (Wolman disease)	is-a	Gene	.
+lipase A, lysosomal acid, cholesterol esterase (Wolman disease)	is-a	Topic	.
+lipase B, lysosomal acid	Genome	Human genome	.
+lipase B, lysosomal acid	NCBI ID	"3989"	.
+lipase B, lysosomal acid	Symbol	"LIPB"	.
+lipase B, lysosomal acid	is-a	Gene	.
+lipase B, lysosomal acid	is-a	Topic	.
+lipase activity	Broader Group	carboxylic ester hydrolase activity	.
+lipase activity	Data Source	m/02l1vmn	.
+lipase activity	Description	"Catalysis of the hydrolysis of a lipid or phospholipid."@en	.
+lipase activity	Gene	arylacetamide deacetylase (esterase)	.
+lipase activity	Gene	estA (Gene) #3	.
+lipase activity	Gene	phaD	.
+lipase activity	Gene	phospholipase B1	.
+lipase activity	Group Type	Molecular function	.
+lipase activity	Identifier	"GO:0016298"	.
+lipase activity	is-a	Gene Group	.
+lipase activity	is-a	Gene Ontology Group	.
+lipase activity	is-a	Topic	.
+lipase, endothelial	Alternate Symbol	"EDL"	.
+lipase, endothelial	Alternate Symbol	"EL"	.
+lipase, endothelial	Alternate Symbol	"PRO719"	.
+lipase, endothelial	Chromosome	Chromosome 18 (human)	.
+lipase, endothelial	Genome	Human genome	.
+lipase, endothelial	Locus	18 + [45342424,45373275]	.
+lipase, endothelial	NCBI ID	"9388"	.
+lipase, endothelial	Symbol	"LIPG"	.
+lipase, endothelial	is-a	Gene	.
+lipase, endothelial	is-a	Topic	.
+lipase, gastric	Alternate Symbol	"GL"	.
+lipase, gastric	Alternate Symbol	"HGL"	.
+lipase, gastric	Alternate Symbol	"HLAL"	.
+lipase, gastric	Alternate Symbol	"MGC138477"	.
+lipase, gastric	Alternate Symbol	"MGC142271"	.
+lipase, gastric	Chromosome	Chromosome 10 (human)	.
+lipase, gastric	Genome	Human genome	.
+lipase, gastric	Locus	10 + [90414195,90428541]	.
+lipase, gastric	NCBI ID	"8513"	.
+lipase, gastric	Symbol	"LIPF"	.
+lipase, gastric	is-a	Gene	.
+lipase, gastric	is-a	Topic	.
+lipase, hepatic	Alternate Symbol	"HL"	.
+lipase, hepatic	Alternate Symbol	"HTGL"	.
+lipase, hepatic	Alternate Symbol	"LIPH"	.
+lipase, hepatic	Chromosome	Chromosome 15 (human)	.
+lipase, hepatic	Genome	Human genome	.
+lipase, hepatic	Locus	15 + [56511466,56648363]	.
+lipase, hepatic	NCBI ID	"3990"	.
+lipase, hepatic	Symbol	"LIPC"	.
+lipase, hepatic	is-a	Gene	.
+lipase, hepatic	is-a	Topic	.
+lipase, hormone-sensitive	Alternate Symbol	"HSL"	.
+lipase, hormone-sensitive	Alternate Symbol	"LHS"	.
+lipase, hormone-sensitive	Chromosome	Chromosome 19 (human)	.
+lipase, hormone-sensitive	Genome	Human genome	.
+lipase, hormone-sensitive	Locus	19 - [47597505,47623417]	.
+lipase, hormone-sensitive	NCBI ID	"3991"	.
+lipase, hormone-sensitive	Symbol	"LIPE"	.
+lipase, hormone-sensitive	is-a	Gene	.
+lipase, hormone-sensitive	is-a	Topic	.
+lipase, member H	Alternate Symbol	"PLA1B"	.
+lipase, member H	Alternate Symbol	"mPA-PLA1 alpha"	.
+lipase, member H	Alternate Symbol	"mPA-PLA1"	.
+lipase, member H	Chromosome	Chromosome 3 (human)	.
+lipase, member H	Genome	Human genome	.
+lipase, member H	Locus	3 - [186708263,186753062]	.
+lipase, member H	NCBI ID	"200879"	.
+lipase, member H	Symbol	"LIPH"	.
+lipase, member H	is-a	Gene	.
+lipase, member H	is-a	Topic	.
+lipase, member I	Alternate Symbol	"LPDL"	.
+lipase, member I	Alternate Symbol	"PRED5"	.
+lipase, member I	Chromosome	Chromosome 21 (human)	.
+lipase, member I	Genome	Human genome	.
+lipase, member I	Locus	21 - [14403004,14501124]	.
+lipase, member I	NCBI ID	"149998"	.
+lipase, member I	Symbol	"LIPI"	.
+lipase, member I	is-a	Gene	.
+lipase, member I	is-a	Topic	.
+lipase-like, ab-hydrolase domain containing 1	Alternate Symbol	"FLJ11218"	.
+lipase-like, ab-hydrolase domain containing 1	Alternate Symbol	"bA425M17.2"	.
+lipase-like, ab-hydrolase domain containing 1	Chromosome	Chromosome 10 (human)	.
+lipase-like, ab-hydrolase domain containing 1	Genome	Human genome	.
+lipase-like, ab-hydrolase domain containing 1	Locus	10 + [90336498,90356711]	.
+lipase-like, ab-hydrolase domain containing 1	NCBI ID	"142910"	.
+lipase-like, ab-hydrolase domain containing 1	Symbol	"LIPL1"	.
+lipase-like, ab-hydrolase domain containing 1	is-a	Gene	.
+lipase-like, ab-hydrolase domain containing 1	is-a	Topic	.
+lipase-like, ab-hydrolase domain containing 2	Alternate Symbol	"bA186O14.2"	.
+lipase-like, ab-hydrolase domain containing 2	Genome	Human genome	.
+lipase-like, ab-hydrolase domain containing 2	NCBI ID	"643414"	.
+lipase-like, ab-hydrolase domain containing 2	Symbol	"LIPL2"	.
+lipase-like, ab-hydrolase domain containing 2	is-a	Gene	.
+lipase-like, ab-hydrolase domain containing 2	is-a	Topic	.
+lipase-like, ab-hydrolase domain containing 3	Alternate Symbol	"bA304I5.1"	.
+lipase-like, ab-hydrolase domain containing 3	Genome	Human genome	.
+lipase-like, ab-hydrolase domain containing 3	NCBI ID	"340654"	.
+lipase-like, ab-hydrolase domain containing 3	Symbol	"LIPL3"	.
+lipase-like, ab-hydrolase domain containing 3	is-a	Gene	.
+lipase-like, ab-hydrolase domain containing 3	is-a	Topic	.
+lipase-like, ab-hydrolase domain containing 4	Alternate Symbol	"bA186O14.3"	.
+lipase-like, ab-hydrolase domain containing 4	Genome	Human genome	.
+lipase-like, ab-hydrolase domain containing 4	NCBI ID	"643418"	.
+lipase-like, ab-hydrolase domain containing 4	Symbol	"LIPL4"	.
+lipase-like, ab-hydrolase domain containing 4	is-a	Gene	.
+lipase-like, ab-hydrolase domain containing 4	is-a	Topic	.

@@ -1,0 +1,91 @@
+Flavonoid	is-a	Chemical Classification	.
+Flavonoid	is-a	Phytochemical	.
+Flavonoid	is-a	Topic	.
+Flavonoid	is-a	Chemical Classification	.
+Flavonoid	is-a	Phytochemical	.
+Flavonoid	is-a	Topic	.
+Flavonoid vs Flavonoid	Left guid	"9202a8c04000641f80000000001b5eab"	.
+Flavonoid vs Flavonoid	Right guid	"9202a8c04000641f800000000917e47e"	.
+Flavonoid vs Flavonoid	Status	closed (m/03p3rv7)	.
+Flavonoid vs Flavonoid	Vote	m/08nk0mt	.
+Flavonoid vs Flavonoid	Vote	m/08nmdx_	.
+Flavonoid vs Flavonoid	Vote	m/08tj05p	.
+Flavonoid vs Flavonoid	is-a	Merge Task	.
+Flavonoid vs Flavonoid	is-a	Task	.
+flavonoid 3'-monooxygenase activity	Broader Group	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NADH or NADPH as one donor, and incorporation of one atom of oxygen	.
+flavonoid 3'-monooxygenase activity	Data Source	m/02l1vmn	.
+flavonoid 3'-monooxygenase activity	Description	"Catalysis of the reaction: a flavonoid + NADPH + H+ + O2 = 3'-hydroxyflavonoid + NADP+ + H2O."@en	.
+flavonoid 3'-monooxygenase activity	Group Type	Molecular function	.
+flavonoid 3'-monooxygenase activity	Identifier	"GO:0016711"	.
+flavonoid 3'-monooxygenase activity	Synonym Term	"flavonoid 3'-hydroxylase"@en	.
+flavonoid 3'-monooxygenase activity	is-a	Gene Group	.
+flavonoid 3'-monooxygenase activity	is-a	Gene Ontology Group	.
+flavonoid 3'-monooxygenase activity	is-a	Topic	.
+flavonoid biosynthetic process	Broader Group	flavonoid metabolic process	.
+flavonoid biosynthetic process	Broader Group	phenylpropanoid biosynthetic process	.
+flavonoid biosynthetic process	Data Source	m/02l1vmn	.
+flavonoid biosynthetic process	Description	"The chemical reactions and pathways resulting in the formation of flavonoids, a group of phenolic derivatives containing a flavan skeleton."@en	.
+flavonoid biosynthetic process	Group Type	Biological process	.
+flavonoid biosynthetic process	Identifier	"GO:0009813"	.
+flavonoid biosynthetic process	Synonym Term	"flavonoid anabolism"@en	.
+flavonoid biosynthetic process	Synonym Term	"flavonoid biosynthesis"@en	.
+flavonoid biosynthetic process	Synonym Term	"flavonoid formation"@en	.
+flavonoid biosynthetic process	Synonym Term	"flavonoid synthesis"@en	.
+flavonoid biosynthetic process	is-a	Gene Group	.
+flavonoid biosynthetic process	is-a	Gene Ontology Group	.
+flavonoid biosynthetic process	is-a	Topic	.
+flavonoid catabolic process	Broader Group	flavonoid metabolic process	.
+flavonoid catabolic process	Broader Group	phenylpropanoid catabolic process	.
+flavonoid catabolic process	Data Source	m/02l1vmn	.
+flavonoid catabolic process	Description	"The chemical reactions and pathways resulting in the breakdown of flavonoids, a group of phenolic derivatives containing a flavan skeleton."@en	.
+flavonoid catabolic process	Group Type	Biological process	.
+flavonoid catabolic process	Identifier	"GO:0046275"	.
+flavonoid catabolic process	Synonym Term	"flavonoid breakdown"@en	.
+flavonoid catabolic process	Synonym Term	"flavonoid catabolism"@en	.
+flavonoid catabolic process	Synonym Term	"flavonoid degradation"@en	.
+flavonoid catabolic process	is-a	Gene Group	.
+flavonoid catabolic process	is-a	Gene Ontology Group	.
+flavonoid catabolic process	is-a	Topic	.
+flavonoid metabolic process	Broader Group	phenylpropanoid metabolic process	.
+flavonoid metabolic process	Data Source	m/02l1vmn	.
+flavonoid metabolic process	Description	"The chemical reactions and pathways involving flavonoids, a group of water-soluble phenolic derivatives containing a flavan skeleton including flavones, flavonols and flavanoids, and anthocyanins."@en	.
+flavonoid metabolic process	Group Type	Biological process	.
+flavonoid metabolic process	Identifier	"GO:0009812"	.
+flavonoid metabolic process	Synonym Term	"flavonoid metabolism"@en	.
+flavonoid metabolic process	is-a	Gene Group	.
+flavonoid metabolic process	is-a	Gene Ontology Group	.
+flavonoid metabolic process	is-a	Topic	.
+flavonoid phytoalexin biosynthetic process	Broader Group	flavonoid biosynthetic process	.
+flavonoid phytoalexin biosynthetic process	Broader Group	flavonoid phytoalexin metabolic process	.
+flavonoid phytoalexin biosynthetic process	Data Source	m/02l1vmn	.
+flavonoid phytoalexin biosynthetic process	Description	"The chemical reactions and pathways resulting in the formation of flavonoid phytoalexins, a group of water-soluble phenolic derivatives containing a flavan skeleton, which possess antibiotic activity and are produced by plant tissues in response to infection."@en	.
+flavonoid phytoalexin biosynthetic process	Group Type	Biological process	.
+flavonoid phytoalexin biosynthetic process	Identifier	"GO:0009716"	.
+flavonoid phytoalexin biosynthetic process	Synonym Term	"flavonoid phytoalexin anabolism"@en	.
+flavonoid phytoalexin biosynthetic process	Synonym Term	"flavonoid phytoalexin biosynthesis"@en	.
+flavonoid phytoalexin biosynthetic process	Synonym Term	"flavonoid phytoalexin formation"@en	.
+flavonoid phytoalexin biosynthetic process	Synonym Term	"flavonoid phytoalexin synthesis"@en	.
+flavonoid phytoalexin biosynthetic process	is-a	Gene Group	.
+flavonoid phytoalexin biosynthetic process	is-a	Gene Ontology Group	.
+flavonoid phytoalexin biosynthetic process	is-a	Topic	.
+flavonoid phytoalexin catabolic process	Broader Group	flavonoid catabolic process	.
+flavonoid phytoalexin catabolic process	Broader Group	flavonoid phytoalexin metabolic process	.
+flavonoid phytoalexin catabolic process	Data Source	m/02l1vmn	.
+flavonoid phytoalexin catabolic process	Description	"The chemical reactions and pathways resulting in the breakdown of flavonoid phytoalexins, a group of water-soluble phenolic derivatives containing a flavan skeleton, which possess antibiotic activity and are produced by plant tissues in response to infection."@en	.
+flavonoid phytoalexin catabolic process	Group Type	Biological process	.
+flavonoid phytoalexin catabolic process	Identifier	"GO:0046286"	.
+flavonoid phytoalexin catabolic process	Synonym Term	"flavonoid phytoalexin breakdown"@en	.
+flavonoid phytoalexin catabolic process	Synonym Term	"flavonoid phytoalexin catabolism"@en	.
+flavonoid phytoalexin catabolic process	Synonym Term	"flavonoid phytoalexin degradation"@en	.
+flavonoid phytoalexin catabolic process	is-a	Gene Group	.
+flavonoid phytoalexin catabolic process	is-a	Gene Ontology Group	.
+flavonoid phytoalexin catabolic process	is-a	Topic	.
+flavonoid phytoalexin metabolic process	Broader Group	flavonoid metabolic process	.
+flavonoid phytoalexin metabolic process	Data Source	m/02l1vmn	.
+flavonoid phytoalexin metabolic process	Description	"The chemical reactions and pathways involving flavonoid phytoalexins, a group of water-soluble phenolic derivatives containing a flavan skeleton, which possess antibiotic activity and are produced by plant tissues in response to infection."@en	.
+flavonoid phytoalexin metabolic process	Group Type	Biological process	.
+flavonoid phytoalexin metabolic process	Identifier	"GO:0046285"	.
+flavonoid phytoalexin metabolic process	Synonym Term	"flavonoid phytoalexin metabolism"@en	.
+flavonoid phytoalexin metabolic process	is-a	Gene Group	.
+flavonoid phytoalexin metabolic process	is-a	Gene Ontology Group	.
+flavonoid phytoalexin metabolic process	is-a	Topic	.

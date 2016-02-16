@@ -1,0 +1,422 @@
+Multivitamin (Musical Recording) #1	Length	"272.013"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Multivitamin (Musical Recording) #1	Recorded by	Laudanum (Musical Group) #10	.
+Multivitamin (Musical Recording) #1	Release	Blinded (Compact Disc Musical Release) #184	.
+Multivitamin (Musical Recording) #1	is-a	Canonical Version	.
+Multivitamin (Musical Recording) #1	is-a	Musical Recording	.
+Multivitamin (Musical Recording) #1	is-a	Topic	.
+Multivitamin (Musical Recording) #2	Recorded by	Wizzy Noise	.
+Multivitamin (Musical Recording) #2	Release	Zero - 1 (Compact Disc Musical Release)	.
+Multivitamin (Musical Recording) #2	is-a	Canonical Version	.
+Multivitamin (Musical Recording) #2	is-a	Musical Recording	.
+Multivitamin (Musical Recording) #2	is-a	Topic	.
+Multivitamin (m/0ksmq10)	Recording	Multivitamin (Musical Recording) #2	.
+Multivitamin (m/0ksmq10)	Release	Zero - 1 (Compact Disc Musical Release)	.
+Multivitamin (m/0ksmq10)	Track #	"2"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Multivitamin (m/0ksmq10)	is-a	Release track	.
+Multivitamin (m/0ksmq10)	is-a	Topic	.
+Multivitamin (m/0l65gp9)	Recording	Multivitamin (Musical Recording) #1	.
+Multivitamin (m/0l65gp9)	Release	Blinded (Compact Disc Musical Release) #184	.
+Multivitamin (m/0l65gp9)	Track #	"11"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Multivitamin (m/0l65gp9)	is-a	Release track	.
+Multivitamin (m/0l65gp9)	is-a	Topic	.
+Multivitamin (Musical Recording) #1	Length	"272.013"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Multivitamin (Musical Recording) #1	Recorded by	Laudanum (Musical Group) #10	.
+Multivitamin (Musical Recording) #1	Release	Blinded (Compact Disc Musical Release) #184	.
+Multivitamin (Musical Recording) #1	is-a	Canonical Version	.
+Multivitamin (Musical Recording) #1	is-a	Musical Recording	.
+Multivitamin (Musical Recording) #1	is-a	Topic	.
+Multivitamin (Musical Recording) #2	Recorded by	Wizzy Noise	.
+Multivitamin (Musical Recording) #2	Release	Zero - 1 (Compact Disc Musical Release)	.
+Multivitamin (Musical Recording) #2	is-a	Canonical Version	.
+Multivitamin (Musical Recording) #2	is-a	Musical Recording	.
+Multivitamin (Musical Recording) #2	is-a	Topic	.
+Multivitamin (m/0ksmq10)	Recording	Multivitamin (Musical Recording) #2	.
+Multivitamin (m/0ksmq10)	Release	Zero - 1 (Compact Disc Musical Release)	.
+Multivitamin (m/0ksmq10)	Track #	"2"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Multivitamin (m/0ksmq10)	is-a	Release track	.
+Multivitamin (m/0ksmq10)	is-a	Topic	.
+Multivitamin (m/0l65gp9)	Recording	Multivitamin (Musical Recording) #1	.
+Multivitamin (m/0l65gp9)	Release	Blinded (Compact Disc Musical Release) #184	.
+Multivitamin (m/0l65gp9)	Track #	"11"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Multivitamin (m/0l65gp9)	is-a	Release track	.
+Multivitamin (m/0l65gp9)	is-a	Topic	.
+Multivitamin Bodyblock SPF 20 2.5/9.4/6.25/3.75 lotion	Available in	United States of America	.
+Multivitamin Bodyblock SPF 20 2.5/9.4/6.25/3.75 lotion	Color	White	.
+Multivitamin Bodyblock SPF 20 2.5/9.4/6.25/3.75 lotion	Discontinued	"false"	.
+Multivitamin Bodyblock SPF 20 2.5/9.4/6.25/3.75 lotion	FDA OTC monograph part	FDA OTC monograph part 352	.
+Multivitamin Bodyblock SPF 20 2.5/9.4/6.25/3.75 lotion	Label date	"2012-01-19"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Multivitamin Bodyblock SPF 20 2.5/9.4/6.25/3.75 lotion	Label link	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=c9100083-55b0-4301-b031-e5f11f5b86e3>	.
+Multivitamin Bodyblock SPF 20 2.5/9.4/6.25/3.75 lotion	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=c9100083-55b0-4301-b031-e5f11f5b86e3#nlm34071-1>	.
+Multivitamin Bodyblock SPF 20 2.5/9.4/6.25/3.75 lotion	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=c9100083-55b0-4301-b031-e5f11f5b86e3#nlm42229-5>	.
+Multivitamin Bodyblock SPF 20 2.5/9.4/6.25/3.75 lotion	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=c9100083-55b0-4301-b031-e5f11f5b86e3#nlm51727-6>	.
+Multivitamin Bodyblock SPF 20 2.5/9.4/6.25/3.75 lotion	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=c9100083-55b0-4301-b031-e5f11f5b86e3#nlm51945-4>	.
+Multivitamin Bodyblock SPF 20 2.5/9.4/6.25/3.75 lotion	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=c9100083-55b0-4301-b031-e5f11f5b86e3#nlm55106-9>	.
+Multivitamin Bodyblock SPF 20 2.5/9.4/6.25/3.75 lotion	Manufactured form of	Avobenzone, octinoxate, octisalate, and oxybenzone 0.02/0.0752/0.05/0.03 lotion	.
+Multivitamin Bodyblock SPF 20 2.5/9.4/6.25/3.75 lotion	Manufacturer	Gordon Laboratories	.
+Multivitamin Bodyblock SPF 20 2.5/9.4/6.25/3.75 lotion	Marketing start date	"2005-11-01"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Multivitamin Bodyblock SPF 20 2.5/9.4/6.25/3.75 lotion	NDC Product ID	"21839-101"	.
+Multivitamin Bodyblock SPF 20 2.5/9.4/6.25/3.75 lotion	is-a	Consumer product	.
+Multivitamin Bodyblock SPF 20 2.5/9.4/6.25/3.75 lotion	is-a	Manufactured drug form	.
+Multivitamin Bodyblock SPF 20 2.5/9.4/6.25/3.75 lotion	is-a	Topic	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.25/0.5/1500 solution/drops	Active ingredient	.alpha.-tocopherol succinate, d-	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.25/0.5/1500 solution/drops	Active ingredient	Ascorbic acid	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.25/0.5/1500 solution/drops	Active ingredient	Cholecalciferol	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.25/0.5/1500 solution/drops	Active ingredient	Cyanocobalamin	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.25/0.5/1500 solution/drops	Active ingredient	Nicotinamide	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.25/0.5/1500 solution/drops	Active ingredient	Pyridoxine Hydrochloride	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.25/0.5/1500 solution/drops	Active ingredient	Retinyl palmitate	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.25/0.5/1500 solution/drops	Active ingredient	Riboflavin	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.25/0.5/1500 solution/drops	Active ingredient	Sodium fluoride	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.25/0.5/1500 solution/drops	Active ingredient	Thiamine hydrochloride	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.25/0.5/1500 solution/drops	Active ingredient moiety	Alpha-Tocopherol	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.25/0.5/1500 solution/drops	Active ingredient moiety	Ascorbic acid	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.25/0.5/1500 solution/drops	Active ingredient moiety	Cholecalciferol	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.25/0.5/1500 solution/drops	Active ingredient moiety	Cyanocobalamin	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.25/0.5/1500 solution/drops	Active ingredient moiety	Fluoride	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.25/0.5/1500 solution/drops	Active ingredient moiety	Nicotinamide	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.25/0.5/1500 solution/drops	Active ingredient moiety	Pyridoxine	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.25/0.5/1500 solution/drops	Active ingredient moiety	Retinyl palmitate	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.25/0.5/1500 solution/drops	Active ingredient moiety	Riboflavin	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.25/0.5/1500 solution/drops	Active ingredient moiety	Thiamine	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.25/0.5/1500 solution/drops	Brand name	"Poly-Vitamin with Fluoride"@en	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.25/0.5/1500 solution/drops	Dosage form	Solution/drops	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.25/0.5/1500 solution/drops	Drug category	Drug (Quotation Subject)	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.25/0.5/1500 solution/drops	Formulation of	Vitamin a palmitate/Ascorbic acid/Cholecalciferol/.alpha.-tocopherol, d-/Thiamine/Riboflavin/Niacinamide/Pyridoxine/Cyanocobalamin/Fluoride ion	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.25/0.5/1500 solution/drops	Legal status	Not evaluated by FDA	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.25/0.5/1500 solution/drops	Legal status	Prescription drug	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.25/0.5/1500 solution/drops	Route of administration	Oral (Drug administration route)	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.25/0.5/1500 solution/drops	Routed drug	Vitamin A Palmitate/Ascorbic Acid/Cholecalciferol/.Alpha.-Tocopherol, D-/Thiamine/Riboflavin/Niacinamide/Pyridoxine/Cyanocobalamin/Fluoride Ion Oral	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.25/0.5/1500 solution/drops	is-a	Drug formulation	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.25/0.5/1500 solution/drops	is-a	Topic	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.5/0.5/1500 solution/drops	Active ingredient	Alpha-Tocopherol	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.5/0.5/1500 solution/drops	Active ingredient	Ascorbic acid	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.5/0.5/1500 solution/drops	Active ingredient	Cholecalciferol	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.5/0.5/1500 solution/drops	Active ingredient	Cyanocobalamin	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.5/0.5/1500 solution/drops	Active ingredient	Nicotinamide	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.5/0.5/1500 solution/drops	Active ingredient	Pyridoxine Hydrochloride	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.5/0.5/1500 solution/drops	Active ingredient	Retinyl palmitate	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.5/0.5/1500 solution/drops	Active ingredient	Riboflavin	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.5/0.5/1500 solution/drops	Active ingredient	Sodium fluoride	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.5/0.5/1500 solution/drops	Active ingredient	Thiamine hydrochloride	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.5/0.5/1500 solution/drops	Active ingredient moiety	Alpha-Tocopherol	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.5/0.5/1500 solution/drops	Active ingredient moiety	Ascorbic acid	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.5/0.5/1500 solution/drops	Active ingredient moiety	Cyanocobalamin	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.5/0.5/1500 solution/drops	Active ingredient moiety	Fluoride	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.5/0.5/1500 solution/drops	Active ingredient moiety	Niacin	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.5/0.5/1500 solution/drops	Active ingredient moiety	Pyridoxine	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.5/0.5/1500 solution/drops	Active ingredient moiety	Riboflavin	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.5/0.5/1500 solution/drops	Active ingredient moiety	Thiamine	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.5/0.5/1500 solution/drops	Active ingredient moiety	Vitamin A	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.5/0.5/1500 solution/drops	Active ingredient moiety	Vitamin D	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.5/0.5/1500 solution/drops	Brand name	"Multi Vitamin and Fluoride"@en	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.5/0.5/1500 solution/drops	Dosage form	Solution/drops	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.5/0.5/1500 solution/drops	Drug category	Drug (Quotation Subject)	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.5/0.5/1500 solution/drops	Formulation of	Vitamin a/Ascorbic acid/Vitamin d/.alpha.-tocopherol/Thiamine/Riboflavin/Niacin/Pyridoxine/Cyanocobalamin/Fluoride ion	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.5/0.5/1500 solution/drops	Legal status	Not evaluated by FDA	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.5/0.5/1500 solution/drops	Legal status	Prescription drug	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.5/0.5/1500 solution/drops	Route of administration	Oral (Drug administration route)	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.5/0.5/1500 solution/drops	Routed drug	Vitamin A/Ascorbic Acid/Vitamin D/.Alpha.-Tocopherol/Thiamine/Riboflavin/Niacin/Pyridoxine/Cyanocobalamin/Fluoride Ion Oral	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.5/0.5/1500 solution/drops	is-a	Drug formulation	.
+Multivitamin and fluoride 5/35/400/2/8/0.4/0.6/0.5/0.5/1500 solution/drops	is-a	Topic	.
+Multivitamin with Fluoride 0.25 chewable tablet	Available in	United States of America	.
+Multivitamin with Fluoride 0.25 chewable tablet	Color	Purple	.
+Multivitamin with Fluoride 0.25 chewable tablet	Discontinued	"false"	.
+Multivitamin with Fluoride 0.25 chewable tablet	Flavor	Grape	.
+Multivitamin with Fluoride 0.25 chewable tablet	Imprint	"107"	.
+Multivitamin with Fluoride 0.25 chewable tablet	Label date	"2011-05-19"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Multivitamin with Fluoride 0.25 chewable tablet	Label link	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=4cb0eca0-aa84-4bcd-bebf-2ef41ca70e10>	.
+Multivitamin with Fluoride 0.25 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=4cb0eca0-aa84-4bcd-bebf-2ef41ca70e10#nlm34067-9>	.
+Multivitamin with Fluoride 0.25 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=4cb0eca0-aa84-4bcd-bebf-2ef41ca70e10#nlm34068-7>	.
+Multivitamin with Fluoride 0.25 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=4cb0eca0-aa84-4bcd-bebf-2ef41ca70e10#nlm34069-5>	.
+Multivitamin with Fluoride 0.25 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=4cb0eca0-aa84-4bcd-bebf-2ef41ca70e10#nlm34071-1>	.
+Multivitamin with Fluoride 0.25 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=4cb0eca0-aa84-4bcd-bebf-2ef41ca70e10#nlm34084-4>	.
+Multivitamin with Fluoride 0.25 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=4cb0eca0-aa84-4bcd-bebf-2ef41ca70e10#nlm34089-3>	.
+Multivitamin with Fluoride 0.25 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=4cb0eca0-aa84-4bcd-bebf-2ef41ca70e10#nlm34090-1>	.
+Multivitamin with Fluoride 0.25 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=4cb0eca0-aa84-4bcd-bebf-2ef41ca70e10#nlm42232-9>	.
+Multivitamin with Fluoride 0.25 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=4cb0eca0-aa84-4bcd-bebf-2ef41ca70e10#nlm44425-7>	.
+Multivitamin with Fluoride 0.25 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=4cb0eca0-aa84-4bcd-bebf-2ef41ca70e10#nlm51945-4>	.
+Multivitamin with Fluoride 0.25 chewable tablet	Manufactured form of	Sodium fluoride 0.25 chewable tablet (Chewable tablet Drug Formulation) #1	.
+Multivitamin with Fluoride 0.25 chewable tablet	Manufacturer	PureTek	.
+Multivitamin with Fluoride 0.25 chewable tablet	Marketing start date	"2011-06-01"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Multivitamin with Fluoride 0.25 chewable tablet	NDC Product ID	"59088-107"	.
+Multivitamin with Fluoride 0.25 chewable tablet	Scoring	"1"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Multivitamin with Fluoride 0.25 chewable tablet	Shape	Circle	.
+Multivitamin with Fluoride 0.25 chewable tablet	Size	"13.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Multivitamin with Fluoride 0.25 chewable tablet	is-a	Consumer product	.
+Multivitamin with Fluoride 0.25 chewable tablet	is-a	Manufactured drug form	.
+Multivitamin with Fluoride 0.25 chewable tablet	is-a	Topic	.
+Multivitamin with Fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Available in	United States of America	.
+Multivitamin with Fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Color	White	.
+Multivitamin with Fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Discontinued	"false"	.
+Multivitamin with Fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Flavor	Orange	.
+Multivitamin with Fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Imprint	"SCI;1001"	.
+Multivitamin with Fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label date	"2011-01-10"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Multivitamin with Fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label link	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=67c794f0-96ed-4029-b603-5b9d4d21ab78>	.
+Multivitamin with Fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=67c794f0-96ed-4029-b603-5b9d4d21ab78#nlm34067-9>	.
+Multivitamin with Fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=67c794f0-96ed-4029-b603-5b9d4d21ab78#nlm34068-7>	.
+Multivitamin with Fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=67c794f0-96ed-4029-b603-5b9d4d21ab78#nlm34069-5>	.
+Multivitamin with Fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=67c794f0-96ed-4029-b603-5b9d4d21ab78#nlm34071-1>	.
+Multivitamin with Fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=67c794f0-96ed-4029-b603-5b9d4d21ab78#nlm34084-4>	.
+Multivitamin with Fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=67c794f0-96ed-4029-b603-5b9d4d21ab78#nlm34089-3>	.
+Multivitamin with Fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=67c794f0-96ed-4029-b603-5b9d4d21ab78#nlm34090-1>	.
+Multivitamin with Fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=67c794f0-96ed-4029-b603-5b9d4d21ab78#nlm42229-5>	.
+Multivitamin with Fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=67c794f0-96ed-4029-b603-5b9d4d21ab78#nlm42232-9>	.
+Multivitamin with Fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=67c794f0-96ed-4029-b603-5b9d4d21ab78#nlm51945-4>	.
+Multivitamin with Fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Manufactured form of	Sodium fluoride, vitamin a palmitate, ascorbic acid, cholecalciferol, alpha-tocopherol acetate, thiamine mononitrate, riboflavin, niacinamide, pyridoxine hydrochloride, folic acid and cyanocobalamin 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	.
+Multivitamin with Fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Manufacturer	Breckenridge Pharmaceutical	.
+Multivitamin with Fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Marketing end date	"2012-05-31"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Multivitamin with Fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Marketing start date	"2009-09-01"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Multivitamin with Fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	NDC Product ID	"51991-679"	.
+Multivitamin with Fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Scoring	"1"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Multivitamin with Fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Shape	Circle	.
+Multivitamin with Fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Size	"13.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Multivitamin with Fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	is-a	Consumer product	.
+Multivitamin with Fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	is-a	Manufactured drug form	.
+Multivitamin with Fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	is-a	Topic	.
+Multivitamin with Fluoride 0.5 chewable tablet	Available in	United States of America	.
+Multivitamin with Fluoride 0.5 chewable tablet	Color	Purple	.
+Multivitamin with Fluoride 0.5 chewable tablet	Discontinued	"false"	.
+Multivitamin with Fluoride 0.5 chewable tablet	Flavor	Grape	.
+Multivitamin with Fluoride 0.5 chewable tablet	Imprint	"108"	.
+Multivitamin with Fluoride 0.5 chewable tablet	Label date	"2011-05-19"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Multivitamin with Fluoride 0.5 chewable tablet	Label link	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=94fd63f1-76a1-4bd3-8e84-394f90dad4a1>	.
+Multivitamin with Fluoride 0.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=94fd63f1-76a1-4bd3-8e84-394f90dad4a1#nlm34067-9>	.
+Multivitamin with Fluoride 0.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=94fd63f1-76a1-4bd3-8e84-394f90dad4a1#nlm34068-7>	.
+Multivitamin with Fluoride 0.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=94fd63f1-76a1-4bd3-8e84-394f90dad4a1#nlm34069-5>	.
+Multivitamin with Fluoride 0.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=94fd63f1-76a1-4bd3-8e84-394f90dad4a1#nlm34071-1>	.
+Multivitamin with Fluoride 0.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=94fd63f1-76a1-4bd3-8e84-394f90dad4a1#nlm34084-4>	.
+Multivitamin with Fluoride 0.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=94fd63f1-76a1-4bd3-8e84-394f90dad4a1#nlm34090-1>	.
+Multivitamin with Fluoride 0.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=94fd63f1-76a1-4bd3-8e84-394f90dad4a1#nlm42232-9>	.
+Multivitamin with Fluoride 0.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=94fd63f1-76a1-4bd3-8e84-394f90dad4a1#nlm44425-7>	.
+Multivitamin with Fluoride 0.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=94fd63f1-76a1-4bd3-8e84-394f90dad4a1#nlm51945-4>	.
+Multivitamin with Fluoride 0.5 chewable tablet	Manufactured form of	Sodium fluoride 0.5 chewable tablet (Chewable tablet Drug Formulation) #1	.
+Multivitamin with Fluoride 0.5 chewable tablet	Manufacturer	PureTek	.
+Multivitamin with Fluoride 0.5 chewable tablet	Marketing start date	"2011-06-01"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Multivitamin with Fluoride 0.5 chewable tablet	NDC Product ID	"59088-108"	.
+Multivitamin with Fluoride 0.5 chewable tablet	Scoring	"1"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Multivitamin with Fluoride 0.5 chewable tablet	Shape	Square (Drug form shape)	.
+Multivitamin with Fluoride 0.5 chewable tablet	Size	"13.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Multivitamin with Fluoride 0.5 chewable tablet	is-a	Consumer product	.
+Multivitamin with Fluoride 0.5 chewable tablet	is-a	Manufactured drug form	.
+Multivitamin with Fluoride 0.5 chewable tablet	is-a	Topic	.
+Multivitamin with Fluoride 0.5/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Available in	United States of America	.
+Multivitamin with Fluoride 0.5/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Color	White	.
+Multivitamin with Fluoride 0.5/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Discontinued	"false"	.
+Multivitamin with Fluoride 0.5/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Flavor	Orange	.
+Multivitamin with Fluoride 0.5/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Imprint	"SCI;1005"	.
+Multivitamin with Fluoride 0.5/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label date	"2011-01-10"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Multivitamin with Fluoride 0.5/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label link	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=67c794f0-96ed-4029-b603-5b9d4d21ab78>	.
+Multivitamin with Fluoride 0.5/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=67c794f0-96ed-4029-b603-5b9d4d21ab78#nlm34067-9>	.
+Multivitamin with Fluoride 0.5/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=67c794f0-96ed-4029-b603-5b9d4d21ab78#nlm34068-7>	.
+Multivitamin with Fluoride 0.5/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=67c794f0-96ed-4029-b603-5b9d4d21ab78#nlm34069-5>	.
+Multivitamin with Fluoride 0.5/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=67c794f0-96ed-4029-b603-5b9d4d21ab78#nlm34071-1>	.
+Multivitamin with Fluoride 0.5/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=67c794f0-96ed-4029-b603-5b9d4d21ab78#nlm34084-4>	.
+Multivitamin with Fluoride 0.5/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=67c794f0-96ed-4029-b603-5b9d4d21ab78#nlm34089-3>	.
+Multivitamin with Fluoride 0.5/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=67c794f0-96ed-4029-b603-5b9d4d21ab78#nlm34090-1>	.
+Multivitamin with Fluoride 0.5/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=67c794f0-96ed-4029-b603-5b9d4d21ab78#nlm42229-5>	.
+Multivitamin with Fluoride 0.5/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=67c794f0-96ed-4029-b603-5b9d4d21ab78#nlm42232-9>	.
+Multivitamin with Fluoride 0.5/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=67c794f0-96ed-4029-b603-5b9d4d21ab78#nlm51945-4>	.
+Multivitamin with Fluoride 0.5/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Manufactured form of	Sodium fluoride, vitamin a palmitate, ascorbic acid, cholecalciferol, alpha-tocopherol acetate, thiamine mononitrate, riboflavin, niacinamide, pyridoxine hydrochloride, folic acid and cyanocobalamin 0.5/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	.
+Multivitamin with Fluoride 0.5/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Manufacturer	Breckenridge Pharmaceutical	.
+Multivitamin with Fluoride 0.5/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Marketing end date	"2012-10-31"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Multivitamin with Fluoride 0.5/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Marketing start date	"2009-09-01"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Multivitamin with Fluoride 0.5/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	NDC Product ID	"51991-680"	.
+Multivitamin with Fluoride 0.5/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Scoring	"1"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Multivitamin with Fluoride 0.5/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Shape	Triangle	.
+Multivitamin with Fluoride 0.5/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Size	"12.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Multivitamin with Fluoride 0.5/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	is-a	Consumer product	.
+Multivitamin with Fluoride 0.5/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	is-a	Manufactured drug form	.
+Multivitamin with Fluoride 0.5/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	is-a	Topic	.
+Multivitamin with Fluoride 1 chewable tablet	Available in	United States of America	.
+Multivitamin with Fluoride 1 chewable tablet	Color	Purple	.
+Multivitamin with Fluoride 1 chewable tablet	Discontinued	"false"	.
+Multivitamin with Fluoride 1 chewable tablet	Flavor	Grape	.
+Multivitamin with Fluoride 1 chewable tablet	Imprint	"109"	.
+Multivitamin with Fluoride 1 chewable tablet	Label date	"2011-05-19"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Multivitamin with Fluoride 1 chewable tablet	Label link	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=f5c9e7ee-01a9-4b5c-a08b-b64570ba18f0>	.
+Multivitamin with Fluoride 1 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=f5c9e7ee-01a9-4b5c-a08b-b64570ba18f0#nlm34067-9>	.
+Multivitamin with Fluoride 1 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=f5c9e7ee-01a9-4b5c-a08b-b64570ba18f0#nlm34068-7>	.
+Multivitamin with Fluoride 1 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=f5c9e7ee-01a9-4b5c-a08b-b64570ba18f0#nlm34069-5>	.
+Multivitamin with Fluoride 1 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=f5c9e7ee-01a9-4b5c-a08b-b64570ba18f0#nlm34071-1>	.
+Multivitamin with Fluoride 1 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=f5c9e7ee-01a9-4b5c-a08b-b64570ba18f0#nlm34084-4>	.
+Multivitamin with Fluoride 1 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=f5c9e7ee-01a9-4b5c-a08b-b64570ba18f0#nlm34089-3>	.
+Multivitamin with Fluoride 1 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=f5c9e7ee-01a9-4b5c-a08b-b64570ba18f0#nlm34090-1>	.
+Multivitamin with Fluoride 1 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=f5c9e7ee-01a9-4b5c-a08b-b64570ba18f0#nlm42232-9>	.
+Multivitamin with Fluoride 1 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=f5c9e7ee-01a9-4b5c-a08b-b64570ba18f0#nlm44425-7>	.
+Multivitamin with Fluoride 1 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=f5c9e7ee-01a9-4b5c-a08b-b64570ba18f0#nlm51945-4>	.
+Multivitamin with Fluoride 1 chewable tablet	Manufactured form of	Sodium fluoride 1 chewable tablet (Chewable tablet Drug Formulation) #1	.
+Multivitamin with Fluoride 1 chewable tablet	Manufacturer	PureTek	.
+Multivitamin with Fluoride 1 chewable tablet	Marketing start date	"2011-06-01"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Multivitamin with Fluoride 1 chewable tablet	NDC Product ID	"59088-109"	.
+Multivitamin with Fluoride 1 chewable tablet	Scoring	"1"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Multivitamin with Fluoride 1 chewable tablet	Shape	Circle	.
+Multivitamin with Fluoride 1 chewable tablet	Size	"13.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Multivitamin with Fluoride 1 chewable tablet	is-a	Consumer product	.
+Multivitamin with Fluoride 1 chewable tablet	is-a	Manufactured drug form	.
+Multivitamin with Fluoride 1 chewable tablet	is-a	Topic	.
+Multivitamin with Fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Available in	United States of America	.
+Multivitamin with Fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Color	White	.
+Multivitamin with Fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Discontinued	"false"	.
+Multivitamin with Fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Flavor	Orange	.
+Multivitamin with Fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Imprint	"SCI;1003"	.
+Multivitamin with Fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label date	"2011-01-10"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Multivitamin with Fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label link	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=67c794f0-96ed-4029-b603-5b9d4d21ab78>	.
+Multivitamin with Fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=67c794f0-96ed-4029-b603-5b9d4d21ab78#nlm34067-9>	.
+Multivitamin with Fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=67c794f0-96ed-4029-b603-5b9d4d21ab78#nlm34068-7>	.
+Multivitamin with Fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=67c794f0-96ed-4029-b603-5b9d4d21ab78#nlm34069-5>	.
+Multivitamin with Fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=67c794f0-96ed-4029-b603-5b9d4d21ab78#nlm34071-1>	.
+Multivitamin with Fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=67c794f0-96ed-4029-b603-5b9d4d21ab78#nlm34084-4>	.
+Multivitamin with Fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=67c794f0-96ed-4029-b603-5b9d4d21ab78#nlm34089-3>	.
+Multivitamin with Fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=67c794f0-96ed-4029-b603-5b9d4d21ab78#nlm34090-1>	.
+Multivitamin with Fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=67c794f0-96ed-4029-b603-5b9d4d21ab78#nlm42229-5>	.
+Multivitamin with Fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=67c794f0-96ed-4029-b603-5b9d4d21ab78#nlm42232-9>	.
+Multivitamin with Fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=67c794f0-96ed-4029-b603-5b9d4d21ab78#nlm51945-4>	.
+Multivitamin with Fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Manufactured form of	Sodium fluoride, vitamin a palmitate, ascorbic acid, cholecalciferol, alpha-tocopherol acetate, thiamine mononitrate, riboflavin, niacinamide, pyridoxine hydrochloride, folic acid and cyanocobalamin 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	.
+Multivitamin with Fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Manufacturer	Breckenridge Pharmaceutical	.
+Multivitamin with Fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Marketing end date	"2012-09-30"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Multivitamin with Fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Marketing start date	"2009-09-01"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Multivitamin with Fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	NDC Product ID	"51991-681"	.
+Multivitamin with Fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Scoring	"1"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Multivitamin with Fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Shape	Hexagon	.
+Multivitamin with Fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Size	"12.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Multivitamin with Fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	is-a	Consumer product	.
+Multivitamin with Fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	is-a	Manufactured drug form	.
+Multivitamin with Fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	is-a	Topic	.
+Multivitamin with fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Available in	United States of America	.
+Multivitamin with fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Color	White	.
+Multivitamin with fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Discontinued	"false"	.
+Multivitamin with fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Flavor	Fruit (Ingredient)	.
+Multivitamin with fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Imprint	"SCI;1"	.
+Multivitamin with fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label date	"2011-12-07"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Multivitamin with fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label link	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=451a3eb3-02d6-4f9e-a3d4-dc54b51b378b>	.
+Multivitamin with fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=451a3eb3-02d6-4f9e-a3d4-dc54b51b378b#nlm34068-7>	.
+Multivitamin with fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=451a3eb3-02d6-4f9e-a3d4-dc54b51b378b#nlm34071-1>	.
+Multivitamin with fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=451a3eb3-02d6-4f9e-a3d4-dc54b51b378b#nlm34089-3>	.
+Multivitamin with fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=451a3eb3-02d6-4f9e-a3d4-dc54b51b378b#nlm42229-5>	.
+Multivitamin with fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=451a3eb3-02d6-4f9e-a3d4-dc54b51b378b#nlm42232-9>	.
+Multivitamin with fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=451a3eb3-02d6-4f9e-a3d4-dc54b51b378b#nlm44425-7>	.
+Multivitamin with fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=451a3eb3-02d6-4f9e-a3d4-dc54b51b378b#nlm51945-4>	.
+Multivitamin with fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Manufactured form of	Sodium fluoride, vitamin a acetate, ascorbic acid, vitamin d, alpha-tocopherol, thiamine, riboflavin, niacin, pyridoxine, folic acid, and cobalamin 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	.
+Multivitamin with fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Manufacturer	Sancilio & Company	.
+Multivitamin with fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Marketing start date	"2011-12-20"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Multivitamin with fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	NDC Product ID	"44946-1023"	.
+Multivitamin with fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Scoring	"1"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Multivitamin with fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Shape	Circle	.
+Multivitamin with fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Size	"13.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Multivitamin with fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	is-a	Consumer product	.
+Multivitamin with fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	is-a	Manufactured drug form	.
+Multivitamin with fluoride 0.25/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	is-a	Topic	.
+Multivitamin with fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Available in	United States of America	.
+Multivitamin with fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Color	White	.
+Multivitamin with fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Discontinued	"false"	.
+Multivitamin with fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Flavor	Fruit (Ingredient)	.
+Multivitamin with fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Imprint	"SCI;3"	.
+Multivitamin with fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label date	"2011-12-07"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Multivitamin with fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label link	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=6f65379e-0c42-4451-bd42-7a050a4215cc>	.
+Multivitamin with fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=6f65379e-0c42-4451-bd42-7a050a4215cc#nlm34068-7>	.
+Multivitamin with fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=6f65379e-0c42-4451-bd42-7a050a4215cc#nlm34071-1>	.
+Multivitamin with fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=6f65379e-0c42-4451-bd42-7a050a4215cc#nlm34089-3>	.
+Multivitamin with fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=6f65379e-0c42-4451-bd42-7a050a4215cc#nlm42229-5>	.
+Multivitamin with fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=6f65379e-0c42-4451-bd42-7a050a4215cc#nlm42232-9>	.
+Multivitamin with fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=6f65379e-0c42-4451-bd42-7a050a4215cc#nlm44425-7>	.
+Multivitamin with fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=6f65379e-0c42-4451-bd42-7a050a4215cc#nlm51945-4>	.
+Multivitamin with fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Manufactured form of	Fluoride ion, vitamin a acetate, ascorbic acid, vitamin d, alpha-tocopherol, thiamine, riboflavin, niacin, pyridoxine, folic acid, and cobalamin 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	.
+Multivitamin with fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Manufacturer	Sancilio & Company	.
+Multivitamin with fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Marketing start date	"2011-12-20"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Multivitamin with fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	NDC Product ID	"44946-1025"	.
+Multivitamin with fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Scoring	"1"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Multivitamin with fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Shape	Circle	.
+Multivitamin with fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	Size	"13.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Multivitamin with fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	is-a	Consumer product	.
+Multivitamin with fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	is-a	Manufactured drug form	.
+Multivitamin with fluoride 1/2500/60/400/15/1.05/1.2/13.5/1.05/0.3/4.5 chewable tablet	is-a	Topic	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Chewable tablet Drug Formulation)	Active ingredient	Alpha-Tocopherol	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Chewable tablet Drug Formulation)	Active ingredient	Ascorbic acid	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Chewable tablet Drug Formulation)	Active ingredient	Cyanocobalamin	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Chewable tablet Drug Formulation)	Active ingredient	Folic acid	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Chewable tablet Drug Formulation)	Active ingredient	Niacin	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Chewable tablet Drug Formulation)	Active ingredient	Pyridoxine	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Chewable tablet Drug Formulation)	Active ingredient	Riboflavin	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Chewable tablet Drug Formulation)	Active ingredient	Sodium fluoride	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Chewable tablet Drug Formulation)	Active ingredient	Thiamine	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Chewable tablet Drug Formulation)	Active ingredient	Vitamin D	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Chewable tablet Drug Formulation)	Active ingredient	Vitamin a acetate	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Chewable tablet Drug Formulation)	Active ingredient moiety	Alpha-Tocopherol	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Chewable tablet Drug Formulation)	Active ingredient moiety	Ascorbic acid	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Chewable tablet Drug Formulation)	Active ingredient moiety	Cyanocobalamin	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Chewable tablet Drug Formulation)	Active ingredient moiety	Fluoride	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Chewable tablet Drug Formulation)	Active ingredient moiety	Folic acid	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Chewable tablet Drug Formulation)	Active ingredient moiety	Niacin	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Chewable tablet Drug Formulation)	Active ingredient moiety	Pyridoxine	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Chewable tablet Drug Formulation)	Active ingredient moiety	Riboflavin	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Chewable tablet Drug Formulation)	Active ingredient moiety	Thiamine	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Chewable tablet Drug Formulation)	Active ingredient moiety	Vitamin A	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Chewable tablet Drug Formulation)	Active ingredient moiety	Vitamin D	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Chewable tablet Drug Formulation)	Dosage form	Chewable tablet	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Chewable tablet Drug Formulation)	Drug category	Drug (Quotation Subject)	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Chewable tablet Drug Formulation)	Formulation of	Fluoride ion/Vitamin a/Ascorbic acid/Vitamin d/.alpha.-tocopherol/Thiamine/Riboflavin/Niacin/Pyridoxine/Folic acid/Cobalamin	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Chewable tablet Drug Formulation)	Legal status	Not evaluated by FDA	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Chewable tablet Drug Formulation)	Legal status	Prescription drug	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Chewable tablet Drug Formulation)	Route of administration	Oral (Drug administration route)	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Chewable tablet Drug Formulation)	Routed drug	Fluoride Ion/Vitamin A/Ascorbic Acid/Vitamin D/.Alpha.-Tocopherol/Thiamine/Riboflavin/Niacin/Pyridoxine/Folic Acid/Cobalamin Oral	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Chewable tablet Drug Formulation)	is-a	Drug formulation	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Chewable tablet Drug Formulation)	is-a	Topic	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Manufactured drug form)	Available in	United States of America	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Manufactured drug form)	Color	White	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Manufactured drug form)	Discontinued	"false"	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Manufactured drug form)	Flavor	Fruit (Ingredient)	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Manufactured drug form)	Imprint	"SCI;5"	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Manufactured drug form)	Label date	"2011-12-07"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Manufactured drug form)	Label link	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=113ec4c4-24f8-450a-8e8f-e0f31b41394e>	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Manufactured drug form)	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=113ec4c4-24f8-450a-8e8f-e0f31b41394e#nlm34068-7>	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Manufactured drug form)	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=113ec4c4-24f8-450a-8e8f-e0f31b41394e#nlm34071-1>	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Manufactured drug form)	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=113ec4c4-24f8-450a-8e8f-e0f31b41394e#nlm34089-3>	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Manufactured drug form)	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=113ec4c4-24f8-450a-8e8f-e0f31b41394e#nlm42229-5>	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Manufactured drug form)	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=113ec4c4-24f8-450a-8e8f-e0f31b41394e#nlm42232-9>	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Manufactured drug form)	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=113ec4c4-24f8-450a-8e8f-e0f31b41394e#nlm44425-7>	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Manufactured drug form)	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=113ec4c4-24f8-450a-8e8f-e0f31b41394e#nlm51945-4>	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Manufactured drug form)	Manufactured form of	Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Chewable tablet Drug Formulation)	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Manufactured drug form)	Manufacturer	Sancilio & Company	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Manufactured drug form)	Marketing start date	"2011-12-20"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Manufactured drug form)	NDC Product ID	"44946-1024"	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Manufactured drug form)	Scoring	"1"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Manufactured drug form)	Shape	Circle	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Manufactured drug form)	Size	"13.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Manufactured drug form)	is-a	Consumer product	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Manufactured drug form)	is-a	Manufactured drug form	.
+Multivitamin with fluoride 15/60/4.5/0.3/13.5/1.05/1.2/0.5/1.05/2500/400 chewable tablet (Manufactured drug form)	is-a	Topic	.
+Multivitamin/mineral 10/0.8/15/162/1/115.2/1.3/30/5/6/200/10/18.2 gelatin coated capsule	Active ingredient	Calcium pantothenate	.
+Multivitamin/mineral 10/0.8/15/162/1/115.2/1.3/30/5/6/200/10/18.2 gelatin coated capsule	Active ingredient	Copper(II) sulfate	.
+Multivitamin/mineral 10/0.8/15/162/1/115.2/1.3/30/5/6/200/10/18.2 gelatin coated capsule	Active ingredient	Cyanocobalamin	.
+Multivitamin/mineral 10/0.8/15/162/1/115.2/1.3/30/5/6/200/10/18.2 gelatin coated capsule	Active ingredient	Ferrous fumarate	.
+Multivitamin/mineral 10/0.8/15/162/1/115.2/1.3/30/5/6/200/10/18.2 gelatin coated capsule	Active ingredient	Folic acid	.
+Multivitamin/mineral 10/0.8/15/162/1/115.2/1.3/30/5/6/200/10/18.2 gelatin coated capsule	Active ingredient	Iron Dextran Complex	.
+Multivitamin/mineral 10/0.8/15/162/1/115.2/1.3/30/5/6/200/10/18.2 gelatin coated capsule	Active ingredient	Manganese(II) sulfate	.
+Multivitamin/mineral 10/0.8/15/162/1/115.2/1.3/30/5/6/200/10/18.2 gelatin coated capsule	Active ingredient	Nicotinamide	.
+Multivitamin/mineral 10/0.8/15/162/1/115.2/1.3/30/5/6/200/10/18.2 gelatin coated capsule	Active ingredient	Pyridoxine Hydrochloride	.
+Multivitamin/mineral 10/0.8/15/162/1/115.2/1.3/30/5/6/200/10/18.2 gelatin coated capsule	Active ingredient	Riboflavin	.
+Multivitamin/mineral 10/0.8/15/162/1/115.2/1.3/30/5/6/200/10/18.2 gelatin coated capsule	Active ingredient	Sodium ascorbate	.
+Multivitamin/mineral 10/0.8/15/162/1/115.2/1.3/30/5/6/200/10/18.2 gelatin coated capsule	Active ingredient	Thiamine mononitrate	.
+Multivitamin/mineral 10/0.8/15/162/1/115.2/1.3/30/5/6/200/10/18.2 gelatin coated capsule	Active ingredient	Zinc sulfate	.
+Multivitamin/mineral 10/0.8/15/162/1/115.2/1.3/30/5/6/200/10/18.2 gelatin coated capsule	Active ingredient moiety	Ascorbic acid	.
+Multivitamin/mineral 10/0.8/15/162/1/115.2/1.3/30/5/6/200/10/18.2 gelatin coated capsule	Active ingredient moiety	Copper	.
+Multivitamin/mineral 10/0.8/15/162/1/115.2/1.3/30/5/6/200/10/18.2 gelatin coated capsule	Active ingredient moiety	Cyanocobalamin	.
+Multivitamin/mineral 10/0.8/15/162/1/115.2/1.3/30/5/6/200/10/18.2 gelatin coated capsule	Active ingredient moiety	Folic acid	.
+Multivitamin/mineral 10/0.8/15/162/1/115.2/1.3/30/5/6/200/10/18.2 gelatin coated capsule	Active ingredient moiety	Iron	.
+Multivitamin/mineral 10/0.8/15/162/1/115.2/1.3/30/5/6/200/10/18.2 gelatin coated capsule	Active ingredient moiety	Manganese	.
+Multivitamin/mineral 10/0.8/15/162/1/115.2/1.3/30/5/6/200/10/18.2 gelatin coated capsule	Active ingredient moiety	Nicotinamide	.
+Multivitamin/mineral 10/0.8/15/162/1/115.2/1.3/30/5/6/200/10/18.2 gelatin coated capsule	Active ingredient moiety	Pantothenic acid	.
+Multivitamin/mineral 10/0.8/15/162/1/115.2/1.3/30/5/6/200/10/18.2 gelatin coated capsule	Active ingredient moiety	Pyridoxine	.
+Multivitamin/mineral 10/0.8/15/162/1/115.2/1.3/30/5/6/200/10/18.2 gelatin coated capsule	Active ingredient moiety	Riboflavin	.
+Multivitamin/mineral 10/0.8/15/162/1/115.2/1.3/30/5/6/200/10/18.2 gelatin coated capsule	Active ingredient moiety	Thiamine	.
+Multivitamin/mineral 10/0.8/15/162/1/115.2/1.3/30/5/6/200/10/18.2 gelatin coated capsule	Active ingredient moiety	Zinc	.
+Multivitamin/mineral 10/0.8/15/162/1/115.2/1.3/30/5/6/200/10/18.2 gelatin coated capsule	Brand name	"Se-Tan PLUS"@en	.
+Multivitamin/mineral 10/0.8/15/162/1/115.2/1.3/30/5/6/200/10/18.2 gelatin coated capsule	Dosage form	Gelatin coated capsule	.
+Multivitamin/mineral 10/0.8/15/162/1/115.2/1.3/30/5/6/200/10/18.2 gelatin coated capsule	Drug category	Drug (Quotation Subject)	.
+Multivitamin/mineral 10/0.8/15/162/1/115.2/1.3/30/5/6/200/10/18.2 gelatin coated capsule	Formulation of	Iron/Ascorbic acid/Thiamine/Riboflavin/Pyridoxine/Cyanocobalamin/Folic acid/Niacinamide/Pantothenic acid/Zinc/Manganese/Copper	.
+Multivitamin/mineral 10/0.8/15/162/1/115.2/1.3/30/5/6/200/10/18.2 gelatin coated capsule	Legal status	Not evaluated by FDA	.
+Multivitamin/mineral 10/0.8/15/162/1/115.2/1.3/30/5/6/200/10/18.2 gelatin coated capsule	Legal status	Prescription drug	.
+Multivitamin/mineral 10/0.8/15/162/1/115.2/1.3/30/5/6/200/10/18.2 gelatin coated capsule	Route of administration	Oral (Drug administration route)	.
+Multivitamin/mineral 10/0.8/15/162/1/115.2/1.3/30/5/6/200/10/18.2 gelatin coated capsule	Routed drug	Iron/Ascorbic Acid/Thiamine/Riboflavin/Pyridoxine/Cyanocobalamin/Folic Acid/Niacinamide/Pantothenic Acid/Zinc/Manganese/Copper Oral	.
+Multivitamin/mineral 10/0.8/15/162/1/115.2/1.3/30/5/6/200/10/18.2 gelatin coated capsule	is-a	Drug formulation	.
+Multivitamin/mineral 10/0.8/15/162/1/115.2/1.3/30/5/6/200/10/18.2 gelatin coated capsule	is-a	Topic	.

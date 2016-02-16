@@ -1,0 +1,6 @@
+Ptychopetalum	Rank	Genus	.
+Ptychopetalum	is-a	Organism Classification	.
+Ptychopetalum	is-a	Topic	.
+Ptychopetalum	Rank	Genus	.
+Ptychopetalum	is-a	Organism Classification	.
+Ptychopetalum	is-a	Topic	.

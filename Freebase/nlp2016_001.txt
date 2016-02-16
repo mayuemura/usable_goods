@@ -1,0 +1,184 @@
+Aloe vera	Higher classification	Aloe	.
+Aloe vera	Higher classification	Asparagales	.
+Aloe vera	Higher classification	Asphodeloideae	.
+Aloe vera	Higher classification	Embryophyte	.
+Aloe vera	Higher classification	Eukaryote	.
+Aloe vera	Higher classification	Flowering plant	.
+Aloe vera	Higher classification	Liliidae	.
+Aloe vera	Higher classification	Liliopsida	.
+Aloe vera	Higher classification	Plant	.
+Aloe vera	Higher classification	Spermatophyte	.
+Aloe vera	ITIS Taxon S/N	"182653"	.
+Aloe vera	NCBI Taxon ID	"34199"	.
+Aloe vera	Rank	Species (Organism Classification Rank)	.
+Aloe vera	Scientific name	"Aloe vera"@en	.
+Aloe vera	is-a	Aloe	.
+Aloe vera	is-a	Asparagales	.
+Aloe vera	is-a	Asphodeloideae	.
+Aloe vera	is-a	Embryophyte	.
+Aloe vera	is-a	Eukaryote	.
+Aloe vera	is-a	Flowering plant	.
+Aloe vera	is-a	Liliidae	.
+Aloe vera	is-a	Liliopsida	.
+Aloe vera	is-a	Organism Classification	.
+Aloe vera	is-a	Plant	.
+Aloe vera	is-a	Spermatophyte	.
+Aloe vera	is-a	Topic	.
+Aloe vera flower	Active moiety	Aloe vera flower	.
+Aloe vera flower	Legal status	Over-the-counter drug	.
+Aloe vera flower	is-a	Drug	.
+Aloe vera flower	is-a	Drug ingredient	.
+Aloe vera flower	is-a	Topic	.
+Aloe vera flower 0.18 cream	Active ingredient	Aloe vera flower	.
+Aloe vera flower 0.18 cream	Active ingredient moiety	Aloe vera flower	.
+Aloe vera flower 0.18 cream	Brand name	"Gem Beauty Amethyst Intensive Firming Eye Cream"@en	.
+Aloe vera flower 0.18 cream	Dosage form	Cream (Drug dosage form)	.
+Aloe vera flower 0.18 cream	Drug category	Drug (Quotation Subject)	.
+Aloe vera flower 0.18 cream	Formulation of	Aloe vera flower	.
+Aloe vera flower 0.18 cream	Legal status	Over-the-counter drug	.
+Aloe vera flower 0.18 cream	Route of administration	Topical medication	.
+Aloe vera flower 0.18 cream	Routed drug	Aloe Vera Flower Topical	.
+Aloe vera flower 0.18 cream	is-a	Drug formulation	.
+Aloe vera flower 0.18 cream	is-a	Topic	.
+Aloe vera flower 0.183 cream	Active ingredient	Aloe vera flower	.
+Aloe vera flower 0.183 cream	Active ingredient moiety	Aloe vera flower	.
+Aloe vera flower 0.183 cream	Brand name	"Gem Beauty Amethyst Rejuvenation Cream"@en	.
+Aloe vera flower 0.183 cream	Dosage form	Cream (Drug dosage form)	.
+Aloe vera flower 0.183 cream	Drug category	Drug (Quotation Subject)	.
+Aloe vera flower 0.183 cream	Formulation of	Aloe vera flower	.
+Aloe vera flower 0.183 cream	Legal status	Over-the-counter drug	.
+Aloe vera flower 0.183 cream	Route of administration	Topical medication	.
+Aloe vera flower 0.183 cream	Routed drug	Aloe Vera Flower Topical	.
+Aloe vera flower 0.183 cream	is-a	Drug formulation	.
+Aloe vera flower 0.183 cream	is-a	Topic	.
+Aloe vera leaf	is-a	Drug ingredient	.
+Aloe vera leaf 30 pellet	Active ingredient	Aloe vera leaf	.
+Aloe vera leaf 30 pellet	Active ingredient moiety	Aloe vera leaf	.
+Aloe vera leaf 30 pellet	Brand name	"Aloe Socotrina Kit Refill"@en	.
+Aloe vera leaf 30 pellet	Dosage form	Pellet (Drug dosage form)	.
+Aloe vera leaf 30 pellet	Drug category	Homeopathic (Drug formulation category)	.
+Aloe vera leaf 30 pellet	Formulation of	Aloe vera leaf homeopathic preparation	.
+Aloe vera leaf 30 pellet	Legal status	Not evaluated by FDA	.
+Aloe vera leaf 30 pellet	Legal status	Over-the-counter drug	.
+Aloe vera leaf 30 pellet	Route of administration	Oral (Drug administration route)	.
+Aloe vera leaf 30 pellet	Routed drug	Aloe Vera Leaf Homeopathic Preparation Oral	.
+Aloe vera leaf 30 pellet	is-a	Drug formulation	.
+Aloe vera leaf 30 pellet	is-a	Topic	.
+Aloe vera leaf and iodoquinol 10/12.5 gel	Active ingredient	Aloe vera leaf	.
+Aloe vera leaf and iodoquinol 10/12.5 gel	Active ingredient	Diiodohydroxyquinoline	.
+Aloe vera leaf and iodoquinol 10/12.5 gel	Active ingredient moiety	Aloe vera leaf	.
+Aloe vera leaf and iodoquinol 10/12.5 gel	Active ingredient moiety	Diiodohydroxyquinoline	.
+Aloe vera leaf and iodoquinol 10/12.5 gel	Brand name	"Aloquin"@en	.
+Aloe vera leaf and iodoquinol 10/12.5 gel	Dosage form	Gel	.
+Aloe vera leaf and iodoquinol 10/12.5 gel	Drug category	Other (Drug formulation category)	.
+Aloe vera leaf and iodoquinol 10/12.5 gel	Formulation of	Aloe vera leaf/Iodoquinol	.
+Aloe vera leaf and iodoquinol 10/12.5 gel	Legal status	Not evaluated by FDA	.
+Aloe vera leaf and iodoquinol 10/12.5 gel	Legal status	Prescription drug	.
+Aloe vera leaf and iodoquinol 10/12.5 gel	Route of administration	Topical medication	.
+Aloe vera leaf and iodoquinol 10/12.5 gel	Routed drug	Aloe Vera Leaf/Iodoquinol Topical	.
+Aloe vera leaf and iodoquinol 10/12.5 gel	is-a	Drug formulation	.
+Aloe vera leaf and iodoquinol 10/12.5 gel	is-a	Topic	.
+Aloe vera leaf homeopathic preparation	Active moiety	Aloe vera leaf	.
+Aloe vera leaf homeopathic preparation	Legal status	Not evaluated by FDA	.
+Aloe vera leaf homeopathic preparation	Legal status	Over-the-counter drug	.
+Aloe vera leaf homeopathic preparation	is-a	Drug	.
+Aloe vera leaf homeopathic preparation	is-a	Topic	.
+Aloe vera leaf/Iodoquinol	Active moiety	Aloe vera leaf	.
+Aloe vera leaf/Iodoquinol	Active moiety	Diiodohydroxyquinoline	.
+Aloe vera leaf/Iodoquinol	Legal status	Not evaluated by FDA	.
+Aloe vera leaf/Iodoquinol	Legal status	Prescription drug	.
+Aloe vera leaf/Iodoquinol	Pregnancy category	Pregnancy Category C (FDA)	.
+Aloe vera leaf/Iodoquinol	is-a	Drug	.
+Aloe vera leaf/Iodoquinol	is-a	Topic	.
+Aloe vera	Higher classification	Aloe	.
+Aloe vera	Higher classification	Asparagales	.
+Aloe vera	Higher classification	Asphodeloideae	.
+Aloe vera	Higher classification	Embryophyte	.
+Aloe vera	Higher classification	Eukaryote	.
+Aloe vera	Higher classification	Flowering plant	.
+Aloe vera	Higher classification	Liliidae	.
+Aloe vera	Higher classification	Liliopsida	.
+Aloe vera	Higher classification	Plant	.
+Aloe vera	Higher classification	Spermatophyte	.
+Aloe vera	ITIS Taxon S/N	"182653"	.
+Aloe vera	NCBI Taxon ID	"34199"	.
+Aloe vera	Rank	Species (Organism Classification Rank)	.
+Aloe vera	Scientific name	"Aloe vera"@en	.
+Aloe vera	is-a	Aloe	.
+Aloe vera	is-a	Asparagales	.
+Aloe vera	is-a	Asphodeloideae	.
+Aloe vera	is-a	Embryophyte	.
+Aloe vera	is-a	Eukaryote	.
+Aloe vera	is-a	Flowering plant	.
+Aloe vera	is-a	Liliidae	.
+Aloe vera	is-a	Liliopsida	.
+Aloe vera	is-a	Organism Classification	.
+Aloe vera	is-a	Plant	.
+Aloe vera	is-a	Spermatophyte	.
+Aloe vera	is-a	Topic	.
+Aloe vera flower	Active moiety	Aloe vera flower	.
+Aloe vera flower	Legal status	Over-the-counter drug	.
+Aloe vera flower	is-a	Drug	.
+Aloe vera flower	is-a	Drug ingredient	.
+Aloe vera flower	is-a	Topic	.
+Aloe vera flower 0.18 cream	Active ingredient	Aloe vera flower	.
+Aloe vera flower 0.18 cream	Active ingredient moiety	Aloe vera flower	.
+Aloe vera flower 0.18 cream	Brand name	"Gem Beauty Amethyst Intensive Firming Eye Cream"@en	.
+Aloe vera flower 0.18 cream	Dosage form	Cream (Drug dosage form)	.
+Aloe vera flower 0.18 cream	Drug category	Drug (Quotation Subject)	.
+Aloe vera flower 0.18 cream	Formulation of	Aloe vera flower	.
+Aloe vera flower 0.18 cream	Legal status	Over-the-counter drug	.
+Aloe vera flower 0.18 cream	Route of administration	Topical medication	.
+Aloe vera flower 0.18 cream	Routed drug	Aloe Vera Flower Topical	.
+Aloe vera flower 0.18 cream	is-a	Drug formulation	.
+Aloe vera flower 0.18 cream	is-a	Topic	.
+Aloe vera flower 0.183 cream	Active ingredient	Aloe vera flower	.
+Aloe vera flower 0.183 cream	Active ingredient moiety	Aloe vera flower	.
+Aloe vera flower 0.183 cream	Brand name	"Gem Beauty Amethyst Rejuvenation Cream"@en	.
+Aloe vera flower 0.183 cream	Dosage form	Cream (Drug dosage form)	.
+Aloe vera flower 0.183 cream	Drug category	Drug (Quotation Subject)	.
+Aloe vera flower 0.183 cream	Formulation of	Aloe vera flower	.
+Aloe vera flower 0.183 cream	Legal status	Over-the-counter drug	.
+Aloe vera flower 0.183 cream	Route of administration	Topical medication	.
+Aloe vera flower 0.183 cream	Routed drug	Aloe Vera Flower Topical	.
+Aloe vera flower 0.183 cream	is-a	Drug formulation	.
+Aloe vera flower 0.183 cream	is-a	Topic	.
+Aloe vera leaf	is-a	Drug ingredient	.
+Aloe vera leaf 30 pellet	Active ingredient	Aloe vera leaf	.
+Aloe vera leaf 30 pellet	Active ingredient moiety	Aloe vera leaf	.
+Aloe vera leaf 30 pellet	Brand name	"Aloe Socotrina Kit Refill"@en	.
+Aloe vera leaf 30 pellet	Dosage form	Pellet (Drug dosage form)	.
+Aloe vera leaf 30 pellet	Drug category	Homeopathic (Drug formulation category)	.
+Aloe vera leaf 30 pellet	Formulation of	Aloe vera leaf homeopathic preparation	.
+Aloe vera leaf 30 pellet	Legal status	Not evaluated by FDA	.
+Aloe vera leaf 30 pellet	Legal status	Over-the-counter drug	.
+Aloe vera leaf 30 pellet	Route of administration	Oral (Drug administration route)	.
+Aloe vera leaf 30 pellet	Routed drug	Aloe Vera Leaf Homeopathic Preparation Oral	.
+Aloe vera leaf 30 pellet	is-a	Drug formulation	.
+Aloe vera leaf 30 pellet	is-a	Topic	.
+Aloe vera leaf and iodoquinol 10/12.5 gel	Active ingredient	Aloe vera leaf	.
+Aloe vera leaf and iodoquinol 10/12.5 gel	Active ingredient	Diiodohydroxyquinoline	.
+Aloe vera leaf and iodoquinol 10/12.5 gel	Active ingredient moiety	Aloe vera leaf	.
+Aloe vera leaf and iodoquinol 10/12.5 gel	Active ingredient moiety	Diiodohydroxyquinoline	.
+Aloe vera leaf and iodoquinol 10/12.5 gel	Brand name	"Aloquin"@en	.
+Aloe vera leaf and iodoquinol 10/12.5 gel	Dosage form	Gel	.
+Aloe vera leaf and iodoquinol 10/12.5 gel	Drug category	Other (Drug formulation category)	.
+Aloe vera leaf and iodoquinol 10/12.5 gel	Formulation of	Aloe vera leaf/Iodoquinol	.
+Aloe vera leaf and iodoquinol 10/12.5 gel	Legal status	Not evaluated by FDA	.
+Aloe vera leaf and iodoquinol 10/12.5 gel	Legal status	Prescription drug	.
+Aloe vera leaf and iodoquinol 10/12.5 gel	Route of administration	Topical medication	.
+Aloe vera leaf and iodoquinol 10/12.5 gel	Routed drug	Aloe Vera Leaf/Iodoquinol Topical	.
+Aloe vera leaf and iodoquinol 10/12.5 gel	is-a	Drug formulation	.
+Aloe vera leaf and iodoquinol 10/12.5 gel	is-a	Topic	.
+Aloe vera leaf homeopathic preparation	Active moiety	Aloe vera leaf	.
+Aloe vera leaf homeopathic preparation	Legal status	Not evaluated by FDA	.
+Aloe vera leaf homeopathic preparation	Legal status	Over-the-counter drug	.
+Aloe vera leaf homeopathic preparation	is-a	Drug	.
+Aloe vera leaf homeopathic preparation	is-a	Topic	.
+Aloe vera leaf/Iodoquinol	Active moiety	Aloe vera leaf	.
+Aloe vera leaf/Iodoquinol	Active moiety	Diiodohydroxyquinoline	.
+Aloe vera leaf/Iodoquinol	Legal status	Not evaluated by FDA	.
+Aloe vera leaf/Iodoquinol	Legal status	Prescription drug	.
+Aloe vera leaf/Iodoquinol	Pregnancy category	Pregnancy Category C (FDA)	.
+Aloe vera leaf/Iodoquinol	is-a	Drug	.
+Aloe vera leaf/Iodoquinol	is-a	Topic	.

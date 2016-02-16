@@ -1,0 +1,348 @@
+Growth hormone deficiency	Disease or condition caused	Dwarfism	.
+Growth hormone deficiency	Parent Disease	Endocrine diseases	.
+Growth hormone deficiency	Parent Disease	Musculoskeletal disorder	.
+Growth hormone deficiency	Parent Disease	Nervous system disease	.
+Growth hormone deficiency	Symptom of	22q11.2 deletion syndrome	.
+Growth hormone deficiency	Symptom of	Progeria	.
+Growth hormone deficiency	is-a	Disease cause	.
+Growth hormone deficiency	is-a	Disease or medical condition	.
+Growth hormone deficiency	is-a	Symptom	.
+Growth hormone deficiency	is-a	Topic	.
+Growth hormone releasing hexapeptide	Formula	"C46H56N12O6"	.
+Growth hormone releasing hexapeptide	PubChem ID	"5486806"	.
+Growth hormone releasing hexapeptide	Structure (SMILES)	"C[C@@H](C(=O)N[C@@H](CC1=CNC2=CC=CC=C21) C(=O)NC(CC3=CC=CC=C3) C(=O)N[C@@H] (CCCCN)C(=O)N)NC(=O)[C@@H](CC4=CNC5=CC=CC=C54) NC(=O)[C@H](CC6=CN=CN6)N"	.
+Growth hormone releasing hexapeptide	is-a	Chemical Compound	.
+Growth hormone releasing hexapeptide	is-a	Topic	.
+Growth hormone releasing hormone	Entrez gene id	"14601"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Growth hormone releasing hormone	is-a	Protein	.
+Growth hormone releasing hormone	is-a	Topic	.
+Growth hormone releasing-factor receptor	Entrez gene id	"14602"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Growth hormone releasing-factor receptor	is-a	Protein	.
+Growth hormone releasing-factor receptor	is-a	Topic	.
+Growth hormone secretagogue receptor	Entrez gene id	"208188"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Growth hormone secretagogue receptor	is-a	Protein	.
+Growth hormone secretagogue receptor	is-a	Topic	.
+growth hormone 1	Alternate Symbol	"GH"	.
+growth hormone 1	Alternate Symbol	"GH-N"	.
+growth hormone 1	Alternate Symbol	"GHN"	.
+growth hormone 1	Alternate Symbol	"hGH-N"	.
+growth hormone 1	Chromosome	Chromosome 17 (human)	.
+growth hormone 1	Genome	Human genome	.
+growth hormone 1	Locus	17 - [59348294,59349929]	.
+growth hormone 1	NCBI ID	"2688"	.
+growth hormone 1	Symbol	"GH1"	.
+growth hormone 1	is-a	Gene	.
+growth hormone 1	is-a	Topic	.
+growth hormone 2	Alternate Symbol	"GH-V"	.
+growth hormone 2	Alternate Symbol	"GHL"	.
+growth hormone 2	Alternate Symbol	"GHV"	.
+growth hormone 2	Alternate Symbol	"hGH-V"	.
+growth hormone 2	Chromosome	Chromosome 17 (human)	.
+growth hormone 2	Genome	Human genome	.
+growth hormone 2	Locus	17 - [59311303,59312954]	.
+growth hormone 2	NCBI ID	"2689"	.
+growth hormone 2	Symbol	"GH2"	.
+growth hormone 2	is-a	Gene	.
+growth hormone 2	is-a	Topic	.
+growth hormone inducible transmembrane protein	Alternate Symbol	"DERP2"	.
+growth hormone inducible transmembrane protein	Alternate Symbol	"DKFZp566C0746"	.
+growth hormone inducible transmembrane protein	Alternate Symbol	"FLJ26584"	.
+growth hormone inducible transmembrane protein	Alternate Symbol	"HSPC282"	.
+growth hormone inducible transmembrane protein	Alternate Symbol	"My021"	.
+growth hormone inducible transmembrane protein	Alternate Symbol	"PTD010"	.
+growth hormone inducible transmembrane protein	Alternate Symbol	"TMBIM5"	.
+growth hormone inducible transmembrane protein	Chromosome	Chromosome 10 (human)	.
+growth hormone inducible transmembrane protein	Genome	Human genome	.
+growth hormone inducible transmembrane protein	Locus	10 + [85889237,85903290]	.
+growth hormone inducible transmembrane protein	NCBI ID	"27069"	.
+growth hormone inducible transmembrane protein	Symbol	"GHITM"	.
+growth hormone inducible transmembrane protein	is-a	Gene	.
+growth hormone inducible transmembrane protein	is-a	Topic	.
+growth hormone receptor	Alternate Symbol	"GHBP"	.
+growth hormone receptor	Chromosome	Chromosome 5	.
+growth hormone receptor	Genome	Human genome	.
+growth hormone receptor	Locus	5 + [42459782,42757682]	.
+growth hormone receptor	NCBI ID	"2690"	.
+growth hormone receptor	Symbol	"GHR"	.
+growth hormone receptor	is-a	Gene	.
+growth hormone receptor	is-a	Topic	.
+growth hormone receptor activity	Broader Group	hematopoietin/interferon-class (D200-domain) cytokine receptor activity	.
+growth hormone receptor activity	Data Source	m/02l1vmn	.
+growth hormone receptor activity	Description	"Combining with growth hormone to initiate a change in cell activity."@en	.
+growth hormone receptor activity	Gene	growth hormone receptor	.
+growth hormone receptor activity	Group Type	Molecular function	.
+growth hormone receptor activity	Identifier	"GO:0004903"	.
+growth hormone receptor activity	is-a	Gene Group	.
+growth hormone receptor activity	is-a	Gene Ontology Group	.
+growth hormone receptor activity	is-a	Topic	.
+growth hormone receptor binding	Broader Group	hematopoietin/interferon-class (D200-domain) cytokine receptor binding	.
+growth hormone receptor binding	Data Source	m/02l1vmn	.
+growth hormone receptor binding	Description	"Interacting selectively with the growth hormone receptor."@en	.
+growth hormone receptor binding	Gene	chorionic somatomammotropin hormone 2	.
+growth hormone receptor binding	Gene	suppressor of cytokine signaling 2	.
+growth hormone receptor binding	Group Type	Molecular function	.
+growth hormone receptor binding	Identifier	"GO:0005131"	.
+growth hormone receptor binding	Narrower Term	"growth hormone receptor ligand"@en	.
+growth hormone receptor binding	Narrower Term	"growth hormone"@en	.
+growth hormone receptor binding	is-a	Gene Group	.
+growth hormone receptor binding	is-a	Gene Ontology Group	.
+growth hormone receptor binding	is-a	Topic	.
+growth hormone regulated TBC protein 1	Alternate Symbol	"FLJ22474"	.
+growth hormone regulated TBC protein 1	Alternate Symbol	"MGC138328"	.
+growth hormone regulated TBC protein 1	Alternate Symbol	"MGC138330"	.
+growth hormone regulated TBC protein 1	Alternate Symbol	"TBC1D6"	.
+growth hormone regulated TBC protein 1	Chromosome	Chromosome 13 (human)	.
+growth hormone regulated TBC protein 1	Genome	Human genome	.
+growth hormone regulated TBC protein 1	Locus	13 - [113027145,113057717]	.
+growth hormone regulated TBC protein 1	NCBI ID	"79774"	.
+growth hormone regulated TBC protein 1	Symbol	"GRTP1"	.
+growth hormone regulated TBC protein 1	is-a	Gene	.
+growth hormone regulated TBC protein 1	is-a	Topic	.
+growth hormone releasing hormone	Alternate Symbol	"GHRF"	.
+growth hormone releasing hormone	Alternate Symbol	"GRF"	.
+growth hormone releasing hormone	Alternate Symbol	"MGC119781"	.
+growth hormone releasing hormone	Chromosome	Chromosome 20 (human)	.
+growth hormone releasing hormone	Genome	Human genome	.
+growth hormone releasing hormone	Locus	20 - [35312902,35318705]	.
+growth hormone releasing hormone	NCBI ID	"2691"	.
+growth hormone releasing hormone	Symbol	"GHRH"	.
+growth hormone releasing hormone	is-a	Gene	.
+growth hormone releasing hormone	is-a	Topic	.
+growth hormone releasing hormone receptor	Alternate Symbol	"GHRFR"	.
+growth hormone releasing hormone receptor	Alternate Symbol	"GHRHRpsv"	.
+growth hormone releasing hormone receptor	Alternate Symbol	"GRFR"	.
+growth hormone releasing hormone receptor	Chromosome	Chromosome 7 (human)	.
+growth hormone releasing hormone receptor	Genome	Human genome	.
+growth hormone releasing hormone receptor	Locus	7 + [30970160,30985667]	.
+growth hormone releasing hormone receptor	NCBI ID	"2692"	.
+growth hormone releasing hormone receptor	Symbol	"GHRHR"	.
+growth hormone releasing hormone receptor	is-a	Gene	.
+growth hormone releasing hormone receptor	is-a	Topic	.
+growth hormone secretagogue receptor	Chromosome	Chromosome 3 (human)	.
+growth hormone secretagogue receptor	Genome	Human genome	.
+growth hormone secretagogue receptor	Locus	3 - [173645644,173648896]	.
+growth hormone secretagogue receptor	NCBI ID	"2693"	.
+growth hormone secretagogue receptor	Symbol	"GHSR"	.
+growth hormone secretagogue receptor	is-a	Gene	.
+growth hormone secretagogue receptor	is-a	Topic	.
+growth hormone secretagogue receptor activity	Broader Group	thyrotropin releasing hormone and secretagogue-like receptors activity	.
+growth hormone secretagogue receptor activity	Data Source	m/02l1vmn	.
+growth hormone secretagogue receptor activity	Gene	growth hormone secretagogue receptor	.
+growth hormone secretagogue receptor activity	Group Type	Molecular function	.
+growth hormone secretagogue receptor activity	Identifier	"GO:0001616"	.
+growth hormone secretagogue receptor activity	is-a	Gene Group	.
+growth hormone secretagogue receptor activity	is-a	Gene Ontology Group	.
+growth hormone secretagogue receptor activity	is-a	Topic	.
+growth hormone secretagogue-like receptor activity	Broader Group	thyrotropin releasing hormone and secretagogue-like receptors activity	.
+growth hormone secretagogue-like receptor activity	Data Source	m/02l1vmn	.
+growth hormone secretagogue-like receptor activity	Group Type	Molecular function	.
+growth hormone secretagogue-like receptor activity	Identifier	"GO:0001617"	.
+growth hormone secretagogue-like receptor activity	is-a	Gene Group	.
+growth hormone secretagogue-like receptor activity	is-a	Gene Ontology Group	.
+growth hormone secretagogue-like receptor activity	is-a	Topic	.
+growth hormone secretion	Broader Group	peptide hormone secretion	.
+growth hormone secretion	Data Source	m/02l1vmn	.
+growth hormone secretion	Description	"The regulated release of growth hormone from secretory granules into the blood."@en	.
+growth hormone secretion	Gene	galanin	.
+growth hormone secretion	Gene	ghrelin/obestatin preprohormone	.
+growth hormone secretion	Gene	growth hormone secretagogue receptor	.
+growth hormone secretion	Gene	latent transforming growth factor beta binding protein 4	.
+growth hormone secretion	Group Type	Biological process	.
+growth hormone secretion	Identifier	"GO:0030252"	.
+growth hormone secretion	is-a	Gene Group	.
+growth hormone secretion	is-a	Gene Ontology Group	.
+growth hormone secretion	is-a	Topic	.
+Growth hormone deficiency	Disease or condition caused	Dwarfism	.
+Growth hormone deficiency	Parent Disease	Endocrine diseases	.
+Growth hormone deficiency	Parent Disease	Musculoskeletal disorder	.
+Growth hormone deficiency	Parent Disease	Nervous system disease	.
+Growth hormone deficiency	Symptom of	22q11.2 deletion syndrome	.
+Growth hormone deficiency	Symptom of	Progeria	.
+Growth hormone deficiency	is-a	Disease cause	.
+Growth hormone deficiency	is-a	Disease or medical condition	.
+Growth hormone deficiency	is-a	Symptom	.
+Growth hormone deficiency	is-a	Topic	.
+Growth hormone releasing hexapeptide	Formula	"C46H56N12O6"	.
+Growth hormone releasing hexapeptide	PubChem ID	"5486806"	.
+Growth hormone releasing hexapeptide	Structure (SMILES)	"C[C@@H](C(=O)N[C@@H](CC1=CNC2=CC=CC=C21) C(=O)NC(CC3=CC=CC=C3) C(=O)N[C@@H] (CCCCN)C(=O)N)NC(=O)[C@@H](CC4=CNC5=CC=CC=C54) NC(=O)[C@H](CC6=CN=CN6)N"	.
+Growth hormone releasing hexapeptide	is-a	Chemical Compound	.
+Growth hormone releasing hexapeptide	is-a	Topic	.
+Growth hormone releasing hormone	Entrez gene id	"14601"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Growth hormone releasing hormone	is-a	Protein	.
+Growth hormone releasing hormone	is-a	Topic	.
+Growth hormone releasing-factor receptor	Entrez gene id	"14602"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Growth hormone releasing-factor receptor	is-a	Protein	.
+Growth hormone releasing-factor receptor	is-a	Topic	.
+Growth hormone secretagogue receptor	Entrez gene id	"208188"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Growth hormone secretagogue receptor	is-a	Protein	.
+Growth hormone secretagogue receptor	is-a	Topic	.
+Growth hormones in plants	Author	Peter Boysen-Jensen	.
+Growth hormones in plants	is-a	Book	.
+Growth hormones in plants	is-a	Topic	.
+Growth hormones in plants	is-a	Written Work	.
+Growth hormones in plants. Authorized English translation of Die wuchsstofftheorie und ihre bedeutung für die analyse des wachstums und der wachstumsbewegungen der pflanzen	Edition Of	Growth hormones in plants	.
+Growth hormones in plants. Authorized English translation of Die wuchsstofftheorie und ihre bedeutung für die analyse des wachstums und der wachstumsbewegungen der pflanzen	Place of publication	London	.
+Growth hormones in plants. Authorized English translation of Die wuchsstofftheorie und ihre bedeutung für die analyse des wachstums und der wachstumsbewegungen der pflanzen	Publication date	"1936"^^<http://www.w3.org/2001/XMLSchema#gYear>	.
+Growth hormones in plants. Authorized English translation of Die wuchsstofftheorie und ihre bedeutung für die analyse des wachstums und der wachstumsbewegungen der pflanzen	Stanford OPAC	"610728"	.
+Growth hormones in plants. Authorized English translation of Die wuchsstofftheorie und ihre bedeutung für die analyse des wachstums und der wachstumsbewegungen der pflanzen	is-a	Book Edition	.
+Growth hormones in plants. Authorized English translation of Die wuchsstofftheorie und ihre bedeutung für die analyse des wachstums und der wachstumsbewegungen der pflanzen	is-a	Cataloged instance	.
+Growth hormones in plants. Authorized English translation of Die wuchsstofftheorie und ihre bedeutung für die analyse des wachstums und der wachstumsbewegungen der pflanzen	is-a	Topic	.
+growth hormone 1	Alternate Symbol	"GH"	.
+growth hormone 1	Alternate Symbol	"GH-N"	.
+growth hormone 1	Alternate Symbol	"GHN"	.
+growth hormone 1	Alternate Symbol	"hGH-N"	.
+growth hormone 1	Chromosome	Chromosome 17 (human)	.
+growth hormone 1	Genome	Human genome	.
+growth hormone 1	Locus	17 - [59348294,59349929]	.
+growth hormone 1	NCBI ID	"2688"	.
+growth hormone 1	Symbol	"GH1"	.
+growth hormone 1	is-a	Gene	.
+growth hormone 1	is-a	Topic	.
+growth hormone 2	Alternate Symbol	"GH-V"	.
+growth hormone 2	Alternate Symbol	"GHL"	.
+growth hormone 2	Alternate Symbol	"GHV"	.
+growth hormone 2	Alternate Symbol	"hGH-V"	.
+growth hormone 2	Chromosome	Chromosome 17 (human)	.
+growth hormone 2	Genome	Human genome	.
+growth hormone 2	Locus	17 - [59311303,59312954]	.
+growth hormone 2	NCBI ID	"2689"	.
+growth hormone 2	Symbol	"GH2"	.
+growth hormone 2	is-a	Gene	.
+growth hormone 2	is-a	Topic	.
+growth hormone inducible transmembrane protein	Alternate Symbol	"DERP2"	.
+growth hormone inducible transmembrane protein	Alternate Symbol	"DKFZp566C0746"	.
+growth hormone inducible transmembrane protein	Alternate Symbol	"FLJ26584"	.
+growth hormone inducible transmembrane protein	Alternate Symbol	"HSPC282"	.
+growth hormone inducible transmembrane protein	Alternate Symbol	"My021"	.
+growth hormone inducible transmembrane protein	Alternate Symbol	"PTD010"	.
+growth hormone inducible transmembrane protein	Alternate Symbol	"TMBIM5"	.
+growth hormone inducible transmembrane protein	Chromosome	Chromosome 10 (human)	.
+growth hormone inducible transmembrane protein	Genome	Human genome	.
+growth hormone inducible transmembrane protein	Locus	10 + [85889237,85903290]	.
+growth hormone inducible transmembrane protein	NCBI ID	"27069"	.
+growth hormone inducible transmembrane protein	Symbol	"GHITM"	.
+growth hormone inducible transmembrane protein	is-a	Gene	.
+growth hormone inducible transmembrane protein	is-a	Topic	.
+growth hormone receptor	Alternate Symbol	"GHBP"	.
+growth hormone receptor	Chromosome	Chromosome 5	.
+growth hormone receptor	Genome	Human genome	.
+growth hormone receptor	Locus	5 + [42459782,42757682]	.
+growth hormone receptor	NCBI ID	"2690"	.
+growth hormone receptor	Symbol	"GHR"	.
+growth hormone receptor	is-a	Gene	.
+growth hormone receptor	is-a	Topic	.
+growth hormone receptor activity	Broader Group	hematopoietin/interferon-class (D200-domain) cytokine receptor activity	.
+growth hormone receptor activity	Data Source	m/02l1vmn	.
+growth hormone receptor activity	Description	"Combining with growth hormone to initiate a change in cell activity."@en	.
+growth hormone receptor activity	Gene	growth hormone receptor	.
+growth hormone receptor activity	Group Type	Molecular function	.
+growth hormone receptor activity	Identifier	"GO:0004903"	.
+growth hormone receptor activity	is-a	Gene Group	.
+growth hormone receptor activity	is-a	Gene Ontology Group	.
+growth hormone receptor activity	is-a	Topic	.
+growth hormone receptor binding	Broader Group	hematopoietin/interferon-class (D200-domain) cytokine receptor binding	.
+growth hormone receptor binding	Data Source	m/02l1vmn	.
+growth hormone receptor binding	Description	"Interacting selectively with the growth hormone receptor."@en	.
+growth hormone receptor binding	Gene	chorionic somatomammotropin hormone 2	.
+growth hormone receptor binding	Gene	suppressor of cytokine signaling 2	.
+growth hormone receptor binding	Group Type	Molecular function	.
+growth hormone receptor binding	Identifier	"GO:0005131"	.
+growth hormone receptor binding	Narrower Term	"growth hormone receptor ligand"@en	.
+growth hormone receptor binding	Narrower Term	"growth hormone"@en	.
+growth hormone receptor binding	is-a	Gene Group	.
+growth hormone receptor binding	is-a	Gene Ontology Group	.
+growth hormone receptor binding	is-a	Topic	.
+growth hormone regulated TBC protein 1	Alternate Symbol	"FLJ22474"	.
+growth hormone regulated TBC protein 1	Alternate Symbol	"MGC138328"	.
+growth hormone regulated TBC protein 1	Alternate Symbol	"MGC138330"	.
+growth hormone regulated TBC protein 1	Alternate Symbol	"TBC1D6"	.
+growth hormone regulated TBC protein 1	Chromosome	Chromosome 13 (human)	.
+growth hormone regulated TBC protein 1	Genome	Human genome	.
+growth hormone regulated TBC protein 1	Locus	13 - [113027145,113057717]	.
+growth hormone regulated TBC protein 1	NCBI ID	"79774"	.
+growth hormone regulated TBC protein 1	Symbol	"GRTP1"	.
+growth hormone regulated TBC protein 1	is-a	Gene	.
+growth hormone regulated TBC protein 1	is-a	Topic	.
+growth hormone releasing hormone	Alternate Symbol	"GHRF"	.
+growth hormone releasing hormone	Alternate Symbol	"GRF"	.
+growth hormone releasing hormone	Alternate Symbol	"MGC119781"	.
+growth hormone releasing hormone	Chromosome	Chromosome 20 (human)	.
+growth hormone releasing hormone	Genome	Human genome	.
+growth hormone releasing hormone	Locus	20 - [35312902,35318705]	.
+growth hormone releasing hormone	NCBI ID	"2691"	.
+growth hormone releasing hormone	Symbol	"GHRH"	.
+growth hormone releasing hormone	is-a	Gene	.
+growth hormone releasing hormone	is-a	Topic	.
+growth hormone releasing hormone receptor	Alternate Symbol	"GHRFR"	.
+growth hormone releasing hormone receptor	Alternate Symbol	"GHRHRpsv"	.
+growth hormone releasing hormone receptor	Alternate Symbol	"GRFR"	.
+growth hormone releasing hormone receptor	Chromosome	Chromosome 7 (human)	.
+growth hormone releasing hormone receptor	Genome	Human genome	.
+growth hormone releasing hormone receptor	Locus	7 + [30970160,30985667]	.
+growth hormone releasing hormone receptor	NCBI ID	"2692"	.
+growth hormone releasing hormone receptor	Symbol	"GHRHR"	.
+growth hormone releasing hormone receptor	is-a	Gene	.
+growth hormone releasing hormone receptor	is-a	Topic	.
+growth hormone secretagogue receptor	Chromosome	Chromosome 3 (human)	.
+growth hormone secretagogue receptor	Genome	Human genome	.
+growth hormone secretagogue receptor	Locus	3 - [173645644,173648896]	.
+growth hormone secretagogue receptor	NCBI ID	"2693"	.
+growth hormone secretagogue receptor	Symbol	"GHSR"	.
+growth hormone secretagogue receptor	is-a	Gene	.
+growth hormone secretagogue receptor	is-a	Topic	.
+growth hormone secretagogue receptor activity	Broader Group	thyrotropin releasing hormone and secretagogue-like receptors activity	.
+growth hormone secretagogue receptor activity	Data Source	m/02l1vmn	.
+growth hormone secretagogue receptor activity	Gene	growth hormone secretagogue receptor	.
+growth hormone secretagogue receptor activity	Group Type	Molecular function	.
+growth hormone secretagogue receptor activity	Identifier	"GO:0001616"	.
+growth hormone secretagogue receptor activity	is-a	Gene Group	.
+growth hormone secretagogue receptor activity	is-a	Gene Ontology Group	.
+growth hormone secretagogue receptor activity	is-a	Topic	.
+growth hormone secretagogue-like receptor activity	Broader Group	thyrotropin releasing hormone and secretagogue-like receptors activity	.
+growth hormone secretagogue-like receptor activity	Data Source	m/02l1vmn	.
+growth hormone secretagogue-like receptor activity	Group Type	Molecular function	.
+growth hormone secretagogue-like receptor activity	Identifier	"GO:0001617"	.
+growth hormone secretagogue-like receptor activity	is-a	Gene Group	.
+growth hormone secretagogue-like receptor activity	is-a	Gene Ontology Group	.
+growth hormone secretagogue-like receptor activity	is-a	Topic	.
+growth hormone secretion	Broader Group	peptide hormone secretion	.
+growth hormone secretion	Data Source	m/02l1vmn	.
+growth hormone secretion	Description	"The regulated release of growth hormone from secretory granules into the blood."@en	.
+growth hormone secretion	Gene	galanin	.
+growth hormone secretion	Gene	ghrelin/obestatin preprohormone	.
+growth hormone secretion	Gene	growth hormone secretagogue receptor	.
+growth hormone secretion	Gene	latent transforming growth factor beta binding protein 4	.
+growth hormone secretion	Group Type	Biological process	.
+growth hormone secretion	Identifier	"GO:0030252"	.
+growth hormone secretion	is-a	Gene Group	.
+growth hormone secretion	is-a	Gene Ontology Group	.
+growth hormone secretion	is-a	Topic	.
+growth hormone-releasing hormone activity	Broader Group	hormone activity	.
+growth hormone-releasing hormone activity	Data Source	m/02l1vmn	.
+growth hormone-releasing hormone activity	Gene	ghrelin/obestatin preprohormone	.
+growth hormone-releasing hormone activity	Group Type	Molecular function	.
+growth hormone-releasing hormone activity	Identifier	"GO:0016608"	.
+growth hormone-releasing hormone activity	is-a	Gene Group	.
+growth hormone-releasing hormone activity	is-a	Gene Ontology Group	.
+growth hormone-releasing hormone activity	is-a	Topic	.
+growth hormone-releasing hormone receptor activity	Broader Group	secretin-like receptor activity	.
+growth hormone-releasing hormone receptor activity	Data Source	m/02l1vmn	.
+growth hormone-releasing hormone receptor activity	Description	"Combining with growth hormone-releasing hormone to initiate a change in cell activity."@en	.
+growth hormone-releasing hormone receptor activity	Gene	growth hormone releasing hormone receptor	.
+growth hormone-releasing hormone receptor activity	Gene	growth hormone secretagogue receptor	.
+growth hormone-releasing hormone receptor activity	Gene	motilin receptor	.
+growth hormone-releasing hormone receptor activity	Gene	transmembrane anterior posterior transformation 1	.
+growth hormone-releasing hormone receptor activity	Group Type	Molecular function	.
+growth hormone-releasing hormone receptor activity	Identifier	"GO:0016520"	.
+growth hormone-releasing hormone receptor activity	is-a	Gene Group	.
+growth hormone-releasing hormone receptor activity	is-a	Gene Ontology Group	.
+growth hormone-releasing hormone receptor activity	is-a	Topic	.
+growth hormone-releasing hormone receptor binding	Broader Group	G-protein-coupled receptor binding	.
+growth hormone-releasing hormone receptor binding	Data Source	m/02l1vmn	.
+growth hormone-releasing hormone receptor binding	Description	"Interacting selectively with a growth hormone-releasing hormone receptor."@en	.
+growth hormone-releasing hormone receptor binding	Group Type	Molecular function	.
+growth hormone-releasing hormone receptor binding	Identifier	"GO:0031770"	.
+growth hormone-releasing hormone receptor binding	Narrower Term	"growth hormone-releasing hormone receptor ligand"@en	.
+growth hormone-releasing hormone receptor binding	is-a	Gene Group	.
+growth hormone-releasing hormone receptor binding	is-a	Gene Ontology Group	.
+growth hormone-releasing hormone receptor binding	is-a	Topic	.

@@ -1,0 +1,294 @@
+Chamomile (Musical Recording) #1	Length	"223.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Chamomile (Musical Recording) #1	Recorded by	Royal Wood	.
+Chamomile (Musical Recording) #1	Release	The Milkweed ep (Musical Release)	.
+Chamomile (Musical Recording) #1	is-a	Canonical Version	.
+Chamomile (Musical Recording) #1	is-a	Musical Recording	.
+Chamomile (Musical Recording) #1	is-a	Topic	.
+Chamomile (Musical Recording) #2	Length	"201.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Chamomile (Musical Recording) #2	Recorded by	Katy Bowser	.
+Chamomile (Musical Recording) #2	Release	Longing (Musical Release) #85	.
+Chamomile (Musical Recording) #2	is-a	Canonical Version	.
+Chamomile (Musical Recording) #2	is-a	Musical Recording	.
+Chamomile (Musical Recording) #2	is-a	Topic	.
+Chamomile (Musical Recording) #3	Recorded by	Hanalei (Indie rock Artist)	.
+Chamomile (Musical Recording) #3	Release	Parts And Accessories (Musical Release)	.
+Chamomile (Musical Recording) #3	is-a	Canonical Version	.
+Chamomile (Musical Recording) #3	is-a	Musical Recording	.
+Chamomile (Musical Recording) #3	is-a	Topic	.
+Chamomile (m/0lkk_pg)	Recording	Chamomile (Musical Recording) #2	.
+Chamomile (m/0lkk_pg)	Release	Longing (Musical Release) #85	.
+Chamomile (m/0lkk_pg)	Track #	"1"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Chamomile (m/0lkk_pg)	is-a	Release track	.
+Chamomile (m/0lkk_pg)	is-a	Topic	.
+Chamomile (m/0lrrwf7)	Recording	Chamomile (Musical Recording) #3	.
+Chamomile (m/0lrrwf7)	Release	Parts And Accessories (Musical Release)	.
+Chamomile (m/0lrrwf7)	Track #	"6"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Chamomile (m/0lrrwf7)	is-a	Release track	.
+Chamomile (m/0lrrwf7)	is-a	Topic	.
+Chamomile (m/0m58fn0)	Recording	Chamomile (Musical Recording) #1	.
+Chamomile (m/0m58fn0)	Release	The Milkweed ep (Musical Release)	.
+Chamomile (m/0m58fn0)	Track #	"2"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Chamomile (m/0m58fn0)	is-a	Release track	.
+Chamomile (m/0m58fn0)	is-a	Topic	.
+Chamomile (Musical Recording) #1	Length	"223.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Chamomile (Musical Recording) #1	Recorded by	Royal Wood	.
+Chamomile (Musical Recording) #1	Release	The Milkweed ep (Musical Release)	.
+Chamomile (Musical Recording) #1	is-a	Canonical Version	.
+Chamomile (Musical Recording) #1	is-a	Musical Recording	.
+Chamomile (Musical Recording) #1	is-a	Topic	.
+Chamomile (Musical Recording) #2	Length	"201.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Chamomile (Musical Recording) #2	Recorded by	Katy Bowser	.
+Chamomile (Musical Recording) #2	Release	Longing (Musical Release) #85	.
+Chamomile (Musical Recording) #2	is-a	Canonical Version	.
+Chamomile (Musical Recording) #2	is-a	Musical Recording	.
+Chamomile (Musical Recording) #2	is-a	Topic	.
+Chamomile (Musical Recording) #3	Recorded by	Hanalei (Indie rock Artist)	.
+Chamomile (Musical Recording) #3	Release	Parts And Accessories (Musical Release)	.
+Chamomile (Musical Recording) #3	is-a	Canonical Version	.
+Chamomile (Musical Recording) #3	is-a	Musical Recording	.
+Chamomile (Musical Recording) #3	is-a	Topic	.
+Chamomile (m/0lkk_pg)	Recording	Chamomile (Musical Recording) #2	.
+Chamomile (m/0lkk_pg)	Release	Longing (Musical Release) #85	.
+Chamomile (m/0lkk_pg)	Track #	"1"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Chamomile (m/0lkk_pg)	is-a	Release track	.
+Chamomile (m/0lkk_pg)	is-a	Topic	.
+Chamomile (m/0lrrwf7)	Recording	Chamomile (Musical Recording) #3	.
+Chamomile (m/0lrrwf7)	Release	Parts And Accessories (Musical Release)	.
+Chamomile (m/0lrrwf7)	Track #	"6"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Chamomile (m/0lrrwf7)	is-a	Release track	.
+Chamomile (m/0lrrwf7)	is-a	Topic	.
+Chamomile (m/0m58fn0)	Recording	Chamomile (Musical Recording) #1	.
+Chamomile (m/0m58fn0)	Release	The Milkweed ep (Musical Release)	.
+Chamomile (m/0m58fn0)	Track #	"2"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Chamomile (m/0m58fn0)	is-a	Release track	.
+Chamomile (m/0m58fn0)	is-a	Topic	.
+Chamomile Circle (Musical Recording)	Length	"393.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Chamomile Circle (Musical Recording)	Recorded by	Stuart Jones (Musical Artist)	.
+Chamomile Circle (Musical Recording)	Release	Massage (Consumer product)	.
+Chamomile Circle (Musical Recording)	is-a	Canonical Version	.
+Chamomile Circle (Musical Recording)	is-a	Musical Recording	.
+Chamomile Circle (Musical Recording)	is-a	Topic	.
+Chamomile Circle (m/0mngj35)	Recording	Chamomile Circle (Musical Recording)	.
+Chamomile Circle (m/0mngj35)	Release	Massage (Consumer product)	.
+Chamomile Circle (m/0mngj35)	Track #	"4"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Chamomile Circle (m/0mngj35)	is-a	Release track	.
+Chamomile Circle (m/0mngj35)	is-a	Topic	.
+Chamomile Homeopathic Preparation Oral	Route of administration	Oral (Drug administration route)	.
+Chamomile Homeopathic Preparation Oral	Routed drug of	Chamomile homeopathic preparation	.
+Chamomile Homeopathic Preparation Oral	is-a	Condition prevention factors	.
+Chamomile Homeopathic Preparation Oral	is-a	Medical Treatment	.
+Chamomile Homeopathic Preparation Oral	is-a	Routed drug	.
+Chamomile Homeopathic Preparation Oral	is-a	Topic	.
+Chamomile Lullaby (Canonical Version)	Length	"293.067"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Chamomile Lullaby (Canonical Version)	Recorded by	Banoffi	.
+Chamomile Lullaby (Canonical Version)	Release	Galata Bridge (Musical Release)	.
+Chamomile Lullaby (Canonical Version)	is-a	Canonical Version	.
+Chamomile Lullaby (Canonical Version)	is-a	Musical Recording	.
+Chamomile Lullaby (Canonical Version)	is-a	Topic	.
+Chamomile Lullaby (m/0n79wwg)	Recording	Chamomile Lullaby (Canonical Version)	.
+Chamomile Lullaby (m/0n79wwg)	Release	Galata Bridge (Musical Release)	.
+Chamomile Lullaby (m/0n79wwg)	Track #	"13"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Chamomile Lullaby (m/0n79wwg)	is-a	Release track	.
+Chamomile Lullaby (m/0n79wwg)	is-a	Topic	.
+Chamomile Mourning	Author	Laura Childs	.
+Chamomile Mourning	is-a	Book	.
+Chamomile Mourning	is-a	Topic	.
+Chamomile Mourning	is-a	Written Work	.
+Chamomile Pool	Artist	Ai Aso	.
+Chamomile Pool	Initial release date	"2007-08-24"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Chamomile Pool	Primary release	Chamomile Pool (Musical Release)	.
+Chamomile Pool	Release type	Album	.
+Chamomile Pool	is-a	Musical Album	.
+Chamomile Pool	is-a	Topic	.
+Chamomile Pool (Musical Release)	Credited A	"Ai Aso"	.
+Chamomile Pool (Musical Release)	Region	Japan	.
+Chamomile Pool (Musical Release)	Release Date	"2007"^^<http://www.w3.org/2001/XMLSchema#gYear>	.
+Chamomile Pool (Musical Release)	Release of	Chamomile Pool	.
+Chamomile Pool (Musical Release)	is-a	Creative Work	.
+Chamomile Pool (Musical Release)	is-a	Musical Release	.
+Chamomile Pool (Musical Release)	is-a	Topic	.
+Chamomile Tea (Canonical Version) #1	Length	"219.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Chamomile Tea (Canonical Version) #1	Recorded by	Sarah Dooley (Musical Artist)	.
+Chamomile Tea (Canonical Version) #1	Release	Sarah Dooley (Musical Release)	.
+Chamomile Tea (Canonical Version) #1	is-a	Canonical Version	.
+Chamomile Tea (Canonical Version) #1	is-a	Musical Recording	.
+Chamomile Tea (Canonical Version) #1	is-a	Topic	.
+Chamomile Tea (Canonical Version) #2	Length	"166.626"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Chamomile Tea (Canonical Version) #2	Recorded by	JZ Barrell	.
+Chamomile Tea (Canonical Version) #2	Release	Here's the Surprise (Musical Release)	.
+Chamomile Tea (Canonical Version) #2	is-a	Canonical Version	.
+Chamomile Tea (Canonical Version) #2	is-a	Musical Recording	.
+Chamomile Tea (Canonical Version) #2	is-a	Topic	.
+Chamomile Tea (m/0l9g19k)	Recording	Chamomile Tea (Canonical Version) #2	.
+Chamomile Tea (m/0l9g19k)	Release	Here's the Surprise (Musical Release)	.
+Chamomile Tea (m/0l9g19k)	Track #	"2"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Chamomile Tea (m/0l9g19k)	is-a	Release track	.
+Chamomile Tea (m/0l9g19k)	is-a	Topic	.
+Chamomile Tea (m/0m30dx5)	Recording	Chamomile Tea (Canonical Version) #1	.
+Chamomile Tea (m/0m30dx5)	Release	Sarah Dooley (Musical Release)	.
+Chamomile Tea (m/0m30dx5)	Track #	"6"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Chamomile Tea (m/0m30dx5)	is-a	Release track	.
+Chamomile Tea (m/0m30dx5)	is-a	Topic	.
+Chamomile Turpentine (Canonical Version)	Recorded by	The Danglers (Musical Artist)	.
+Chamomile Turpentine (Canonical Version)	Release	The Danglers (Musical Release)	.
+Chamomile Turpentine (Canonical Version)	is-a	Canonical Version	.
+Chamomile Turpentine (Canonical Version)	is-a	Musical Recording	.
+Chamomile Turpentine (Canonical Version)	is-a	Topic	.
+Chamomile Turpentine (m/0l8wgtc)	Recording	Chamomile Turpentine (Canonical Version)	.
+Chamomile Turpentine (m/0l8wgtc)	Release	The Danglers (Musical Release)	.
+Chamomile Turpentine (m/0l8wgtc)	Track #	"8"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Chamomile Turpentine (m/0l8wgtc)	is-a	Release track	.
+Chamomile Turpentine (m/0l8wgtc)	is-a	Topic	.
+Chamomile and Whiskey	is-a	Musical Artist	.
+Chamomile and Whiskey	is-a	Topic	.
+Chamomile homeopathic preparation	Active moiety	Chamaemelum nobile	.
+Chamomile homeopathic preparation	Legal status	Not evaluated by FDA	.
+Chamomile homeopathic preparation	Legal status	Over-the-counter drug	.
+Chamomile homeopathic preparation	is-a	Drug	.
+Chamomile homeopathic preparation	is-a	Topic	.
+Chamomile plant 6 pellet	Active ingredient	Matricaria chamomilla	.
+Chamomile plant 6 pellet	Active ingredient moiety	Matricaria chamomilla	.
+Chamomile plant 6 pellet	Brand name	"Chamomilla"@en	.
+Chamomile plant 6 pellet	Dosage form	Pellet (Drug dosage form)	.
+Chamomile plant 6 pellet	Drug category	Homeopathic (Drug formulation category)	.
+Chamomile plant 6 pellet	Formulation of	Matricaria recutita homeopathic preparation	.
+Chamomile plant 6 pellet	Legal status	Not evaluated by FDA	.
+Chamomile plant 6 pellet	Legal status	Over-the-counter drug	.
+Chamomile plant 6 pellet	Route of administration	Sublingual administration	.
+Chamomile plant 6 pellet	Routed drug	Matricaria Recutita Homeopathic Preparation Sublingual	.
+Chamomile plant 6 pellet	is-a	Drug formulation	.
+Chamomile plant 6 pellet	is-a	Topic	.
+Chamomile, graphite, and hypericum perforatum 0.006/0.006/0.006 solution/drops	Active ingredient	Chamaemelum nobile	.
+Chamomile, graphite, and hypericum perforatum 0.006/0.006/0.006 solution/drops	Active ingredient	Graphite	.
+Chamomile, graphite, and hypericum perforatum 0.006/0.006/0.006 solution/drops	Active ingredient	Hypericum perforatum (Drug formulation ingredient)	.
+Chamomile, graphite, and hypericum perforatum 0.006/0.006/0.006 solution/drops	Active ingredient moiety	Chamaemelum nobile	.
+Chamomile, graphite, and hypericum perforatum 0.006/0.006/0.006 solution/drops	Active ingredient moiety	Graphite	.
+Chamomile, graphite, and hypericum perforatum 0.006/0.006/0.006 solution/drops	Active ingredient moiety	Hypericum perforatum (Drug formulation ingredient)	.
+Chamomile, graphite, and hypericum perforatum 0.006/0.006/0.006 solution/drops	Brand name	"Eczema Control"@en	.
+Chamomile, graphite, and hypericum perforatum 0.006/0.006/0.006 solution/drops	Dosage form	Solution/drops	.
+Chamomile, graphite, and hypericum perforatum 0.006/0.006/0.006 solution/drops	Drug category	Homeopathic (Drug formulation category)	.
+Chamomile, graphite, and hypericum perforatum 0.006/0.006/0.006 solution/drops	Formulation of	Chamomile/Graphite/Hypericum perforatum homeopathic preparation	.
+Chamomile, graphite, and hypericum perforatum 0.006/0.006/0.006 solution/drops	Legal status	Not evaluated by FDA	.
+Chamomile, graphite, and hypericum perforatum 0.006/0.006/0.006 solution/drops	Legal status	Over-the-counter drug	.
+Chamomile, graphite, and hypericum perforatum 0.006/0.006/0.006 solution/drops	Route of administration	Topical medication	.
+Chamomile, graphite, and hypericum perforatum 0.006/0.006/0.006 solution/drops	Routed drug	Chamomile/Graphite/Hypericum Perforatum Homeopathic Preparation Topical	.
+Chamomile, graphite, and hypericum perforatum 0.006/0.006/0.006 solution/drops	is-a	Drug formulation	.
+Chamomile, graphite, and hypericum perforatum 0.006/0.006/0.006 solution/drops	is-a	Topic	.
+Chamomile, mercurius solubilis, and sulfur 1/1.5/1.2 solution	Active ingredient	Chamaemelum nobile	.
+Chamomile, mercurius solubilis, and sulfur 1/1.5/1.2 solution	Active ingredient	Mercurius solubilis	.
+Chamomile, mercurius solubilis, and sulfur 1/1.5/1.2 solution	Active ingredient	Sulfur	.
+Chamomile, mercurius solubilis, and sulfur 1/1.5/1.2 solution	Active ingredient moiety	Chamaemelum nobile	.
+Chamomile, mercurius solubilis, and sulfur 1/1.5/1.2 solution	Active ingredient moiety	Mercurius solubilis	.
+Chamomile, mercurius solubilis, and sulfur 1/1.5/1.2 solution	Active ingredient moiety	Sulfur	.
+Chamomile, mercurius solubilis, and sulfur 1/1.5/1.2 solution	Brand name	"Ear Pain Relief Ear Drops"@en	.
+Chamomile, mercurius solubilis, and sulfur 1/1.5/1.2 solution	Brand name	"Earache Relief"@en	.
+Chamomile, mercurius solubilis, and sulfur 1/1.5/1.2 solution	Brand name	"Homeopathic Ear Pain Relief"@en	.
+Chamomile, mercurius solubilis, and sulfur 1/1.5/1.2 solution	Brand name	"Rite Aid Ear Drops"@en	.
+Chamomile, mercurius solubilis, and sulfur 1/1.5/1.2 solution	Dosage form	Solution	.
+Chamomile, mercurius solubilis, and sulfur 1/1.5/1.2 solution	Drug category	Homeopathic (Drug formulation category)	.
+Chamomile, mercurius solubilis, and sulfur 1/1.5/1.2 solution	Formulation of	Chamomile/Mercurius solubilis/Sulfur homeopathic preparation	.
+Chamomile, mercurius solubilis, and sulfur 1/1.5/1.2 solution	Legal status	Not evaluated by FDA	.
+Chamomile, mercurius solubilis, and sulfur 1/1.5/1.2 solution	Legal status	Over-the-counter drug	.
+Chamomile, mercurius solubilis, and sulfur 1/1.5/1.2 solution	Route of administration	Auricular (otic)	.
+Chamomile, mercurius solubilis, and sulfur 1/1.5/1.2 solution	Routed drug	Chamomile/Mercurius Solubilis/Sulfur Homeopathic Preparation Auricular	.
+Chamomile, mercurius solubilis, and sulfur 1/1.5/1.2 solution	is-a	Drug formulation	.
+Chamomile, mercurius solubilis, and sulfur 1/1.5/1.2 solution	is-a	Topic	.
+Chamomile, mercurius solubilis, pulsatilla patens, and sulfur 1/1.5/1.2/1.2 solution	Active ingredient	Chamaemelum nobile	.
+Chamomile, mercurius solubilis, pulsatilla patens, and sulfur 1/1.5/1.2/1.2 solution	Active ingredient	Mercurius solubilis	.
+Chamomile, mercurius solubilis, pulsatilla patens, and sulfur 1/1.5/1.2/1.2 solution	Active ingredient	Pulsatilla patens	.
+Chamomile, mercurius solubilis, pulsatilla patens, and sulfur 1/1.5/1.2/1.2 solution	Active ingredient	Sulfur	.
+Chamomile, mercurius solubilis, pulsatilla patens, and sulfur 1/1.5/1.2/1.2 solution	Active ingredient moiety	Chamaemelum nobile	.
+Chamomile, mercurius solubilis, pulsatilla patens, and sulfur 1/1.5/1.2/1.2 solution	Active ingredient moiety	Mercurius solubilis	.
+Chamomile, mercurius solubilis, pulsatilla patens, and sulfur 1/1.5/1.2/1.2 solution	Active ingredient moiety	Pulsatilla patens	.
+Chamomile, mercurius solubilis, pulsatilla patens, and sulfur 1/1.5/1.2/1.2 solution	Active ingredient moiety	Sulfur	.
+Chamomile, mercurius solubilis, pulsatilla patens, and sulfur 1/1.5/1.2/1.2 solution	Brand name	"Childrens Earache Relief"@en	.
+Chamomile, mercurius solubilis, pulsatilla patens, and sulfur 1/1.5/1.2/1.2 solution	Dosage form	Solution	.
+Chamomile, mercurius solubilis, pulsatilla patens, and sulfur 1/1.5/1.2/1.2 solution	Drug category	Homeopathic (Drug formulation category)	.
+Chamomile, mercurius solubilis, pulsatilla patens, and sulfur 1/1.5/1.2/1.2 solution	Formulation of	Chamomile/Mercurius solubilis/Pulsatilla patens/Sulfur homeopathic preparation	.
+Chamomile, mercurius solubilis, pulsatilla patens, and sulfur 1/1.5/1.2/1.2 solution	Legal status	Not evaluated by FDA	.
+Chamomile, mercurius solubilis, pulsatilla patens, and sulfur 1/1.5/1.2/1.2 solution	Legal status	Over-the-counter drug	.
+Chamomile, mercurius solubilis, pulsatilla patens, and sulfur 1/1.5/1.2/1.2 solution	Route of administration	Auricular (otic)	.
+Chamomile, mercurius solubilis, pulsatilla patens, and sulfur 1/1.5/1.2/1.2 solution	Routed drug	Chamomile/Mercurius Solubilis/Pulsatilla Patens/Sulfur Homeopathic Preparation Auricular	.
+Chamomile, mercurius solubilis, pulsatilla patens, and sulfur 1/1.5/1.2/1.2 solution	is-a	Drug formulation	.
+Chamomile, mercurius solubilis, pulsatilla patens, and sulfur 1/1.5/1.2/1.2 solution	is-a	Topic	.
+Chamomile/Graphite/Hypericum Perforatum Homeopathic Preparation Topical	Route of administration	Topical medication	.
+Chamomile/Graphite/Hypericum Perforatum Homeopathic Preparation Topical	Routed drug of	Chamomile/Graphite/Hypericum perforatum homeopathic preparation	.
+Chamomile/Graphite/Hypericum Perforatum Homeopathic Preparation Topical	is-a	Condition prevention factors	.
+Chamomile/Graphite/Hypericum Perforatum Homeopathic Preparation Topical	is-a	Medical Treatment	.
+Chamomile/Graphite/Hypericum Perforatum Homeopathic Preparation Topical	is-a	Routed drug	.
+Chamomile/Graphite/Hypericum Perforatum Homeopathic Preparation Topical	is-a	Topic	.
+Chamomile/Graphite/Hypericum perforatum homeopathic preparation	Active moiety	Chamaemelum nobile	.
+Chamomile/Graphite/Hypericum perforatum homeopathic preparation	Active moiety	Graphite	.
+Chamomile/Graphite/Hypericum perforatum homeopathic preparation	Active moiety	Hypericum perforatum (Drug formulation ingredient)	.
+Chamomile/Graphite/Hypericum perforatum homeopathic preparation	Legal status	Not evaluated by FDA	.
+Chamomile/Graphite/Hypericum perforatum homeopathic preparation	Legal status	Over-the-counter drug	.
+Chamomile/Graphite/Hypericum perforatum homeopathic preparation	is-a	Drug	.
+Chamomile/Graphite/Hypericum perforatum homeopathic preparation	is-a	Topic	.
+Chamomile/Mercurius Solubilis/Pulsatilla Patens/Sulfur Homeopathic Preparation Auricular	Route of administration	Auricular (otic)	.
+Chamomile/Mercurius Solubilis/Pulsatilla Patens/Sulfur Homeopathic Preparation Auricular	Routed drug of	Chamomile/Mercurius solubilis/Pulsatilla patens/Sulfur homeopathic preparation	.
+Chamomile/Mercurius Solubilis/Pulsatilla Patens/Sulfur Homeopathic Preparation Auricular	is-a	Condition prevention factors	.
+Chamomile/Mercurius Solubilis/Pulsatilla Patens/Sulfur Homeopathic Preparation Auricular	is-a	Medical Treatment	.
+Chamomile/Mercurius Solubilis/Pulsatilla Patens/Sulfur Homeopathic Preparation Auricular	is-a	Routed drug	.
+Chamomile/Mercurius Solubilis/Pulsatilla Patens/Sulfur Homeopathic Preparation Auricular	is-a	Topic	.
+Chamomile/Mercurius Solubilis/Sulfur Homeopathic Preparation Auricular	Route of administration	Auricular (otic)	.
+Chamomile/Mercurius Solubilis/Sulfur Homeopathic Preparation Auricular	Routed drug of	Chamomile/Mercurius solubilis/Sulfur homeopathic preparation	.
+Chamomile/Mercurius Solubilis/Sulfur Homeopathic Preparation Auricular	is-a	Condition prevention factors	.
+Chamomile/Mercurius Solubilis/Sulfur Homeopathic Preparation Auricular	is-a	Medical Treatment	.
+Chamomile/Mercurius Solubilis/Sulfur Homeopathic Preparation Auricular	is-a	Routed drug	.
+Chamomile/Mercurius Solubilis/Sulfur Homeopathic Preparation Auricular	is-a	Topic	.
+Chamomile/Mercurius solubilis/Pulsatilla patens/Sulfur homeopathic preparation	Active moiety	Chamaemelum nobile	.
+Chamomile/Mercurius solubilis/Pulsatilla patens/Sulfur homeopathic preparation	Active moiety	Mercurius solubilis	.
+Chamomile/Mercurius solubilis/Pulsatilla patens/Sulfur homeopathic preparation	Active moiety	Pulsatilla patens	.
+Chamomile/Mercurius solubilis/Pulsatilla patens/Sulfur homeopathic preparation	Active moiety	Sulfur	.
+Chamomile/Mercurius solubilis/Pulsatilla patens/Sulfur homeopathic preparation	Legal status	Not evaluated by FDA	.
+Chamomile/Mercurius solubilis/Pulsatilla patens/Sulfur homeopathic preparation	Legal status	Over-the-counter drug	.
+Chamomile/Mercurius solubilis/Pulsatilla patens/Sulfur homeopathic preparation	is-a	Drug	.
+Chamomile/Mercurius solubilis/Pulsatilla patens/Sulfur homeopathic preparation	is-a	Topic	.
+Chamomile/Mercurius solubilis/Sulfur homeopathic preparation	Active moiety	Chamaemelum nobile	.
+Chamomile/Mercurius solubilis/Sulfur homeopathic preparation	Active moiety	Mercurius solubilis	.
+Chamomile/Mercurius solubilis/Sulfur homeopathic preparation	Active moiety	Sulfur	.
+Chamomile/Mercurius solubilis/Sulfur homeopathic preparation	Legal status	Not evaluated by FDA	.
+Chamomile/Mercurius solubilis/Sulfur homeopathic preparation	Legal status	Over-the-counter drug	.
+Chamomile/Mercurius solubilis/Sulfur homeopathic preparation	is-a	Drug	.
+Chamomile/Mercurius solubilis/Sulfur homeopathic preparation	is-a	Topic	.
+Chamomile/Passiflora Incarnata Flowering Top/Magnesium Cation/Calcium Cation Homeopathic Preparation Oral	Route of administration	Oral (Drug administration route)	.
+Chamomile/Passiflora Incarnata Flowering Top/Magnesium Cation/Calcium Cation Homeopathic Preparation Oral	Routed drug of	Chamomile/Passiflora incarnata flowering top/Magnesium cation/Calcium cation homeopathic preparation	.
+Chamomile/Passiflora Incarnata Flowering Top/Magnesium Cation/Calcium Cation Homeopathic Preparation Oral	is-a	Condition prevention factors	.
+Chamomile/Passiflora Incarnata Flowering Top/Magnesium Cation/Calcium Cation Homeopathic Preparation Oral	is-a	Medical Treatment	.
+Chamomile/Passiflora Incarnata Flowering Top/Magnesium Cation/Calcium Cation Homeopathic Preparation Oral	is-a	Routed drug	.
+Chamomile/Passiflora Incarnata Flowering Top/Magnesium Cation/Calcium Cation Homeopathic Preparation Oral	is-a	Topic	.
+Chamomile/Passiflora incarnata flowering top/Magnesium cation/Calcium cation homeopathic preparation	Active moiety	Calcium	.
+Chamomile/Passiflora incarnata flowering top/Magnesium cation/Calcium cation homeopathic preparation	Active moiety	Chamaemelum nobile	.
+Chamomile/Passiflora incarnata flowering top/Magnesium cation/Calcium cation homeopathic preparation	Active moiety	Magnesium	.
+Chamomile/Passiflora incarnata flowering top/Magnesium cation/Calcium cation homeopathic preparation	Active moiety	Passiflora incarnata flowering top	.
+Chamomile/Passiflora incarnata flowering top/Magnesium cation/Calcium cation homeopathic preparation	Legal status	Not evaluated by FDA	.
+Chamomile/Passiflora incarnata flowering top/Magnesium cation/Calcium cation homeopathic preparation	is-a	Drug	.
+Chamomile/Passiflora incarnata flowering top/Magnesium cation/Calcium cation homeopathic preparation	is-a	Topic	.
+Chamomile/Pimpinella Saxifraga Root/Magnesium Cation/Activated Charcoal/Strychnos Nux-Vomica Seed Homeopathic Preparation Oral	Route of administration	Oral (Drug administration route)	.
+Chamomile/Pimpinella Saxifraga Root/Magnesium Cation/Activated Charcoal/Strychnos Nux-Vomica Seed Homeopathic Preparation Oral	Routed drug of	Chamomile/Pimpinella saxifraga root/Magnesium cation/Activated charcoal/Strychnos nux-vomica seed homeopathic preparation	.
+Chamomile/Pimpinella Saxifraga Root/Magnesium Cation/Activated Charcoal/Strychnos Nux-Vomica Seed Homeopathic Preparation Oral	is-a	Condition prevention factors	.
+Chamomile/Pimpinella Saxifraga Root/Magnesium Cation/Activated Charcoal/Strychnos Nux-Vomica Seed Homeopathic Preparation Oral	is-a	Medical Treatment	.
+Chamomile/Pimpinella Saxifraga Root/Magnesium Cation/Activated Charcoal/Strychnos Nux-Vomica Seed Homeopathic Preparation Oral	is-a	Routed drug	.
+Chamomile/Pimpinella Saxifraga Root/Magnesium Cation/Activated Charcoal/Strychnos Nux-Vomica Seed Homeopathic Preparation Oral	is-a	Topic	.
+Chamomile/Pimpinella saxifraga root/Magnesium cation/Activated charcoal/Strychnos nux-vomica seed homeopathic preparation	Active moiety	Activated carbon	.
+Chamomile/Pimpinella saxifraga root/Magnesium cation/Activated charcoal/Strychnos nux-vomica seed homeopathic preparation	Active moiety	Chamaemelum nobile	.
+Chamomile/Pimpinella saxifraga root/Magnesium cation/Activated charcoal/Strychnos nux-vomica seed homeopathic preparation	Active moiety	Magnesium	.
+Chamomile/Pimpinella saxifraga root/Magnesium cation/Activated charcoal/Strychnos nux-vomica seed homeopathic preparation	Active moiety	Pimpinella saxifraga root	.
+Chamomile/Pimpinella saxifraga root/Magnesium cation/Activated charcoal/Strychnos nux-vomica seed homeopathic preparation	Active moiety	Strychnos nux-vomica seed	.
+Chamomile/Pimpinella saxifraga root/Magnesium cation/Activated charcoal/Strychnos nux-vomica seed homeopathic preparation	Legal status	Not evaluated by FDA	.
+Chamomile/Pimpinella saxifraga root/Magnesium cation/Activated charcoal/Strychnos nux-vomica seed homeopathic preparation	is-a	Drug	.
+Chamomile/Pimpinella saxifraga root/Magnesium cation/Activated charcoal/Strychnos nux-vomica seed homeopathic preparation	is-a	Topic	.
+Chamomile/Viburnum Prunifolium Bark/Viburnum Opulus Bark/Dioscorea Villosa Root Homeopathic Preparation Oral	Route of administration	Oral (Drug administration route)	.
+Chamomile/Viburnum Prunifolium Bark/Viburnum Opulus Bark/Dioscorea Villosa Root Homeopathic Preparation Oral	Routed drug of	Chamomile/Viburnum prunifolium bark/Viburnum opulus bark/Dioscorea villosa root homeopathic preparation	.
+Chamomile/Viburnum Prunifolium Bark/Viburnum Opulus Bark/Dioscorea Villosa Root Homeopathic Preparation Oral	is-a	Condition prevention factors	.
+Chamomile/Viburnum Prunifolium Bark/Viburnum Opulus Bark/Dioscorea Villosa Root Homeopathic Preparation Oral	is-a	Medical Treatment	.
+Chamomile/Viburnum Prunifolium Bark/Viburnum Opulus Bark/Dioscorea Villosa Root Homeopathic Preparation Oral	is-a	Routed drug	.
+Chamomile/Viburnum Prunifolium Bark/Viburnum Opulus Bark/Dioscorea Villosa Root Homeopathic Preparation Oral	is-a	Topic	.
+Chamomile/Viburnum prunifolium bark/Viburnum opulus bark/Dioscorea villosa root homeopathic preparation	Active moiety	Chamaemelum nobile	.
+Chamomile/Viburnum prunifolium bark/Viburnum opulus bark/Dioscorea villosa root homeopathic preparation	Active moiety	Dioscorea villosa root	.
+Chamomile/Viburnum prunifolium bark/Viburnum opulus bark/Dioscorea villosa root homeopathic preparation	Active moiety	Viburnum opulus bark	.
+Chamomile/Viburnum prunifolium bark/Viburnum opulus bark/Dioscorea villosa root homeopathic preparation	Active moiety	Viburnum prunifolium bark	.
+Chamomile/Viburnum prunifolium bark/Viburnum opulus bark/Dioscorea villosa root homeopathic preparation	Legal status	Not evaluated by FDA	.
+Chamomile/Viburnum prunifolium bark/Viburnum opulus bark/Dioscorea villosa root homeopathic preparation	Legal status	Over-the-counter drug	.
+Chamomile/Viburnum prunifolium bark/Viburnum opulus bark/Dioscorea villosa root homeopathic preparation	is-a	Drug	.
+Chamomile/Viburnum prunifolium bark/Viburnum opulus bark/Dioscorea villosa root homeopathic preparation	is-a	Topic	.

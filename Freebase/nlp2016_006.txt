@@ -1,0 +1,170 @@
+Bilberry	Energy per 100g	"255.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Bilberry	Higher classification	Angiospermae	.
+Bilberry	Higher classification	Asterids	.
+Bilberry	Higher classification	Ericaceae	.
+Bilberry	Higher classification	Ericales	.
+Bilberry	Higher classification	Eudicots	.
+Bilberry	Higher classification	Eukaryote	.
+Bilberry	Higher classification	Plant	.
+Bilberry	Higher classification	Vaccinium	.
+Bilberry	NCBI Taxon ID	"180763"	.
+Bilberry	Nutrient per 100g	Alpha-Tocopherol	.
+Bilberry	Nutrient per 100g	Ash (Nutrient)	.
+Bilberry	Nutrient per 100g	Beta-carotene	.
+Bilberry	Nutrient per 100g	Calcium	.
+Bilberry	Nutrient per 100g	Carbohydrate	.
+Bilberry	Nutrient per 100g	Copper	.
+Bilberry	Nutrient per 100g	D-Glucose	.
+Bilberry	Nutrient per 100g	Dietary fiber	.
+Bilberry	Nutrient per 100g	Dietary folate equivalents	.
+Bilberry	Nutrient per 100g	Folic acid	.
+Bilberry	Nutrient per 100g	Food folates	.
+Bilberry	Nutrient per 100g	Fructose	.
+Bilberry	Nutrient per 100g	Iron	.
+Bilberry	Nutrient per 100g	Lipid	.
+Bilberry	Nutrient per 100g	Magnesium	.
+Bilberry	Nutrient per 100g	Manganese	.
+Bilberry	Nutrient per 100g	Niacin	.
+Bilberry	Nutrient per 100g	Pantothenic acid	.
+Bilberry	Nutrient per 100g	Phosphorus	.
+Bilberry	Nutrient per 100g	Phytonadione	.
+Bilberry	Nutrient per 100g	Potassium	.
+Bilberry	Nutrient per 100g	Protein (Nutrient)	.
+Bilberry	Nutrient per 100g	Retinol Activity Equivalents	.
+Bilberry	Nutrient per 100g	Riboflavin	.
+Bilberry	Nutrient per 100g	Sodium	.
+Bilberry	Nutrient per 100g	Sugar	.
+Bilberry	Nutrient per 100g	Table sugar	.
+Bilberry	Nutrient per 100g	Thiamine	.
+Bilberry	Nutrient per 100g	Vitamin A	.
+Bilberry	Nutrient per 100g	Vitamin B-6	.
+Bilberry	Nutrient per 100g	Vitamin C	.
+Bilberry	Nutrient per 100g	Water	.
+Bilberry	Nutrient per 100g	Zinc	.
+Bilberry	Nutrient per 100g	beta-Tocopherol	.
+Bilberry	Nutrient per 100g	delta-Tocopherol	.
+Bilberry	Nutrient per 100g	gamma-Tocopherol	.
+Bilberry	Rank	Species (Organism Classification Rank)	.
+Bilberry	Scientific name	"Vaccinium myrtillus"@en	.
+Bilberry	USDA Equivalent	"35155"	.
+Bilberry	is-a	Angiospermae	.
+Bilberry	is-a	Asterids	.
+Bilberry	is-a	Drug ingredient	.
+Bilberry	is-a	Ericaceae	.
+Bilberry	is-a	Ericales	.
+Bilberry	is-a	Eudicots	.
+Bilberry	is-a	Eukaryote	.
+Bilberry	is-a	Food	.
+Bilberry	is-a	Fruit	.
+Bilberry	is-a	Ingredient	.
+Bilberry	is-a	Organism Classification	.
+Bilberry	is-a	Plant	.
+Bilberry	is-a	Topic	.
+Bilberry	is-a	Vaccinium	.
+Bilberry	Energy per 100g	"255.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Bilberry	Higher classification	Angiospermae	.
+Bilberry	Higher classification	Asterids	.
+Bilberry	Higher classification	Ericaceae	.
+Bilberry	Higher classification	Ericales	.
+Bilberry	Higher classification	Eudicots	.
+Bilberry	Higher classification	Eukaryote	.
+Bilberry	Higher classification	Plant	.
+Bilberry	Higher classification	Vaccinium	.
+Bilberry	NCBI Taxon ID	"180763"	.
+Bilberry	Nutrient per 100g	Alpha-Tocopherol	.
+Bilberry	Nutrient per 100g	Ash (Nutrient)	.
+Bilberry	Nutrient per 100g	Beta-carotene	.
+Bilberry	Nutrient per 100g	Calcium	.
+Bilberry	Nutrient per 100g	Carbohydrate	.
+Bilberry	Nutrient per 100g	Copper	.
+Bilberry	Nutrient per 100g	D-Glucose	.
+Bilberry	Nutrient per 100g	Dietary fiber	.
+Bilberry	Nutrient per 100g	Dietary folate equivalents	.
+Bilberry	Nutrient per 100g	Folic acid	.
+Bilberry	Nutrient per 100g	Food folates	.
+Bilberry	Nutrient per 100g	Fructose	.
+Bilberry	Nutrient per 100g	Iron	.
+Bilberry	Nutrient per 100g	Lipid	.
+Bilberry	Nutrient per 100g	Magnesium	.
+Bilberry	Nutrient per 100g	Manganese	.
+Bilberry	Nutrient per 100g	Niacin	.
+Bilberry	Nutrient per 100g	Pantothenic acid	.
+Bilberry	Nutrient per 100g	Phosphorus	.
+Bilberry	Nutrient per 100g	Phytonadione	.
+Bilberry	Nutrient per 100g	Potassium	.
+Bilberry	Nutrient per 100g	Protein (Nutrient)	.
+Bilberry	Nutrient per 100g	Retinol Activity Equivalents	.
+Bilberry	Nutrient per 100g	Riboflavin	.
+Bilberry	Nutrient per 100g	Sodium	.
+Bilberry	Nutrient per 100g	Sugar	.
+Bilberry	Nutrient per 100g	Table sugar	.
+Bilberry	Nutrient per 100g	Thiamine	.
+Bilberry	Nutrient per 100g	Vitamin A	.
+Bilberry	Nutrient per 100g	Vitamin B-6	.
+Bilberry	Nutrient per 100g	Vitamin C	.
+Bilberry	Nutrient per 100g	Water	.
+Bilberry	Nutrient per 100g	Zinc	.
+Bilberry	Nutrient per 100g	beta-Tocopherol	.
+Bilberry	Nutrient per 100g	delta-Tocopherol	.
+Bilberry	Nutrient per 100g	gamma-Tocopherol	.
+Bilberry	Rank	Species (Organism Classification Rank)	.
+Bilberry	Scientific name	"Vaccinium myrtillus"@en	.
+Bilberry	USDA Equivalent	"35155"	.
+Bilberry	is-a	Angiospermae	.
+Bilberry	is-a	Asterids	.
+Bilberry	is-a	Drug ingredient	.
+Bilberry	is-a	Ericaceae	.
+Bilberry	is-a	Ericales	.
+Bilberry	is-a	Eudicots	.
+Bilberry	is-a	Eukaryote	.
+Bilberry	is-a	Food	.
+Bilberry	is-a	Fruit	.
+Bilberry	is-a	Ingredient	.
+Bilberry	is-a	Organism Classification	.
+Bilberry	is-a	Plant	.
+Bilberry	is-a	Topic	.
+Bilberry	is-a	Vaccinium	.
+Bilberry & Lutein	Author	Beth M Ley	.
+Bilberry & Lutein	is-a	Book	.
+Bilberry & Lutein	is-a	Topic	.
+Bilberry & Lutein	is-a	Written Work	.
+Bilberry Curd (Musical Recording)	Length	"414.133"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Bilberry Curd (Musical Recording)	Recorded by	Roland Casper	.
+Bilberry Curd (Musical Recording)	Release	Demagnetized (Compact Disc Musical Release)	.
+Bilberry Curd (Musical Recording)	is-a	Canonical Version	.
+Bilberry Curd (Musical Recording)	is-a	Musical Recording	.
+Bilberry Curd (Musical Recording)	is-a	Topic	.
+Bilberry Curd (m/0n6_y3m)	Recording	Bilberry Curd (Musical Recording)	.
+Bilberry Curd (m/0n6_y3m)	Release	Demagnetized (Compact Disc Musical Release)	.
+Bilberry Curd (m/0n6_y3m)	Track #	"15"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Bilberry Curd (m/0n6_y3m)	is-a	Release track	.
+Bilberry Curd (m/0n6_y3m)	is-a	Topic	.
+Bilberry Hill	Category	Hill	.
+Bilberry Hill	Contained by	England	.
+Bilberry Hill	Contained by	Eurasia	.
+Bilberry Hill	Contained by	Europe	.
+Bilberry Hill	Contained by	Great Britain	.
+Bilberry Hill	Contained by	Northern Hemisphere	.
+Bilberry Hill	Contained by	United Kingdom	.
+Bilberry Hill	Contained by	United Kingdom, with Dependencies and Territories	.
+Bilberry Hill	Contained by	West Midlands (United Kingdom) #2	.
+Bilberry Hill	Contained by	Western Europe	.
+Bilberry Hill	Contained by	Worcestershire	.
+Bilberry Hill	is-a	Geographical Feature	.
+Bilberry Hill	is-a	Location	.
+Bilberry Hill	is-a	Topic	.
+Bilberry Records	is-a	Business Operation	.
+Bilberry Records	is-a	Organisation	.
+Bilberry Records	is-a	Record label	.
+Bilberry Records	is-a	Topic	.
+Bilberry, Cornwall	Contained by	Eurasia	.
+Bilberry, Cornwall	Contained by	Europe	.
+Bilberry, Cornwall	Contained by	Northern Hemisphere	.
+Bilberry, Cornwall	Contained by	United Kingdom	.
+Bilberry, Cornwall	Contained by	United Kingdom, with Dependencies and Territories	.
+Bilberry, Cornwall	Contained by	Western Europe	.
+Bilberry, Cornwall	is-a	City/Town/Village	.
+Bilberry, Cornwall	is-a	Dated location	.
+Bilberry, Cornwall	is-a	Location	.
+Bilberry, Cornwall	is-a	Statistical region	.
+Bilberry, Cornwall	is-a	Topic	.

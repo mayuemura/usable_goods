@@ -1,0 +1,4 @@
+Tableware and Kitchenware in Thailand	Author	The Consumer Products Research Group	.
+Tableware and Kitchenware in Thailand	is-a	Book	.
+Tableware and Kitchenware in Thailand	is-a	Topic	.
+Tableware and Kitchenware in Thailand	is-a	Written Work	.

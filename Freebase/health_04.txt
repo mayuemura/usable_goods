@@ -1,0 +1,645 @@
+Anesthetic (Canonical Version) #10	Length	"289.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic (Canonical Version) #10	Recorded by	The Fix (Musical Artist)	.
+Anesthetic (Canonical Version) #10	Release	Azuli Presents: Miami 2007 (Multi-Part Musical Release)	.
+Anesthetic (Canonical Version) #10	is-a	Canonical Version	.
+Anesthetic (Canonical Version) #10	is-a	Musical Recording	.
+Anesthetic (Canonical Version) #10	is-a	Topic	.
+Anesthetic (Canonical Version) #11	Recorded by	Painstake	.
+Anesthetic (Canonical Version) #11	is-a	Canonical Version	.
+Anesthetic (Canonical Version) #11	is-a	Musical Recording	.
+Anesthetic (Canonical Version) #11	is-a	Topic	.
+Anesthetic (Canonical Version) #6	Length	"222.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic (Canonical Version) #6	Recorded by	Xcentric Noizz	.
+Anesthetic (Composition)	Composer	James Sigfried	.
+Anesthetic (Composition)	Kind of composition	Song	.
+Anesthetic (Composition)	Language	English Language	.
+Anesthetic (Composition)	Lyricist	James Sigfried	.
+Anesthetic (Mr G' Flatline mix) (Musical Recording)	Canonical version	Anesthetic (Canonical Version) #10	.
+Anesthetic (Mr G' Flatline mix) (Musical Recording)	Length	"244.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic (Mr G' Flatline mix) (Musical Recording)	Recorded by	The Fix (Musical Artist)	.
+Anesthetic (Mr G' Flatline mix) (Musical Recording)	Release	Azuli Presents: Miami 2008 (Consumer product)	.
+Anesthetic (Mr G' Flatline mix) (Musical Recording)	is-a	Musical Recording	.
+Anesthetic (Mr G' Flatline mix) (Musical Recording)	is-a	Topic	.
+Anesthetic (Mr G' Flatline mix) (m/0m6cbjy)	Recording	Anesthetic (Mr G' Flatline mix) (Musical Recording)	.
+Anesthetic (Mr G' Flatline mix) (m/0m6cbjy)	Release	Azuli Presents: Miami 2008 (Consumer product)	.
+Anesthetic (Mr G' Flatline mix) (m/0m6cbjy)	Track #	"15"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (Mr G' Flatline mix) (m/0m6cbjy)	is-a	Release track	.
+Anesthetic (Mr G' Flatline mix) (m/0m6cbjy)	is-a	Topic	.
+Anesthetic (Musical Recording) #1	Length	"261.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic (Musical Recording) #1	Recorded by	Experimental Products	.
+Anesthetic (Musical Recording) #1	Release	Prototype (Gramophone record Musical Release) #84	.
+Anesthetic (Musical Recording) #1	Release	Prototype ----- Plus Garage Tracks	.
+Anesthetic (Musical Recording) #1	is-a	Canonical Version	.
+Anesthetic (Musical Recording) #1	is-a	Musical Recording	.
+Anesthetic (Musical Recording) #1	is-a	Topic	.
+Anesthetic (Musical Recording) #2	Canonical version	Anesthetic (Musical Recording) #8	.
+Anesthetic (Musical Recording) #2	Recorded by	James Chance and The Contortions	.
+Anesthetic (Musical Recording) #2	Recording of Composition	Anesthetic (Composition)	.
+Anesthetic (Musical Recording) #2	Release	Buy the Contortions	.
+Anesthetic (Musical Recording) #2	is-a	Musical Recording	.
+Anesthetic (Musical Recording) #2	is-a	Topic	.
+Anesthetic (Musical Recording) #3	Canonical version	Anesthetic (Musical Recording) #8	.
+Anesthetic (Musical Recording) #3	Length	"232.586"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic (Musical Recording) #3	Recorded by	James Chance and The Contortions	.
+Anesthetic (Musical Recording) #3	Recording of Composition	Anesthetic (Composition)	.
+Anesthetic (Musical Recording) #3	Release	Irresistible Impulse (disc 1: Buy the Contortions / Theme From Grutzi Elvis)	.
+Anesthetic (Musical Recording) #3	is-a	Musical Recording	.
+Anesthetic (Musical Recording) #3	is-a	Topic	.
+Anesthetic (Musical Recording) #4	Length	"274.453"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic (Musical Recording) #4	Recorded by	Matryoshka	.
+Anesthetic (Musical Recording) #4	Release	Zatracenie	.
+Anesthetic (Musical Recording) #4	is-a	Canonical Version	.
+Anesthetic (Musical Recording) #4	is-a	Musical Recording	.
+Anesthetic (Musical Recording) #4	is-a	Topic	.
+Anesthetic (Musical Recording) #5	Length	"248.093"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic (Musical Recording) #5	Recorded by	Belvedere (Hardcore punk Artist)	.
+Anesthetic (Musical Recording) #5	Release	Fast Forward Eats the Tape (Compact Disc Musical Release)	.
+Anesthetic (Musical Recording) #5	is-a	Canonical Version	.
+Anesthetic (Musical Recording) #5	is-a	Musical Recording	.
+Anesthetic (Musical Recording) #5	is-a	Topic	.
+Anesthetic (Musical Recording) #7	Canonical version	Anesthetic (Canonical Version) #10	.
+Anesthetic (Musical Recording) #7	Length	"150.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic (Musical Recording) #7	Recorded by	The Fix (Musical Artist)	.
+Anesthetic (Musical Recording) #7	Release	Felix: Metropolitan Style Dining and Dancing (Compact Disc Musical Release)	.
+Anesthetic (Musical Recording) #7	is-a	Musical Recording	.
+Anesthetic (Musical Recording) #7	is-a	Topic	.
+Anesthetic (Musical Recording) #8	Length	"234.52"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic (Musical Recording) #8	Producer	James Sigfried	.
+Anesthetic (Musical Recording) #8	Recorded by	James Chance and The Contortions	.
+Anesthetic (Musical Recording) #8	Recording of Composition	Anesthetic (Composition)	.
+Anesthetic (Musical Recording) #8	Release	Buy	.
+Anesthetic (Musical Recording) #8	Release	Buy (Consumer product)	.
+Anesthetic (Musical Recording) #8	Release	Buy The Contortions (Gramophone record Musical Release)	.
+Anesthetic (Musical Recording) #8	is-a	Canonical Version	.
+Anesthetic (Musical Recording) #8	is-a	Musical Recording	.
+Anesthetic (Musical Recording) #8	is-a	Topic	.
+Anesthetic (Musical Recording) #9	Canonical version	Anesthetic (Canonical Version) #10	.
+Anesthetic (Musical Recording) #9	Length	"416.613"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic (Musical Recording) #9	Recorded by	The Fix (Musical Artist)	.
+Anesthetic (Musical Recording) #9	is-a	Musical Recording	.
+Anesthetic (Musical Recording) #9	is-a	Topic	.
+Anesthetic (m/0_f44n2)	Recording	Anesthetic (Canonical Version) #6	.
+Anesthetic (m/0_f44n2)	Release	Fonline - Soundtrack (Digital media Musical Release)	.
+Anesthetic (m/0_f44n2)	Track #	"15"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0kk0t52)	Recording	Anesthetic (Musical Recording) #2	.
+Anesthetic (m/0kk0t52)	Release	Buy the Contortions	.
+Anesthetic (m/0kk0t52)	Track #	"4"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0kk0t52)	is-a	Release track	.
+Anesthetic (m/0kk0t52)	is-a	Topic	.
+Anesthetic (m/0l69q_7)	Recording	Anesthetic (Musical Recording) #3	.
+Anesthetic (m/0l69q_7)	Release	Irresistible Impulse (disc 1: Buy the Contortions / Theme From Grutzi Elvis)	.
+Anesthetic (m/0l69q_7)	Track #	"4"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0l69q_7)	is-a	Release track	.
+Anesthetic (m/0l69q_7)	is-a	Topic	.
+Anesthetic (m/0ljxdqn)	Recording	Anesthetic (Musical Recording) #5	.
+Anesthetic (m/0ljxdqn)	Release	Fast Forward Eats the Tape (Compact Disc Musical Release)	.
+Anesthetic (m/0ljxdqn)	Track #	"15"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0ljxdqn)	is-a	Release track	.
+Anesthetic (m/0ljxdqn)	is-a	Topic	.
+Anesthetic (m/0lqrpw0)	Recording	Anesthetic (Musical Recording) #8	.
+Anesthetic (m/0lqrpw0)	Release	Buy The Contortions (Gramophone record Musical Release)	.
+Anesthetic (m/0lqrpw0)	Track #	"4"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0lqrpw0)	is-a	Release track	.
+Anesthetic (m/0lqrpw0)	is-a	Topic	.
+Anesthetic (m/0m4gx4j)	Recording	Anesthetic (Musical Recording) #8	.
+Anesthetic (m/0m4gx4j)	Release	Buy (Consumer product)	.
+Anesthetic (m/0m4gx4j)	Track #	"4"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0m4gx4j)	is-a	Release track	.
+Anesthetic (m/0m4gx4j)	is-a	Topic	.
+Anesthetic (m/0m9hyt7)	Recording	Anesthetic (Musical Recording) #1	.
+Anesthetic (m/0m9hyt7)	Release	Prototype (Gramophone record Musical Release) #84	.
+Anesthetic (m/0m9hyt7)	Track #	"7"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0m9hyt7)	is-a	Release track	.
+Anesthetic (m/0m9hyt7)	is-a	Topic	.
+Anesthetic (m/0mcywn3)	Recording	Anesthetic (Musical Recording) #4	.
+Anesthetic (m/0mcywn3)	Release	Zatracenie	.
+Anesthetic (m/0mcywn3)	Track #	"7"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0mcywn3)	is-a	Release track	.
+Anesthetic (m/0mcywn3)	is-a	Topic	.
+Anesthetic (m/0mml4z0)	Recording	Anesthetic (Musical Recording) #7	.
+Anesthetic (m/0mml4z0)	Release	Felix: Metropolitan Style Dining and Dancing (Compact Disc Musical Release)	.
+Anesthetic (m/0mml4z0)	Track #	"20"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0mml4z0)	is-a	Release track	.
+Anesthetic (m/0mml4z0)	is-a	Topic	.
+Anesthetic (m/0mv0y_c)	Recording	Anesthetic (Musical Recording) #8	.
+Anesthetic (m/0mv0y_c)	Release	Buy	.
+Anesthetic (m/0mv0y_c)	Track #	"4"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0mv0y_c)	is-a	Release track	.
+Anesthetic (m/0mv0y_c)	is-a	Topic	.
+Anesthetic (m/0mvqtxl)	Recording	Anesthetic (Musical Recording) #1	.
+Anesthetic (m/0mvqtxl)	Release	Prototype ----- Plus Garage Tracks	.
+Anesthetic (m/0mvqtxl)	Track #	"7"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0mvqtxl)	is-a	Release track	.
+Anesthetic (m/0mvqtxl)	is-a	Topic	.
+Anesthetic (m/0n31q1b)	Recording	Anesthetic (Canonical Version) #10	.
+Anesthetic (m/0n31q1b)	Release	Azuli Presents: Miami 2007 (Multi-Part Musical Release)	.
+Anesthetic (m/0n31q1b)	Track #	"22"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0n31q1b)	is-a	Release track	.
+Anesthetic (m/0n31q1b)	is-a	Topic	.
+Anesthetic (m/0nq9n66)	Recording	Anesthetic (Canonical Version) #11	.
+Anesthetic (m/0nq9n66)	Release	Don't Condemn This Dying (Compact Disc Musical Release)	.
+Anesthetic (m/0nq9n66)	Track #	"6"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0nq9n66)	is-a	Release track	.
+Anesthetic (m/0nq9n66)	is-a	Topic	.
+Anesthetic (m/0sjn4h8)	Recording	Anesthetic (Musical Recording) #5	.
+Anesthetic (m/0sjn4h8)	Release	Fast Forward Eats the Tape (Gramophone record Musical Release)	.
+Anesthetic (m/0sjn4h8)	Track #	"15"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0sjn4h8)	is-a	Release track	.
+Anesthetic (m/0sjn4h8)	is-a	Topic	.
+Anesthetic (m/0xcfkct)	Recording	Anesthetic (Musical Recording) #9	.
+Anesthetic (m/0xcfkct)	Release	Azuli Presents Miami 2007 Unmixed (Compact Disc Musical Release)	.
+Anesthetic (m/0xcfkct)	Track #	"17"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0xcfkct)	is-a	Release track	.
+Anesthetic (m/0xcfkct)	is-a	Topic	.
+Anesthetic (remixed by Aus) (Musical Recording)	Canonical version	Anesthetic (Musical Recording) #4	.
+Anesthetic (remixed by Aus) (Musical Recording)	Length	"473.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic (remixed by Aus) (Musical Recording)	Recorded by	Matryoshka	.
+Anesthetic (remixed by Aus) (Musical Recording)	Release	Coctura (Compact Disc Musical Release)	.
+Anesthetic (remixed by Aus) (Musical Recording)	is-a	Musical Recording	.
+Anesthetic (remixed by Aus) (Musical Recording)	is-a	Topic	.
+Anesthetic (remixed by Aus) (m/0msyq16)	Recording	Anesthetic (remixed by Aus) (Musical Recording)	.
+Anesthetic (remixed by Aus) (m/0msyq16)	Release	Coctura (Compact Disc Musical Release)	.
+Anesthetic (remixed by Aus) (m/0msyq16)	Track #	"9"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (remixed by Aus) (m/0msyq16)	is-a	Release track	.
+Anesthetic (remixed by Aus) (m/0msyq16)	is-a	Topic	.
+Anesthetic (Canonical Version) #10	Length	"289.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic (Canonical Version) #10	Recorded by	The Fix (Musical Artist)	.
+Anesthetic (Canonical Version) #10	Release	Azuli Presents: Miami 2007 (Multi-Part Musical Release)	.
+Anesthetic (Canonical Version) #10	is-a	Canonical Version	.
+Anesthetic (Canonical Version) #10	is-a	Musical Recording	.
+Anesthetic (Canonical Version) #10	is-a	Topic	.
+Anesthetic (Canonical Version) #11	Recorded by	Painstake	.
+Anesthetic (Canonical Version) #11	is-a	Canonical Version	.
+Anesthetic (Canonical Version) #11	is-a	Musical Recording	.
+Anesthetic (Canonical Version) #11	is-a	Topic	.
+Anesthetic (Canonical Version) #6	Length	"222.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic (Canonical Version) #6	Recorded by	Xcentric Noizz	.
+Anesthetic (Composition)	Composer	James Sigfried	.
+Anesthetic (Composition)	Kind of composition	Song	.
+Anesthetic (Composition)	Language	English Language	.
+Anesthetic (Composition)	Lyricist	James Sigfried	.
+Anesthetic (Mr G' Flatline mix) (Musical Recording)	Canonical version	Anesthetic (Canonical Version) #10	.
+Anesthetic (Mr G' Flatline mix) (Musical Recording)	Length	"244.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic (Mr G' Flatline mix) (Musical Recording)	Recorded by	The Fix (Musical Artist)	.
+Anesthetic (Mr G' Flatline mix) (Musical Recording)	Release	Azuli Presents: Miami 2008 (Consumer product)	.
+Anesthetic (Mr G' Flatline mix) (Musical Recording)	is-a	Musical Recording	.
+Anesthetic (Mr G' Flatline mix) (Musical Recording)	is-a	Topic	.
+Anesthetic (Mr G' Flatline mix) (m/0m6cbjy)	Recording	Anesthetic (Mr G' Flatline mix) (Musical Recording)	.
+Anesthetic (Mr G' Flatline mix) (m/0m6cbjy)	Release	Azuli Presents: Miami 2008 (Consumer product)	.
+Anesthetic (Mr G' Flatline mix) (m/0m6cbjy)	Track #	"15"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (Mr G' Flatline mix) (m/0m6cbjy)	is-a	Release track	.
+Anesthetic (Mr G' Flatline mix) (m/0m6cbjy)	is-a	Topic	.
+Anesthetic (Musical Recording) #1	Length	"261.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic (Musical Recording) #1	Recorded by	Experimental Products	.
+Anesthetic (Musical Recording) #1	Release	Prototype (Gramophone record Musical Release) #84	.
+Anesthetic (Musical Recording) #1	Release	Prototype ----- Plus Garage Tracks	.
+Anesthetic (Musical Recording) #1	is-a	Canonical Version	.
+Anesthetic (Musical Recording) #1	is-a	Musical Recording	.
+Anesthetic (Musical Recording) #1	is-a	Topic	.
+Anesthetic (Musical Recording) #2	Canonical version	Anesthetic (Musical Recording) #8	.
+Anesthetic (Musical Recording) #2	Recorded by	James Chance and The Contortions	.
+Anesthetic (Musical Recording) #2	Recording of Composition	Anesthetic (Composition)	.
+Anesthetic (Musical Recording) #2	Release	Buy the Contortions	.
+Anesthetic (Musical Recording) #2	is-a	Musical Recording	.
+Anesthetic (Musical Recording) #2	is-a	Topic	.
+Anesthetic (Musical Recording) #3	Canonical version	Anesthetic (Musical Recording) #8	.
+Anesthetic (Musical Recording) #3	Length	"232.586"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic (Musical Recording) #3	Recorded by	James Chance and The Contortions	.
+Anesthetic (Musical Recording) #3	Recording of Composition	Anesthetic (Composition)	.
+Anesthetic (Musical Recording) #3	Release	Irresistible Impulse (disc 1: Buy the Contortions / Theme From Grutzi Elvis)	.
+Anesthetic (Musical Recording) #3	is-a	Musical Recording	.
+Anesthetic (Musical Recording) #3	is-a	Topic	.
+Anesthetic (Musical Recording) #4	Length	"274.453"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic (Musical Recording) #4	Recorded by	Matryoshka	.
+Anesthetic (Musical Recording) #4	Release	Zatracenie	.
+Anesthetic (Musical Recording) #4	is-a	Canonical Version	.
+Anesthetic (Musical Recording) #4	is-a	Musical Recording	.
+Anesthetic (Musical Recording) #4	is-a	Topic	.
+Anesthetic (Musical Recording) #5	Length	"248.093"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic (Musical Recording) #5	Recorded by	Belvedere (Hardcore punk Artist)	.
+Anesthetic (Musical Recording) #5	Release	Fast Forward Eats the Tape (Compact Disc Musical Release)	.
+Anesthetic (Musical Recording) #5	is-a	Canonical Version	.
+Anesthetic (Musical Recording) #5	is-a	Musical Recording	.
+Anesthetic (Musical Recording) #5	is-a	Topic	.
+Anesthetic (Musical Recording) #7	Canonical version	Anesthetic (Canonical Version) #10	.
+Anesthetic (Musical Recording) #7	Length	"150.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic (Musical Recording) #7	Recorded by	The Fix (Musical Artist)	.
+Anesthetic (Musical Recording) #7	Release	Felix: Metropolitan Style Dining and Dancing (Compact Disc Musical Release)	.
+Anesthetic (Musical Recording) #7	is-a	Musical Recording	.
+Anesthetic (Musical Recording) #7	is-a	Topic	.
+Anesthetic (Musical Recording) #8	Length	"234.52"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic (Musical Recording) #8	Producer	James Sigfried	.
+Anesthetic (Musical Recording) #8	Recorded by	James Chance and The Contortions	.
+Anesthetic (Musical Recording) #8	Recording of Composition	Anesthetic (Composition)	.
+Anesthetic (Musical Recording) #8	Release	Buy	.
+Anesthetic (Musical Recording) #8	Release	Buy (Consumer product)	.
+Anesthetic (Musical Recording) #8	Release	Buy The Contortions (Gramophone record Musical Release)	.
+Anesthetic (Musical Recording) #8	is-a	Canonical Version	.
+Anesthetic (Musical Recording) #8	is-a	Musical Recording	.
+Anesthetic (Musical Recording) #8	is-a	Topic	.
+Anesthetic (Musical Recording) #9	Canonical version	Anesthetic (Canonical Version) #10	.
+Anesthetic (Musical Recording) #9	Length	"416.613"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic (Musical Recording) #9	Recorded by	The Fix (Musical Artist)	.
+Anesthetic (Musical Recording) #9	is-a	Musical Recording	.
+Anesthetic (Musical Recording) #9	is-a	Topic	.
+Anesthetic (m/0_f44n2)	Recording	Anesthetic (Canonical Version) #6	.
+Anesthetic (m/0_f44n2)	Release	Fonline - Soundtrack (Digital media Musical Release)	.
+Anesthetic (m/0_f44n2)	Track #	"15"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0kk0t52)	Recording	Anesthetic (Musical Recording) #2	.
+Anesthetic (m/0kk0t52)	Release	Buy the Contortions	.
+Anesthetic (m/0kk0t52)	Track #	"4"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0kk0t52)	is-a	Release track	.
+Anesthetic (m/0kk0t52)	is-a	Topic	.
+Anesthetic (m/0l69q_7)	Recording	Anesthetic (Musical Recording) #3	.
+Anesthetic (m/0l69q_7)	Release	Irresistible Impulse (disc 1: Buy the Contortions / Theme From Grutzi Elvis)	.
+Anesthetic (m/0l69q_7)	Track #	"4"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0l69q_7)	is-a	Release track	.
+Anesthetic (m/0l69q_7)	is-a	Topic	.
+Anesthetic (m/0ljxdqn)	Recording	Anesthetic (Musical Recording) #5	.
+Anesthetic (m/0ljxdqn)	Release	Fast Forward Eats the Tape (Compact Disc Musical Release)	.
+Anesthetic (m/0ljxdqn)	Track #	"15"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0ljxdqn)	is-a	Release track	.
+Anesthetic (m/0ljxdqn)	is-a	Topic	.
+Anesthetic (m/0lqrpw0)	Recording	Anesthetic (Musical Recording) #8	.
+Anesthetic (m/0lqrpw0)	Release	Buy The Contortions (Gramophone record Musical Release)	.
+Anesthetic (m/0lqrpw0)	Track #	"4"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0lqrpw0)	is-a	Release track	.
+Anesthetic (m/0lqrpw0)	is-a	Topic	.
+Anesthetic (m/0m4gx4j)	Recording	Anesthetic (Musical Recording) #8	.
+Anesthetic (m/0m4gx4j)	Release	Buy (Consumer product)	.
+Anesthetic (m/0m4gx4j)	Track #	"4"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0m4gx4j)	is-a	Release track	.
+Anesthetic (m/0m4gx4j)	is-a	Topic	.
+Anesthetic (m/0m9hyt7)	Recording	Anesthetic (Musical Recording) #1	.
+Anesthetic (m/0m9hyt7)	Release	Prototype (Gramophone record Musical Release) #84	.
+Anesthetic (m/0m9hyt7)	Track #	"7"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0m9hyt7)	is-a	Release track	.
+Anesthetic (m/0m9hyt7)	is-a	Topic	.
+Anesthetic (m/0mcywn3)	Recording	Anesthetic (Musical Recording) #4	.
+Anesthetic (m/0mcywn3)	Release	Zatracenie	.
+Anesthetic (m/0mcywn3)	Track #	"7"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0mcywn3)	is-a	Release track	.
+Anesthetic (m/0mcywn3)	is-a	Topic	.
+Anesthetic (m/0mml4z0)	Recording	Anesthetic (Musical Recording) #7	.
+Anesthetic (m/0mml4z0)	Release	Felix: Metropolitan Style Dining and Dancing (Compact Disc Musical Release)	.
+Anesthetic (m/0mml4z0)	Track #	"20"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0mml4z0)	is-a	Release track	.
+Anesthetic (m/0mml4z0)	is-a	Topic	.
+Anesthetic (m/0mv0y_c)	Recording	Anesthetic (Musical Recording) #8	.
+Anesthetic (m/0mv0y_c)	Release	Buy	.
+Anesthetic (m/0mv0y_c)	Track #	"4"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0mv0y_c)	is-a	Release track	.
+Anesthetic (m/0mv0y_c)	is-a	Topic	.
+Anesthetic (m/0mvqtxl)	Recording	Anesthetic (Musical Recording) #1	.
+Anesthetic (m/0mvqtxl)	Release	Prototype ----- Plus Garage Tracks	.
+Anesthetic (m/0mvqtxl)	Track #	"7"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0mvqtxl)	is-a	Release track	.
+Anesthetic (m/0mvqtxl)	is-a	Topic	.
+Anesthetic (m/0n31q1b)	Recording	Anesthetic (Canonical Version) #10	.
+Anesthetic (m/0n31q1b)	Release	Azuli Presents: Miami 2007 (Multi-Part Musical Release)	.
+Anesthetic (m/0n31q1b)	Track #	"22"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0n31q1b)	is-a	Release track	.
+Anesthetic (m/0n31q1b)	is-a	Topic	.
+Anesthetic (m/0nq9n66)	Recording	Anesthetic (Canonical Version) #11	.
+Anesthetic (m/0nq9n66)	Release	Don't Condemn This Dying (Compact Disc Musical Release)	.
+Anesthetic (m/0nq9n66)	Track #	"6"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0nq9n66)	is-a	Release track	.
+Anesthetic (m/0nq9n66)	is-a	Topic	.
+Anesthetic (m/0sjn4h8)	Recording	Anesthetic (Musical Recording) #5	.
+Anesthetic (m/0sjn4h8)	Release	Fast Forward Eats the Tape (Gramophone record Musical Release)	.
+Anesthetic (m/0sjn4h8)	Track #	"15"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0sjn4h8)	is-a	Release track	.
+Anesthetic (m/0sjn4h8)	is-a	Topic	.
+Anesthetic (m/0xcfkct)	Recording	Anesthetic (Musical Recording) #9	.
+Anesthetic (m/0xcfkct)	Release	Azuli Presents Miami 2007 Unmixed (Compact Disc Musical Release)	.
+Anesthetic (m/0xcfkct)	Track #	"17"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0xcfkct)	is-a	Release track	.
+Anesthetic (m/0xcfkct)	is-a	Topic	.
+Anesthetic (remixed by Aus) (Musical Recording)	Canonical version	Anesthetic (Musical Recording) #4	.
+Anesthetic (remixed by Aus) (Musical Recording)	Length	"473.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic (remixed by Aus) (Musical Recording)	Recorded by	Matryoshka	.
+Anesthetic (remixed by Aus) (Musical Recording)	Release	Coctura (Compact Disc Musical Release)	.
+Anesthetic (remixed by Aus) (Musical Recording)	is-a	Musical Recording	.
+Anesthetic (remixed by Aus) (Musical Recording)	is-a	Topic	.
+Anesthetic (remixed by Aus) (m/0msyq16)	Recording	Anesthetic (remixed by Aus) (Musical Recording)	.
+Anesthetic (remixed by Aus) (m/0msyq16)	Release	Coctura (Compact Disc Musical Release)	.
+Anesthetic (remixed by Aus) (m/0msyq16)	Track #	"9"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (remixed by Aus) (m/0msyq16)	is-a	Release track	.
+Anesthetic (remixed by Aus) (m/0msyq16)	is-a	Topic	.
+Anesthetic 5 gel	Available in	United States of America	.
+Anesthetic 5 gel	Discontinued	"false"	.
+Anesthetic 5 gel	FDA OTC monograph part	FDA OTC monograph part 348	.
+Anesthetic 5 gel	Label date	"2012-02-21"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Anesthetic 5 gel	Label link	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=0dd8628f-1fca-4993-adc8-e1e64f2ae39d>	.
+Anesthetic 5 gel	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=0dd8628f-1fca-4993-adc8-e1e64f2ae39d#nlm34067-9>	.
+Anesthetic 5 gel	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=0dd8628f-1fca-4993-adc8-e1e64f2ae39d#nlm34071-1>	.
+Anesthetic 5 gel	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=0dd8628f-1fca-4993-adc8-e1e64f2ae39d#nlm50565-1>	.
+Anesthetic 5 gel	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=0dd8628f-1fca-4993-adc8-e1e64f2ae39d#nlm51727-6>	.
+Anesthetic 5 gel	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=0dd8628f-1fca-4993-adc8-e1e64f2ae39d#nlm51945-4>	.
+Anesthetic 5 gel	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=0dd8628f-1fca-4993-adc8-e1e64f2ae39d#nlm55105-1>	.
+Anesthetic 5 gel	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=0dd8628f-1fca-4993-adc8-e1e64f2ae39d#nlm55106-9>	.
+Anesthetic 5 gel	Manufactured form of	Lidocaine hydrochloride benzocaine 0.05 gel	.
+Anesthetic 5 gel	Manufacturer	Cosmoceutical Research Center	.
+Anesthetic 5 gel	Marketing start date	"2012-02-18"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Anesthetic 5 gel	NDC Product ID	"66538-301"	.
+Anesthetic 5 gel	is-a	Consumer product	.
+Anesthetic 5 gel	is-a	Manufactured drug form	.
+Anesthetic 5 gel	is-a	Topic	.
+Anesthetic Cruelty (Musical Recording)	Length	"303.92"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic Cruelty (Musical Recording)	Recorded by	Steel Hook Prostheses	.
+Anesthetic Cruelty (Musical Recording)	Release	Exploring the Outer Lesion (Compact Disc Musical Release)	.
+Anesthetic Cruelty (Musical Recording)	is-a	Canonical Version	.
+Anesthetic Cruelty (Musical Recording)	is-a	Musical Recording	.
+Anesthetic Cruelty (Musical Recording)	is-a	Topic	.
+Anesthetic Cruelty (m/0mr9pkx)	Recording	Anesthetic Cruelty (Musical Recording)	.
+Anesthetic Cruelty (m/0mr9pkx)	Release	Exploring the Outer Lesion (Compact Disc Musical Release)	.
+Anesthetic Cruelty (m/0mr9pkx)	Track #	"1"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic Cruelty (m/0mr9pkx)	is-a	Release track	.
+Anesthetic Cruelty (m/0mr9pkx)	is-a	Topic	.
+Anesthetic Depth (Canonical Version)	Length	"488.493"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic Depth (Canonical Version)	Recorded by	Nadja	.
+Anesthetic Depth (Canonical Version)	Recorded by	Vampillia	.
+Anesthetic Depth (Canonical Version)	is-a	Canonical Version	.
+Anesthetic Depth (Canonical Version)	is-a	Musical Recording	.
+Anesthetic Depth (Canonical Version)	is-a	Topic	.
+Anesthetic Depth (m/0xz2zwh)	Recording	Anesthetic Depth (Canonical Version)	.
+Anesthetic Depth (m/0xz2zwh)	Release	The Primitive World (Digital media Musical Release)	.
+Anesthetic Depth (m/0xz2zwh)	Track #	"4"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic Depth (m/0xz2zwh)	is-a	Release track	.
+Anesthetic Depth (m/0xz2zwh)	is-a	Topic	.
+Anesthetic Highway	Length	"113.866"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic Highway	Recorded by	Deep Banana Blackout	.
+Anesthetic Highway	Release	Live in the Thousand Islands (Musical Release)	.
+Anesthetic Highway	is-a	Canonical Version	.
+Anesthetic Highway	is-a	Musical Recording	.
+Anesthetic Highway	is-a	Topic	.
+Anesthetic Highway (m/0lmdf8x)	Recording	Anesthetic Highway	.
+Anesthetic Highway (m/0lmdf8x)	Release	Live in the Thousand Islands (Musical Release)	.
+Anesthetic Highway (m/0lmdf8x)	Track #	"8"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic Highway (m/0lmdf8x)	is-a	Release track	.
+Anesthetic Highway (m/0lmdf8x)	is-a	Topic	.
+Anesthetic Parade (Musical Recording)	Length	"166.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic Parade (Musical Recording)	Recorded by	We Are the Fury	.
+Anesthetic Parade (Musical Recording)	Release	Infinite Jest (Musical Release)	.
+Anesthetic Parade (Musical Recording)	is-a	Canonical Version	.
+Anesthetic Parade (Musical Recording)	is-a	Musical Recording	.
+Anesthetic Parade (Musical Recording)	is-a	Topic	.
+Anesthetic Parade (m/0ll77qm)	Recording	Anesthetic Parade (Musical Recording)	.
+Anesthetic Parade (m/0ll77qm)	Release	Infinite Jest (Musical Release)	.
+Anesthetic Parade (m/0ll77qm)	Track #	"2"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic Parade (m/0ll77qm)	is-a	Release track	.
+Anesthetic Parade (m/0ll77qm)	is-a	Topic	.
+Anesthetic for the Amputee (Musical Recording)	Length	"149.386"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic for the Amputee (Musical Recording)	Recorded by	Slowreader (Musical Artist)	.
+Anesthetic for the Amputee (Musical Recording)	Release	Slowreader (Consumer product)	.
+Anesthetic for the Amputee (Musical Recording)	is-a	Canonical Version	.
+Anesthetic for the Amputee (Musical Recording)	is-a	Musical Recording	.
+Anesthetic for the Amputee (Musical Recording)	is-a	Topic	.
+Anesthetic for the Amputee (m/0lg7l0p)	Recording	Anesthetic for the Amputee (Musical Recording)	.
+Anesthetic for the Amputee (m/0lg7l0p)	Release	Slowreader (Consumer product)	.
+Anesthetic for the Amputee (m/0lg7l0p)	Track #	"9"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic for the Amputee (m/0lg7l0p)	is-a	Release track	.
+Anesthetic for the Amputee (m/0lg7l0p)	is-a	Topic	.
+Anesthetic (Canonical Version) #10	Length	"289.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic (Canonical Version) #10	Recorded by	The Fix (Musical Artist)	.
+Anesthetic (Canonical Version) #10	Release	Azuli Presents: Miami 2007 (Multi-Part Musical Release)	.
+Anesthetic (Canonical Version) #10	is-a	Canonical Version	.
+Anesthetic (Canonical Version) #10	is-a	Musical Recording	.
+Anesthetic (Canonical Version) #10	is-a	Topic	.
+Anesthetic (Canonical Version) #11	Recorded by	Painstake	.
+Anesthetic (Canonical Version) #11	is-a	Canonical Version	.
+Anesthetic (Canonical Version) #11	is-a	Musical Recording	.
+Anesthetic (Canonical Version) #11	is-a	Topic	.
+Anesthetic (Canonical Version) #6	Length	"222.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic (Canonical Version) #6	Recorded by	Xcentric Noizz	.
+Anesthetic (Composition)	Composer	James Sigfried	.
+Anesthetic (Composition)	Kind of composition	Song	.
+Anesthetic (Composition)	Language	English Language	.
+Anesthetic (Composition)	Lyricist	James Sigfried	.
+Anesthetic (Mr G' Flatline mix) (Musical Recording)	Canonical version	Anesthetic (Canonical Version) #10	.
+Anesthetic (Mr G' Flatline mix) (Musical Recording)	Length	"244.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic (Mr G' Flatline mix) (Musical Recording)	Recorded by	The Fix (Musical Artist)	.
+Anesthetic (Mr G' Flatline mix) (Musical Recording)	Release	Azuli Presents: Miami 2008 (Consumer product)	.
+Anesthetic (Mr G' Flatline mix) (Musical Recording)	is-a	Musical Recording	.
+Anesthetic (Mr G' Flatline mix) (Musical Recording)	is-a	Topic	.
+Anesthetic (Mr G' Flatline mix) (m/0m6cbjy)	Recording	Anesthetic (Mr G' Flatline mix) (Musical Recording)	.
+Anesthetic (Mr G' Flatline mix) (m/0m6cbjy)	Release	Azuli Presents: Miami 2008 (Consumer product)	.
+Anesthetic (Mr G' Flatline mix) (m/0m6cbjy)	Track #	"15"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (Mr G' Flatline mix) (m/0m6cbjy)	is-a	Release track	.
+Anesthetic (Mr G' Flatline mix) (m/0m6cbjy)	is-a	Topic	.
+Anesthetic (Musical Recording) #1	Length	"261.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic (Musical Recording) #1	Recorded by	Experimental Products	.
+Anesthetic (Musical Recording) #1	Release	Prototype (Gramophone record Musical Release) #84	.
+Anesthetic (Musical Recording) #1	Release	Prototype ----- Plus Garage Tracks	.
+Anesthetic (Musical Recording) #1	is-a	Canonical Version	.
+Anesthetic (Musical Recording) #1	is-a	Musical Recording	.
+Anesthetic (Musical Recording) #1	is-a	Topic	.
+Anesthetic (Musical Recording) #2	Canonical version	Anesthetic (Musical Recording) #8	.
+Anesthetic (Musical Recording) #2	Recorded by	James Chance and The Contortions	.
+Anesthetic (Musical Recording) #2	Recording of Composition	Anesthetic (Composition)	.
+Anesthetic (Musical Recording) #2	Release	Buy the Contortions	.
+Anesthetic (Musical Recording) #2	is-a	Musical Recording	.
+Anesthetic (Musical Recording) #2	is-a	Topic	.
+Anesthetic (Musical Recording) #3	Canonical version	Anesthetic (Musical Recording) #8	.
+Anesthetic (Musical Recording) #3	Length	"232.586"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic (Musical Recording) #3	Recorded by	James Chance and The Contortions	.
+Anesthetic (Musical Recording) #3	Recording of Composition	Anesthetic (Composition)	.
+Anesthetic (Musical Recording) #3	Release	Irresistible Impulse (disc 1: Buy the Contortions / Theme From Grutzi Elvis)	.
+Anesthetic (Musical Recording) #3	is-a	Musical Recording	.
+Anesthetic (Musical Recording) #3	is-a	Topic	.
+Anesthetic (Musical Recording) #4	Length	"274.453"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic (Musical Recording) #4	Recorded by	Matryoshka	.
+Anesthetic (Musical Recording) #4	Release	Zatracenie	.
+Anesthetic (Musical Recording) #4	is-a	Canonical Version	.
+Anesthetic (Musical Recording) #4	is-a	Musical Recording	.
+Anesthetic (Musical Recording) #4	is-a	Topic	.
+Anesthetic (Musical Recording) #5	Length	"248.093"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic (Musical Recording) #5	Recorded by	Belvedere (Hardcore punk Artist)	.
+Anesthetic (Musical Recording) #5	Release	Fast Forward Eats the Tape (Compact Disc Musical Release)	.
+Anesthetic (Musical Recording) #5	is-a	Canonical Version	.
+Anesthetic (Musical Recording) #5	is-a	Musical Recording	.
+Anesthetic (Musical Recording) #5	is-a	Topic	.
+Anesthetic (Musical Recording) #7	Canonical version	Anesthetic (Canonical Version) #10	.
+Anesthetic (Musical Recording) #7	Length	"150.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic (Musical Recording) #7	Recorded by	The Fix (Musical Artist)	.
+Anesthetic (Musical Recording) #7	Release	Felix: Metropolitan Style Dining and Dancing (Compact Disc Musical Release)	.
+Anesthetic (Musical Recording) #7	is-a	Musical Recording	.
+Anesthetic (Musical Recording) #7	is-a	Topic	.
+Anesthetic (Musical Recording) #8	Length	"234.52"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic (Musical Recording) #8	Producer	James Sigfried	.
+Anesthetic (Musical Recording) #8	Recorded by	James Chance and The Contortions	.
+Anesthetic (Musical Recording) #8	Recording of Composition	Anesthetic (Composition)	.
+Anesthetic (Musical Recording) #8	Release	Buy	.
+Anesthetic (Musical Recording) #8	Release	Buy (Consumer product)	.
+Anesthetic (Musical Recording) #8	Release	Buy The Contortions (Gramophone record Musical Release)	.
+Anesthetic (Musical Recording) #8	is-a	Canonical Version	.
+Anesthetic (Musical Recording) #8	is-a	Musical Recording	.
+Anesthetic (Musical Recording) #8	is-a	Topic	.
+Anesthetic (Musical Recording) #9	Canonical version	Anesthetic (Canonical Version) #10	.
+Anesthetic (Musical Recording) #9	Length	"416.613"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic (Musical Recording) #9	Recorded by	The Fix (Musical Artist)	.
+Anesthetic (Musical Recording) #9	is-a	Musical Recording	.
+Anesthetic (Musical Recording) #9	is-a	Topic	.
+Anesthetic (m/0_f44n2)	Recording	Anesthetic (Canonical Version) #6	.
+Anesthetic (m/0_f44n2)	Release	Fonline - Soundtrack (Digital media Musical Release)	.
+Anesthetic (m/0_f44n2)	Track #	"15"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0kk0t52)	Recording	Anesthetic (Musical Recording) #2	.
+Anesthetic (m/0kk0t52)	Release	Buy the Contortions	.
+Anesthetic (m/0kk0t52)	Track #	"4"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0kk0t52)	is-a	Release track	.
+Anesthetic (m/0kk0t52)	is-a	Topic	.
+Anesthetic (m/0l69q_7)	Recording	Anesthetic (Musical Recording) #3	.
+Anesthetic (m/0l69q_7)	Release	Irresistible Impulse (disc 1: Buy the Contortions / Theme From Grutzi Elvis)	.
+Anesthetic (m/0l69q_7)	Track #	"4"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0l69q_7)	is-a	Release track	.
+Anesthetic (m/0l69q_7)	is-a	Topic	.
+Anesthetic (m/0ljxdqn)	Recording	Anesthetic (Musical Recording) #5	.
+Anesthetic (m/0ljxdqn)	Release	Fast Forward Eats the Tape (Compact Disc Musical Release)	.
+Anesthetic (m/0ljxdqn)	Track #	"15"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0ljxdqn)	is-a	Release track	.
+Anesthetic (m/0ljxdqn)	is-a	Topic	.
+Anesthetic (m/0lqrpw0)	Recording	Anesthetic (Musical Recording) #8	.
+Anesthetic (m/0lqrpw0)	Release	Buy The Contortions (Gramophone record Musical Release)	.
+Anesthetic (m/0lqrpw0)	Track #	"4"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0lqrpw0)	is-a	Release track	.
+Anesthetic (m/0lqrpw0)	is-a	Topic	.
+Anesthetic (m/0m4gx4j)	Recording	Anesthetic (Musical Recording) #8	.
+Anesthetic (m/0m4gx4j)	Release	Buy (Consumer product)	.
+Anesthetic (m/0m4gx4j)	Track #	"4"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0m4gx4j)	is-a	Release track	.
+Anesthetic (m/0m4gx4j)	is-a	Topic	.
+Anesthetic (m/0m9hyt7)	Recording	Anesthetic (Musical Recording) #1	.
+Anesthetic (m/0m9hyt7)	Release	Prototype (Gramophone record Musical Release) #84	.
+Anesthetic (m/0m9hyt7)	Track #	"7"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0m9hyt7)	is-a	Release track	.
+Anesthetic (m/0m9hyt7)	is-a	Topic	.
+Anesthetic (m/0mcywn3)	Recording	Anesthetic (Musical Recording) #4	.
+Anesthetic (m/0mcywn3)	Release	Zatracenie	.
+Anesthetic (m/0mcywn3)	Track #	"7"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0mcywn3)	is-a	Release track	.
+Anesthetic (m/0mcywn3)	is-a	Topic	.
+Anesthetic (m/0mml4z0)	Recording	Anesthetic (Musical Recording) #7	.
+Anesthetic (m/0mml4z0)	Release	Felix: Metropolitan Style Dining and Dancing (Compact Disc Musical Release)	.
+Anesthetic (m/0mml4z0)	Track #	"20"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0mml4z0)	is-a	Release track	.
+Anesthetic (m/0mml4z0)	is-a	Topic	.
+Anesthetic (m/0mv0y_c)	Recording	Anesthetic (Musical Recording) #8	.
+Anesthetic (m/0mv0y_c)	Release	Buy	.
+Anesthetic (m/0mv0y_c)	Track #	"4"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0mv0y_c)	is-a	Release track	.
+Anesthetic (m/0mv0y_c)	is-a	Topic	.
+Anesthetic (m/0mvqtxl)	Recording	Anesthetic (Musical Recording) #1	.
+Anesthetic (m/0mvqtxl)	Release	Prototype ----- Plus Garage Tracks	.
+Anesthetic (m/0mvqtxl)	Track #	"7"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0mvqtxl)	is-a	Release track	.
+Anesthetic (m/0mvqtxl)	is-a	Topic	.
+Anesthetic (m/0n31q1b)	Recording	Anesthetic (Canonical Version) #10	.
+Anesthetic (m/0n31q1b)	Release	Azuli Presents: Miami 2007 (Multi-Part Musical Release)	.
+Anesthetic (m/0n31q1b)	Track #	"22"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0n31q1b)	is-a	Release track	.
+Anesthetic (m/0n31q1b)	is-a	Topic	.
+Anesthetic (m/0nq9n66)	Recording	Anesthetic (Canonical Version) #11	.
+Anesthetic (m/0nq9n66)	Release	Don't Condemn This Dying (Compact Disc Musical Release)	.
+Anesthetic (m/0nq9n66)	Track #	"6"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0nq9n66)	is-a	Release track	.
+Anesthetic (m/0nq9n66)	is-a	Topic	.
+Anesthetic (m/0sjn4h8)	Recording	Anesthetic (Musical Recording) #5	.
+Anesthetic (m/0sjn4h8)	Release	Fast Forward Eats the Tape (Gramophone record Musical Release)	.
+Anesthetic (m/0sjn4h8)	Track #	"15"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0sjn4h8)	is-a	Release track	.
+Anesthetic (m/0sjn4h8)	is-a	Topic	.
+Anesthetic (m/0xcfkct)	Recording	Anesthetic (Musical Recording) #9	.
+Anesthetic (m/0xcfkct)	Release	Azuli Presents Miami 2007 Unmixed (Compact Disc Musical Release)	.
+Anesthetic (m/0xcfkct)	Track #	"17"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (m/0xcfkct)	is-a	Release track	.
+Anesthetic (m/0xcfkct)	is-a	Topic	.
+Anesthetic (remixed by Aus) (Musical Recording)	Canonical version	Anesthetic (Musical Recording) #4	.
+Anesthetic (remixed by Aus) (Musical Recording)	Length	"473.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic (remixed by Aus) (Musical Recording)	Recorded by	Matryoshka	.
+Anesthetic (remixed by Aus) (Musical Recording)	Release	Coctura (Compact Disc Musical Release)	.
+Anesthetic (remixed by Aus) (Musical Recording)	is-a	Musical Recording	.
+Anesthetic (remixed by Aus) (Musical Recording)	is-a	Topic	.
+Anesthetic (remixed by Aus) (m/0msyq16)	Recording	Anesthetic (remixed by Aus) (Musical Recording)	.
+Anesthetic (remixed by Aus) (m/0msyq16)	Release	Coctura (Compact Disc Musical Release)	.
+Anesthetic (remixed by Aus) (m/0msyq16)	Track #	"9"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic (remixed by Aus) (m/0msyq16)	is-a	Release track	.
+Anesthetic (remixed by Aus) (m/0msyq16)	is-a	Topic	.
+Anesthetic 5 gel	Available in	United States of America	.
+Anesthetic 5 gel	Discontinued	"false"	.
+Anesthetic 5 gel	FDA OTC monograph part	FDA OTC monograph part 348	.
+Anesthetic 5 gel	Label date	"2012-02-21"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Anesthetic 5 gel	Label link	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=0dd8628f-1fca-4993-adc8-e1e64f2ae39d>	.
+Anesthetic 5 gel	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=0dd8628f-1fca-4993-adc8-e1e64f2ae39d#nlm34067-9>	.
+Anesthetic 5 gel	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=0dd8628f-1fca-4993-adc8-e1e64f2ae39d#nlm34071-1>	.
+Anesthetic 5 gel	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=0dd8628f-1fca-4993-adc8-e1e64f2ae39d#nlm50565-1>	.
+Anesthetic 5 gel	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=0dd8628f-1fca-4993-adc8-e1e64f2ae39d#nlm51727-6>	.
+Anesthetic 5 gel	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=0dd8628f-1fca-4993-adc8-e1e64f2ae39d#nlm51945-4>	.
+Anesthetic 5 gel	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=0dd8628f-1fca-4993-adc8-e1e64f2ae39d#nlm55105-1>	.
+Anesthetic 5 gel	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=0dd8628f-1fca-4993-adc8-e1e64f2ae39d#nlm55106-9>	.
+Anesthetic 5 gel	Manufactured form of	Lidocaine hydrochloride benzocaine 0.05 gel	.
+Anesthetic 5 gel	Manufacturer	Cosmoceutical Research Center	.
+Anesthetic 5 gel	Marketing start date	"2012-02-18"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Anesthetic 5 gel	NDC Product ID	"66538-301"	.
+Anesthetic 5 gel	is-a	Consumer product	.
+Anesthetic 5 gel	is-a	Manufactured drug form	.
+Anesthetic 5 gel	is-a	Topic	.
+Anesthetic Cruelty (Musical Recording)	Length	"303.92"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic Cruelty (Musical Recording)	Recorded by	Steel Hook Prostheses	.
+Anesthetic Cruelty (Musical Recording)	Release	Exploring the Outer Lesion (Compact Disc Musical Release)	.
+Anesthetic Cruelty (Musical Recording)	is-a	Canonical Version	.
+Anesthetic Cruelty (Musical Recording)	is-a	Musical Recording	.
+Anesthetic Cruelty (Musical Recording)	is-a	Topic	.
+Anesthetic Cruelty (m/0mr9pkx)	Recording	Anesthetic Cruelty (Musical Recording)	.
+Anesthetic Cruelty (m/0mr9pkx)	Release	Exploring the Outer Lesion (Compact Disc Musical Release)	.
+Anesthetic Cruelty (m/0mr9pkx)	Track #	"1"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic Cruelty (m/0mr9pkx)	is-a	Release track	.
+Anesthetic Cruelty (m/0mr9pkx)	is-a	Topic	.
+Anesthetic Depth (Canonical Version)	Length	"488.493"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic Depth (Canonical Version)	Recorded by	Nadja	.
+Anesthetic Depth (Canonical Version)	Recorded by	Vampillia	.
+Anesthetic Depth (Canonical Version)	is-a	Canonical Version	.
+Anesthetic Depth (Canonical Version)	is-a	Musical Recording	.
+Anesthetic Depth (Canonical Version)	is-a	Topic	.
+Anesthetic Depth (m/0xz2zwh)	Recording	Anesthetic Depth (Canonical Version)	.
+Anesthetic Depth (m/0xz2zwh)	Release	The Primitive World (Digital media Musical Release)	.
+Anesthetic Depth (m/0xz2zwh)	Track #	"4"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic Depth (m/0xz2zwh)	is-a	Release track	.
+Anesthetic Depth (m/0xz2zwh)	is-a	Topic	.
+Anesthetic Highway	Length	"113.866"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic Highway	Recorded by	Deep Banana Blackout	.
+Anesthetic Highway	Release	Live in the Thousand Islands (Musical Release)	.
+Anesthetic Highway	is-a	Canonical Version	.
+Anesthetic Highway	is-a	Musical Recording	.
+Anesthetic Highway	is-a	Topic	.
+Anesthetic Highway (m/0lmdf8x)	Recording	Anesthetic Highway	.
+Anesthetic Highway (m/0lmdf8x)	Release	Live in the Thousand Islands (Musical Release)	.
+Anesthetic Highway (m/0lmdf8x)	Track #	"8"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic Highway (m/0lmdf8x)	is-a	Release track	.
+Anesthetic Highway (m/0lmdf8x)	is-a	Topic	.
+Anesthetic Parade (Musical Recording)	Length	"166.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic Parade (Musical Recording)	Recorded by	We Are the Fury	.
+Anesthetic Parade (Musical Recording)	Release	Infinite Jest (Musical Release)	.
+Anesthetic Parade (Musical Recording)	is-a	Canonical Version	.
+Anesthetic Parade (Musical Recording)	is-a	Musical Recording	.
+Anesthetic Parade (Musical Recording)	is-a	Topic	.
+Anesthetic Parade (m/0ll77qm)	Recording	Anesthetic Parade (Musical Recording)	.
+Anesthetic Parade (m/0ll77qm)	Release	Infinite Jest (Musical Release)	.
+Anesthetic Parade (m/0ll77qm)	Track #	"2"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic Parade (m/0ll77qm)	is-a	Release track	.
+Anesthetic Parade (m/0ll77qm)	is-a	Topic	.
+Anesthetic for the Amputee (Musical Recording)	Length	"149.386"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetic for the Amputee (Musical Recording)	Recorded by	Slowreader (Musical Artist)	.
+Anesthetic for the Amputee (Musical Recording)	Release	Slowreader (Consumer product)	.
+Anesthetic for the Amputee (Musical Recording)	is-a	Canonical Version	.
+Anesthetic for the Amputee (Musical Recording)	is-a	Musical Recording	.
+Anesthetic for the Amputee (Musical Recording)	is-a	Topic	.
+Anesthetic for the Amputee (m/0lg7l0p)	Recording	Anesthetic for the Amputee (Musical Recording)	.
+Anesthetic for the Amputee (m/0lg7l0p)	Release	Slowreader (Consumer product)	.
+Anesthetic for the Amputee (m/0lg7l0p)	Track #	"9"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Anesthetic for the Amputee (m/0lg7l0p)	is-a	Release track	.
+Anesthetic for the Amputee (m/0lg7l0p)	is-a	Topic	.
+Anesthetics (Canonical Version)	Length	"313.507"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Anesthetics (Canonical Version)	Recorded by	m/0_k3kt7	.
+Anesthetics (m/0_js4zf)	Recording	Anesthetics (Canonical Version)	.
+Anesthetics (m/0_js4zf)	Release	Hellbringer (Digital media Musical Release)	.
+Anesthetics (m/0_js4zf)	Track #	"5"^^<http://www.w3.org/2001/XMLSchema#int>	.

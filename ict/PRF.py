@@ -64,15 +64,17 @@ def except_zero(log_file):
                     mou["count"] += 1
 
     #今のところOタグはPRFに入れてない
+    #2016/02/16 Trgもはずす
+
     #print "O    precision:{}, recall:{}, F1:{}".format(o["P"]/o["count"], o["R"]/o["count"], o["F1"]/o["count"]) 
-    print "Trg  precision:{}, recall:{}, F1:{}".format(trg["P"]/trg["count"], trg["R"]/trg["count"], trg["F1"]/trg["count"])
+    #print "Trg  precision:{}, recall:{}, F1:{}".format(trg["P"]/trg["count"], trg["R"]/trg["count"], trg["F1"]/trg["count"])
     print "Eff  precision:{}, recall:{}, F1:{}".format(eff["P"]/eff["count"], eff["R"]/eff["count"], eff["F1"]/eff["count"])
     print "MOU  precision:{}, recall:{}, F1:{}".format(mou["P"]/mou["count"], mou["R"]/mou["count"], mou["F1"]/mou["count"])
 
-    P = trg["P"] + eff["P"] + mou["P"]
-    R = trg["R"] + eff["R"] + mou["R"]
-    F1 = trg["F1"] + eff["F1"] + mou["F1"]
-    count = trg["count"] + eff["count"] + mou["count"]
+    P = eff["P"] + mou["P"] + trg["P"]
+    R = eff["R"] + mou["R"] + trg["R"]
+    F1 = eff["F1"] + mou["F1"] +trg["F1"]
+    count = eff["count"] + mou["count"] + trg["count"]
 
     print "all  P:{}, R:{}, F1:{}".format(P/count, R/count, F1/count)
 

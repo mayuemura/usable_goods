@@ -1,0 +1,62 @@
+Chlorella	Higher classification	Chlorococcales	.
+Chlorella	Higher classification	Chlorophyceae	.
+Chlorella	Higher classification	Chlorophyta	.
+Chlorella	Higher classification	Oocystaceae	.
+Chlorella	ITIS Taxon S/N	"5811"	.
+Chlorella	Rank	Genus	.
+Chlorella	Scientific name	"Chlorella"@en	.
+Chlorella	is-a	Chlorococcales	.
+Chlorella	is-a	Chlorophyceae	.
+Chlorella	is-a	Chlorophyta	.
+Chlorella	is-a	Oocystaceae	.
+Chlorella	is-a	Organism Classification	.
+Chlorella	is-a	Topic	.
+Chlorella	Higher classification	Chlorococcales	.
+Chlorella	Higher classification	Chlorophyceae	.
+Chlorella	Higher classification	Chlorophyta	.
+Chlorella	Higher classification	Oocystaceae	.
+Chlorella	ITIS Taxon S/N	"5811"	.
+Chlorella	Rank	Genus	.
+Chlorella	Scientific name	"Chlorella"@en	.
+Chlorella	is-a	Chlorococcales	.
+Chlorella	is-a	Chlorophyceae	.
+Chlorella	is-a	Chlorophyta	.
+Chlorella	is-a	Oocystaceae	.
+Chlorella	is-a	Organism Classification	.
+Chlorella	is-a	Topic	.
+Chlorella pyrenoidosa	Higher classification	Chlorella	.
+Chlorella pyrenoidosa	Higher classification	Chlorococcales	.
+Chlorella pyrenoidosa	Higher classification	Chlorophyceae	.
+Chlorella pyrenoidosa	Higher classification	Chlorophyta	.
+Chlorella pyrenoidosa	Higher classification	Oocystaceae	.
+Chlorella pyrenoidosa	ITIS Taxon S/N	"5821"	.
+Chlorella pyrenoidosa	Rank	Species (Organism Classification Rank)	.
+Chlorella pyrenoidosa	Scientific name	"Chlorella pyrenoidosa"@en	.
+Chlorella pyrenoidosa	is-a	Chlorella	.
+Chlorella pyrenoidosa	is-a	Chlorococcales	.
+Chlorella pyrenoidosa	is-a	Chlorophyceae	.
+Chlorella pyrenoidosa	is-a	Chlorophyta	.
+Chlorella pyrenoidosa	is-a	Oocystaceae	.
+Chlorella pyrenoidosa	is-a	Organism Classification	.
+Chlorella pyrenoidosa	is-a	Topic	.
+Chlorella vulgaris	is-a	Drug ingredient	.
+Chlorella, The Ultimate Green Food	Author	Beth M Ley	.
+Chlorella, The Ultimate Green Food	is-a	Book	.
+Chlorella, The Ultimate Green Food	is-a	Topic	.
+Chlorella, The Ultimate Green Food	is-a	Written Work	.
+Chlorella, jewel of the Far East	Author	Bernard Jensen	.
+Chlorella, jewel of the Far East	is-a	Book	.
+Chlorella, jewel of the Far East	is-a	Topic	.
+Chlorella, jewel of the Far East	is-a	Written Work	.
+Chlorellaceae	Higher classification	Chlorococcales	.
+Chlorellaceae	Higher classification	Chlorophyceae	.
+Chlorellaceae	Higher classification	Chlorophyta	.
+Chlorellaceae	ITIS Taxon S/N	"6025"	.
+Chlorellaceae	NCBI Taxon ID	"35461"	.
+Chlorellaceae	Rank	Family (Organism Classification Rank)	.
+Chlorellaceae	Scientific name	"Chlorellaceae"@en	.
+Chlorellaceae	is-a	Chlorococcales	.
+Chlorellaceae	is-a	Chlorophyceae	.
+Chlorellaceae	is-a	Chlorophyta	.
+Chlorellaceae	is-a	Organism Classification	.
+Chlorellaceae	is-a	Topic	.

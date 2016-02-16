@@ -1,0 +1,6 @@
+Acupressure mat	is-a	Invention	.
+Acupressure mat	is-a	Medical device	.
+Acupressure mat	is-a	Topic	.
+Acupressure mat	is-a	Invention	.
+Acupressure mat	is-a	Medical device	.
+Acupressure mat	is-a	Topic	.

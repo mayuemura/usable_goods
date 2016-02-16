@@ -1,0 +1,28 @@
+Dietary supplement	Brand	Hydroxycut	.
+Dietary supplement	Country	United States of America	.
+Dietary supplement	Made by company	Nova Health Products	.
+Dietary supplement	Used To Treat	Anemia	.
+Dietary supplement	Used To Treat	Central pontine myelinolysis	.
+Dietary supplement	Used To Treat	Kwashiorkor	.
+Dietary supplement	is-a	Consumer product	.
+Dietary supplement	is-a	Drug legal status	.
+Dietary supplement	is-a	Food	.
+Dietary supplement	is-a	Industry	.
+Dietary supplement	is-a	Medical Treatment	.
+Dietary supplement	is-a	Topic	.
+Dietary supplement	Brand	Hydroxycut	.
+Dietary supplement	Country	United States of America	.
+Dietary supplement	Made by company	Nova Health Products	.
+Dietary supplement	Used To Treat	Anemia	.
+Dietary supplement	Used To Treat	Central pontine myelinolysis	.
+Dietary supplement	Used To Treat	Kwashiorkor	.
+Dietary supplement	is-a	Consumer product	.
+Dietary supplement	is-a	Drug legal status	.
+Dietary supplement	is-a	Food	.
+Dietary supplement	is-a	Industry	.
+Dietary supplement	is-a	Medical Treatment	.
+Dietary supplement	is-a	Topic	.
+Dietary supplements and functional foods	Author	Geoffrey P Webb	.
+Dietary supplements and functional foods	is-a	Book	.
+Dietary supplements and functional foods	is-a	Topic	.
+Dietary supplements and functional foods	is-a	Written Work	.

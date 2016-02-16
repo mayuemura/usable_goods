@@ -1,0 +1,410 @@
+Liquorice	Compatible with dietary restriction	Veganism	.
+Liquorice	Compatible with dietary restriction	Vegetarian food	.
+Liquorice	Higher classification	Dicotyledon	.
+Liquorice	Higher classification	Embryophyte	.
+Liquorice	Higher classification	Eukaryote	.
+Liquorice	Higher classification	Fabaceae	.
+Liquorice	Higher classification	Fabales	.
+Liquorice	Higher classification	Faboideae	.
+Liquorice	Higher classification	Flowering plant	.
+Liquorice	Higher classification	Glycyrrhiza	.
+Liquorice	Higher classification	Plant	.
+Liquorice	Higher classification	Rosidae	.
+Liquorice	Higher classification	Spermatophyte	.
+Liquorice	ITIS Taxon S/N	"26718"	.
+Liquorice	NCBI Taxon ID	"49827"	.
+Liquorice	Rank	Species (Organism Classification Rank)	.
+Liquorice	Scientific name	"Glycyrrhiza glabra"@en	.
+Liquorice	is-a	Dicotyledon	.
+Liquorice	is-a	Drug dosage flavor	.
+Liquorice	is-a	Drug ingredient	.
+Liquorice	is-a	Embryophyte	.
+Liquorice	is-a	Eukaryote	.
+Liquorice	is-a	Fabaceae	.
+Liquorice	is-a	Fabales	.
+Liquorice	is-a	Faboideae	.
+Liquorice	is-a	Flowering plant	.
+Liquorice	is-a	Food	.
+Liquorice	is-a	Glycyrrhiza	.
+Liquorice	is-a	Ingredient	.
+Liquorice	is-a	Organism Classification	.
+Liquorice	is-a	Plant	.
+Liquorice	is-a	Rosidae	.
+Liquorice	is-a	Spermatophyte	.
+Liquorice	is-a	Spice	.
+Liquorice	is-a	Topic	.
+Liquorice (Canonical Version) #1	Length	"495.533"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Liquorice (Canonical Version) #1	Recorded by	Diethelm and Famulari	.
+Liquorice (Canonical Version) #1	Release	Valleys in My Head (Gramophone record Musical Release)	.
+Liquorice (Canonical Version) #1	is-a	Canonical Version	.
+Liquorice (Canonical Version) #1	is-a	Musical Recording	.
+Liquorice (Canonical Version) #1	is-a	Topic	.
+Liquorice (Canonical Version) #2	Length	"338.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Liquorice (Canonical Version) #2	Recorded by	Dynamic Sound	.
+Liquorice (Canonical Version) #2	is-a	Canonical Version	.
+Liquorice (Canonical Version) #2	is-a	Musical Recording	.
+Liquorice (Canonical Version) #2	is-a	Topic	.
+Liquorice (Canonical Version) #3	Length	"196.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Liquorice (Canonical Version) #3	Recorded by	Azealia Banks	.
+Liquorice (Canonical Version) #3	Recording of Composition	Liquorice (Composition)	.
+Liquorice (Canonical Version) #3	is-a	Canonical Version	.
+Liquorice (Canonical Version) #3	is-a	Musical Recording	.
+Liquorice (Canonical Version) #3	is-a	Topic	.
+Liquorice (Composition)	Recorded as album	Liquorice (Musical Album)	.
+Liquorice (Composition)	is-a	Composition	.
+Liquorice (Composition)	is-a	Topic	.
+Liquorice (Musical Album)	Album content type	Studio album	.
+Liquorice (Musical Album)	Artist	Azealia Banks	.
+Liquorice (Musical Album)	Initial release date	"2012-12-04"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Liquorice (Musical Album)	Release type	Single	.
+Liquorice (Musical Album)	is-a	Musical Album	.
+Liquorice (Musical Album)	is-a	Topic	.
+Liquorice (Musical Group)	is-a	Musical Artist	.
+Liquorice (Musical Group)	is-a	Musical Group	.
+Liquorice (Musical Group)	is-a	Topic	.
+Liquorice (Musical Recording)	Length	"71.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Liquorice (Musical Recording)	Recorded by	The Analog Girl	.
+Liquorice (Musical Recording)	Release	The TV Is On	.
+Liquorice (Musical Recording)	is-a	Canonical Version	.
+Liquorice (Musical Recording)	is-a	Musical Recording	.
+Liquorice (Musical Recording)	is-a	Topic	.
+Liquorice (m/0l4c9df)	Recording	Liquorice (Canonical Version) #1	.
+Liquorice (m/0l4c9df)	Release	Valleys in My Head (Gramophone record Musical Release)	.
+Liquorice (m/0l4c9df)	Track #	"2"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Liquorice (m/0l4c9df)	is-a	Release track	.
+Liquorice (m/0l4c9df)	is-a	Topic	.
+Liquorice (m/0m7wmjh)	Recording	Liquorice (Musical Recording)	.
+Liquorice (m/0m7wmjh)	Release	The TV Is On	.
+Liquorice (m/0m7wmjh)	Track #	"4"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Liquorice (m/0m7wmjh)	is-a	Release track	.
+Liquorice (m/0m7wmjh)	is-a	Topic	.
+Liquorice (m/0qgg6qw)	Recording	Liquorice (Canonical Version) #2	.
+Liquorice (m/0qgg6qw)	Release	Afro Beat (Compact Disc Musical Release)	.
+Liquorice (m/0qgg6qw)	Track #	"16"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Liquorice (m/0qgg6qw)	is-a	Release track	.
+Liquorice (m/0qgg6qw)	is-a	Topic	.
+Liquorice (m/0tmd84r)	Recording	Liquorice (Canonical Version) #3	.
+Liquorice (m/0tmd84r)	Release	1991 (Consumer product) #24	.
+Liquorice (m/0tmd84r)	Track #	"4"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Liquorice (m/0tmd84r)	is-a	Release track	.
+Liquorice (m/0tmd84r)	is-a	Topic	.
+Liquorice (m/0tq7c89)	Recording	Liquorice (Canonical Version) #3	.
+Liquorice (m/0tq7c89)	Release	1991 (Digital media Musical Release) #47	.
+Liquorice (m/0tq7c89)	Track #	"4"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Liquorice (m/0tq7c89)	is-a	Release track	.
+Liquorice (m/0tq7c89)	is-a	Topic	.
+Liquorice (m/0tqb8sc)	Recording	Liquorice (Canonical Version) #3	.
+Liquorice (m/0tqb8sc)	Release	1991 (Digital media Musical Release) #43	.
+Liquorice (m/0tqb8sc)	Track #	"4"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Liquorice (m/0tqb8sc)	is-a	Release track	.
+Liquorice (m/0tqb8sc)	is-a	Topic	.
+Liquorice (m/0v1mvmy)	Recording	Liquorice (Canonical Version) #3	.
+Liquorice (m/0v1mvmy)	is-a	Release track	.
+Liquorice (m/0wj08_4)	Recording	Liquorice (Canonical Version) #1	.
+Liquorice (m/0wj08_4)	Release	Valleys in My Head (Gramophone record Musical Release)	.
+Liquorice (m/0wj08_4)	Track #	"2"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Liquorice (m/0wj08_4)	is-a	Release track	.
+Liquorice (m/0wj08_4)	is-a	Topic	.
+Liquorice (m/0zqc4_s)	Recording	Liquorice (Canonical Version) #3	.
+Liquorice (m/0zqc4_s)	Release	Massive R&B VIP Club Mix (Consumer product)	.
+Liquorice (m/0zqc4_s)	Track #	"37"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Liquorice	Compatible with dietary restriction	Veganism	.
+Liquorice	Compatible with dietary restriction	Vegetarian food	.
+Liquorice	Higher classification	Dicotyledon	.
+Liquorice	Higher classification	Embryophyte	.
+Liquorice	Higher classification	Eukaryote	.
+Liquorice	Higher classification	Fabaceae	.
+Liquorice	Higher classification	Fabales	.
+Liquorice	Higher classification	Faboideae	.
+Liquorice	Higher classification	Flowering plant	.
+Liquorice	Higher classification	Glycyrrhiza	.
+Liquorice	Higher classification	Plant	.
+Liquorice	Higher classification	Rosidae	.
+Liquorice	Higher classification	Spermatophyte	.
+Liquorice	ITIS Taxon S/N	"26718"	.
+Liquorice	NCBI Taxon ID	"49827"	.
+Liquorice	Rank	Species (Organism Classification Rank)	.
+Liquorice	Scientific name	"Glycyrrhiza glabra"@en	.
+Liquorice	is-a	Dicotyledon	.
+Liquorice	is-a	Drug dosage flavor	.
+Liquorice	is-a	Drug ingredient	.
+Liquorice	is-a	Embryophyte	.
+Liquorice	is-a	Eukaryote	.
+Liquorice	is-a	Fabaceae	.
+Liquorice	is-a	Fabales	.
+Liquorice	is-a	Faboideae	.
+Liquorice	is-a	Flowering plant	.
+Liquorice	is-a	Food	.
+Liquorice	is-a	Glycyrrhiza	.
+Liquorice	is-a	Ingredient	.
+Liquorice	is-a	Organism Classification	.
+Liquorice	is-a	Plant	.
+Liquorice	is-a	Rosidae	.
+Liquorice	is-a	Spermatophyte	.
+Liquorice	is-a	Spice	.
+Liquorice	is-a	Topic	.
+Liquorice (Canonical Version) #1	Length	"495.533"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Liquorice (Canonical Version) #1	Recorded by	Diethelm and Famulari	.
+Liquorice (Canonical Version) #1	Release	Valleys in My Head (Gramophone record Musical Release)	.
+Liquorice (Canonical Version) #1	is-a	Canonical Version	.
+Liquorice (Canonical Version) #1	is-a	Musical Recording	.
+Liquorice (Canonical Version) #1	is-a	Topic	.
+Liquorice (Canonical Version) #2	Length	"338.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Liquorice (Canonical Version) #2	Recorded by	Dynamic Sound	.
+Liquorice (Canonical Version) #2	is-a	Canonical Version	.
+Liquorice (Canonical Version) #2	is-a	Musical Recording	.
+Liquorice (Canonical Version) #2	is-a	Topic	.
+Liquorice (Canonical Version) #3	Length	"196.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Liquorice (Canonical Version) #3	Recorded by	Azealia Banks	.
+Liquorice (Canonical Version) #3	Recording of Composition	Liquorice (Composition)	.
+Liquorice (Canonical Version) #3	is-a	Canonical Version	.
+Liquorice (Canonical Version) #3	is-a	Musical Recording	.
+Liquorice (Canonical Version) #3	is-a	Topic	.
+Liquorice (Composition)	Recorded as album	Liquorice (Musical Album)	.
+Liquorice (Composition)	is-a	Composition	.
+Liquorice (Composition)	is-a	Topic	.
+Liquorice (Musical Album)	Album content type	Studio album	.
+Liquorice (Musical Album)	Artist	Azealia Banks	.
+Liquorice (Musical Album)	Initial release date	"2012-12-04"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Liquorice (Musical Album)	Release type	Single	.
+Liquorice (Musical Album)	is-a	Musical Album	.
+Liquorice (Musical Album)	is-a	Topic	.
+Liquorice (Musical Group)	is-a	Musical Artist	.
+Liquorice (Musical Group)	is-a	Musical Group	.
+Liquorice (Musical Group)	is-a	Topic	.
+Liquorice (Musical Recording)	Length	"71.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Liquorice (Musical Recording)	Recorded by	The Analog Girl	.
+Liquorice (Musical Recording)	Release	The TV Is On	.
+Liquorice (Musical Recording)	is-a	Canonical Version	.
+Liquorice (Musical Recording)	is-a	Musical Recording	.
+Liquorice (Musical Recording)	is-a	Topic	.
+Liquorice (m/0l4c9df)	Recording	Liquorice (Canonical Version) #1	.
+Liquorice (m/0l4c9df)	Release	Valleys in My Head (Gramophone record Musical Release)	.
+Liquorice (m/0l4c9df)	Track #	"2"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Liquorice (m/0l4c9df)	is-a	Release track	.
+Liquorice (m/0l4c9df)	is-a	Topic	.
+Liquorice (m/0m7wmjh)	Recording	Liquorice (Musical Recording)	.
+Liquorice (m/0m7wmjh)	Release	The TV Is On	.
+Liquorice (m/0m7wmjh)	Track #	"4"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Liquorice (m/0m7wmjh)	is-a	Release track	.
+Liquorice (m/0m7wmjh)	is-a	Topic	.
+Liquorice (m/0qgg6qw)	Recording	Liquorice (Canonical Version) #2	.
+Liquorice (m/0qgg6qw)	Release	Afro Beat (Compact Disc Musical Release)	.
+Liquorice (m/0qgg6qw)	Track #	"16"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Liquorice (m/0qgg6qw)	is-a	Release track	.
+Liquorice (m/0qgg6qw)	is-a	Topic	.
+Liquorice (m/0tmd84r)	Recording	Liquorice (Canonical Version) #3	.
+Liquorice (m/0tmd84r)	Release	1991 (Consumer product) #24	.
+Liquorice (m/0tmd84r)	Track #	"4"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Liquorice (m/0tmd84r)	is-a	Release track	.
+Liquorice (m/0tmd84r)	is-a	Topic	.
+Liquorice (m/0tq7c89)	Recording	Liquorice (Canonical Version) #3	.
+Liquorice (m/0tq7c89)	Release	1991 (Digital media Musical Release) #47	.
+Liquorice (m/0tq7c89)	Track #	"4"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Liquorice (m/0tq7c89)	is-a	Release track	.
+Liquorice (m/0tq7c89)	is-a	Topic	.
+Liquorice (m/0tqb8sc)	Recording	Liquorice (Canonical Version) #3	.
+Liquorice (m/0tqb8sc)	Release	1991 (Digital media Musical Release) #43	.
+Liquorice (m/0tqb8sc)	Track #	"4"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Liquorice (m/0tqb8sc)	is-a	Release track	.
+Liquorice (m/0tqb8sc)	is-a	Topic	.
+Liquorice (m/0v1mvmy)	Recording	Liquorice (Canonical Version) #3	.
+Liquorice (m/0v1mvmy)	is-a	Release track	.
+Liquorice (m/0wj08_4)	Recording	Liquorice (Canonical Version) #1	.
+Liquorice (m/0wj08_4)	Release	Valleys in My Head (Gramophone record Musical Release)	.
+Liquorice (m/0wj08_4)	Track #	"2"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Liquorice (m/0wj08_4)	is-a	Release track	.
+Liquorice (m/0wj08_4)	is-a	Topic	.
+Liquorice (m/0zqc4_s)	Recording	Liquorice (Canonical Version) #3	.
+Liquorice (m/0zqc4_s)	Release	Massive R&B VIP Club Mix (Consumer product)	.
+Liquorice (m/0zqc4_s)	Track #	"37"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Liquorice Allsorts	Artist	Patrick Hughes	.
+Liquorice Allsorts	is-a	Artwork	.
+Liquorice Allsorts	is-a	Topic	.
+Liquorice Alltime	Length	"222.693"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Liquorice Alltime	Recorded by	Roy Harper (Folk rock Artist)	.
+Liquorice Alltime	Release	Garden of Uranium/Descendants of Smith (Consumer product)	.
+Liquorice Alltime	is-a	Canonical Version	.
+Liquorice Alltime	is-a	Musical Recording	.
+Liquorice Alltime	is-a	Topic	.
+Liquorice Alltime (m/0mj_j8c)	Recording	Liquorice Alltime	.
+Liquorice Alltime (m/0mj_j8c)	Release	Garden of Uranium/Descendants of Smith (Consumer product)	.
+Liquorice Alltime (m/0mj_j8c)	Track #	"8"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Liquorice Alltime (m/0mj_j8c)	is-a	Release track	.
+Liquorice Alltime (m/0mj_j8c)	is-a	Topic	.
+Liquorice Fish Dish (Musical Recording)	Length	"268.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Liquorice Fish Dish (Musical Recording)	Recorded by	Condor Moments	.
+Liquorice Fish Dish (Musical Recording)	Release	And Though We're Told We've Got It All, the All We've Got Is Freezing Cold (Compact Disc Musical Release)	.
+Liquorice Fish Dish (Musical Recording)	Release	And Though We're Told We've Got It All, the All We've Got Is Freezing Cold (Digital media Musical Release)	.
+Liquorice Fish Dish (Musical Recording)	is-a	Canonical Version	.
+Liquorice Fish Dish (Musical Recording)	is-a	Musical Recording	.
+Liquorice Fish Dish (Musical Recording)	is-a	Topic	.
+Liquorice Fish Dish (m/0md4l5z)	Recording	Liquorice Fish Dish (Musical Recording)	.
+Liquorice Fish Dish (m/0md4l5z)	Release	And Though We're Told We've Got It All, the All We've Got Is Freezing Cold (Digital media Musical Release)	.
+Liquorice Fish Dish (m/0md4l5z)	Track #	"6"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Liquorice Fish Dish (m/0md4l5z)	is-a	Release track	.
+Liquorice Fish Dish (m/0md4l5z)	is-a	Topic	.
+Liquorice Fish Dish (m/0mjl_cw)	Recording	Liquorice Fish Dish (Musical Recording)	.
+Liquorice Fish Dish (m/0mjl_cw)	Release	And Though We're Told We've Got It All, the All We've Got Is Freezing Cold (Compact Disc Musical Release)	.
+Liquorice Fish Dish (m/0mjl_cw)	Track #	"6"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Liquorice Fish Dish (m/0mjl_cw)	is-a	Release track	.
+Liquorice Fish Dish (m/0mjl_cw)	is-a	Topic	.
+Liquorice Flavour (Canonical Version)	Length	"165.8"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Liquorice Flavour (Canonical Version)	Recorded by	Marc Riley and The Creepers	.
+Liquorice Flavour (Canonical Version)	Release	Sleeper (Musical Release) #99	.
+Liquorice Flavour (Canonical Version)	is-a	Canonical Version	.
+Liquorice Flavour (Canonical Version)	is-a	Musical Recording	.
+Liquorice Flavour (Canonical Version)	is-a	Topic	.
+Liquorice Flavour (m/0l2skt3)	Recording	Liquorice Flavour (Canonical Version)	.
+Liquorice Flavour (m/0l2skt3)	Release	Sleeper (Musical Release) #99	.
+Liquorice Flavour (m/0l2skt3)	Track #	"17"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Liquorice Flavour (m/0l2skt3)	is-a	Release track	.
+Liquorice Flavour (m/0l2skt3)	is-a	Topic	.
+Liquorice John Death: Ain't Nothin' To Get Excited About	Producer	Chris Thomas	.
+Liquorice John Death: Ain't Nothin' To Get Excited About	is-a	Musical Release	.
+Liquorice John Death: Ain't Nothin' To Get Excited About	is-a	Topic	.
+Liquorice Kiss (Musical Recording)	Length	"205.786"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Liquorice Kiss (Musical Recording)	Recorded by	How to Swim	.
+Liquorice Kiss (Musical Recording)	Release	The Littlest Orgasm (Compact Disc Musical Release)	.
+Liquorice Kiss (Musical Recording)	is-a	Canonical Version	.
+Liquorice Kiss (Musical Recording)	is-a	Musical Recording	.
+Liquorice Kiss (Musical Recording)	is-a	Topic	.
+Liquorice Kiss (m/0m5m9zj)	Recording	Liquorice Kiss (Musical Recording)	.
+Liquorice Kiss (m/0m5m9zj)	Release	The Littlest Orgasm (Compact Disc Musical Release)	.
+Liquorice Kiss (m/0m5m9zj)	Track #	"4"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Liquorice Kiss (m/0m5m9zj)	is-a	Release track	.
+Liquorice Kiss (m/0m5m9zj)	is-a	Topic	.
+Liquorice Krills (skit) (Canonical Version)	Length	"30.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Liquorice Krills (skit) (Canonical Version)	Producer	Trem	.
+Liquorice Krills (skit) (Canonical Version)	Recorded by	Brad Strut	.
+Liquorice Krills (skit) (Canonical Version)	is-a	Canonical Version	.
+Liquorice Krills (skit) (Canonical Version)	is-a	Musical Recording	.
+Liquorice Krills (skit) (Canonical Version)	is-a	Topic	.
+Liquorice Krills (skit) (m/0npvqlh)	Recording	Liquorice Krills (skit) (Canonical Version)	.
+Liquorice Krills (skit) (m/0npvqlh)	Release	The Stage Is Set (Compact Disc Musical Release)	.
+Liquorice Krills (skit) (m/0npvqlh)	Track #	"4"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Liquorice Krills (skit) (m/0npvqlh)	is-a	Release track	.
+Liquorice Krills (skit) (m/0npvqlh)	is-a	Topic	.
+Liquorice Latex (original mix) (Musical Recording)	Length	"348.253"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Liquorice Latex (original mix) (Musical Recording)	Recorded by	Sanchez & The Shockers	.
+Liquorice Latex (original mix) (Musical Recording)	Release	Tecktonik, Volume 4 (Multi-Part Musical Release)	.
+Liquorice Latex (original mix) (Musical Recording)	is-a	Canonical Version	.
+Liquorice Latex (original mix) (Musical Recording)	is-a	Musical Recording	.
+Liquorice Latex (original mix) (Musical Recording)	is-a	Topic	.
+Liquorice Latex (original mix) (m/0m50wxv)	Recording	Liquorice Latex (original mix) (Musical Recording)	.
+Liquorice Latex (original mix) (m/0m50wxv)	Release	Tecktonik, Volume 4 (Multi-Part Musical Release)	.
+Liquorice Latex (original mix) (m/0m50wxv)	Track #	"10"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Liquorice Latex (original mix) (m/0m50wxv)	is-a	Release track	.
+Liquorice Latex (original mix) (m/0m50wxv)	is-a	Topic	.
+Liquorice Night (Consumer product)	Catalog Number	"JERK003"	.
+Liquorice Night (Consumer product)	Credited A	"Sly Hats"	.
+Liquorice Night (Consumer product)	Format	Compact disc	.
+Liquorice Night (Consumer product)	GTIN	"09332727009259"	.
+Liquorice Night (Consumer product)	Region	Australia	.
+Liquorice Night (Consumer product)	Release Date	"2007-06-02"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Liquorice Night (Consumer product)	Release of	Liquorice Night (Musical Album)	.
+Liquorice Night (Consumer product)	is-a	Consumer product	.
+Liquorice Night (Consumer product)	is-a	Creative Work	.
+Liquorice Night (Consumer product)	is-a	Musical Release	.
+Liquorice Night (Consumer product)	is-a	Topic	.
+Liquorice Night (Gramophone record Musical Release)	Catalog Number	"JERK003LP"	.
+Liquorice Night (Gramophone record Musical Release)	Credited A	"Sly Hats"	.
+Liquorice Night (Gramophone record Musical Release)	Format	Gramophone record	.
+Liquorice Night (Gramophone record Musical Release)	Region	Australia	.
+Liquorice Night (Gramophone record Musical Release)	Release Date	"2007-07-21"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Liquorice Night (Gramophone record Musical Release)	Release of	Liquorice Night (Musical Album)	.
+Liquorice Night (Gramophone record Musical Release)	is-a	Creative Work	.
+Liquorice Night (Gramophone record Musical Release)	is-a	Musical Release	.
+Liquorice Night (Gramophone record Musical Release)	is-a	Topic	.
+Liquorice Night (Musical Album)	Artist	Sly Hats	.
+Liquorice Night (Musical Album)	Initial release date	"2007-06-02"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Liquorice Night (Musical Album)	Primary release	Liquorice Night (Consumer product)	.
+Liquorice Night (Musical Album)	Release type	Album	.
+Liquorice Night (Musical Album)	is-a	Musical Album	.
+Liquorice Night (Musical Album)	is-a	Topic	.
+Liquorice Night (Musical Recording)	Length	"169.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Liquorice Night (Musical Recording)	Recorded by	Sly Hats	.
+Liquorice Night (Musical Recording)	Release	Liquorice Night (Consumer product)	.
+Liquorice Night (Musical Recording)	Release	Liquorice Night (Gramophone record Musical Release)	.
+Liquorice Night (Musical Recording)	is-a	Canonical Version	.
+Liquorice Night (Musical Recording)	is-a	Musical Recording	.
+Liquorice Night (Musical Recording)	is-a	Topic	.
+Liquorice Night (m/0m2jq_b)	Recording	Liquorice Night (Musical Recording)	.
+Liquorice Night (m/0m2jq_b)	Release	Liquorice Night (Gramophone record Musical Release)	.
+Liquorice Night (m/0m2jq_b)	Track #	"1"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Liquorice Night (m/0m2jq_b)	is-a	Release track	.
+Liquorice Night (m/0m2jq_b)	is-a	Topic	.
+Liquorice Night (m/0mk3bgz)	Recording	Liquorice Night (Musical Recording)	.
+Liquorice Night (m/0mk3bgz)	Release	Liquorice Night (Consumer product)	.
+Liquorice Night (m/0mk3bgz)	Track #	"1"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Liquorice Night (m/0mk3bgz)	is-a	Release track	.
+Liquorice Night (m/0mk3bgz)	is-a	Topic	.
+Liquorice Seas (Musical Recording)	Recorded by	m/0fqcfvg	.
+Liquorice Seas (Musical Recording)	Release	Faint Signal (Musical Release)	.
+Liquorice Seas (Musical Recording)	is-a	Canonical Version	.
+Liquorice Seas (Musical Recording)	is-a	Musical Recording	.
+Liquorice Seas (Musical Recording)	is-a	Topic	.
+Liquorice Seas (m/0m_qmt4)	Recording	Liquorice Seas (Musical Recording)	.
+Liquorice Seas (m/0m_qmt4)	Release	Faint Signal (Musical Release)	.
+Liquorice Seas (m/0m_qmt4)	Track #	"3"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Liquorice Seas (m/0m_qmt4)	is-a	Release track	.
+Liquorice Seas (m/0m_qmt4)	is-a	Topic	.
+Liquorice Tics (Musical Recording)	Length	"127.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Liquorice Tics (Musical Recording)	Recorded by	Bill Wells	.
+Liquorice Tics (Musical Recording)	Recorded by	Maher Shalal Hash Baz	.
+Liquorice Tics (Musical Recording)	Release	Osaka Bridge (Consumer product)	.
+Liquorice Tics (Musical Recording)	is-a	Canonical Version	.
+Liquorice Tics (Musical Recording)	is-a	Musical Recording	.
+Liquorice Tics (Musical Recording)	is-a	Topic	.
+Liquorice Tics (m/0lc5510)	Recording	Liquorice Tics (Musical Recording)	.
+Liquorice Tics (m/0lc5510)	Release	Osaka Bridge (Consumer product)	.
+Liquorice Tics (m/0lc5510)	Track #	"7"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Liquorice Tics (m/0lc5510)	is-a	Release track	.
+Liquorice Tics (m/0lc5510)	is-a	Topic	.
+Liquorice Tics (m/0rrctz8)	Recording	Liquorice Tics (Musical Recording)	.
+Liquorice Tics (m/0rrctz8)	Release	Gok (Compact Disc Musical Release)	.
+Liquorice Tics (m/0rrctz8)	Track #	"7"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Liquorice Tics (m/0rrctz8)	is-a	Release track	.
+Liquorice Tics (m/0rrctz8)	is-a	Topic	.
+Liquorice Tics (m/0zjkspb)	Recording	Liquorice Tics (Musical Recording)	.
+Liquorice Tics (m/0zjkspb)	Release	Is This Music? Issue 22 (Consumer product)	.
+Liquorice Tics (m/0zjkspb)	Track #	"8"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Liquorice Twitch (Musical Recording)	Canonical version	Liqourice Twitch (Canonical Version)	.
+Liquorice Twitch (Musical Recording)	Recorded by	The Kaisers (Musical Group)	.
+Liquorice Twitch (Musical Recording)	is-a	Canonical Version	.
+Liquorice Twitch (Musical Recording)	is-a	Musical Recording	.
+Liquorice Twitch (Musical Recording)	is-a	Topic	.
+Liquorice Twitch (m/0wcqznv)	Recording	Liquorice Twitch (Musical Recording)	.
+Liquorice Twitch (m/0wcqznv)	Release	Liquorice Twitch / That's My Girl (Gramophone record Musical Release)	.
+Liquorice Twitch (m/0wcqznv)	Track #	"1"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Liquorice Twitch (m/0wcqznv)	is-a	Release track	.
+Liquorice Twitch (m/0wcqznv)	is-a	Topic	.
+Liquorice Twitch (m/0yblb6b)	Recording	Liquorice Twitch (Musical Recording)	.
+Liquorice Twitch (m/0yblb6b)	Release	Twist with The Kaisers (Gramophone record Musical Release)	.
+Liquorice Twitch (m/0yblb6b)	Track #	"2"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Liquorice Twitch (m/0yblb6b)	is-a	Release track	.
+Liquorice Twitch (m/0yblb6b)	is-a	Topic	.
+Liquorice Twitch / That's My Girl (Gramophone record Musical Release)	Catalog Number	"007"	.
+Liquorice Twitch / That's My Girl (Gramophone record Musical Release)	Credited A	"The Kaisers"	.
+Liquorice Twitch / That's My Girl (Gramophone record Musical Release)	Format	Gramophone record	.
+Liquorice Twitch / That's My Girl (Gramophone record Musical Release)	Region	United States of America	.
+Liquorice Twitch / That's My Girl (Gramophone record Musical Release)	Release Date	"1996"^^<http://www.w3.org/2001/XMLSchema#gYear>	.
+Liquorice Twitch / That's My Girl (Gramophone record Musical Release)	Release of	Liquorice Twitch / That's My Girl (Musical Album)	.
+Liquorice Twitch / That's My Girl (Gramophone record Musical Release)	is-a	Creative Work	.
+Liquorice Twitch / That's My Girl (Gramophone record Musical Release)	is-a	Musical Release	.
+Liquorice Twitch / That's My Girl (Gramophone record Musical Release)	is-a	Topic	.
+Liquorice Twitch / That's My Girl (Musical Album)	Artist	The Kaisers (Musical Group)	.
+Liquorice Twitch / That's My Girl (Musical Album)	Initial release date	"1996"^^<http://www.w3.org/2001/XMLSchema#gYear>	.
+Liquorice Twitch / That's My Girl (Musical Album)	Primary release	Liquorice Twitch / That's My Girl (Gramophone record Musical Release)	.
+Liquorice Twitch / That's My Girl (Musical Album)	Release type	Single	.
+Liquorice Twitch / That's My Girl (Musical Album)	is-a	Musical Album	.
+Liquorice Twitch / That's My Girl (Musical Album)	is-a	Topic	.
+Liquorice heart (Canonical Version)	Recorded by	Cassock (Musical Group)	.
+Liquorice heart (Canonical Version)	is-a	Canonical Version	.
+Liquorice heart (Canonical Version)	is-a	Musical Recording	.
+Liquorice heart (Canonical Version)	is-a	Topic	.
+Liquorice heart (m/0wt6jly)	Recording	Liquorice heart (Canonical Version)	.
+Liquorice heart (m/0wt6jly)	Release	Liberty of Speech (Musical Release)	.
+Liquorice heart (m/0wt6jly)	Track #	"1"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Liquorice heart (m/0wt6jly)	is-a	Release track	.
+Liquorice heart (m/0wt6jly)	is-a	Topic	.

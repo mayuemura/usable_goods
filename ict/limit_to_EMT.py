@@ -2,13 +2,15 @@
 #-*- coding:utf-8 -*-
 #2016/02/09
 #train, testデータのlabelをEffect, MOU, Targetだけにする
-
+#2016/02/16 modified (Trgも予測の対象から外す)
 
 import sys
 
 def main(data_file):
 
     label_set = {
+            "B-Trg",
+            "I-Trg",
             "B-Cer",
             "I-Cer",
             "B-Deg",
@@ -44,3 +46,5 @@ def main(data_file):
 
 if __name__ == "__main__":
     main(sys.argv[1])
+
+#python limit_to_EMT.py train

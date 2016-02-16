@@ -1,0 +1,102 @@
+Tweezers (Musical Recording) #1	Length	"196.093"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Tweezers (Musical Recording) #1	Recorded by	Fudge Tunnel	.
+Tweezers (Musical Recording) #1	Release	Hate Songs in E Minor (Compact Disc Musical Release)	.
+Tweezers (Musical Recording) #1	Release	Hate Songs in E Minor (Consumer product)	.
+Tweezers (Musical Recording) #1	is-a	Canonical Version	.
+Tweezers (Musical Recording) #1	is-a	Musical Recording	.
+Tweezers (Musical Recording) #1	is-a	Topic	.
+Tweezers (Musical Recording) #2	Length	"226.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Tweezers (Musical Recording) #2	Recorded by	Pursuit Grooves	.
+Tweezers (Musical Recording) #2	Release	Fox Trot Mannerisms	.
+Tweezers (Musical Recording) #2	is-a	Canonical Version	.
+Tweezers (Musical Recording) #2	is-a	Musical Recording	.
+Tweezers (Musical Recording) #2	is-a	Topic	.
+Tweezers (TV Episode)	Episode number	"14"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Tweezers (TV Episode)	Original air date	"2006-11-01"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Tweezers (TV Episode)	Previous episode	Tragedy (TV Episode) #195	.
+Tweezers (TV Episode)	Season	HaShminiya - Season 3	.
+Tweezers (TV Episode)	Series	The Eight (TV Drama)	.
+Tweezers (TV Episode)	TVRage Episode ID	"781502"	.
+Tweezers (TV Episode)	is-a	TV Episode	.
+Tweezers (TV Episode)	is-a	Topic	.
+Tweezers (m/0lrhqnr)	Recording	Tweezers (Musical Recording) #1	.
+Tweezers (m/0lrhqnr)	Release	Hate Songs in E Minor (Consumer product)	.
+Tweezers (m/0lrhqnr)	Track #	"9"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Tweezers (m/0lrhqnr)	is-a	Release track	.
+Tweezers (m/0lrhqnr)	is-a	Topic	.
+Tweezers (m/0mc3v2x)	Recording	Tweezers (Musical Recording) #1	.
+Tweezers (m/0mc3v2x)	Release	Hate Songs in E Minor (Compact Disc Musical Release)	.
+Tweezers (m/0mc3v2x)	Track #	"9"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Tweezers (m/0mc3v2x)	is-a	Release track	.
+Tweezers (m/0mc3v2x)	is-a	Topic	.
+Tweezers (m/0mw395p)	Recording	Tweezers (Musical Recording) #2	.
+Tweezers (m/0mw395p)	Release	Fox Trot Mannerisms	.
+Tweezers (m/0mw395p)	Track #	"6"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Tweezers (m/0mw395p)	is-a	Release track	.
+Tweezers (m/0mw395p)	is-a	Topic	.
+Tweezers (m/0w0gj5p)	Recording	Tweezers (Musical Recording) #1	.
+Tweezers (m/0w0gj5p)	Release	Hate Songs in E Minor (Consumer product)	.
+Tweezers (m/0w0gj5p)	Track #	"9"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Tweezers (m/0w0gj5p)	is-a	Release track	.
+Tweezers (m/0w0gj5p)	is-a	Topic	.
+Tweezers (m/0w39d5q)	Recording	Tweezers (Musical Recording) #1	.
+Tweezers (m/0w39d5q)	Release	Hate Songs in E Minor (Consumer product)	.
+Tweezers (m/0w39d5q)	Track #	"9"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Tweezers (m/0w39d5q)	is-a	Release track	.
+Tweezers (m/0w39d5q)	is-a	Topic	.
+Tweezers (m/0xcg91g)	Recording	Tweezers (Musical Recording) #1	.
+Tweezers (m/0xcg91g)	Release	Hate Songs in E Minor (Compact Cassette Musical Release)	.
+Tweezers (m/0xcg91g)	Track #	"9"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Tweezers (m/0xcg91g)	is-a	Release track	.
+Tweezers (m/0xcg91g)	is-a	Topic	.
+Tweezers (Musical Recording) #1	Length	"196.093"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Tweezers (Musical Recording) #1	Recorded by	Fudge Tunnel	.
+Tweezers (Musical Recording) #1	Release	Hate Songs in E Minor (Compact Disc Musical Release)	.
+Tweezers (Musical Recording) #1	Release	Hate Songs in E Minor (Consumer product)	.
+Tweezers (Musical Recording) #1	is-a	Canonical Version	.
+Tweezers (Musical Recording) #1	is-a	Musical Recording	.
+Tweezers (Musical Recording) #1	is-a	Topic	.
+Tweezers (Musical Recording) #2	Length	"226.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Tweezers (Musical Recording) #2	Recorded by	Pursuit Grooves	.
+Tweezers (Musical Recording) #2	Release	Fox Trot Mannerisms	.
+Tweezers (Musical Recording) #2	is-a	Canonical Version	.
+Tweezers (Musical Recording) #2	is-a	Musical Recording	.
+Tweezers (Musical Recording) #2	is-a	Topic	.
+Tweezers (TV Episode)	Episode number	"14"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Tweezers (TV Episode)	Original air date	"2006-11-01"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Tweezers (TV Episode)	Previous episode	Tragedy (TV Episode) #195	.
+Tweezers (TV Episode)	Season	HaShminiya - Season 3	.
+Tweezers (TV Episode)	Series	The Eight (TV Drama)	.
+Tweezers (TV Episode)	TVRage Episode ID	"781502"	.
+Tweezers (TV Episode)	is-a	TV Episode	.
+Tweezers (TV Episode)	is-a	Topic	.
+Tweezers (m/0lrhqnr)	Recording	Tweezers (Musical Recording) #1	.
+Tweezers (m/0lrhqnr)	Release	Hate Songs in E Minor (Consumer product)	.
+Tweezers (m/0lrhqnr)	Track #	"9"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Tweezers (m/0lrhqnr)	is-a	Release track	.
+Tweezers (m/0lrhqnr)	is-a	Topic	.
+Tweezers (m/0mc3v2x)	Recording	Tweezers (Musical Recording) #1	.
+Tweezers (m/0mc3v2x)	Release	Hate Songs in E Minor (Compact Disc Musical Release)	.
+Tweezers (m/0mc3v2x)	Track #	"9"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Tweezers (m/0mc3v2x)	is-a	Release track	.
+Tweezers (m/0mc3v2x)	is-a	Topic	.
+Tweezers (m/0mw395p)	Recording	Tweezers (Musical Recording) #2	.
+Tweezers (m/0mw395p)	Release	Fox Trot Mannerisms	.
+Tweezers (m/0mw395p)	Track #	"6"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Tweezers (m/0mw395p)	is-a	Release track	.
+Tweezers (m/0mw395p)	is-a	Topic	.
+Tweezers (m/0w0gj5p)	Recording	Tweezers (Musical Recording) #1	.
+Tweezers (m/0w0gj5p)	Release	Hate Songs in E Minor (Consumer product)	.
+Tweezers (m/0w0gj5p)	Track #	"9"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Tweezers (m/0w0gj5p)	is-a	Release track	.
+Tweezers (m/0w0gj5p)	is-a	Topic	.
+Tweezers (m/0w39d5q)	Recording	Tweezers (Musical Recording) #1	.
+Tweezers (m/0w39d5q)	Release	Hate Songs in E Minor (Consumer product)	.
+Tweezers (m/0w39d5q)	Track #	"9"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Tweezers (m/0w39d5q)	is-a	Release track	.
+Tweezers (m/0w39d5q)	is-a	Topic	.
+Tweezers (m/0xcg91g)	Recording	Tweezers (Musical Recording) #1	.
+Tweezers (m/0xcg91g)	Release	Hate Songs in E Minor (Compact Cassette Musical Release)	.
+Tweezers (m/0xcg91g)	Track #	"9"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Tweezers (m/0xcg91g)	is-a	Release track	.
+Tweezers (m/0xcg91g)	is-a	Topic	.

@@ -1,0 +1,283 @@
+Antifungal 1 cream (Consumer product)	Available in	United States of America	.
+Antifungal 1 cream (Consumer product)	Discontinued	"false"	.
+Antifungal 1 cream (Consumer product)	FDA OTC monograph part	FDA OTC monograph part 333	.
+Antifungal 1 cream (Consumer product)	Label date	"2010-05-18"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Antifungal 1 cream (Consumer product)	Label link	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=ab5b6467-c158-4407-9d52-3c0731030680>	.
+Antifungal 1 cream (Consumer product)	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=ab5b6467-c158-4407-9d52-3c0731030680#nlm34071-1>	.
+Antifungal 1 cream (Consumer product)	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=ab5b6467-c158-4407-9d52-3c0731030680#nlm42229-5>	.
+Antifungal 1 cream (Consumer product)	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=ab5b6467-c158-4407-9d52-3c0731030680#nlm51945-4>	.
+Antifungal 1 cream (Consumer product)	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=ab5b6467-c158-4407-9d52-3c0731030680#nlm55105-1>	.
+Antifungal 1 cream (Consumer product)	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=ab5b6467-c158-4407-9d52-3c0731030680#nlm55106-9>	.
+Antifungal 1 cream (Consumer product)	Manufactured form of	Clotrimazole 0.01 cream (Cream Drug Formulation) #2	.
+Antifungal 1 cream (Consumer product)	Manufacturer	Dynarex	.
+Antifungal 1 cream (Consumer product)	Marketing start date	"2010-05-18"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Antifungal 1 cream (Consumer product)	NDC Product ID	"67777-231"	.
+Antifungal 1 cream (Consumer product)	is-a	Consumer product	.
+Antifungal 1 cream (Consumer product)	is-a	Manufactured drug form	.
+Antifungal 1 cream (Consumer product)	is-a	Topic	.
+Antifungal 1 cream (Manufactured drug form)	Available in	United States of America	.
+Antifungal 1 cream (Manufactured drug form)	Discontinued	"false"	.
+Antifungal 1 cream (Manufactured drug form)	FDA OTC monograph part	FDA OTC monograph part 333c	.
+Antifungal 1 cream (Manufactured drug form)	Label date	"2012-02-08"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Antifungal 1 cream (Manufactured drug form)	Label link	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=65b51efc-15ec-4389-8993-97ecb7e9dfc5>	.
+Antifungal 1 cream (Manufactured drug form)	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=65b51efc-15ec-4389-8993-97ecb7e9dfc5#i4i_OTC_Active_Ingredient_id_0b139de7-1b70-4fe7-8217-84d5f33ea382>	.
+Antifungal 1 cream (Manufactured drug form)	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=65b51efc-15ec-4389-8993-97ecb7e9dfc5#i4i_OTC_Purpose_id_8a46bda7-43fd-4bd4-b07b-efbb8b40b13b>	.
+Antifungal 1 cream (Manufactured drug form)	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=65b51efc-15ec-4389-8993-97ecb7e9dfc5#i4i_OTC_Questions_id_e5d5dc7e-545c-460c-a26c-0de6a83e0aea>	.
+Antifungal 1 cream (Manufactured drug form)	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=65b51efc-15ec-4389-8993-97ecb7e9dfc5#i4i_Principal_display_panel_id_19bce823-eb68-46d7-a18b-07c763bf8b71>	.
+Antifungal 1 cream (Manufactured drug form)	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=65b51efc-15ec-4389-8993-97ecb7e9dfc5#i4i_dosage_admin_id_4d6a23dd-946f-4cea-b9a8-04bc2bdbe465>	.
+Antifungal 1 cream (Manufactured drug form)	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=65b51efc-15ec-4389-8993-97ecb7e9dfc5#i4i_inactive_ingredients_id_f2c16ea8-cbae-4d4c-b4d6-e045cc26b743>	.
+Antifungal 1 cream (Manufactured drug form)	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=65b51efc-15ec-4389-8993-97ecb7e9dfc5#i4i_indications_id_dde0bab5-70fe-449b-af02-7061eb2c3e0b>	.
+Antifungal 1 cream (Manufactured drug form)	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=65b51efc-15ec-4389-8993-97ecb7e9dfc5#i4i_storage_id_b451b4a8-b50e-4ee6-954e-1d1e19cf8552>	.
+Antifungal 1 cream (Manufactured drug form)	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=65b51efc-15ec-4389-8993-97ecb7e9dfc5#i4i_warnings_id_8278bbbf-0950-41b5-aa28-04997a0e542f>	.
+Antifungal 1 cream (Manufactured drug form)	Manufactured form of	Clotrimazole 0.01 cream (Cream Drug Formulation) #2	.
+Antifungal 1 cream (Manufactured drug form)	Manufacturer	Safeway	.
+Antifungal 1 cream (Manufactured drug form)	Marketing start date	"2008-11-20"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Antifungal 1 cream (Manufactured drug form)	NDC Product ID	"21130-857"	.
+Antifungal 1 cream (Manufactured drug form)	is-a	Consumer product	.
+Antifungal 1 cream (Manufactured drug form)	is-a	Manufactured drug form	.
+Antifungal 1 cream (Manufactured drug form)	is-a	Topic	.
+Antifungal 1 solution	Available in	United States of America	.
+Antifungal 1 solution	Discontinued	"false"	.
+Antifungal 1 solution	FDA OTC monograph part	FDA OTC monograph part 333c	.
+Antifungal 1 solution	Label date	"2009-09-08"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Antifungal 1 solution	Label link	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=fd7b68d3-2f0f-43a1-83eb-66fe14208343>	.
+Antifungal 1 solution	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=fd7b68d3-2f0f-43a1-83eb-66fe14208343#i4i_OTC_Active_Ingredient_id_6845d176-1995-488c-9896-cace99fb31d9>	.
+Antifungal 1 solution	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=fd7b68d3-2f0f-43a1-83eb-66fe14208343#i4i_OTC_Purpose_id_9c6f48b2-f376-426a-9fc2-10d2ffbe62e8>	.
+Antifungal 1 solution	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=fd7b68d3-2f0f-43a1-83eb-66fe14208343#i4i_OTC_Questions_id_6ffdec34-3260-4827-88b0-3d8ca0c0d274>	.
+Antifungal 1 solution	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=fd7b68d3-2f0f-43a1-83eb-66fe14208343#i4i_Principal_display_panel_id_4b4a9b4c-c1e9-4610-b7a8-f24446361215>	.
+Antifungal 1 solution	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=fd7b68d3-2f0f-43a1-83eb-66fe14208343#i4i_dosage_admin_id_af5f18f2-444c-42dd-8dd1-216be4d4ed35>	.
+Antifungal 1 solution	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=fd7b68d3-2f0f-43a1-83eb-66fe14208343#i4i_inactive_ingredients_id_faeafae5-6ae4-4cee-ba47-c7fe29fc2fca>	.
+Antifungal 1 solution	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=fd7b68d3-2f0f-43a1-83eb-66fe14208343#i4i_indications_id_c2298ef9-3072-40ff-90c3-498b671c09d7>	.
+Antifungal 1 solution	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=fd7b68d3-2f0f-43a1-83eb-66fe14208343#i4i_warnings_id_f7ed1b9a-7457-4ff9-bb81-9a4d877f5a23>	.
+Antifungal 1 solution	Manufactured form of	Tolnaftate 0.01 solution (Solution Drug Formulation) #2	.
+Antifungal 1 solution	Manufacturer	Perrigo New York Inc	.
+Antifungal 1 solution	Marketing start date	"2005-12-06"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Antifungal 1 solution	NDC Product ID	"45802-033"	.
+Antifungal 1 solution	is-a	Consumer product	.
+Antifungal 1 solution	is-a	Manufactured drug form	.
+Antifungal 1 solution	is-a	Topic	.
+Antifungal azoles	Author	Ludwig Zirngibl	.
+Antifungal azoles	is-a	Book	.
+Antifungal azoles	is-a	Topic	.
+Antifungal azoles	is-a	Written Work	.
+Antifungal azoles : a comprehensive survey of their structures and properties	Edition Of	Antifungal azoles	.
+Antifungal azoles : a comprehensive survey of their structures and properties	ISBN	9783527294879	.
+Antifungal azoles : a comprehensive survey of their structures and properties	ISBN-13	"9783527294879"	.
+Antifungal azoles : a comprehensive survey of their structures and properties	Northwestern OPAC	"2771649"	.
+Antifungal azoles : a comprehensive survey of their structures and properties	Penn State OPAC	"1434516"	.
+Antifungal azoles : a comprehensive survey of their structures and properties	Publication date	"1998"^^<http://www.w3.org/2001/XMLSchema#gYear>	.
+Antifungal azoles : a comprehensive survey of their structures and properties	Stanford OPAC	"3909156"	.
+Antifungal azoles : a comprehensive survey of their structures and properties	University of Chicago OPAC	"3902861"	.
+Antifungal azoles : a comprehensive survey of their structures and properties	is-a	Book Edition	.
+Antifungal azoles : a comprehensive survey of their structures and properties	is-a	Cataloged instance	.
+Antifungal azoles : a comprehensive survey of their structures and properties	is-a	Topic	.
+Antifungal medication	Used To Treat	Candidiasis	.
+Antifungal medication	Used To Treat	Corneal Ulcer	.
+Antifungal medication	Used To Treat	Irritant diaper dermatitis	.
+Antifungal medication	Used To Treat	Keratitis	.
+Antifungal medication	Used To Treat	Laryngitis	.
+Antifungal medication	Used To Treat	Otitis externa	.
+Antifungal medication	Used To Treat	Tinea cruris	.
+Antifungal medication	is-a	Medical Treatment	.
+Antifungal medication	is-a	Topic	.
+antifungal humoral response	Broader Group	antimicrobial humoral response	.
+antifungal humoral response	Broader Group	defense response to fungus	.
+antifungal humoral response	Data Source	m/02l1vmn	.
+antifungal humoral response	Description	"An immune response against a fungus mediated through a body fluid."@en	.
+antifungal humoral response	Group Type	Biological process	.
+antifungal humoral response	Identifier	"GO:0019732"	.
+antifungal humoral response	is-a	Gene Group	.
+antifungal humoral response	is-a	Gene Ontology Group	.
+antifungal humoral response	is-a	Topic	.
+antifungal humoral response (sensu Protostomia)	Broader Group	antifungal humoral response	.
+antifungal humoral response (sensu Protostomia)	Broader Group	antimicrobial humoral response (sensu Protostomia)	.
+antifungal humoral response (sensu Protostomia)	Data Source	m/02l1vmn	.
+antifungal humoral response (sensu Protostomia)	Description	"An immune response against a fungus mediated through a body fluid. As in, but not restricted to, the taxon Protostomia (Protostomia, ncbi_taxonomy_id:33317)."@en	.
+antifungal humoral response (sensu Protostomia)	Group Type	Biological process	.
+antifungal humoral response (sensu Protostomia)	Identifier	"GO:0006966"	.
+antifungal humoral response (sensu Protostomia)	is-a	Gene Group	.
+antifungal humoral response (sensu Protostomia)	is-a	Gene Ontology Group	.
+antifungal humoral response (sensu Protostomia)	is-a	Topic	.
+antifungal humoral response (sensu Vertebrata)	Broader Group	antifungal humoral response	.
+antifungal humoral response (sensu Vertebrata)	Broader Group	antimicrobial humoral response (sensu Vertebrata)	.
+antifungal humoral response (sensu Vertebrata)	Data Source	m/02l1vmn	.
+antifungal humoral response (sensu Vertebrata)	Description	"An immune response against a fungus mediated through a body fluid, as in, but not restricted to, the vertebrates (Vertebrata, ncbi_taxonomy_id:7742)."@en	.
+antifungal humoral response (sensu Vertebrata)	Gene	C-type lectin domain family 7, member A	.
+antifungal humoral response (sensu Vertebrata)	Gene	collectin sub-family member 12	.
+antifungal humoral response (sensu Vertebrata)	Group Type	Biological process	.
+antifungal humoral response (sensu Vertebrata)	Identifier	"GO:0019734"	.
+antifungal humoral response (sensu Vertebrata)	is-a	Gene Group	.
+antifungal humoral response (sensu Vertebrata)	is-a	Gene Ontology Group	.
+antifungal humoral response (sensu Vertebrata)	is-a	Topic	.
+antifungal peptide biosynthetic process	Aggregate Group	antifungal peptide production	.
+antifungal peptide biosynthetic process	Broader Group	antimicrobial peptide biosynthetic process	.
+antifungal peptide biosynthetic process	Data Source	m/02l1vmn	.
+antifungal peptide biosynthetic process	Description	"The chemical reactions and pathways resulting in the formation of an antifungal peptide."@en	.
+antifungal peptide biosynthetic process	Group Type	Biological process	.
+antifungal peptide biosynthetic process	Identifier	"GO:0002783"	.
+antifungal peptide biosynthetic process	is-a	Gene Group	.
+antifungal peptide biosynthetic process	is-a	Gene Ontology Group	.
+antifungal peptide biosynthetic process	is-a	Topic	.
+antifungal peptide production	Aggregate Group	antifungal humoral response	.
+antifungal peptide production	Broader Group	antimicrobial peptide production	.
+antifungal peptide production	Data Source	m/02l1vmn	.
+antifungal peptide production	Description	"The synthesis or release of an antifungal peptide during an immune response, resulting in an increase in intracellular or extracellular levels."@en	.
+antifungal peptide production	Group Type	Biological process	.
+antifungal peptide production	Identifier	"GO:0002781"	.
+antifungal peptide production	is-a	Gene Group	.
+antifungal peptide production	is-a	Gene Ontology Group	.
+antifungal peptide production	is-a	Topic	.
+antifungal peptide secretion	Aggregate Group	antifungal peptide production	.
+antifungal peptide secretion	Broader Group	antimicrobial peptide secretion	.
+antifungal peptide secretion	Data Source	m/02l1vmn	.
+antifungal peptide secretion	Description	"The regulated release of an antifungal peptide from a cell or group of cells."@en	.
+antifungal peptide secretion	Group Type	Biological process	.
+antifungal peptide secretion	Identifier	"GO:0002782"	.
+antifungal peptide secretion	is-a	Gene Group	.
+antifungal peptide secretion	is-a	Gene Ontology Group	.
+antifungal peptide secretion	is-a	Topic	.
+Antifungal 1 cream (Consumer product)	Available in	United States of America	.
+Antifungal 1 cream (Consumer product)	Discontinued	"false"	.
+Antifungal 1 cream (Consumer product)	FDA OTC monograph part	FDA OTC monograph part 333	.
+Antifungal 1 cream (Consumer product)	Label date	"2010-05-18"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Antifungal 1 cream (Consumer product)	Label link	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=ab5b6467-c158-4407-9d52-3c0731030680>	.
+Antifungal 1 cream (Consumer product)	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=ab5b6467-c158-4407-9d52-3c0731030680#nlm34071-1>	.
+Antifungal 1 cream (Consumer product)	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=ab5b6467-c158-4407-9d52-3c0731030680#nlm42229-5>	.
+Antifungal 1 cream (Consumer product)	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=ab5b6467-c158-4407-9d52-3c0731030680#nlm51945-4>	.
+Antifungal 1 cream (Consumer product)	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=ab5b6467-c158-4407-9d52-3c0731030680#nlm55105-1>	.
+Antifungal 1 cream (Consumer product)	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=ab5b6467-c158-4407-9d52-3c0731030680#nlm55106-9>	.
+Antifungal 1 cream (Consumer product)	Manufactured form of	Clotrimazole 0.01 cream (Cream Drug Formulation) #2	.
+Antifungal 1 cream (Consumer product)	Manufacturer	Dynarex	.
+Antifungal 1 cream (Consumer product)	Marketing start date	"2010-05-18"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Antifungal 1 cream (Consumer product)	NDC Product ID	"67777-231"	.
+Antifungal 1 cream (Consumer product)	is-a	Consumer product	.
+Antifungal 1 cream (Consumer product)	is-a	Manufactured drug form	.
+Antifungal 1 cream (Consumer product)	is-a	Topic	.
+Antifungal 1 cream (Manufactured drug form)	Available in	United States of America	.
+Antifungal 1 cream (Manufactured drug form)	Discontinued	"false"	.
+Antifungal 1 cream (Manufactured drug form)	FDA OTC monograph part	FDA OTC monograph part 333c	.
+Antifungal 1 cream (Manufactured drug form)	Label date	"2012-02-08"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Antifungal 1 cream (Manufactured drug form)	Label link	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=65b51efc-15ec-4389-8993-97ecb7e9dfc5>	.
+Antifungal 1 cream (Manufactured drug form)	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=65b51efc-15ec-4389-8993-97ecb7e9dfc5#i4i_OTC_Active_Ingredient_id_0b139de7-1b70-4fe7-8217-84d5f33ea382>	.
+Antifungal 1 cream (Manufactured drug form)	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=65b51efc-15ec-4389-8993-97ecb7e9dfc5#i4i_OTC_Purpose_id_8a46bda7-43fd-4bd4-b07b-efbb8b40b13b>	.
+Antifungal 1 cream (Manufactured drug form)	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=65b51efc-15ec-4389-8993-97ecb7e9dfc5#i4i_OTC_Questions_id_e5d5dc7e-545c-460c-a26c-0de6a83e0aea>	.
+Antifungal 1 cream (Manufactured drug form)	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=65b51efc-15ec-4389-8993-97ecb7e9dfc5#i4i_Principal_display_panel_id_19bce823-eb68-46d7-a18b-07c763bf8b71>	.
+Antifungal 1 cream (Manufactured drug form)	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=65b51efc-15ec-4389-8993-97ecb7e9dfc5#i4i_dosage_admin_id_4d6a23dd-946f-4cea-b9a8-04bc2bdbe465>	.
+Antifungal 1 cream (Manufactured drug form)	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=65b51efc-15ec-4389-8993-97ecb7e9dfc5#i4i_inactive_ingredients_id_f2c16ea8-cbae-4d4c-b4d6-e045cc26b743>	.
+Antifungal 1 cream (Manufactured drug form)	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=65b51efc-15ec-4389-8993-97ecb7e9dfc5#i4i_indications_id_dde0bab5-70fe-449b-af02-7061eb2c3e0b>	.
+Antifungal 1 cream (Manufactured drug form)	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=65b51efc-15ec-4389-8993-97ecb7e9dfc5#i4i_storage_id_b451b4a8-b50e-4ee6-954e-1d1e19cf8552>	.
+Antifungal 1 cream (Manufactured drug form)	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=65b51efc-15ec-4389-8993-97ecb7e9dfc5#i4i_warnings_id_8278bbbf-0950-41b5-aa28-04997a0e542f>	.
+Antifungal 1 cream (Manufactured drug form)	Manufactured form of	Clotrimazole 0.01 cream (Cream Drug Formulation) #2	.
+Antifungal 1 cream (Manufactured drug form)	Manufacturer	Safeway	.
+Antifungal 1 cream (Manufactured drug form)	Marketing start date	"2008-11-20"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Antifungal 1 cream (Manufactured drug form)	NDC Product ID	"21130-857"	.
+Antifungal 1 cream (Manufactured drug form)	is-a	Consumer product	.
+Antifungal 1 cream (Manufactured drug form)	is-a	Manufactured drug form	.
+Antifungal 1 cream (Manufactured drug form)	is-a	Topic	.
+Antifungal 1 solution	Available in	United States of America	.
+Antifungal 1 solution	Discontinued	"false"	.
+Antifungal 1 solution	FDA OTC monograph part	FDA OTC monograph part 333c	.
+Antifungal 1 solution	Label date	"2009-09-08"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Antifungal 1 solution	Label link	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=fd7b68d3-2f0f-43a1-83eb-66fe14208343>	.
+Antifungal 1 solution	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=fd7b68d3-2f0f-43a1-83eb-66fe14208343#i4i_OTC_Active_Ingredient_id_6845d176-1995-488c-9896-cace99fb31d9>	.
+Antifungal 1 solution	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=fd7b68d3-2f0f-43a1-83eb-66fe14208343#i4i_OTC_Purpose_id_9c6f48b2-f376-426a-9fc2-10d2ffbe62e8>	.
+Antifungal 1 solution	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=fd7b68d3-2f0f-43a1-83eb-66fe14208343#i4i_OTC_Questions_id_6ffdec34-3260-4827-88b0-3d8ca0c0d274>	.
+Antifungal 1 solution	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=fd7b68d3-2f0f-43a1-83eb-66fe14208343#i4i_Principal_display_panel_id_4b4a9b4c-c1e9-4610-b7a8-f24446361215>	.
+Antifungal 1 solution	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=fd7b68d3-2f0f-43a1-83eb-66fe14208343#i4i_dosage_admin_id_af5f18f2-444c-42dd-8dd1-216be4d4ed35>	.
+Antifungal 1 solution	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=fd7b68d3-2f0f-43a1-83eb-66fe14208343#i4i_inactive_ingredients_id_faeafae5-6ae4-4cee-ba47-c7fe29fc2fca>	.
+Antifungal 1 solution	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=fd7b68d3-2f0f-43a1-83eb-66fe14208343#i4i_indications_id_c2298ef9-3072-40ff-90c3-498b671c09d7>	.
+Antifungal 1 solution	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=fd7b68d3-2f0f-43a1-83eb-66fe14208343#i4i_warnings_id_f7ed1b9a-7457-4ff9-bb81-9a4d877f5a23>	.
+Antifungal 1 solution	Manufactured form of	Tolnaftate 0.01 solution (Solution Drug Formulation) #2	.
+Antifungal 1 solution	Manufacturer	Perrigo New York Inc	.
+Antifungal 1 solution	Marketing start date	"2005-12-06"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Antifungal 1 solution	NDC Product ID	"45802-033"	.
+Antifungal 1 solution	is-a	Consumer product	.
+Antifungal 1 solution	is-a	Manufactured drug form	.
+Antifungal 1 solution	is-a	Topic	.
+Antifungal azoles	Author	Ludwig Zirngibl	.
+Antifungal azoles	is-a	Book	.
+Antifungal azoles	is-a	Topic	.
+Antifungal azoles	is-a	Written Work	.
+Antifungal azoles : a comprehensive survey of their structures and properties	Edition Of	Antifungal azoles	.
+Antifungal azoles : a comprehensive survey of their structures and properties	ISBN	9783527294879	.
+Antifungal azoles : a comprehensive survey of their structures and properties	ISBN-13	"9783527294879"	.
+Antifungal azoles : a comprehensive survey of their structures and properties	Northwestern OPAC	"2771649"	.
+Antifungal azoles : a comprehensive survey of their structures and properties	Penn State OPAC	"1434516"	.
+Antifungal azoles : a comprehensive survey of their structures and properties	Publication date	"1998"^^<http://www.w3.org/2001/XMLSchema#gYear>	.
+Antifungal azoles : a comprehensive survey of their structures and properties	Stanford OPAC	"3909156"	.
+Antifungal azoles : a comprehensive survey of their structures and properties	University of Chicago OPAC	"3902861"	.
+Antifungal azoles : a comprehensive survey of their structures and properties	is-a	Book Edition	.
+Antifungal azoles : a comprehensive survey of their structures and properties	is-a	Cataloged instance	.
+Antifungal azoles : a comprehensive survey of their structures and properties	is-a	Topic	.
+Antifungal medication	Used To Treat	Candidiasis	.
+Antifungal medication	Used To Treat	Corneal Ulcer	.
+Antifungal medication	Used To Treat	Irritant diaper dermatitis	.
+Antifungal medication	Used To Treat	Keratitis	.
+Antifungal medication	Used To Treat	Laryngitis	.
+Antifungal medication	Used To Treat	Otitis externa	.
+Antifungal medication	Used To Treat	Tinea cruris	.
+Antifungal medication	is-a	Medical Treatment	.
+Antifungal medication	is-a	Topic	.
+Antifungals	Related Industry	Pharmaceutical Preparation Manufacturing	.
+Antifungals	is-a	Competitive Space	.
+Antifungals	is-a	Topic	.
+Antifungals Pocketcard	Author	Herbert Hof	.
+Antifungals Pocketcard	is-a	Book	.
+Antifungals Pocketcard	is-a	Topic	.
+Antifungals Pocketcard	is-a	Written Work	.
+antifungal humoral response	Broader Group	antimicrobial humoral response	.
+antifungal humoral response	Broader Group	defense response to fungus	.
+antifungal humoral response	Data Source	m/02l1vmn	.
+antifungal humoral response	Description	"An immune response against a fungus mediated through a body fluid."@en	.
+antifungal humoral response	Group Type	Biological process	.
+antifungal humoral response	Identifier	"GO:0019732"	.
+antifungal humoral response	is-a	Gene Group	.
+antifungal humoral response	is-a	Gene Ontology Group	.
+antifungal humoral response	is-a	Topic	.
+antifungal humoral response (sensu Protostomia)	Broader Group	antifungal humoral response	.
+antifungal humoral response (sensu Protostomia)	Broader Group	antimicrobial humoral response (sensu Protostomia)	.
+antifungal humoral response (sensu Protostomia)	Data Source	m/02l1vmn	.
+antifungal humoral response (sensu Protostomia)	Description	"An immune response against a fungus mediated through a body fluid. As in, but not restricted to, the taxon Protostomia (Protostomia, ncbi_taxonomy_id:33317)."@en	.
+antifungal humoral response (sensu Protostomia)	Group Type	Biological process	.
+antifungal humoral response (sensu Protostomia)	Identifier	"GO:0006966"	.
+antifungal humoral response (sensu Protostomia)	is-a	Gene Group	.
+antifungal humoral response (sensu Protostomia)	is-a	Gene Ontology Group	.
+antifungal humoral response (sensu Protostomia)	is-a	Topic	.
+antifungal humoral response (sensu Vertebrata)	Broader Group	antifungal humoral response	.
+antifungal humoral response (sensu Vertebrata)	Broader Group	antimicrobial humoral response (sensu Vertebrata)	.
+antifungal humoral response (sensu Vertebrata)	Data Source	m/02l1vmn	.
+antifungal humoral response (sensu Vertebrata)	Description	"An immune response against a fungus mediated through a body fluid, as in, but not restricted to, the vertebrates (Vertebrata, ncbi_taxonomy_id:7742)."@en	.
+antifungal humoral response (sensu Vertebrata)	Gene	C-type lectin domain family 7, member A	.
+antifungal humoral response (sensu Vertebrata)	Gene	collectin sub-family member 12	.
+antifungal humoral response (sensu Vertebrata)	Group Type	Biological process	.
+antifungal humoral response (sensu Vertebrata)	Identifier	"GO:0019734"	.
+antifungal humoral response (sensu Vertebrata)	is-a	Gene Group	.
+antifungal humoral response (sensu Vertebrata)	is-a	Gene Ontology Group	.
+antifungal humoral response (sensu Vertebrata)	is-a	Topic	.
+antifungal peptide biosynthetic process	Aggregate Group	antifungal peptide production	.
+antifungal peptide biosynthetic process	Broader Group	antimicrobial peptide biosynthetic process	.
+antifungal peptide biosynthetic process	Data Source	m/02l1vmn	.
+antifungal peptide biosynthetic process	Description	"The chemical reactions and pathways resulting in the formation of an antifungal peptide."@en	.
+antifungal peptide biosynthetic process	Group Type	Biological process	.
+antifungal peptide biosynthetic process	Identifier	"GO:0002783"	.
+antifungal peptide biosynthetic process	is-a	Gene Group	.
+antifungal peptide biosynthetic process	is-a	Gene Ontology Group	.
+antifungal peptide biosynthetic process	is-a	Topic	.
+antifungal peptide production	Aggregate Group	antifungal humoral response	.
+antifungal peptide production	Broader Group	antimicrobial peptide production	.
+antifungal peptide production	Data Source	m/02l1vmn	.
+antifungal peptide production	Description	"The synthesis or release of an antifungal peptide during an immune response, resulting in an increase in intracellular or extracellular levels."@en	.
+antifungal peptide production	Group Type	Biological process	.
+antifungal peptide production	Identifier	"GO:0002781"	.
+antifungal peptide production	is-a	Gene Group	.
+antifungal peptide production	is-a	Gene Ontology Group	.
+antifungal peptide production	is-a	Topic	.
+antifungal peptide secretion	Aggregate Group	antifungal peptide production	.
+antifungal peptide secretion	Broader Group	antimicrobial peptide secretion	.
+antifungal peptide secretion	Data Source	m/02l1vmn	.
+antifungal peptide secretion	Description	"The regulated release of an antifungal peptide from a cell or group of cells."@en	.
+antifungal peptide secretion	Group Type	Biological process	.
+antifungal peptide secretion	Identifier	"GO:0002782"	.
+antifungal peptide secretion	is-a	Gene Group	.
+antifungal peptide secretion	is-a	Gene Ontology Group	.
+antifungal peptide secretion	is-a	Topic	.

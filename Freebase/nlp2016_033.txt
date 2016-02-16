@@ -1,0 +1,787 @@
+Oregano	Compatible with dietary restriction	Gluten-free diet	.
+Oregano	Compatible with dietary restriction	Veganism	.
+Oregano	Compatible with dietary restriction	Vegetarian food	.
+Oregano	Energy per 100g	"1280.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Oregano	Higher classification	Angiospermae	.
+Oregano	Higher classification	Asterids	.
+Oregano	Higher classification	Eudicots	.
+Oregano	Higher classification	Eukaryote	.
+Oregano	Higher classification	Lamiaceae	.
+Oregano	Higher classification	Lamiales	.
+Oregano	Higher classification	Origanum	.
+Oregano	Higher classification	Plant	.
+Oregano	ITIS Taxon S/N	"32632"	.
+Oregano	More general ingredient	Herb (Ingredient)	.
+Oregano	NCBI Taxon ID	"39352"	.
+Oregano	Nutrient per 100g	Alpha-Tocopherol	.
+Oregano	Nutrient per 100g	Ash (Nutrient)	.
+Oregano	Nutrient per 100g	Beta-carotene	.
+Oregano	Nutrient per 100g	Betaine	.
+Oregano	Nutrient per 100g	Calcium	.
+Oregano	Nutrient per 100g	Carbohydrate	.
+Oregano	Nutrient per 100g	Choline	.
+Oregano	Nutrient per 100g	Copper	.
+Oregano	Nutrient per 100g	Cryptoxanthin	.
+Oregano	Nutrient per 100g	D-Glucose	.
+Oregano	Nutrient per 100g	Decanoic acid	.
+Oregano	Nutrient per 100g	Dietary fiber	.
+Oregano	Nutrient per 100g	Dietary folate equivalents	.
+Oregano	Nutrient per 100g	Folic acid	.
+Oregano	Nutrient per 100g	Food folates	.
+Oregano	Nutrient per 100g	Fructose	.
+Oregano	Nutrient per 100g	Galactose	.
+Oregano	Nutrient per 100g	Iron	.
+Oregano	Nutrient per 100g	Lauric acid	.
+Oregano	Nutrient per 100g	Linoleic acid	.
+Oregano	Nutrient per 100g	Linolenic acid	.
+Oregano	Nutrient per 100g	Lipid	.
+Oregano	Nutrient per 100g	Lutein & zeaxanthin	.
+Oregano	Nutrient per 100g	Magnesium	.
+Oregano	Nutrient per 100g	Manganese	.
+Oregano	Nutrient per 100g	Monounsaturated fat	.
+Oregano	Nutrient per 100g	Myristic acid	.
+Oregano	Nutrient per 100g	Niacin	.
+Oregano	Nutrient per 100g	Oleic acid	.
+Oregano	Nutrient per 100g	Palmitic acid	.
+Oregano	Nutrient per 100g	Palmitoleic acid	.
+Oregano	Nutrient per 100g	Phosphorus	.
+Oregano	Nutrient per 100g	Phytonadione	.
+Oregano	Nutrient per 100g	Phytosterol	.
+Oregano	Nutrient per 100g	Polyunsaturated fat	.
+Oregano	Nutrient per 100g	Potassium	.
+Oregano	Nutrient per 100g	Protein (Nutrient)	.
+Oregano	Nutrient per 100g	Retinol Activity Equivalents	.
+Oregano	Nutrient per 100g	Riboflavin	.
+Oregano	Nutrient per 100g	Saturated fat	.
+Oregano	Nutrient per 100g	Selenium	.
+Oregano	Nutrient per 100g	Sodium	.
+Oregano	Nutrient per 100g	Stearic acid	.
+Oregano	Nutrient per 100g	Sugar	.
+Oregano	Nutrient per 100g	Table sugar	.
+Oregano	Nutrient per 100g	Thiamine	.
+Oregano	Nutrient per 100g	Vitamin A	.
+Oregano	Nutrient per 100g	Vitamin B-6	.
+Oregano	Nutrient per 100g	Vitamin C	.
+Oregano	Nutrient per 100g	Water	.
+Oregano	Nutrient per 100g	Zinc	.
+Oregano	Nutrient per 100g	beta-Tocopherol	.
+Oregano	Nutrient per 100g	delta-Tocopherol	.
+Oregano	Nutrient per 100g	gamma-Tocopherol	.
+Oregano	Rank	Species (Organism Classification Rank)	.
+Oregano	Scientific name	"Origanum vulgare"@en	.
+Oregano	USDA Equivalent	"02027"	.
+Oregano	USDA ID	"02027"	.
+Oregano	is-a	Angiospermae	.
+Oregano	is-a	Asterids	.
+Oregano	is-a	Drug ingredient	.
+Oregano	is-a	Eudicots	.
+Oregano	is-a	Eukaryote	.
+Oregano	is-a	Food	.
+Oregano	is-a	Herb	.
+Oregano	is-a	Ingredient	.
+Oregano	is-a	Lamiaceae	.
+Oregano	is-a	Lamiales	.
+Oregano	is-a	Organism Classification	.
+Oregano	is-a	Origanum	.
+Oregano	is-a	Plant	.
+Oregano	is-a	Topic	.
+Oregano (Canonical Version) #2	Recorded by	2nd Planet	.
+Oregano (Canonical Version) #2	Release	Beyond the Surface (Musical Release)	.
+Oregano (Canonical Version) #2	is-a	Canonical Version	.
+Oregano (Canonical Version) #2	is-a	Musical Recording	.
+Oregano (Canonical Version) #2	is-a	Topic	.
+Oregano (Canonical Version) #8	Length	"445.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Oregano (Canonical Version) #8	Recorded by	Markese	.
+Oregano (Canonical Version) #8	Release	Sounds Of Instruments 02 (Compact Disc Musical Release)	.
+Oregano (Canonical Version) #8	is-a	Canonical Version	.
+Oregano (Canonical Version) #8	is-a	Musical Recording	.
+Oregano (Canonical Version) #8	is-a	Topic	.
+Oregano (EP)	Artist	Markese	.
+Oregano (EP)	Initial release date	"2006-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>	.
+Oregano (EP)	Primary release	Oregano (Gramophone record Musical Release)	.
+Oregano (EP)	Release type	EP (m/0l14fq)	.
+Oregano (EP)	is-a	Musical Album	.
+Oregano (EP)	is-a	Topic	.
+Oregano (Gramophone record Musical Release)	Catalog Number	"MBF LTD 12011"	.
+Oregano (Gramophone record Musical Release)	Credited A	"Markese"	.
+Oregano (Gramophone record Musical Release)	Format	Gramophone record	.
+Oregano (Gramophone record Musical Release)	Label	My Best Friend (Record label)	.
+Oregano (Gramophone record Musical Release)	Region	Germany	.
+Oregano (Gramophone record Musical Release)	Release Date	"2006-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>	.
+Oregano (Gramophone record Musical Release)	Release of	Oregano (EP)	.
+Oregano (Gramophone record Musical Release)	is-a	Creative Work	.
+Oregano (Gramophone record Musical Release)	is-a	Musical Release	.
+Oregano (Gramophone record Musical Release)	is-a	Topic	.
+Oregano (Musical Album) #5	Artist	Ana Laan	.
+Oregano (Musical Album) #5	Initial release date	"2004"^^<http://www.w3.org/2001/XMLSchema#gYear>	.
+Oregano (Musical Album) #5	Primary release	m/0g16yf7	.
+Oregano (Musical Album) #5	Release type	Album	.
+Oregano (Musical Album) #5	is-a	Musical Album	.
+Oregano (Musical Album) #5	is-a	Topic	.
+Oregano (Musical Album) #6	Artist	Nothing but Oregano	.
+Oregano (Musical Album) #6	Primary release	Oregano (Musical Release)	.
+Oregano (Musical Album) #6	Release type	Album	.
+Oregano (Musical Album) #6	is-a	Musical Album	.
+Oregano (Musical Album) #6	is-a	Topic	.
+Oregano (Musical Recording) #1	Length	"209.546"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Oregano (Musical Recording) #1	Recorded by	The Chicharones	.
+Oregano (Musical Recording) #1	Release	Boss Hog (Consumer product) #1	.
+Oregano (Musical Recording) #1	Release	Boss Hogs EP (Compact Disc Musical Release)	.
+Oregano (Musical Recording) #1	is-a	Canonical Version	.
+Oregano (Musical Recording) #1	is-a	Musical Recording	.
+Oregano (Musical Recording) #1	is-a	Topic	.
+Oregano (Musical Recording) #3	Length	"139.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Oregano (Musical Recording) #3	Recorded by	Björn Rosenström	.
+Oregano (Musical Recording) #3	Release	Någorlunda hyggliga låtar... (Compact Disc Musical Release)	.
+Oregano (Musical Recording) #3	Release	Var får jag allt ifrån? (disc 1)	.
+Oregano (Musical Recording) #3	Release	m/0g7zs71	.
+Oregano (Musical Recording) #3	is-a	Canonical Version	.
+Oregano (Musical Recording) #3	is-a	Musical Recording	.
+Oregano (Musical Recording) #3	is-a	Topic	.
+Oregano (Musical Recording) #4	Length	"84.666"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Oregano (Musical Recording) #4	Recorded by	Chilly Gonzales	.
+Oregano (Musical Recording) #4	Release	Solo Piano (Compact Disc Musical Release) #14	.
+Oregano (Musical Recording) #4	Release	Solo Piano (Consumer product) #9	.
+Oregano (Musical Recording) #4	is-a	Canonical Version	.
+Oregano (Musical Recording) #4	is-a	Musical Recording	.
+Oregano (Musical Recording) #4	is-a	Topic	.
+Oregano (Musical Recording) #7	Canonical version	Oregano (Canonical Version) #8	.
+Oregano (Musical Recording) #7	Length	"594.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Oregano (Musical Recording) #7	Recorded by	Markese	.
+Oregano (Musical Recording) #7	Release	Oregano (Gramophone record Musical Release)	.
+Oregano (Musical Recording) #7	is-a	Musical Recording	.
+Oregano (Musical Recording) #7	is-a	Topic	.
+Oregano (Musical Release)	Credited A	"Nothing but Oregano"	.
+Oregano (Musical Release)	Release of	Oregano (Musical Album) #6	.
+Oregano (Musical Release)	is-a	Creative Work	.
+Oregano (Musical Release)	is-a	Musical Release	.
+Oregano (Musical Release)	is-a	Topic	.
+Oregano (Software)	License	GNU General Public License	.
+Oregano (Software)	is-a	Software	.
+Oregano (Software)	is-a	Topic	.
+Oregano (Web browser)	Developer	Oregan Networks	.
+Oregano (Web browser)	First Released	"2000-05-20"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Oregano (Web browser)	License	Commercial software	.
+Oregano (Web browser)	License	Proprietary software	.
+Oregano (Web browser)	Software Genre	Web browser (Software Genre)	.
+Oregano (m/0k_wf_h)	Recording	Oregano (Musical Recording) #3	.
+Oregano (m/0k_wf_h)	Release	Någorlunda hyggliga låtar... (Compact Disc Musical Release)	.
+Oregano (m/0k_wf_h)	Track #	"8"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Oregano (m/0k_wf_h)	is-a	Release track	.
+Oregano (m/0k_wf_h)	is-a	Topic	.
+Oregano (m/0knwq75)	Recording	Oregano (Musical Recording) #4	.
+Oregano (m/0knwq75)	Release	Solo Piano (Compact Disc Musical Release) #14	.
+Oregano (m/0knwq75)	Track #	"13"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Oregano (m/0knwq75)	is-a	Release track	.
+Oregano (m/0knwq75)	is-a	Topic	.
+Oregano (m/0lbl9_b)	Recording	Oregano (Musical Recording) #3	.
+Oregano (m/0lbl9_b)	Release	Var får jag allt ifrån? (disc 1)	.
+Oregano (m/0lbl9_b)	Track #	"24"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Oregano (m/0lbl9_b)	is-a	Release track	.
+Oregano (m/0lbl9_b)	is-a	Topic	.
+Oregano (m/0lgjl8_)	Recording	Oregano (Musical Recording) #7	.
+Oregano (m/0lgjl8_)	Release	Oregano (Gramophone record Musical Release)	.
+Oregano (m/0lgjl8_)	Track #	"1"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Oregano (m/0lgjl8_)	is-a	Release track	.
+Oregano (m/0lgjl8_)	is-a	Topic	.
+Oregano (m/0lrv4hy)	Recording	Oregano (Canonical Version) #2	.
+Oregano (m/0lrv4hy)	Release	Beyond the Surface (Musical Release)	.
+Oregano (m/0lrv4hy)	Track #	"2"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Oregano (m/0lrv4hy)	is-a	Release track	.
+Oregano (m/0lrv4hy)	is-a	Topic	.
+Oregano (m/0lvr5cc)	Recording	Oregano (Musical Recording) #3	.
+Oregano (m/0lvr5cc)	Release	Var får jag allt ifrån? (disc 1)	.
+Oregano (m/0lvr5cc)	Track #	"1"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Oregano (m/0lvr5cc)	is-a	Release track	.
+Oregano (m/0lvr5cc)	is-a	Topic	.
+Oregano (m/0lvxp3t)	Recording	Oregano (Musical Recording) #1	.
+Oregano (m/0lvxp3t)	Release	Boss Hogs EP (Compact Disc Musical Release)	.
+Oregano (m/0lvxp3t)	Track #	"7"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Oregano (m/0lvxp3t)	is-a	Release track	.
+Oregano (m/0lvxp3t)	is-a	Topic	.
+Oregano (m/0m3ljt5)	Recording	Oregano (Musical Recording) #1	.
+Oregano (m/0m3ljt5)	Release	Boss Hog (Consumer product) #1	.
+Oregano (m/0m3ljt5)	Track #	"7"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Oregano (m/0m3ljt5)	is-a	Release track	.
+Oregano (m/0m3ljt5)	is-a	Topic	.
+Oregano (m/0m_df44)	Recording	Oregano (Canonical Version) #8	.
+Oregano (m/0m_df44)	Release	Sounds Of Instruments 02 (Compact Disc Musical Release)	.
+Oregano (m/0m_df44)	Track #	"11"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Oregano (m/0m_df44)	is-a	Release track	.
+Oregano (m/0m_df44)	is-a	Topic	.
+Oregano (m/0m_mzx7)	Recording	Oregano (Musical Recording) #3	.
+Oregano (m/0m_mzx7)	Release	m/0g7zs71	.
+Oregano (m/0m_mzx7)	Track #	"15"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Oregano (m/0m_mzx7)	is-a	Release track	.
+Oregano (m/0m_mzx7)	is-a	Topic	.
+Oregano (m/0mhpmyr)	Recording	Oregano (Musical Recording) #4	.
+Oregano (m/0mhpmyr)	Release	Solo Piano (Consumer product) #9	.
+Oregano (m/0mhpmyr)	Track #	"13"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Oregano (m/0mhpmyr)	is-a	Release track	.
+Oregano (m/0mhpmyr)	is-a	Topic	.
+Oregano (m/0rsmm5t)	Recording	Oregano (Musical Recording) #4	.
+Oregano (m/0rsmm5t)	Release	Solo Piano (Consumer product) #12	.
+Oregano (m/0rsmm5t)	Track #	"13"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Oregano (m/0rsmm5t)	is-a	Release track	.
+Oregano (m/0rsmm5t)	is-a	Topic	.
+Oregano (original mix) (Musical Recording)	Length	"292.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Oregano (original mix) (Musical Recording)	Recorded by	Store N Forward	.
+Oregano (original mix) (Musical Recording)	is-a	Canonical Version	.
+Oregano (original mix) (Musical Recording)	is-a	Musical Recording	.
+Oregano (original mix) (Musical Recording)	is-a	Topic	.
+Oregano (original mix) (m/0q8qgd7)	Recording	Oregano (original mix) (Musical Recording)	.
+Oregano (original mix) (m/0q8qgd7)	Release	Digitally Enhanced Volume Five (Compact Disc Musical Release)	.
+Oregano (original mix) (m/0q8qgd7)	Track #	"18"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Oregano (original mix) (m/0q8qgd7)	is-a	Release track	.
+Oregano (original mix) (m/0q8qgd7)	is-a	Topic	.
+Oregano	Compatible with dietary restriction	Gluten-free diet	.
+Oregano	Compatible with dietary restriction	Veganism	.
+Oregano	Compatible with dietary restriction	Vegetarian food	.
+Oregano	Energy per 100g	"1280.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Oregano	Higher classification	Angiospermae	.
+Oregano	Higher classification	Asterids	.
+Oregano	Higher classification	Eudicots	.
+Oregano	Higher classification	Eukaryote	.
+Oregano	Higher classification	Lamiaceae	.
+Oregano	Higher classification	Lamiales	.
+Oregano	Higher classification	Origanum	.
+Oregano	Higher classification	Plant	.
+Oregano	ITIS Taxon S/N	"32632"	.
+Oregano	More general ingredient	Herb (Ingredient)	.
+Oregano	NCBI Taxon ID	"39352"	.
+Oregano	Nutrient per 100g	Alpha-Tocopherol	.
+Oregano	Nutrient per 100g	Ash (Nutrient)	.
+Oregano	Nutrient per 100g	Beta-carotene	.
+Oregano	Nutrient per 100g	Betaine	.
+Oregano	Nutrient per 100g	Calcium	.
+Oregano	Nutrient per 100g	Carbohydrate	.
+Oregano	Nutrient per 100g	Choline	.
+Oregano	Nutrient per 100g	Copper	.
+Oregano	Nutrient per 100g	Cryptoxanthin	.
+Oregano	Nutrient per 100g	D-Glucose	.
+Oregano	Nutrient per 100g	Decanoic acid	.
+Oregano	Nutrient per 100g	Dietary fiber	.
+Oregano	Nutrient per 100g	Dietary folate equivalents	.
+Oregano	Nutrient per 100g	Folic acid	.
+Oregano	Nutrient per 100g	Food folates	.
+Oregano	Nutrient per 100g	Fructose	.
+Oregano	Nutrient per 100g	Galactose	.
+Oregano	Nutrient per 100g	Iron	.
+Oregano	Nutrient per 100g	Lauric acid	.
+Oregano	Nutrient per 100g	Linoleic acid	.
+Oregano	Nutrient per 100g	Linolenic acid	.
+Oregano	Nutrient per 100g	Lipid	.
+Oregano	Nutrient per 100g	Lutein & zeaxanthin	.
+Oregano	Nutrient per 100g	Magnesium	.
+Oregano	Nutrient per 100g	Manganese	.
+Oregano	Nutrient per 100g	Monounsaturated fat	.
+Oregano	Nutrient per 100g	Myristic acid	.
+Oregano	Nutrient per 100g	Niacin	.
+Oregano	Nutrient per 100g	Oleic acid	.
+Oregano	Nutrient per 100g	Palmitic acid	.
+Oregano	Nutrient per 100g	Palmitoleic acid	.
+Oregano	Nutrient per 100g	Phosphorus	.
+Oregano	Nutrient per 100g	Phytonadione	.
+Oregano	Nutrient per 100g	Phytosterol	.
+Oregano	Nutrient per 100g	Polyunsaturated fat	.
+Oregano	Nutrient per 100g	Potassium	.
+Oregano	Nutrient per 100g	Protein (Nutrient)	.
+Oregano	Nutrient per 100g	Retinol Activity Equivalents	.
+Oregano	Nutrient per 100g	Riboflavin	.
+Oregano	Nutrient per 100g	Saturated fat	.
+Oregano	Nutrient per 100g	Selenium	.
+Oregano	Nutrient per 100g	Sodium	.
+Oregano	Nutrient per 100g	Stearic acid	.
+Oregano	Nutrient per 100g	Sugar	.
+Oregano	Nutrient per 100g	Table sugar	.
+Oregano	Nutrient per 100g	Thiamine	.
+Oregano	Nutrient per 100g	Vitamin A	.
+Oregano	Nutrient per 100g	Vitamin B-6	.
+Oregano	Nutrient per 100g	Vitamin C	.
+Oregano	Nutrient per 100g	Water	.
+Oregano	Nutrient per 100g	Zinc	.
+Oregano	Nutrient per 100g	beta-Tocopherol	.
+Oregano	Nutrient per 100g	delta-Tocopherol	.
+Oregano	Nutrient per 100g	gamma-Tocopherol	.
+Oregano	Rank	Species (Organism Classification Rank)	.
+Oregano	Scientific name	"Origanum vulgare"@en	.
+Oregano	USDA Equivalent	"02027"	.
+Oregano	USDA ID	"02027"	.
+Oregano	is-a	Angiospermae	.
+Oregano	is-a	Asterids	.
+Oregano	is-a	Drug ingredient	.
+Oregano	is-a	Eudicots	.
+Oregano	is-a	Eukaryote	.
+Oregano	is-a	Food	.
+Oregano	is-a	Herb	.
+Oregano	is-a	Ingredient	.
+Oregano	is-a	Lamiaceae	.
+Oregano	is-a	Lamiales	.
+Oregano	is-a	Organism Classification	.
+Oregano	is-a	Origanum	.
+Oregano	is-a	Plant	.
+Oregano	is-a	Topic	.
+Oregano & Paprika (Canonical Version)	Length	"93.506"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Oregano & Paprika (Canonical Version)	Recorded by	Parkview High School Band	.
+Oregano & Paprika (Canonical Version)	Release	Fall Concert 2006 (Musical Release)	.
+Oregano & Paprika (Canonical Version)	is-a	Canonical Version	.
+Oregano & Paprika (Canonical Version)	is-a	Musical Recording	.
+Oregano & Paprika (Canonical Version)	is-a	Topic	.
+Oregano & Paprika (m/0m00m9b)	Recording	Oregano & Paprika (Canonical Version)	.
+Oregano & Paprika (m/0m00m9b)	Release	Fall Concert 2006 (Musical Release)	.
+Oregano & Paprika (m/0m00m9b)	Track #	"13"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Oregano & Paprika (m/0m00m9b)	is-a	Release track	.
+Oregano & Paprika (m/0m00m9b)	is-a	Topic	.
+Oregano (Canonical Version) #2	Recorded by	2nd Planet	.
+Oregano (Canonical Version) #2	Release	Beyond the Surface (Musical Release)	.
+Oregano (Canonical Version) #2	is-a	Canonical Version	.
+Oregano (Canonical Version) #2	is-a	Musical Recording	.
+Oregano (Canonical Version) #2	is-a	Topic	.
+Oregano (Canonical Version) #8	Length	"445.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Oregano (Canonical Version) #8	Recorded by	Markese	.
+Oregano (Canonical Version) #8	Release	Sounds Of Instruments 02 (Compact Disc Musical Release)	.
+Oregano (Canonical Version) #8	is-a	Canonical Version	.
+Oregano (Canonical Version) #8	is-a	Musical Recording	.
+Oregano (Canonical Version) #8	is-a	Topic	.
+Oregano (EP)	Artist	Markese	.
+Oregano (EP)	Initial release date	"2006-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>	.
+Oregano (EP)	Primary release	Oregano (Gramophone record Musical Release)	.
+Oregano (EP)	Release type	EP (m/0l14fq)	.
+Oregano (EP)	is-a	Musical Album	.
+Oregano (EP)	is-a	Topic	.
+Oregano (Gramophone record Musical Release)	Catalog Number	"MBF LTD 12011"	.
+Oregano (Gramophone record Musical Release)	Credited A	"Markese"	.
+Oregano (Gramophone record Musical Release)	Format	Gramophone record	.
+Oregano (Gramophone record Musical Release)	Label	My Best Friend (Record label)	.
+Oregano (Gramophone record Musical Release)	Region	Germany	.
+Oregano (Gramophone record Musical Release)	Release Date	"2006-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>	.
+Oregano (Gramophone record Musical Release)	Release of	Oregano (EP)	.
+Oregano (Gramophone record Musical Release)	is-a	Creative Work	.
+Oregano (Gramophone record Musical Release)	is-a	Musical Release	.
+Oregano (Gramophone record Musical Release)	is-a	Topic	.
+Oregano (Musical Album) #5	Artist	Ana Laan	.
+Oregano (Musical Album) #5	Initial release date	"2004"^^<http://www.w3.org/2001/XMLSchema#gYear>	.
+Oregano (Musical Album) #5	Primary release	m/0g16yf7	.
+Oregano (Musical Album) #5	Release type	Album	.
+Oregano (Musical Album) #5	is-a	Musical Album	.
+Oregano (Musical Album) #5	is-a	Topic	.
+Oregano (Musical Album) #6	Artist	Nothing but Oregano	.
+Oregano (Musical Album) #6	Primary release	Oregano (Musical Release)	.
+Oregano (Musical Album) #6	Release type	Album	.
+Oregano (Musical Album) #6	is-a	Musical Album	.
+Oregano (Musical Album) #6	is-a	Topic	.
+Oregano (Musical Recording) #1	Length	"209.546"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Oregano (Musical Recording) #1	Recorded by	The Chicharones	.
+Oregano (Musical Recording) #1	Release	Boss Hog (Consumer product) #1	.
+Oregano (Musical Recording) #1	Release	Boss Hogs EP (Compact Disc Musical Release)	.
+Oregano (Musical Recording) #1	is-a	Canonical Version	.
+Oregano (Musical Recording) #1	is-a	Musical Recording	.
+Oregano (Musical Recording) #1	is-a	Topic	.
+Oregano (Musical Recording) #3	Length	"139.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Oregano (Musical Recording) #3	Recorded by	Björn Rosenström	.
+Oregano (Musical Recording) #3	Release	Någorlunda hyggliga låtar... (Compact Disc Musical Release)	.
+Oregano (Musical Recording) #3	Release	Var får jag allt ifrån? (disc 1)	.
+Oregano (Musical Recording) #3	Release	m/0g7zs71	.
+Oregano (Musical Recording) #3	is-a	Canonical Version	.
+Oregano (Musical Recording) #3	is-a	Musical Recording	.
+Oregano (Musical Recording) #3	is-a	Topic	.
+Oregano (Musical Recording) #4	Length	"84.666"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Oregano (Musical Recording) #4	Recorded by	Chilly Gonzales	.
+Oregano (Musical Recording) #4	Release	Solo Piano (Compact Disc Musical Release) #14	.
+Oregano (Musical Recording) #4	Release	Solo Piano (Consumer product) #9	.
+Oregano (Musical Recording) #4	is-a	Canonical Version	.
+Oregano (Musical Recording) #4	is-a	Musical Recording	.
+Oregano (Musical Recording) #4	is-a	Topic	.
+Oregano (Musical Recording) #7	Canonical version	Oregano (Canonical Version) #8	.
+Oregano (Musical Recording) #7	Length	"594.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Oregano (Musical Recording) #7	Recorded by	Markese	.
+Oregano (Musical Recording) #7	Release	Oregano (Gramophone record Musical Release)	.
+Oregano (Musical Recording) #7	is-a	Musical Recording	.
+Oregano (Musical Recording) #7	is-a	Topic	.
+Oregano (Musical Release)	Credited A	"Nothing but Oregano"	.
+Oregano (Musical Release)	Release of	Oregano (Musical Album) #6	.
+Oregano (Musical Release)	is-a	Creative Work	.
+Oregano (Musical Release)	is-a	Musical Release	.
+Oregano (Musical Release)	is-a	Topic	.
+Oregano (Software)	License	GNU General Public License	.
+Oregano (Software)	is-a	Software	.
+Oregano (Software)	is-a	Topic	.
+Oregano (Web browser)	Developer	Oregan Networks	.
+Oregano (Web browser)	First Released	"2000-05-20"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Oregano (Web browser)	License	Commercial software	.
+Oregano (Web browser)	License	Proprietary software	.
+Oregano (Web browser)	Software Genre	Web browser (Software Genre)	.
+Oregano (m/0k_wf_h)	Recording	Oregano (Musical Recording) #3	.
+Oregano (m/0k_wf_h)	Release	Någorlunda hyggliga låtar... (Compact Disc Musical Release)	.
+Oregano (m/0k_wf_h)	Track #	"8"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Oregano (m/0k_wf_h)	is-a	Release track	.
+Oregano (m/0k_wf_h)	is-a	Topic	.
+Oregano (m/0knwq75)	Recording	Oregano (Musical Recording) #4	.
+Oregano (m/0knwq75)	Release	Solo Piano (Compact Disc Musical Release) #14	.
+Oregano (m/0knwq75)	Track #	"13"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Oregano (m/0knwq75)	is-a	Release track	.
+Oregano (m/0knwq75)	is-a	Topic	.
+Oregano (m/0lbl9_b)	Recording	Oregano (Musical Recording) #3	.
+Oregano (m/0lbl9_b)	Release	Var får jag allt ifrån? (disc 1)	.
+Oregano (m/0lbl9_b)	Track #	"24"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Oregano (m/0lbl9_b)	is-a	Release track	.
+Oregano (m/0lbl9_b)	is-a	Topic	.
+Oregano (m/0lgjl8_)	Recording	Oregano (Musical Recording) #7	.
+Oregano (m/0lgjl8_)	Release	Oregano (Gramophone record Musical Release)	.
+Oregano (m/0lgjl8_)	Track #	"1"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Oregano (m/0lgjl8_)	is-a	Release track	.
+Oregano (m/0lgjl8_)	is-a	Topic	.
+Oregano (m/0lrv4hy)	Recording	Oregano (Canonical Version) #2	.
+Oregano (m/0lrv4hy)	Release	Beyond the Surface (Musical Release)	.
+Oregano (m/0lrv4hy)	Track #	"2"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Oregano (m/0lrv4hy)	is-a	Release track	.
+Oregano (m/0lrv4hy)	is-a	Topic	.
+Oregano (m/0lvr5cc)	Recording	Oregano (Musical Recording) #3	.
+Oregano (m/0lvr5cc)	Release	Var får jag allt ifrån? (disc 1)	.
+Oregano (m/0lvr5cc)	Track #	"1"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Oregano (m/0lvr5cc)	is-a	Release track	.
+Oregano (m/0lvr5cc)	is-a	Topic	.
+Oregano (m/0lvxp3t)	Recording	Oregano (Musical Recording) #1	.
+Oregano (m/0lvxp3t)	Release	Boss Hogs EP (Compact Disc Musical Release)	.
+Oregano (m/0lvxp3t)	Track #	"7"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Oregano (m/0lvxp3t)	is-a	Release track	.
+Oregano (m/0lvxp3t)	is-a	Topic	.
+Oregano (m/0m3ljt5)	Recording	Oregano (Musical Recording) #1	.
+Oregano (m/0m3ljt5)	Release	Boss Hog (Consumer product) #1	.
+Oregano (m/0m3ljt5)	Track #	"7"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Oregano (m/0m3ljt5)	is-a	Release track	.
+Oregano (m/0m3ljt5)	is-a	Topic	.
+Oregano (m/0m_df44)	Recording	Oregano (Canonical Version) #8	.
+Oregano (m/0m_df44)	Release	Sounds Of Instruments 02 (Compact Disc Musical Release)	.
+Oregano (m/0m_df44)	Track #	"11"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Oregano (m/0m_df44)	is-a	Release track	.
+Oregano (m/0m_df44)	is-a	Topic	.
+Oregano (m/0m_mzx7)	Recording	Oregano (Musical Recording) #3	.
+Oregano (m/0m_mzx7)	Release	m/0g7zs71	.
+Oregano (m/0m_mzx7)	Track #	"15"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Oregano (m/0m_mzx7)	is-a	Release track	.
+Oregano (m/0m_mzx7)	is-a	Topic	.
+Oregano (m/0mhpmyr)	Recording	Oregano (Musical Recording) #4	.
+Oregano (m/0mhpmyr)	Release	Solo Piano (Consumer product) #9	.
+Oregano (m/0mhpmyr)	Track #	"13"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Oregano (m/0mhpmyr)	is-a	Release track	.
+Oregano (m/0mhpmyr)	is-a	Topic	.
+Oregano (m/0rsmm5t)	Recording	Oregano (Musical Recording) #4	.
+Oregano (m/0rsmm5t)	Release	Solo Piano (Consumer product) #12	.
+Oregano (m/0rsmm5t)	Track #	"13"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Oregano (m/0rsmm5t)	is-a	Release track	.
+Oregano (m/0rsmm5t)	is-a	Topic	.
+Oregano (original mix) (Musical Recording)	Length	"292.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Oregano (original mix) (Musical Recording)	Recorded by	Store N Forward	.
+Oregano (original mix) (Musical Recording)	is-a	Canonical Version	.
+Oregano (original mix) (Musical Recording)	is-a	Musical Recording	.
+Oregano (original mix) (Musical Recording)	is-a	Topic	.
+Oregano (original mix) (m/0q8qgd7)	Recording	Oregano (original mix) (Musical Recording)	.
+Oregano (original mix) (m/0q8qgd7)	Release	Digitally Enhanced Volume Five (Compact Disc Musical Release)	.
+Oregano (original mix) (m/0q8qgd7)	Track #	"18"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Oregano (original mix) (m/0q8qgd7)	is-a	Release track	.
+Oregano (original mix) (m/0q8qgd7)	is-a	Topic	.
+Oregano 0.05 injectable solution (Biologic Drug Formulation)	Active ingredient	Oregano	.
+Oregano 0.05 injectable solution (Biologic Drug Formulation)	Active ingredient moiety	Oregano	.
+Oregano 0.05 injectable solution (Biologic Drug Formulation)	Dosage form	Injectable solution	.
+Oregano 0.05 injectable solution (Biologic Drug Formulation)	Drug category	Biologic	.
+Oregano 0.05 injectable solution (Biologic Drug Formulation)	Formulation of	Oregano extract	.
+Oregano 0.05 injectable solution (Biologic Drug Formulation)	Legal status	Prescription drug	.
+Oregano 0.05 injectable solution (Biologic Drug Formulation)	Route of administration	Intradermal	.
+Oregano 0.05 injectable solution (Biologic Drug Formulation)	Route of administration	Subcutaneous injection	.
+Oregano 0.05 injectable solution (Biologic Drug Formulation)	Routed drug	Oregano Extract Intradermal	.
+Oregano 0.05 injectable solution (Biologic Drug Formulation)	Routed drug	Oregano Extract Subcutaneous	.
+Oregano 0.05 injectable solution (Biologic Drug Formulation)	is-a	Drug formulation	.
+Oregano 0.05 injectable solution (Biologic Drug Formulation)	is-a	Topic	.
+Oregano 0.05 injectable solution (Consumer product) #1	Available in	United States of America	.
+Oregano 0.05 injectable solution (Consumer product) #1	Discontinued	"false"	.
+Oregano 0.05 injectable solution (Consumer product) #1	FDA application number	"BLA102192"	.
+Oregano 0.05 injectable solution (Consumer product) #1	Generic drug	"false"	.
+Oregano 0.05 injectable solution (Consumer product) #1	Label date	"2009-12-09"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Oregano 0.05 injectable solution (Consumer product) #1	Label link	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=9cf0d617-467d-461f-b6d3-d2d926982bb7>	.
+Oregano 0.05 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=9cf0d617-467d-461f-b6d3-d2d926982bb7#inv-1aa46620-007b-4a96-a186-655b130c74bd>	.
+Oregano 0.05 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=9cf0d617-467d-461f-b6d3-d2d926982bb7#inv-2a110640-b863-4d21-8cfa-08f15fb0e83d>	.
+Oregano 0.05 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=9cf0d617-467d-461f-b6d3-d2d926982bb7#inv-2e7217f0-7f21-4dd3-b964-85828c3c9fda>	.
+Oregano 0.05 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=9cf0d617-467d-461f-b6d3-d2d926982bb7#inv-4b6e1172-a2ac-4b06-8039-248b765858f8>	.
+Oregano 0.05 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=9cf0d617-467d-461f-b6d3-d2d926982bb7#inv-50284cc1-ddf3-4c36-af30-4576e667f6d2>	.
+Oregano 0.05 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=9cf0d617-467d-461f-b6d3-d2d926982bb7#inv-663fbd63-aacf-486c-a7b4-3276190f333b>	.
+Oregano 0.05 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=9cf0d617-467d-461f-b6d3-d2d926982bb7#inv-93c763ec-97b5-4e4c-b8cd-4c67e5985138>	.
+Oregano 0.05 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=9cf0d617-467d-461f-b6d3-d2d926982bb7#inv-9e428dcb-5ca9-47e9-bf7b-0d0a089bb05c>	.
+Oregano 0.05 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=9cf0d617-467d-461f-b6d3-d2d926982bb7#inv-a47ecd29-5cab-411e-affb-64b4671af9da>	.
+Oregano 0.05 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=9cf0d617-467d-461f-b6d3-d2d926982bb7#inv-b422716d-1d17-4006-994a-a8ddeb2d8002>	.
+Oregano 0.05 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=9cf0d617-467d-461f-b6d3-d2d926982bb7#inv-ba5d294f-bba8-4ce3-a444-285670a473e4>	.
+Oregano 0.05 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=9cf0d617-467d-461f-b6d3-d2d926982bb7#inv-bcc12b16-eb16-4a93-9c95-0239472adf4e>	.
+Oregano 0.05 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=9cf0d617-467d-461f-b6d3-d2d926982bb7#inv-cf91e1d7-a524-4f53-a3f0-87e3cd59352d>	.
+Oregano 0.05 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=9cf0d617-467d-461f-b6d3-d2d926982bb7#inv-ea5d82ea-dc7e-431d-ab58-cd277ee691ae>	.
+Oregano 0.05 injectable solution (Consumer product) #1	Manufactured form of	Oregano 0.05 injectable solution (Biologic Drug Formulation)	.
+Oregano 0.05 injectable solution (Consumer product) #1	Manufacturer	Nelco Laboratories	.
+Oregano 0.05 injectable solution (Consumer product) #1	Marketing start date	"1972-08-29"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Oregano 0.05 injectable solution (Consumer product) #1	NDC Product ID	"36987-1715"	.
+Oregano 0.05 injectable solution (Consumer product) #1	is-a	Consumer product	.
+Oregano 0.05 injectable solution (Consumer product) #1	is-a	Manufactured drug form	.
+Oregano 0.05 injectable solution (Consumer product) #1	is-a	Topic	.
+Oregano 0.05 injectable solution (Consumer product) #2	Available in	United States of America	.
+Oregano 0.05 injectable solution (Consumer product) #2	Discontinued	"false"	.
+Oregano 0.05 injectable solution (Consumer product) #2	FDA application number	"BLA102192"	.
+Oregano 0.05 injectable solution (Consumer product) #2	Generic drug	"false"	.
+Oregano 0.05 injectable solution (Consumer product) #2	Label date	"2009-12-09"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Oregano 0.05 injectable solution (Consumer product) #2	Label link	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=b65366b5-55ea-49dc-8011-8ef9af097291>	.
+Oregano 0.05 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=b65366b5-55ea-49dc-8011-8ef9af097291#inv-1aa46620-007b-4a96-a186-655b130c74bd>	.
+Oregano 0.05 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=b65366b5-55ea-49dc-8011-8ef9af097291#inv-2a110640-b863-4d21-8cfa-08f15fb0e83d>	.
+Oregano 0.05 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=b65366b5-55ea-49dc-8011-8ef9af097291#inv-2e7217f0-7f21-4dd3-b964-85828c3c9fda>	.
+Oregano 0.05 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=b65366b5-55ea-49dc-8011-8ef9af097291#inv-4b6e1172-a2ac-4b06-8039-248b765858f8>	.
+Oregano 0.05 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=b65366b5-55ea-49dc-8011-8ef9af097291#inv-50284cc1-ddf3-4c36-af30-4576e667f6d2>	.
+Oregano 0.05 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=b65366b5-55ea-49dc-8011-8ef9af097291#inv-663fbd63-aacf-486c-a7b4-3276190f333b>	.
+Oregano 0.05 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=b65366b5-55ea-49dc-8011-8ef9af097291#inv-93c763ec-97b5-4e4c-b8cd-4c67e5985138>	.
+Oregano 0.05 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=b65366b5-55ea-49dc-8011-8ef9af097291#inv-9e428dcb-5ca9-47e9-bf7b-0d0a089bb05c>	.
+Oregano 0.05 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=b65366b5-55ea-49dc-8011-8ef9af097291#inv-a47ecd29-5cab-411e-affb-64b4671af9da>	.
+Oregano 0.05 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=b65366b5-55ea-49dc-8011-8ef9af097291#inv-b422716d-1d17-4006-994a-a8ddeb2d8002>	.
+Oregano 0.05 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=b65366b5-55ea-49dc-8011-8ef9af097291#inv-ba5d294f-bba8-4ce3-a444-285670a473e4>	.
+Oregano 0.05 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=b65366b5-55ea-49dc-8011-8ef9af097291#inv-bcc12b16-eb16-4a93-9c95-0239472adf4e>	.
+Oregano 0.05 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=b65366b5-55ea-49dc-8011-8ef9af097291#inv-cf91e1d7-a524-4f53-a3f0-87e3cd59352d>	.
+Oregano 0.05 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=b65366b5-55ea-49dc-8011-8ef9af097291#inv-ea5d82ea-dc7e-431d-ab58-cd277ee691ae>	.
+Oregano 0.05 injectable solution (Consumer product) #2	Manufactured form of	Oregano 0.05 injectable solution (Biologic Drug Formulation)	.
+Oregano 0.05 injectable solution (Consumer product) #2	Manufacturer	Nelco Laboratories	.
+Oregano 0.05 injectable solution (Consumer product) #2	Marketing start date	"1972-08-29"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Oregano 0.05 injectable solution (Consumer product) #2	NDC Product ID	"36987-1714"	.
+Oregano 0.05 injectable solution (Consumer product) #2	is-a	Consumer product	.
+Oregano 0.05 injectable solution (Consumer product) #2	is-a	Manufactured drug form	.
+Oregano 0.05 injectable solution (Consumer product) #2	is-a	Topic	.
+Oregano 0.1 injectable solution (Biologic Drug Formulation)	Active ingredient	Oregano	.
+Oregano 0.1 injectable solution (Biologic Drug Formulation)	Active ingredient moiety	Oregano	.
+Oregano 0.1 injectable solution (Biologic Drug Formulation)	Dosage form	Injectable solution	.
+Oregano 0.1 injectable solution (Biologic Drug Formulation)	Drug category	Biologic	.
+Oregano 0.1 injectable solution (Biologic Drug Formulation)	Formulation of	Oregano extract	.
+Oregano 0.1 injectable solution (Biologic Drug Formulation)	Legal status	Prescription drug	.
+Oregano 0.1 injectable solution (Biologic Drug Formulation)	Route of administration	Intradermal	.
+Oregano 0.1 injectable solution (Biologic Drug Formulation)	Route of administration	Subcutaneous injection	.
+Oregano 0.1 injectable solution (Biologic Drug Formulation)	Routed drug	Oregano Extract Intradermal	.
+Oregano 0.1 injectable solution (Biologic Drug Formulation)	Routed drug	Oregano Extract Subcutaneous	.
+Oregano 0.1 injectable solution (Biologic Drug Formulation)	is-a	Drug formulation	.
+Oregano 0.1 injectable solution (Biologic Drug Formulation)	is-a	Topic	.
+Oregano 0.1 injectable solution (Consumer product) #1	Available in	United States of America	.
+Oregano 0.1 injectable solution (Consumer product) #1	Discontinued	"false"	.
+Oregano 0.1 injectable solution (Consumer product) #1	FDA application number	"BLA102192"	.
+Oregano 0.1 injectable solution (Consumer product) #1	Generic drug	"false"	.
+Oregano 0.1 injectable solution (Consumer product) #1	Label date	"2009-12-09"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Oregano 0.1 injectable solution (Consumer product) #1	Label link	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=6deab9bd-7a81-45ed-8a1c-b833b59b70b8>	.
+Oregano 0.1 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=6deab9bd-7a81-45ed-8a1c-b833b59b70b8#inv-1aa46620-007b-4a96-a186-655b130c74bd>	.
+Oregano 0.1 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=6deab9bd-7a81-45ed-8a1c-b833b59b70b8#inv-2a110640-b863-4d21-8cfa-08f15fb0e83d>	.
+Oregano 0.1 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=6deab9bd-7a81-45ed-8a1c-b833b59b70b8#inv-2e7217f0-7f21-4dd3-b964-85828c3c9fda>	.
+Oregano 0.1 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=6deab9bd-7a81-45ed-8a1c-b833b59b70b8#inv-38fe9cb8-53db-4bf9-a118-25051734a347>	.
+Oregano 0.1 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=6deab9bd-7a81-45ed-8a1c-b833b59b70b8#inv-4b6e1172-a2ac-4b06-8039-248b765858f8>	.
+Oregano 0.1 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=6deab9bd-7a81-45ed-8a1c-b833b59b70b8#inv-663fbd63-aacf-486c-a7b4-3276190f333b>	.
+Oregano 0.1 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=6deab9bd-7a81-45ed-8a1c-b833b59b70b8#inv-93c763ec-97b5-4e4c-b8cd-4c67e5985138>	.
+Oregano 0.1 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=6deab9bd-7a81-45ed-8a1c-b833b59b70b8#inv-9e428dcb-5ca9-47e9-bf7b-0d0a089bb05c>	.
+Oregano 0.1 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=6deab9bd-7a81-45ed-8a1c-b833b59b70b8#inv-a47ecd29-5cab-411e-affb-64b4671af9da>	.
+Oregano 0.1 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=6deab9bd-7a81-45ed-8a1c-b833b59b70b8#inv-b422716d-1d17-4006-994a-a8ddeb2d8002>	.
+Oregano 0.1 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=6deab9bd-7a81-45ed-8a1c-b833b59b70b8#inv-ba5d294f-bba8-4ce3-a444-285670a473e4>	.
+Oregano 0.1 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=6deab9bd-7a81-45ed-8a1c-b833b59b70b8#inv-bcc12b16-eb16-4a93-9c95-0239472adf4e>	.
+Oregano 0.1 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=6deab9bd-7a81-45ed-8a1c-b833b59b70b8#inv-cf91e1d7-a524-4f53-a3f0-87e3cd59352d>	.
+Oregano 0.1 injectable solution (Consumer product) #1	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=6deab9bd-7a81-45ed-8a1c-b833b59b70b8#inv-ea5d82ea-dc7e-431d-ab58-cd277ee691ae>	.
+Oregano 0.1 injectable solution (Consumer product) #1	Manufactured form of	Oregano 0.1 injectable solution (Biologic Drug Formulation)	.
+Oregano 0.1 injectable solution (Consumer product) #1	Manufacturer	Nelco Laboratories	.
+Oregano 0.1 injectable solution (Consumer product) #1	Marketing start date	"1972-08-29"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Oregano 0.1 injectable solution (Consumer product) #1	NDC Product ID	"36987-1716"	.
+Oregano 0.1 injectable solution (Consumer product) #1	is-a	Consumer product	.
+Oregano 0.1 injectable solution (Consumer product) #1	is-a	Manufactured drug form	.
+Oregano 0.1 injectable solution (Consumer product) #1	is-a	Topic	.
+Oregano 0.1 injectable solution (Consumer product) #2	Available in	United States of America	.
+Oregano 0.1 injectable solution (Consumer product) #2	Discontinued	"false"	.
+Oregano 0.1 injectable solution (Consumer product) #2	FDA application number	"BLA102192"	.
+Oregano 0.1 injectable solution (Consumer product) #2	Generic drug	"false"	.
+Oregano 0.1 injectable solution (Consumer product) #2	Label date	"2009-12-09"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Oregano 0.1 injectable solution (Consumer product) #2	Label link	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=42a03973-e3db-49f2-9264-f76aa831c045>	.
+Oregano 0.1 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=42a03973-e3db-49f2-9264-f76aa831c045#inv-1aa46620-007b-4a96-a186-655b130c74bd>	.
+Oregano 0.1 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=42a03973-e3db-49f2-9264-f76aa831c045#inv-271a837d-44bf-46b7-8a0f-c96dbc0e3cea>	.
+Oregano 0.1 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=42a03973-e3db-49f2-9264-f76aa831c045#inv-2a110640-b863-4d21-8cfa-08f15fb0e83d>	.
+Oregano 0.1 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=42a03973-e3db-49f2-9264-f76aa831c045#inv-2e7217f0-7f21-4dd3-b964-85828c3c9fda>	.
+Oregano 0.1 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=42a03973-e3db-49f2-9264-f76aa831c045#inv-4b6e1172-a2ac-4b06-8039-248b765858f8>	.
+Oregano 0.1 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=42a03973-e3db-49f2-9264-f76aa831c045#inv-663fbd63-aacf-486c-a7b4-3276190f333b>	.
+Oregano 0.1 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=42a03973-e3db-49f2-9264-f76aa831c045#inv-93c763ec-97b5-4e4c-b8cd-4c67e5985138>	.
+Oregano 0.1 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=42a03973-e3db-49f2-9264-f76aa831c045#inv-9e428dcb-5ca9-47e9-bf7b-0d0a089bb05c>	.
+Oregano 0.1 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=42a03973-e3db-49f2-9264-f76aa831c045#inv-a47ecd29-5cab-411e-affb-64b4671af9da>	.
+Oregano 0.1 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=42a03973-e3db-49f2-9264-f76aa831c045#inv-b422716d-1d17-4006-994a-a8ddeb2d8002>	.
+Oregano 0.1 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=42a03973-e3db-49f2-9264-f76aa831c045#inv-ba5d294f-bba8-4ce3-a444-285670a473e4>	.
+Oregano 0.1 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=42a03973-e3db-49f2-9264-f76aa831c045#inv-bcc12b16-eb16-4a93-9c95-0239472adf4e>	.
+Oregano 0.1 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=42a03973-e3db-49f2-9264-f76aa831c045#inv-cf91e1d7-a524-4f53-a3f0-87e3cd59352d>	.
+Oregano 0.1 injectable solution (Consumer product) #2	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=42a03973-e3db-49f2-9264-f76aa831c045#inv-ea5d82ea-dc7e-431d-ab58-cd277ee691ae>	.
+Oregano 0.1 injectable solution (Consumer product) #2	Manufactured form of	Oregano 0.1 injectable solution (Biologic Drug Formulation)	.
+Oregano 0.1 injectable solution (Consumer product) #2	Manufacturer	Nelco Laboratories	.
+Oregano 0.1 injectable solution (Consumer product) #2	Marketing start date	"1972-08-29"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Oregano 0.1 injectable solution (Consumer product) #2	NDC Product ID	"36987-1717"	.
+Oregano 0.1 injectable solution (Consumer product) #2	is-a	Consumer product	.
+Oregano 0.1 injectable solution (Consumer product) #2	is-a	Manufactured drug form	.
+Oregano 0.1 injectable solution (Consumer product) #2	is-a	Topic	.
+Oregano 1 injectable solution	Available in	United States of America	.
+Oregano 1 injectable solution	Discontinued	"false"	.
+Oregano 1 injectable solution	FDA application number	"BLA102192"	.
+Oregano 1 injectable solution	Generic drug	"false"	.
+Oregano 1 injectable solution	Label date	"2011-03-11"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Oregano 1 injectable solution	Label link	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=c1114779-3e11-47ab-8889-f534406f4041>	.
+Oregano 1 injectable solution	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=c1114779-3e11-47ab-8889-f534406f4041#nlm34066-1>	.
+Oregano 1 injectable solution	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=c1114779-3e11-47ab-8889-f534406f4041#nlm34067-9>	.
+Oregano 1 injectable solution	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=c1114779-3e11-47ab-8889-f534406f4041#nlm34068-7>	.
+Oregano 1 injectable solution	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=c1114779-3e11-47ab-8889-f534406f4041#nlm34069-5>	.
+Oregano 1 injectable solution	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=c1114779-3e11-47ab-8889-f534406f4041#nlm34070-3>	.
+Oregano 1 injectable solution	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=c1114779-3e11-47ab-8889-f534406f4041#nlm34071-1>	.
+Oregano 1 injectable solution	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=c1114779-3e11-47ab-8889-f534406f4041#nlm34084-4>	.
+Oregano 1 injectable solution	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=c1114779-3e11-47ab-8889-f534406f4041#nlm34088-5>	.
+Oregano 1 injectable solution	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=c1114779-3e11-47ab-8889-f534406f4041#nlm34089-3>	.
+Oregano 1 injectable solution	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=c1114779-3e11-47ab-8889-f534406f4041#nlm34090-1>	.
+Oregano 1 injectable solution	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=c1114779-3e11-47ab-8889-f534406f4041#nlm34093-5>	.
+Oregano 1 injectable solution	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=c1114779-3e11-47ab-8889-f534406f4041#nlm42229-5>	.
+Oregano 1 injectable solution	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=c1114779-3e11-47ab-8889-f534406f4041#nlm42232-9>	.
+Oregano 1 injectable solution	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=c1114779-3e11-47ab-8889-f534406f4041#nlm44425-7>	.
+Oregano 1 injectable solution	Label section	<http://dailymed.nlm.nih.gov/dailymed/lookup/cfm?setid=c1114779-3e11-47ab-8889-f534406f4041#nlm51945-4>	.
+Oregano 1 injectable solution	Manufactured form of	Oregano 50 injectable solution	.
+Oregano 1 injectable solution	Manufacturer	Allergy Laboratories	.
+Oregano 1 injectable solution	Marketing start date	"1972-08-29"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Oregano 1 injectable solution	NDC Product ID	"54575-424"	.
+Oregano 1 injectable solution	is-a	Consumer product	.
+Oregano 1 injectable solution	is-a	Manufactured drug form	.
+Oregano 1 injectable solution	is-a	Topic	.
+Oregano 50 injectable solution	Active ingredient	Oregano	.
+Oregano 50 injectable solution	Active ingredient moiety	Oregano	.
+Oregano 50 injectable solution	Dosage form	Injectable solution	.
+Oregano 50 injectable solution	Drug category	Biologic	.
+Oregano 50 injectable solution	Formulation of	Oregano extract	.
+Oregano 50 injectable solution	Legal status	Prescription drug	.
+Oregano 50 injectable solution	Route of administration	Percutaneous	.
+Oregano 50 injectable solution	Route of administration	Subcutaneous injection	.
+Oregano 50 injectable solution	Routed drug	Oregano Extract Percutaneous	.
+Oregano 50 injectable solution	Routed drug	Oregano Extract Subcutaneous	.
+Oregano 50 injectable solution	is-a	Drug formulation	.
+Oregano 50 injectable solution	is-a	Topic	.
+Oregano Extract Intradermal	Route of administration	Intradermal	.
+Oregano Extract Intradermal	Routed drug of	Oregano extract	.
+Oregano Extract Intradermal	is-a	Condition prevention factors	.
+Oregano Extract Intradermal	is-a	Medical Treatment	.
+Oregano Extract Intradermal	is-a	Routed drug	.
+Oregano Extract Intradermal	is-a	Topic	.
+Oregano Extract Percutaneous	Route of administration	Percutaneous	.
+Oregano Extract Percutaneous	Routed drug of	Oregano extract	.
+Oregano Extract Percutaneous	is-a	Condition prevention factors	.
+Oregano Extract Percutaneous	is-a	Medical Treatment	.
+Oregano Extract Percutaneous	is-a	Routed drug	.
+Oregano Extract Percutaneous	is-a	Topic	.
+Oregano Extract Subcutaneous	Route of administration	Subcutaneous injection	.
+Oregano Extract Subcutaneous	Routed drug of	Oregano extract	.
+Oregano Extract Subcutaneous	is-a	Condition prevention factors	.
+Oregano Extract Subcutaneous	is-a	Medical Treatment	.
+Oregano Extract Subcutaneous	is-a	Routed drug	.
+Oregano Extract Subcutaneous	is-a	Topic	.
+Oregano Flow	Artist	Digital Underground	.
+Oregano Flow	Initial release date	"1996-04-22"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Oregano Flow	Primary release	Oregano Flow (Compact Disc Musical Release)	.
+Oregano Flow	Release type	Single	.
+Oregano Flow	is-a	Musical Album	.
+Oregano Flow	is-a	Topic	.
+Oregano Flow (Compact Disc Musical Release)	Credited A	"Digital Underground"	.
+Oregano Flow (Compact Disc Musical Release)	Format	Compact disc	.
+Oregano Flow (Compact Disc Musical Release)	Region	United States of America	.
+Oregano Flow (Compact Disc Musical Release)	Release Date	"1996-04-22"^^<http://www.w3.org/2001/XMLSchema#date>	.
+Oregano Flow (Compact Disc Musical Release)	Release of	Oregano Flow	.
+Oregano Flow (Compact Disc Musical Release)	is-a	Creative Work	.
+Oregano Flow (Compact Disc Musical Release)	is-a	Musical Release	.
+Oregano Flow (Compact Disc Musical Release)	is-a	Topic	.
+Oregano Flow (Gumbo Soup Mix)	Recording	Oregano Flow (Gumbo Soup mix) (Musical Recording) #2	.
+Oregano Flow (Gumbo Soup Mix)	Release	Rap Attack (Compact Disc Musical Release) #5	.
+Oregano Flow (Gumbo Soup Mix)	is-a	Release track	.
+Oregano Flow (Gumbo Soup Mix)	is-a	Topic	.
+Oregano Flow (Gumbo Soup mix) (Musical Recording) #1	Canonical version	Oregano Flow (Hot Sauce mix) (Musical Recording)	.
+Oregano Flow (Gumbo Soup mix) (Musical Recording) #1	Length	"213.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Oregano Flow (Gumbo Soup mix) (Musical Recording) #1	Recorded by	Digital Underground	.
+Oregano Flow (Gumbo Soup mix) (Musical Recording) #1	Release	Future Rhythm (Compact Disc Musical Release)	.
+Oregano Flow (Gumbo Soup mix) (Musical Recording) #1	Release	Oregano Flow (Compact Disc Musical Release)	.
+Oregano Flow (Gumbo Soup mix) (Musical Recording) #1	Release	Rap Fieber (Compact Disc Musical Release)	.
+Oregano Flow (Gumbo Soup mix) (Musical Recording) #1	is-a	Musical Recording	.
+Oregano Flow (Gumbo Soup mix) (Musical Recording) #1	is-a	Topic	.
+Oregano Flow (Gumbo Soup mix) (Musical Recording) #2	Canonical version	Oregano Flow (Hot Sauce mix) (Musical Recording)	.
+Oregano Flow (Gumbo Soup mix) (Musical Recording) #2	Length	"228.4"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Oregano Flow (Gumbo Soup mix) (Musical Recording) #2	Recorded by	Digital Underground	.
+Oregano Flow (Gumbo Soup mix) (Musical Recording) #2	Release	Rap Attack (Compact Disc Musical Release) #5	.
+Oregano Flow (Gumbo Soup mix) (Musical Recording) #2	is-a	Musical Recording	.
+Oregano Flow (Gumbo Soup mix) (Musical Recording) #2	is-a	Topic	.
+Oregano Flow (Gumbo Soup mix) (m/0l8rl6r)	Recording	Oregano Flow (Gumbo Soup mix) (Musical Recording) #1	.
+Oregano Flow (Gumbo Soup mix) (m/0l8rl6r)	Release	Future Rhythm (Compact Disc Musical Release)	.
+Oregano Flow (Gumbo Soup mix) (m/0l8rl6r)	Track #	"3"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Oregano Flow (Gumbo Soup mix) (m/0l8rl6r)	is-a	Release track	.
+Oregano Flow (Gumbo Soup mix) (m/0l8rl6r)	is-a	Topic	.
+Oregano Flow (Gumbo Soup mix) (m/0lhrvnj)	Recording	Oregano Flow (Gumbo Soup mix) (Musical Recording) #1	.
+Oregano Flow (Gumbo Soup mix) (m/0lhrvnj)	Release	Rap Fieber (Compact Disc Musical Release)	.
+Oregano Flow (Gumbo Soup mix) (m/0lhrvnj)	Track #	"16"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Oregano Flow (Gumbo Soup mix) (m/0lhrvnj)	is-a	Release track	.
+Oregano Flow (Gumbo Soup mix) (m/0lhrvnj)	is-a	Topic	.
+Oregano Flow (Gumbo Soup mix) (m/0mhb7fp)	Recording	Oregano Flow (Gumbo Soup mix) (Musical Recording) #1	.
+Oregano Flow (Gumbo Soup mix) (m/0mhb7fp)	Release	Oregano Flow (Compact Disc Musical Release)	.
+Oregano Flow (Gumbo Soup mix) (m/0mhb7fp)	Track #	"1"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Oregano Flow (Gumbo Soup mix) (m/0mhb7fp)	is-a	Release track	.
+Oregano Flow (Gumbo Soup mix) (m/0mhb7fp)	is-a	Topic	.
+Oregano Flow (Gumbo Soup mix) (m/0rr9z57)	Recording	Oregano Flow (Gumbo Soup mix) (Musical Recording) #2	.
+Oregano Flow (Gumbo Soup mix) (m/0rr9z57)	Release	Rap Attack (Compact Disc Musical Release) #5	.
+Oregano Flow (Gumbo Soup mix) (m/0rr9z57)	Track #	"16"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Oregano Flow (Gumbo Soup mix) (m/0rr9z57)	is-a	Release track	.
+Oregano Flow (Gumbo Soup mix) (m/0rr9z57)	is-a	Topic	.
+Oregano Flow (Gumbo Soup mix) (m/0sq1v4g)	Recording	Oregano Flow (Gumbo Soup mix) (Musical Recording) #1	.
+Oregano Flow (Gumbo Soup mix) (m/0sq1v4g)	Release	Sound System (Consumer product) #6	.
+Oregano Flow (Gumbo Soup mix) (m/0sq1v4g)	Track #	"12"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Oregano Flow (Gumbo Soup mix) (m/0sq1v4g)	is-a	Release track	.
+Oregano Flow (Gumbo Soup mix) (m/0sq1v4g)	is-a	Topic	.
+Oregano Flow (Hot Sauce mix) (Musical Recording)	Length	"258.333"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Oregano Flow (Hot Sauce mix) (Musical Recording)	Recorded by	Digital Underground	.
+Oregano Flow (Hot Sauce mix) (Musical Recording)	Release	Future Rhythm (Compact Disc Musical Release)	.
+Oregano Flow (Hot Sauce mix) (Musical Recording)	is-a	Canonical Version	.
+Oregano Flow (Hot Sauce mix) (Musical Recording)	is-a	Musical Recording	.
+Oregano Flow (Hot Sauce mix) (Musical Recording)	is-a	Topic	.
+Oregano Flow (Hot Sauce mix) (m/0l8rl9m)	Recording	Oregano Flow (Hot Sauce mix) (Musical Recording)	.
+Oregano Flow (Hot Sauce mix) (m/0l8rl9m)	Release	Future Rhythm (Compact Disc Musical Release)	.
+Oregano Flow (Hot Sauce mix) (m/0l8rl9m)	Track #	"13"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Oregano Flow (Hot Sauce mix) (m/0l8rl9m)	is-a	Release track	.
+Oregano Flow (Hot Sauce mix) (m/0l8rl9m)	is-a	Topic	.
+Oregano Flow (instrumental mix) (Musical Recording)	Canonical version	Oregano Flow (Hot Sauce mix) (Musical Recording)	.
+Oregano Flow (instrumental mix) (Musical Recording)	Length	"219.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Oregano Flow (instrumental mix) (Musical Recording)	Recorded by	Digital Underground	.
+Oregano Flow (instrumental mix) (Musical Recording)	Release	Oregano Flow (Compact Disc Musical Release)	.
+Oregano Flow (instrumental mix) (Musical Recording)	is-a	Musical Recording	.
+Oregano Flow (instrumental mix) (Musical Recording)	is-a	Topic	.
+Oregano Flow (instrumental mix) (m/0mhb7p6)	Recording	Oregano Flow (instrumental mix) (Musical Recording)	.
+Oregano Flow (instrumental mix) (m/0mhb7p6)	Release	Oregano Flow (Compact Disc Musical Release)	.
+Oregano Flow (instrumental mix) (m/0mhb7p6)	Track #	"2"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Oregano Flow (instrumental mix) (m/0mhb7p6)	is-a	Release track	.
+Oregano Flow (instrumental mix) (m/0mhb7p6)	is-a	Topic	.
+Oregano Mice (Musical Recording)	Length	"382.64"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Oregano Mice (Musical Recording)	Recorded by	Nero (Musical Group) #66	.
+Oregano Mice (Musical Recording)	Release	Is It Morning? (Consumer product)	.
+Oregano Mice (Musical Recording)	is-a	Canonical Version	.
+Oregano Mice (Musical Recording)	is-a	Musical Recording	.
+Oregano Mice (Musical Recording)	is-a	Topic	.
+Oregano Mice (m/0mwzs1y)	Recording	Oregano Mice (Musical Recording)	.
+Oregano Mice (m/0mwzs1y)	Release	Is It Morning? (Consumer product)	.
+Oregano Mice (m/0mwzs1y)	Track #	"2"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Oregano Mice (m/0mwzs1y)	is-a	Release track	.
+Oregano Mice (m/0mwzs1y)	is-a	Topic	.
+Oregano extract	Active moiety	Oregano	.
+Oregano extract	Legal status	Prescription drug	.
+Oregano extract	is-a	Drug	.
+Oregano extract	is-a	Topic	.
+Oregano/Dot (Canonical Version)	Recorded by	Chilly Gonzales	.
+Oregano/Dot (Canonical Version)	is-a	Canonical Version	.
+Oregano/Dot (Canonical Version)	is-a	Musical Recording	.
+Oregano/Dot (Canonical Version)	is-a	Topic	.
+Oregano/Dot (m/0rrjn_1)	Recording	Oregano/Dot (Canonical Version)	.
+Oregano/Dot (m/0rrjn_1)	Release	Solo Piano (Consumer product) #12	.
+Oregano/Dot (m/0rrjn_1)	Track #	"25"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Oregano/Dot (m/0rrjn_1)	is-a	Release track	.
+Oregano/Dot (m/0rrjn_1)	is-a	Topic	.
+Oregano17 (Canonical Version)	Length	"196.533"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Oregano17 (Canonical Version)	Recorded by	Fred:Lock	.
+Oregano17 (Canonical Version)	Release	Spiritual Meltdown (Musical Release)	.
+Oregano17 (Canonical Version)	is-a	Canonical Version	.
+Oregano17 (Canonical Version)	is-a	Musical Recording	.
+Oregano17 (Canonical Version)	is-a	Topic	.
+Oregano17 (m/0lh5mwx)	Recording	Oregano17 (Canonical Version)	.
+Oregano17 (m/0lh5mwx)	Release	Spiritual Meltdown (Musical Release)	.
+Oregano17 (m/0lh5mwx)	Track #	"8"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Oregano17 (m/0lh5mwx)	is-a	Release track	.
+Oregano17 (m/0lh5mwx)	is-a	Topic	.

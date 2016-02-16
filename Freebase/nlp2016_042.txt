@@ -1,0 +1,10 @@
+Sky lanterns (Canonical Version)	Length	"209.0"^^<http://www.w3.org/2001/XMLSchema#float>	.
+Sky lanterns (Canonical Version)	Recorded by	Sunny Intervals	.
+Sky lanterns (Canonical Version)	is-a	Canonical Version	.
+Sky lanterns (Canonical Version)	is-a	Musical Recording	.
+Sky lanterns (Canonical Version)	is-a	Topic	.
+Sky lanterns (m/0xm15mm)	Recording	Sky lanterns (Canonical Version)	.
+Sky lanterns (m/0xm15mm)	Release	Rooftops (Compact Disc Musical Release)	.
+Sky lanterns (m/0xm15mm)	Track #	"9"^^<http://www.w3.org/2001/XMLSchema#int>	.
+Sky lanterns (m/0xm15mm)	is-a	Release track	.
+Sky lanterns (m/0xm15mm)	is-a	Topic	.

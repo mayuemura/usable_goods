@@ -1,0 +1,8 @@
+Dental floss	Condition This May Prevent	Dental caries	.
+Dental floss	is-a	Condition prevention factors	.
+Dental floss	is-a	Invention	.
+Dental floss	is-a	Topic	.
+Dental floss	Condition This May Prevent	Dental caries	.
+Dental floss	is-a	Condition prevention factors	.
+Dental floss	is-a	Invention	.
+Dental floss	is-a	Topic	.
