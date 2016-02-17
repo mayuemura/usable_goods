@@ -3,4 +3,8 @@ I-User	baseball	NN
 I-User	and	CC
 I-User	lacrosse	NN
 I-User	players	NNS
+O	women	NN
+O	aaa	NN
+O	applied	VV
+O	to	VV
 

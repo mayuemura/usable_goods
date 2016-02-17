@@ -1,4 +1,4 @@
-
+#	Diprobase,It,its
 O	Diprobase	NNP
 O	is	VBZ
 O	an	DT
@@ -45,6 +45,7 @@ I-Eff	applied	JJ
 I-Eff	area	NN
 I-Eff	sticky	JJ
 
+#	Egg oil,egg oil,egg yolk oil,ovum oil,It,product
 O	Egg	NNP
 O	oil	NN
 O	also	RB
@@ -150,6 +151,7 @@ I-Eff	frostbite	NN
 I-Eff	and	CC
 I-Eff	hemorrhoids	NNS
 
+#	Eye black,It
 O	Eye	NNP
 O	black	JJ
 O	is	VBZ
@@ -199,6 +201,7 @@ O	or	CC
 O	war	NN
 O	paint	NN
 
+#	Eyelash Extensions,extensions
 O	Eyelash	NNP
 O	Extensions	NNPS
 O	is	VBZ
@@ -240,6 +243,7 @@ B-MOU	individual	JJ
 I-MOU	one-by-one	JJ
 I-MOU	extensions	NNS
 
+#	Nail polish,nail varnish,its,formulation
 O	Nail	VB
 O	polish	NN
 O	also	RB
@@ -300,6 +304,7 @@ O	and	CC
 O	other	JJ
 O	components	NNS
 
+#	Eyelid glue,eye putti
 O	Eyelid	JJ
 O	glue	NN
 O	commonly	RB
@@ -339,6 +344,7 @@ O	be	VB
 O	easily	RB
 O	removed	VBN
 
+#	Eyeliner,It
 O	Eyeliner	NNP
 O	is	VBZ
 O	a	DT
@@ -367,6 +373,7 @@ I-Eff	of	IN
 I-Eff	aesthetic	JJ
 I-Eff	effects	NNS
 
+#	Eye shadow,It
 O	Eye	NNP
 O	shadow	NN
 O	is	VBZ
@@ -454,6 +461,7 @@ O	or	CC
 O	mousse	NN
 O	form	NN
 
+#	Face powder,Powder
 O	Face	NNP
 O	powder	NN
 O	is	VBZ
@@ -525,6 +533,7 @@ I-Eff	an	DT
 I-Eff	even	RB
 I-Eff	appearance	NN
 
+#	facial prothetic,facial prothesis,facial prothetics,facial prothetic makeup
 O	A	DT
 O	facial	JJ
 O	prosthetic	JJ
@@ -637,6 +646,7 @@ O	animals	NNS
 O	and	CC
 O	others	NNS
 
+#	Foundation,body painting
 O	Foundation	NNP
 O	is	VBZ
 O	a	DT
@@ -681,6 +691,7 @@ O	as	IN
 O	body	NN
 O	painting	NN
 
+#	Glitter,glitter
 O	Glitter	NNP
 O	describes	VBZ
 O	an	DT
@@ -782,6 +793,7 @@ O	of	IN
 O	industrial	JJ
 O	glitter	NN
 
+#	Helioplex,Active Photobarrier Complex
 O	Helioplex	NNP
 O	is	VBZ
 O	a	DT
@@ -843,6 +855,7 @@ O	Active	JJ
 O	Photobarrier	NN
 O	Complex	NN
 
+#	floral water,hydrosol,hydrolate,herbal water,Herbal distillates,They,distillate
 O	Herbal	JJ
 O	distillates	NNS
 O	also	RB
@@ -938,6 +951,7 @@ O	the	DT
 O	watery	JJ
 O	distillate	NN
 
+#	collagen hydrolysate,collagen peptide,gelatine,hydrolyzed gelatine,Hydrolyzed collagen,It
 O	Hydrolyzed	VBN
 O	collagen	NN
 O	is	VBZ
@@ -961,6 +975,7 @@ O	and	CC
 O	hydrolyzed	VBN
 O	gelatine	NN
 
+#	kabuki brush,mushroom brush,brush,brushes
 O	A	DT
 O	kabuki	FW
 O	brush	NN
@@ -1022,6 +1037,7 @@ O	have	VBP
 O	synthetic	JJ
 O	bristles	VBZ
 
+#	Perfume,Perfumes,perfumery,perfumes
 O	Perfume	NN
 O	is	VBZ
 O	a	DT
@@ -1111,6 +1127,7 @@ O	natural	JJ
 O	aromatics	NNS
 O	alone	RB
 
+#	Kohl,It,It,kohl
 O	Kohl	NNP
 O	is	VBZ
 O	an	DT
@@ -1203,6 +1220,7 @@ O	soon	RB
 O	after	IN
 O	birth	NN
 
+#	kuṅkumam,kumkuma,kumkum,kunkumam,Kannada,Kungkumam,Kumkuma,It,it
 O	Kumkuma	NNP
 O	is	VBZ
 O	a	DT
@@ -1266,6 +1284,7 @@ O	kumkum	NN
 O	kunkumam	NN
 O	Kungkumam	NNP
 
+#	Lip gloss,It,product
 O	Lip	NN
 O	gloss	VBP
 O	is	VBZ
@@ -1335,6 +1354,7 @@ O	and	CC
 O	metallic	JJ
 O	finishes	NNS
 
+#	lip pencil,Lip liner,It,product
 O	Lip	NN
 O	liner	NN
 O	also	RB
@@ -1435,6 +1455,7 @@ O	browns	NNS
 O	plums	NNS
 O	etc.	FW
 
+#	Lip stain,It,it
 O	Lip	NN
 O	stain	VBP
 O	is	VBZ
@@ -1485,6 +1506,7 @@ O	recommended	VBN
 O	for	IN
 O	winter	NN
 
+#	Lipstick,lipstick
 O	Lipstick	NN
 O	is	VBZ
 O	a	DT
@@ -1541,6 +1563,7 @@ O	to	TO
 O	medieval	JJ
 O	times	NNS
 
+#	makeup brush,brushes
 O	A	DT
 O	makeup	NN
 O	brush	NN
@@ -1649,6 +1672,7 @@ O	flat	JJ
 O	or	CC
 O	tapered	JJ
 
+#	Mascara,It,mascara
 O	Mascara	NN
 O	is	VBZ
 O	a	DT
@@ -1701,6 +1725,7 @@ O	waxes	NNS
 O	and	CC
 O	preservatives	NNS
 
+#	acupressure mat
 O	An	DT
 O	acupressure	NN
 O	mat	NN
@@ -1729,6 +1754,7 @@ O	containing	VBG
 O	protruding	VBG
 O	spikes	NNS
 
+#	sticking plaster,plaster,Band-Aid,band-aid,band aid,Elastoplast,adhesive bandage,They
 O	An	DT
 O	adhesive	JJ
 O	bandage	NN
@@ -1783,6 +1809,7 @@ O	in	IN
 O	the	DT
 O	UK	NNP
 
+#	Air fresheners,air freshener,air freshners,Air freshening,air freshening
 O	Air	NNP
 O	fresheners	NNS
 O	are	VBP
@@ -1880,6 +1907,7 @@ O	house	NN
 O	hold	VBP
 O	items	NNS
 
+#	anaesthetic,anæsthetic,anesthetic,drugs,Many,others
 O	An	DT
 O	anesthetic	JJ
 O	anaesthetic	JJ
@@ -1951,6 +1979,7 @@ O	by	IN
 O	all	DT
 O	disciplines	NNS
 
+#	antifungal medication,drugs
 O	An	DT
 O	antifungal	JJ
 O	medication	NN
@@ -2000,6 +2029,7 @@ O	available	JJ
 O	OTC	NNP
 O	over-the-counter	JJ
 
+#	antihistamine,Antihistamines,antihistamines
 O	An	DT
 O	antihistamine	NN
 O	is	VBZ
@@ -2068,6 +2098,7 @@ I-Eff	as	IN
 I-Eff	for	IN
 I-Eff	insomnia	NN
 
+#	antioxidant,Antioxidants
 O	An	DT
 O	antioxidant	NN
 O	is	VBZ
@@ -2140,6 +2171,7 @@ I-Eff	other	JJ
 I-Eff	oxidation	NN
 I-Eff	reactions	NNS
 
+#	anti-itch drugs,Antipruritics
 O	Antipruritics	NNS
 O	also	RB
 O	known	VBN
@@ -2195,6 +2227,7 @@ I-Eff	or	CC
 I-Eff	stinging	JJ
 I-Eff	nettle	NN
 
+#	bloster,Blosters,cushion,pillow,prop
 O	A	DT
 O	bolster	VB
 O	is	VBZ
@@ -2285,6 +2318,7 @@ I-MOU	high	JJ
 I-MOU	rigid	JJ
 I-MOU	sides	NNS
 
+#	cold rub,vapor/vapour rub,Chest rub,It
 O	Chest	NN
 O	rub	NN
 O	cold	JJ
@@ -2325,6 +2359,7 @@ O	immediately	RB
 O	before	IN
 O	sleeping	VBG
 
+#	Toothpaste
 O	Toothpaste	NN
 O	is	VBZ
 O	a	DT
@@ -2394,6 +2429,7 @@ I-Eff	gum	NN
 I-Eff	disease	NN
 I-Eff	gingivitis	NN
 
+#	Dental floss,It
 O	Dental	JJ
 O	floss	NN
 O	is	VBZ
@@ -2475,6 +2511,7 @@ O	over	IN
 O	toothbrushing	NN
 O	alone	RB
 
+#	dietary supplement
 O	A	DT
 O	dietary	JJ
 O	supplement	NN
@@ -2493,6 +2530,7 @@ I-Eff	in	IN
 I-Eff	sufficient	JJ
 I-Eff	quantities	NNS
 
+#	earplug
 O	An	DT
 O	earplug	NN
 O	is	VBZ
@@ -2529,6 +2567,7 @@ I-Eff	or	CC
 I-Eff	excessive	JJ
 I-Eff	wind	NN
 
+#	finger frock,finger stall,finger condom,finger cots
 O	A	DT
 O	finger	NN
 O	cot	NN
@@ -2584,6 +2623,7 @@ O	rubber	NN
 O	and	CC
 O	vinyl	NN
 
+#	glucometer, glucose meter,It,meter
 O	A	DT
 O	glucose	NN
 O	meter	NN
@@ -2689,6 +2729,7 @@ I-Eff	mg/dl	NN
 I-Eff	or	CC
 I-Eff	mmol/l	NN
 
+#	Gluten
 O	Gluten	NNP
 O	is	VBZ
 O	a	DT
@@ -2727,6 +2768,7 @@ I-Eff	a	DT
 I-Eff	chewy	JJ
 I-Eff	texture	NN
 
+#	Green tea,green tea,its
 O	Green	NNP
 O	tea	NN
 O	is	VBZ
@@ -2788,6 +2830,7 @@ O	study	NN
 O	to	TO
 O	evaluate	VB
 
+#	somatotropin,Growth hormone,GH,It
 O	Growth	NN
 O	hormone	NN
 O	GH	NN
@@ -2873,6 +2916,7 @@ O	anterior	JJ
 O	pituitary	JJ
 O	gland	NN
 
+#	hand antiseptic,hand disinfectant,hand sanitiser,hand sanitizer,hand sanitizers
 O	A	DT
 O	hand	NN
 O	antiseptic	JJ
@@ -2975,6 +3019,7 @@ I-Eff	hands	NNS
 O	as	RB
 O	much	RB
 
+#	Hibiscus tea,It
 O	Hibiscus	NNP
 O	tea	NN
 O	is	VBZ
@@ -3007,6 +3052,7 @@ I-MOU	hot	JJ
 I-MOU	and	CC
 I-MOU	cold	JJ
 
+#	hottie,hot water bottle
 O	A	DT
 O	hot	JJ
 O	water	NN
@@ -3047,6 +3093,7 @@ I-Eff	of	IN
 I-Eff	the	DT
 I-Eff	body	NN
 
+#	gel pack,ice pack,packs
 O	An	DT
 O	ice	NN
 O	pack	NN
@@ -3143,6 +3190,8 @@ I-Eff	products	NNS
 I-Eff	cool	JJ
 I-Eff	during	IN
 I-Eff	transport	NN
+
+#	iFood,isotopic food,foods
 O	iFood	NN
 O	isotopic	JJ
 O	food	NN
@@ -3256,6 +3305,7 @@ O	the	DT
 O	human	JJ
 O	cells	NNS
 
+#	antioxidants,Isoflavones,their,isoflavones
 O	Isoflavones	NNS
 O	are	VBP
 O	a	DT
@@ -3309,6 +3359,7 @@ O	Cancer	NN
 O	Survival	NN
 O	Study	NN
 
+#	Aloe vera,aloe vera
 O	Aloe	NNP
 O	vera	NN
 O	is	VBZ
@@ -3401,6 +3452,7 @@ O	along	IN
 O	with	IN
 O	goldenseal	NN
 
+#	Althaea,Althaea officinalis,marshmallow plant
 O	Althaea	NNP
 O	is	VBZ
 O	a	DT
@@ -3477,6 +3529,7 @@ O	3	CD
 O	7	CD
 O	lobes	NNS
 
+#	Angelica sinensis,dong quai,female ginseng
 O	Angelica	NNP
 O	sinensis	NNP
 O	commonly	RB
@@ -3535,6 +3588,7 @@ O	thousands	NNS
 O	of	IN
 O	years	NNS
 
+#	globe artichoke,Cynara cardunculus,scolymus,artichoke,the species
 O	The	DT
 O	globe	NN
 O	artichoke	NN
@@ -3627,6 +3681,7 @@ O	the	DT
 O	Mediterranean	JJ
 O	region	NN
 
+#	Astragalus,It,The genus,milkvetch,locoweed,goat's-thron
 O	Astragalus	NN
 O	is	VBZ
 O	a	DT
@@ -3711,6 +3766,7 @@ O	are	VBP
 O	more	RBR
 O	vine-like	JJ
 
+#	Bilberries
 O	Bilberries	NNS
 O	are	VBP
 O	any	DT
@@ -3764,6 +3820,7 @@ O	related	JJ
 O	to	TO
 O	them	PRP
 
+#	Bromelain,bromelain,The extract,it,its
 O	Bromelain	NNP
 O	is	VBZ
 O	a	DT
@@ -3876,6 +3933,7 @@ O	nutraceutical	JJ
 O	or	CC
 O	drug	NN
 
+#	cayanne pepper,Guinea spice,cow-horn pepper,red hot chili pepper,aleva,bird pepper,red pepper
 O	The	DT
 O	cayenne	NN
 O	pepper	NN
@@ -3981,6 +4039,7 @@ O	the	DT
 O	same	JJ
 O	name	NN
 
+#	Chamomile,camomile,chamomile
 O	Chamomile	NNP
 O	or	CC
 O	camomile	JJ
@@ -4032,6 +4091,7 @@ I-Eff	disorder	NN
 I-Eff	and	CC
 I-Eff	hemorrhoids	NNS
 
+#	Chlorella,It,it
 O	Chlorella	NNP
 O	is	VBZ
 O	a	DT
@@ -4131,6 +4191,7 @@ O	the	DT
 O	B-complex	JJ
 B-MOU	vitamins	NNS
 
+#	Choline,It
 O	Choline	NNP
 O	generally	RB
 O	refers	VBZ
@@ -4176,6 +4237,7 @@ O	in	IN
 O	cell	NN
 O	membranes	NNS
 
+#	Cinnamon,its,them
 O	Cinnamon	NNP
 O	is	VBZ
 O	a	DT
@@ -4291,6 +4353,7 @@ O	commercially	RB
 O	for	IN
 O	spice	NN
 
+#	Cranberries,cranberry
 O	Cranberries	NNS
 O	are	VBP
 O	a	DT
@@ -4390,6 +4453,7 @@ O	the	DT
 O	northern	JJ
 O	hemisphere	NN
 
+#	diuretic,diuretics
 O	A	DT
 O	diuretic	JJ
 O	is	VBZ
@@ -4456,6 +4520,7 @@ O	water	NN
 O	in	IN
 O	urine	NN
 
+#	Echinacea,purple coneflowers,They,they
 O	Echinacea	NNP
 O	is	VBZ
 O	a	DT
@@ -4544,6 +4609,7 @@ O	spiny	JJ
 O	central	JJ
 O	disk	NN
 
+#	Enhanced water,enhanced waters,enhanced water
 O	Enhanced	VBN
 O	water	NN
 O	is	VBZ
@@ -4652,6 +4718,7 @@ O	the	DT
 O	Public	NNP
 O	Interest	NN
 
+#	Eye drops,they,them,drops
 O	Eye	NNP
 O	drops	NNS
 O	are	VBP
@@ -4753,6 +4820,7 @@ I-MOU	after	IN
 I-MOU	instilling	VBG
 O	drops	NNS
 
+#	Eye pillows,dream pillows
 O	Eye	NNP
 O	pillows	NNS
 O	also	RB
@@ -4783,6 +4851,7 @@ O	or	CC
 O	non-scented	JJ
 O	herbs	NNS
 
+#	eyepatch,eye pad,it,It,sleep mask,Eyepatches
 O	An	DT
 O	eyepatch	NN
 O	or	CC
@@ -4895,6 +4964,7 @@ O	originating	VBG
 O	from	IN
 O	fiction	NN
 
+#	Fish oil,Fish oils,fish oil
 O	Fish	NN
 O	oil	NN
 O	is	VBZ
@@ -4988,6 +5058,7 @@ O	to	TO
 O	farmed	JJ
 O	salmon	NN
 
+#	Flavonoids,bioflavonoids,they
 O	Flavonoids	NNS
 O	or	CC
 O	bioflavonoids	NNS
@@ -5097,6 +5168,7 @@ O	be	VB
 O	termed	VBN
 O	bioflavonoids	NNS
 
+#	Flax,common flax,linseed,Linum usitatissimum,flax,it
 O	Flax	NN
 O	also	RB
 O	known	VBN
@@ -5193,6 +5265,7 @@ O	the	DT
 O	flax	NN
 O	plant	NN
 
+#	Goldenseal,Hydrastis canadensis,orangeroot,yellow puccoon,It,The plant
 O	Goldenseal	NNP
 O	Hydrastis	NNP
 O	canadensis	NN
@@ -5295,6 +5368,7 @@ O	in	IN
 O	the	DT
 O	summer	NN
 
+#	Kava,kava-kava,Piper Piper methysticum,kava,okinaawa,Hawaiokinai,ava,The plant,kava(-kava)
 O	Kava	NN
 O	or	CC
 O	kava-kava	NN
@@ -5400,6 +5474,7 @@ I-Eff	disrupting	VBG
 I-Eff	mental	JJ
 I-Eff	clarity	NN
 
+#	Krill oil,krill oil
 O	Krill	NNP
 O	oil	NN
 O	is	VBZ
@@ -5543,6 +5618,7 @@ O	and	CC
 O	human	JJ
 O	harvesting	NN
 
+#	Lactase,It,it,lactase
 O	Lactase	NNP
 O	is	VBZ
 O	an	DT
@@ -5625,6 +5701,7 @@ I-Eff	lactose-free	NN
 I-Eff	milk	NN
 I-Eff	products	NNS
 
+#	lipase,Lipases,lipases
 O	A	DT
 O	lipase	NN
 O	is	VBZ
@@ -5702,6 +5779,7 @@ O	A3	NN
 O	small	JJ
 O	intestine	NN
 
+#	Liquorice,licorice,liquorice
 O	Liquorice	NNP
 O	or	CC
 O	licorice	NN
@@ -5817,6 +5895,7 @@ O	Middle	NNP
 O	Eastern	NNP
 O	countries	NNS
 
+#	mask,Masks,They,they
 O	A	DT
 O	mask	NN
 O	is	VBZ
@@ -5892,6 +5971,7 @@ O	storytelling	NN
 O	and	CC
 O	dancing	NN
 
+#	mirror,Mirrors,looking-glass
 O	A	DT
 O	mirror	NN
 O	is	VBZ
@@ -6019,6 +6099,7 @@ B-Eff	decoration	NN
 O	and	CC
 B-Eff	architecture	NN
 
+#	multivitamin,Such preparations,Multivitamin supplements,mineral supplement
 O	A	DT
 O	multivitamin	NN
 O	is	VBZ
@@ -6163,6 +6244,7 @@ O	adverse	JJ
 O	health	NN
 O	effects	NNS
 
+#	Oregano,Origanum vulgare,It,wild marjoram,its
 O	Oregano	NNP
 O	is	VBZ
 O	a	DT
@@ -6263,6 +6345,7 @@ O	as	IN
 O	sweet	JJ
 O	marjoram	NN
 
+#	Orlistat,tetrahydrolipstatin,It,Xenical,Alli,Its,It
 O	Orlistat	NNP
 O	also	RB
 O	known	VBN
@@ -6373,6 +6456,7 @@ O	bacterium	NN
 O	Streptomyces	VBZ
 O	toxytricini	NNS
 
+#	pedometer,pedometers,it
 O	A	DT
 O	pedometer	NN
 O	is	VBZ
@@ -6537,6 +6621,7 @@ O	steps	NNS
 O	step	NN
 O	length	NN
 
+#	Prebiotics,it
 O	Prebiotics	NNP
 O	is	VBZ
 O	a	DT
@@ -6675,6 +6760,7 @@ I-Eff	substrate	NN
 I-Eff	for	IN
 I-Eff	them	PRP
 
+#	Probiotics,probiotic,useful microbes,probiostics,the microorganisms
 O	Probiotics	NNS
 O	are	VBP
 O	microorganisms	NNS
@@ -6791,6 +6877,7 @@ O	by	IN
 O	the	DT
 O	microorganisms	NNS
 
+#	Ptychopetalum,the genus,Muira Puama,potency wood
 O	Ptychopetalum	NN
 O	is	VBZ
 O	a	DT
@@ -6887,6 +6974,7 @@ O	6	CD
 O	flowers	NNS
 O	each	DT
 
+#	Red yeast rice,red koji,akakoji,red fermented rice,red kojic rice,red koji rice,anka,ang-kak,koji
 O	Red	NNP
 O	yeast	NN
 O	rice	NN
@@ -7008,6 +7096,7 @@ O	Sudan	NNP
 O	Red	NNP
 O	G.	NNP
 
+#	Royal jelly,it,royal jelly
 O	Royal	NNP
 O	jelly	NNP
 O	is	VBZ
@@ -7115,6 +7204,7 @@ I-Eff	to	TO
 I-Eff	lay	VB
 I-Eff	eggs	NNS
 
+#	salve
 O	A	DT
 O	salve	NN
 O	is	VBZ
@@ -7130,6 +7220,7 @@ I-Eff	of	IN
 I-Eff	the	DT
 I-Eff	body	NN
 
+#	sky lantern,KOngming lantern,Chinise lantern,tiān dēng,Sky lanterns,sky candles,fire balloons,the lantern
 O	A	DT
 O	sky	NN
 O	lantern	NN
@@ -7261,6 +7352,7 @@ I-Eff	into	IN
 I-Eff	the	DT
 I-Eff	air	NN
 
+#	Spirulina,It
 O	Spirulina	NNP
 O	is	VBZ
 O	a	DT
@@ -7330,6 +7422,7 @@ O	and	CC
 O	poultry	NN
 O	industries	NNS
 
+#	Stevia,stevia,Stevia's,stevia extracts
 O	Stevia	NNP
 O	is	VBZ
 O	a	DT
@@ -7444,6 +7537,7 @@ O	country	NN
 O	to	TO
 O	country	NN
 
+#	Tableware,objects,tableware
 O	Tableware	NNP
 O	is	VBZ
 O	the	DT
@@ -7535,6 +7629,7 @@ O	higher	JJR
 O	quality	NN
 O	tableware	NN
 
+#	tattoo
 O	A	DT
 O	tattoo	NN
 O	is	VBZ
@@ -7560,6 +7655,7 @@ B-Eff	change	VB
 I-Eff	the	DT
 I-Eff	pigment	NN
 
+#	Tweezers,They,forceps,eyebrow tweezers,tweezers
 O	Tweezers	NNS
 O	are	VBP
 O	small	JJ
@@ -7667,6 +7763,7 @@ O	term	NN
 O	eyebrow	NN
 O	tweezers	NNS
 
+#	antihistamine
 O	An	DT
 O	antihistamine	NN
 O	is	VBZ
@@ -7686,6 +7783,7 @@ O	in	IN
 O	the	DT
 O	body	NN
 
+#	Hair conditioner,Hair conditioners
 O	Hair	NN
 O	conditioner	NN
 O	is	VBZ
@@ -7745,6 +7843,7 @@ O	among	IN
 O	other	JJ
 O	ingredients	NNS
 
+#	nasal strip,external nasal dilator strip,nasal dilator strip,They,they
 O	A	DT
 O	nasal	JJ
 O	strip	NN
@@ -7869,6 +7968,7 @@ B-Eff	aid	NN
 I-Eff	post-race	JJ
 I-Eff	recovery	NN
 
+#	wer wipe,wet towel,moist towelette,Wet wipes
 O	A	DT
 O	wet	JJ
 O	wipe	VBP

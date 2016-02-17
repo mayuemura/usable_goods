@@ -67,11 +67,15 @@ if __name__ == '__main__':
     #Target
     templates += [(('tar', i),) for i in range(-3, 4)]
     templates += [(('tar', i), ('tar', i+1)) for i in range(-3, 3)]
+    #Eff_Pattern
+    templates += [(('ept', i),) for i in range(-3, 4)]
+    templates += [(('ept', i), ('ept', i+1)) for i in range(-3, 3)]
+    #MOu_Pattern
+    templates += [(('mpt', i),) for i in range(-3, 4)]
+    templates += [(('mpt', i), ('mpt', i+1)) for i in range(-3, 3)]
 
 
-
-
-    file_list = [
+    gztr_list = [
             "gztr/EffectModifier.txt",
             "gztr/ComposedOf_gztr.txt",
             "gztr/PartOf_gztr.txt",
@@ -83,11 +87,11 @@ if __name__ == '__main__':
             ]
     dict_list = list()
 
-    for gazetteer in file_list:
+    for gazetteer in gztr_list:
         with open(gazetteer, "r") as f:
             d = dict()
             for line in f:
-                words = line.rstrip("\n").replace(",", "").split(" ")
+                words = line.rstrip("\n").translate(None, ",()|").split(" ")
                 #if gazetteer == "gztr/User_gztr.txt":
                 #    print words
                 d[words[0]] = "B"
@@ -104,8 +108,16 @@ if __name__ == '__main__':
     Version = dict_list[6]
     Target = dict_list[7]
 
+    #pattern
+    with open("gztr/Eff_LSP.txt", "r") as f:
+        eff_pattern = set(f.read().split("\n"))
+
+    with open("gztr/MOU_LSP.txt", "r") as f:
+        mou_pattern = set(f.read().split("\n"))
+
+
     for seq in readiter(fi):
-        for v in seq:
+        for i, v in enumerate(seq):
             # Extract more characteristics of the input sequence
             v['iu'] = str(v['w'] and v['w'][0].isupper())
 
@@ -119,6 +131,29 @@ if __name__ == '__main__':
             v['tar'] = str(v['w'] and Target.get(v['w'], "O"))
 
 
+            if i > 0:
+                try:
+                    ptrn_window = " ".join(s["w"] for s in seq[i-1:i+2])
+                except IndexError:
+                    ptrn_window = " ".join(seq[i-1]["w"] + v["w"])
+            else:
+                ptrn_window = v["w"]
+
+            eff_tf = False
+            for e in eff_pattern:
+                if e in ptrn_window:
+                    eff_tf = True
+                    break
+
+            mou_tf = False
+            for m in mou_pattern:
+                if m in ptrn_window:
+                    mou_tf = True
+                    break
+
+            v['ept'] = str(v["w"] and str(eff_tf))
+            v['mpt'] = str(v["w"] and str(mou_tf))
+
         for t in range(len(seq)):
             fo.write(seq[t]['y'])
             for template in templates:
@@ -127,3 +162,4 @@ if __name__ == '__main__':
                     fo.write('\t%s' % escape(attr))
             fo.write('\n')
         fo.write('\n')
+
