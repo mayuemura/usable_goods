@@ -87,7 +87,9 @@ if __name__ == '__main__':
         with open(gazetteer, "r") as f:
             d = dict()
             for line in f:
-                words = line.rstrip("\n").split(" ")
+                words = line.rstrip("\n").replace(",", "").split(" ")
+                #if gazetteer == "gztr/User_gztr.txt":
+                #    print words
                 d[words[0]] = "B"
                 for word in words[1:]:
                     d[word] = "I"

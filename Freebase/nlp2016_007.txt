@@ -1,6 +1,0 @@
-Bromelain	Artist	Esao Andrews	.
-Bromelain	is-a	Artwork	.
-Bromelain	is-a	Topic	.
-Bromelain	Artist	Esao Andrews	.
-Bromelain	is-a	Artwork	.
-Bromelain	is-a	Topic	.

@@ -1,0 +1,130 @@
+Freebase/cosme_01.txt
+FB set([])
+Wiki set([u'slow water loss', u'make the applied area sticky', u'restores the layer of oil on the surface of the skin', u'emollient, specifically targeted at eczema and dermatitis', u'occlusive emollient'])
+
+
+Freebase/cosme_02.txt
+FB set([])
+Wiki set([u'Traditional Chinese medicine', u'hair and skin care', u'topical applications', u'hair care', u'for burns, eczema, dermatitis, mouth ulcers, skin ulcers, chapped nipples, tinea capitis, ringworm, nasal vestibulitis, frostbite and hemorrhoids'])
+
+
+Freebase/cosme_03.txt
+FB set([])
+Wiki set([u'applied under the human eye|eyes', u'reduce light pollution#Glare|glare'])
+
+
+Freebase/cosme_04.txt
+FB set([])
+Wiki set([u'enhances the length, thickness and fullness to natural eyelashes', u'clusters', u'individual, one-by-one extensions', u'full strips'])
+
+
+Freebase/cosme_05.txt
+FB set([])
+Wiki set([u'decorate and protect the nail plates', u'suppress cracking or flaking', u'decorative effects', u'applied to the human Nail (anatomy)|fingernails or toenails'])
+
+
+Freebase/cosme_06.txt
+FB set([])
+Wiki set([u'change the "monolid" (eyelid without a crease)'])
+
+
+Freebase/cosme_07.txt
+FB set([])
+Wiki set([u'define the Human eyes|eyes', u'applied around the contours of the eye(s)', u'create a variety of aesthetic effects'])
+
+
+Freebase/cosme_08.txt
+FB set([])
+Wiki set([u'applied on the eyelids and under the eyebrows', u"add depth and dimension to one's eyes", u'look more attractive', u'complement the eye color', u'draw attention to the eyes', u"make the wearer's eyes stand out"])
+
+
+Freebase/cosme_09.txt
+FB set([])
+Wiki set([u'applied to the face', u'set a foundation (cosmetics)|foundation', u'worn alone with no base foundation', u'tones the face', u'minimize shininess caused by oily skin', u'gives an even appearance', u'It can also be reapplied'])
+
+
+Freebase/cosme_10.txt
+FB set([])
+Wiki set([u"change or adapt the outward appearance of a person's face or head", u"alters a person's normal face into something extraordinary", u'transform an actor into any creature'])
+
+
+Freebase/cosme_11.txt
+FB set(['Multi-Part Musical Release', 'School mascot', 'Musician', 'Musical Release', 'Award-Nominated Work', 'Non-profit organisation', 'Literary Series', 'Educational Institution Campus', 'Museum', 'Film company', 'Architecture firm', 'Employer', 'TV subject', 'Organization partnership', 'Religious Organisation', 'Location', 'Organization type', 'TV Episode', 'Periodical Publisher', 'Membership organization', 'Sports Facility', 'Issue', 'Musical Release Component', 'Broadcast Artist', 'Record label', 'Dissertation', 'Tourist attraction', 'Broadcast Producer', 'Project focus', 'Defunct Organisation', 'Author', 'Consumer product', 'Journal', 'Venture Investor', 'Educational Institution', 'Netflix Title', 'Musical Group', 'Shareholder', 'Artwork', 'Scholarly work', 'Organisation Location', 'Video Game', 'City/Town/Village', 'Hospital', 'Art owner', 'Sponsor', 'Building', 'Work of Fiction', 'School', 'Business Operation', 'TV Program', 'Top-Level Domain Sponsor', 'Restaurant', 'Exhibition producer', 'Quotation Source', 'Social network user', 'Venue', 'Freebase Data Task', 'Person', 'Magazine', 'Website Owner', 'Manmade Object', 'Government Agency', 'Thing (m/0cgyc3f)', 'Award-Winning Work', 'School district', 'College/University', 'Organization founder', 'Translated Work', 'Thing', 'Manufactured drug form', 'Video Game Developer', 'Breed group', 'Musical Artist', 'Award Presenting Organization', 'Video Game Version', 'Structure', 'Periodical', 'Delete Task', 'Task', 'Ship', 'School category', 'TV Season', 'Issuer'])
+Wiki set([u'change the natural human skin color|skintone', u'applied to the face', u'cover flaws', u'create an even, uniform colour to the complexion'])
+
+
+Freebase/cosme_12.txt
+FB set(['Geographical Feature', 'Mountain', 'Apodiformes', 'Award-Nominated Work', 'Trochilinae', 'Literary Series', 'Award Nominee', 'Employer', 'Exhibition', 'Musical Release', 'TV Episode', 'Concert tour', 'Chlorostilbon', 'Composition', 'Record label', 'Amazilia', 'Consumer product', 'Caridonax', 'Netflix Title', 'Soundtrack', 'Avialae', 'Musical Group', 'Bird', 'Hummingbird', 'Business Operation', 'TV Program', 'Social network user', 'Person', 'Award-Winning Work', 'Organism Classification', 'Production company', 'Musical Artist', 'Theatre Production', 'TV Season', 'Event', 'Location'])
+Wiki set([u'reflect light at different angles', u'causing the surface to sparkle or shimmer', u'used as decoration'])
+
+
+Freebase/cosme_13.txt
+FB set([])
+Wiki set([u'broad-spectrum ultraviolet (UVA and UVB) skin protection'])
+
+
+Freebase/cosme_14.txt
+FB set([])
+Wiki set([u'have uses as flavorings, medicine and cosmetics (skin care)'])
+
+
+Freebase/cosme_15.txt
+FB set([])
+Wiki set([])
+
+
+Freebase/cosme_16.txt
+FB set([])
+Wiki set([])
+
+
+Freebase/cosme_17.txt
+FB set(['Geographical Feature', 'Publication', 'Award-Nominated Work', 'Drug manufacturer', 'Award Nominee', 'Employer', 'Task', 'Location', 'Musical Release', 'TV Episode', 'Delete Task', 'Simple Merge Task', 'Composition', 'Performance Artist', 'Consumer product', 'Musician', 'Netflix Title', 'Soundtrack', 'Musical Group', 'Adapted Work', 'Musician (Profession)', 'Translation', 'Work of Fiction', 'Singer', 'Business Operation', 'Singer-songwriter', 'Artist', 'Artwork', 'Person', 'Award-Winning Work', 'River', 'Published Work', 'Profession', 'Musical Artist', 'Adaptation', 'Body Of Water', 'Artisan'])
+Wiki set([u'give the human body, animals, food, objects, and living spaces "a pleasant Odor|scent'])
+
+
+Freebase/cosme_17.txt~
+FB set(['Work of Fiction', 'Adapted Work', 'Award-Nominated Work', 'Consumer product', 'Award Nominee', 'Netflix Title', 'Musical Artist', 'Musical Group', 'Musical Release', 'TV Episode', 'Award-Winning Work', 'Translation', 'Published Work', 'Composition', 'Publication'])
+Wiki set([])
+
+
+Freebase/cosme_18.txt
+FB set(['Geographical Feature', 'Film Editor', 'Film Crew', 'Business Operation', 'Author', 'Glacier', 'Public Library System', 'Museum', 'Writer', 'Actor', 'Employer', 'Transit Stop', 'Film actor', 'Location', 'Musical Release', 'TV Episode', 'Vegetable', 'Mountain range', 'Sports Facility', 'Consumer company', 'Tourist attraction', 'Baseball Player', 'Performance Artist', 'Project focus', 'Food', 'Consumer product', 'Brand', 'Listed Site', 'Educational Institution', 'School district', 'Musical Group', 'Adaptation', 'Island', 'Set Decorator', 'Ingredient', 'City/Town/Village', 'Screenwriter', 'Structure', 'Legal case', 'Building', 'Extraterrestrial location', 'School', 'Film director', 'Namesake', 'Artist', 'Film Producer', 'Athlete', 'Musician (Profession)', 'Venue', 'Statistical region', 'Person', 'Deceased Person', 'HUD Foreclosure Area', 'Organisation Location', 'TV Actor', 'HUD County Place', 'Dated location', 'Organism Classification', 'Ranked item', 'Film writer', 'Olympic athlete', 'Theater Actor', 'Musical Artist', 'Artwork', 'Issuer', 'Public Library', 'Event', 'Ethnicity', 'Editor'])
+Wiki set([u'as eyeliner', u'contour and/or darken the eyelids and as mascara for the eyelashes'])
+
+
+Freebase/cosme_19.txt
+FB set([])
+Wiki set([u'social and religious markings'])
+
+
+Freebase/cosme_20.txt
+FB set([])
+Wiki set([u'add a subtle color', u'give lips a glossy lustre'])
+
+
+Freebase/cosme_21.txt
+FB set([])
+Wiki set([u'preventing it from "bleeding"', u'fill uneven areas on the outer edges of the lips', u'keeping lipstick inside the lip area', u'creating a bigger contrast and making the lips stand out more', u'outline the lips', u'giving a smooth shape'])
+
+
+Freebase/cosme_22.txt
+FB set([])
+Wiki set([u'leaving a stain of color on the lips', u'dry the lips', u'color the lips'])
+
+
+Freebase/cosme_23.txt
+FB set(['Multi-Part Musical Release', 'Animal', 'Award-Nominated Work', 'Perciformes', 'Organism Classification', 'Eukaryote', 'Actor', 'Film actor', 'Eumetazoa', 'Location', 'Musical Release', 'TV Episode', 'Composition', 'Broadcast Artist', 'Record label', 'Goby', 'Musical Release Component', 'Actinopterygii', 'Project focus', 'Consumer product', 'Netflix Title', 'Soundtrack', 'Musical Group', 'Artwork', 'Video Game', 'Sicyopus', 'Structure', 'Building', 'Work of Fiction', 'Business Operation', 'TV Program', 'Chordate', 'Venue', 'Bilateria', 'Ranked item', 'Award-Winning Work', 'Deuterostome', 'Drug dosage form', 'Gobioidei', 'Osteichthyes', 'Person', 'Fish', 'Musical Artist', 'Video Game Version', 'TV Season', 'Skyscraper'])
+Wiki set([u'apply color, texture, and protection to the lip (mouth)|lips'])
+
+
+Freebase/cosme_24.txt
+FB set([])
+Wiki set([u'applied using the appropriate brush', u'blend better into the skin', u'application of cosmetics|make up or face painting'])
+
+
+Freebase/cosme_25.txt
+FB set(['Building', 'Record label', 'Business Operation', 'Project focus', 'Administrative Division', 'Consumer product', 'Artwork', 'Venue', 'Statistical region', 'Netflix Title', 'Musical Artist', 'Musical Group', 'Dated location', 'Location', 'Musical Release', 'TV Episode', 'City/Town/Village', 'Composition', 'Structure'])
+Wiki set([u'darken, thicken, lengthen, and/or define the eyelashes', u'enhance the eyes'])
+
+

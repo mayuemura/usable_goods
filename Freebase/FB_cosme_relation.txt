@@ -1,0 +1,365 @@
+Freebase/cosme_01.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+Freebase/cosme_02.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+Freebase/cosme_03.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+Freebase/cosme_04.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+Freebase/cosme_05.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+Freebase/cosme_06.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+Freebase/cosme_07.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+Freebase/cosme_08.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+Freebase/cosme_09.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+Freebase/cosme_10.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+Freebase/cosme_11.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	84	Multi-Part Musical Release, School mascot, Musician, Musical Release, Award-Nominated Work, Non-profit organisation, Literary Series, Educational Institution Campus, Museum, Film company, Architecture firm, Employer, TV subject, Organization partnership, Religious Organisation, Location, Organization type, TV Episode, Periodical Publisher, Membership organization, Sports Facility, Issue, Musical Release Component, Broadcast Artist, Record label, Dissertation, Tourist attraction, Broadcast Producer, Project focus, Defunct Organisation, Author, Consumer product, Journal, Venture Investor, Educational Institution, Netflix Title, Musical Group, Shareholder, Artwork, Scholarly work, Organisation Location, Video Game, City/Town/Village, Hospital, Art owner, Sponsor, Building, Work of Fiction, School, Business Operation, TV Program, Top-Level Domain Sponsor, Restaurant, Exhibition producer, Quotation Source, Social network user, Venue, Freebase Data Task, Person, Magazine, Website Owner, Manmade Object, Government Agency, Thing (m/0cgyc3f), Award-Winning Work, School district, College/University, Organization founder, Translated Work, Thing, Manufactured drug form, Video Game Developer, Breed group, Musical Artist, Award Presenting Organization, Video Game Version, Structure, Periodical, Delete Task, Task, Ship, School category, TV Season, Issuer
+Used to treat	0	
+
+
+Freebase/cosme_12.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	36	Geographical Feature, Mountain, Apodiformes, Award-Nominated Work, Trochilinae, Literary Series, Award Nominee, Employer, Exhibition, Musical Release, TV Episode, Concert tour, Chlorostilbon, Composition, Record label, Amazilia, Consumer product, Caridonax, Netflix Title, Soundtrack, Avialae, Musical Group, Bird, Hummingbird, Business Operation, TV Program, Social network user, Person, Award-Winning Work, Organism Classification, Production company, Musical Artist, Theatre Production, TV Season, Event, Location
+Used to treat	0	
+
+
+Freebase/cosme_13.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+Freebase/cosme_14.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+Freebase/cosme_15.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+Freebase/cosme_16.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+Freebase/cosme_17.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	37	Geographical Feature, Publication, Award-Nominated Work, Drug manufacturer, Award Nominee, Employer, Task, Location, Musical Release, TV Episode, Delete Task, Simple Merge Task, Composition, Performance Artist, Consumer product, Musician, Netflix Title, Soundtrack, Musical Group, Adapted Work, Musician (Profession), Translation, Work of Fiction, Singer, Business Operation, Singer-songwriter, Artist, Artwork, Person, Award-Winning Work, River, Published Work, Profession, Musical Artist, Adaptation, Body Of Water, Artisan
+Used to treat	0	
+
+
+Freebase/cosme_17.txt~
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	15	Work of Fiction, Adapted Work, Award-Nominated Work, Consumer product, Award Nominee, Netflix Title, Musical Artist, Musical Group, Musical Release, TV Episode, Award-Winning Work, Translation, Published Work, Composition, Publication
+Used to treat	0	
+
+
+Freebase/cosme_18.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	69	Geographical Feature, Film Editor, Film Crew, Business Operation, Author, Glacier, Public Library System, Museum, Writer, Actor, Employer, Transit Stop, Film actor, Location, Musical Release, TV Episode, Vegetable, Mountain range, Sports Facility, Consumer company, Tourist attraction, Baseball Player, Performance Artist, Project focus, Food, Consumer product, Brand, Listed Site, Educational Institution, School district, Musical Group, Adaptation, Island, Set Decorator, Ingredient, City/Town/Village, Screenwriter, Structure, Legal case, Building, Extraterrestrial location, School, Film director, Namesake, Artist, Film Producer, Athlete, Musician (Profession), Venue, Statistical region, Person, Deceased Person, HUD Foreclosure Area, Organisation Location, TV Actor, HUD County Place, Dated location, Organism Classification, Ranked item, Film writer, Olympic athlete, Theater Actor, Musical Artist, Artwork, Issuer, Public Library, Event, Ethnicity, Editor
+Used to treat	0	
+
+
+Freebase/cosme_19.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+Freebase/cosme_20.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+Freebase/cosme_21.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+Freebase/cosme_22.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+Freebase/cosme_23.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	46	Multi-Part Musical Release, Animal, Award-Nominated Work, Perciformes, Organism Classification, Eukaryote, Actor, Film actor, Eumetazoa, Location, Musical Release, TV Episode, Composition, Broadcast Artist, Record label, Goby, Musical Release Component, Actinopterygii, Project focus, Consumer product, Netflix Title, Soundtrack, Musical Group, Artwork, Video Game, Sicyopus, Structure, Building, Work of Fiction, Business Operation, TV Program, Chordate, Venue, Bilateria, Ranked item, Award-Winning Work, Deuterostome, Drug dosage form, Gobioidei, Osteichthyes, Person, Fish, Musical Artist, Video Game Version, TV Season, Skyscraper
+Used to treat	0	
+
+
+Freebase/cosme_24.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+Freebase/cosme_25.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	19	Building, Record label, Business Operation, Project focus, Administrative Division, Consumer product, Artwork, Venue, Statistical region, Netflix Title, Musical Artist, Musical Group, Dated location, Location, Musical Release, TV Episode, City/Town/Village, Composition, Structure
+Used to treat	0	
+
+
+{'Used in recipe': 0, 'Condition This May Prevent': 0, 'Attributes/Properties': 0, 'Trial': 0, 'Primary use': 0, 'Disease with this Risk Factor': 0, 'Disease or condition caused': 0, 'Route of administration': 0, 'Used On': 0, 'is-a': 306, 'Used to treat': 0}

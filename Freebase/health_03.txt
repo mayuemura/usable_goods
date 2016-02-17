@@ -1,2 +1,0 @@
-Air freshener	is-a	Topic	.
-Air freshener	is-a	Topic	.

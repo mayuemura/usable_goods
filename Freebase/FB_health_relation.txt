@@ -1,0 +1,365 @@
+Freebase/health_01.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	2	Invention, Medical device
+Used to treat	0	
+
+
+Freebase/health_02.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+Freebase/health_03.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+Freebase/health_04.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	2	Consumer product, Manufactured drug form
+Used to treat	0	
+
+
+Freebase/health_05.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	6	Medical Treatment, Consumer product, Manufactured drug form, Competitive Space, Gene Group, Gene Ontology Group
+Used to treat	0	
+
+
+Freebase/health_06.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	1	Presbyopia
+Disease or condition caused	0	
+Route of administration	1	Oral (Drug administration route)
+Used On	0	
+is-a	7	Medical Treatment, Consumer product, Drug formulation, Manufactured drug form, Competitive Space, Drug class, Risk Factor
+Used to treat	0	
+
+
+Freebase/health_07.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	5	Gene Group, Musical Artist, Manufactured drug form, Gene Ontology Group, Consumer product
+Used to treat	0	
+
+
+Freebase/health_08.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+Freebase/health_09.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	7	Dated location, Statistical region, Musical Artist, Musical Group, Location, TV Episode, City/Town/Village
+Used to treat	0	
+
+
+Freebase/health_10.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+Freebase/health_11.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	2	Oral (Drug administration route), Dental (Drug administration route)
+Used On	0	
+is-a	10	Business Operation, Drug formulation, Person or entity appearing in film, Competitive Space, Musical Artist, Musical Group, Comic Strip, Musical Release, TV Episode, Composition
+Used to treat	0	
+
+
+Freebase/health_12.txt
+Used in recipe	0	
+Condition This May Prevent	1	Dental caries
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	2	Invention, Condition prevention factors
+Used to treat	0	
+
+
+Freebase/health_12.txt~
+Used in recipe	0	
+Condition This May Prevent	1	Dental caries
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	2	Invention, Condition prevention factors
+Used to treat	0	
+
+
+Freebase/health_13.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	4	Drug legal status, Consumer product, Food, Medical Treatment
+Used to treat	0	
+
+
+Freebase/health_14.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	3	Consumer product, Musical Release, TV Episode
+Used to treat	0	
+
+
+Freebase/health_15.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+Freebase/health_16.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+Freebase/health_17.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	11	Cuisine, Beer style, Dietary restriction, Chemical Classification, Food, Disease or medical condition, Diet, Medical Treatment, TV Episode, Protein, Ingredient
+Used to treat	0	
+
+
+Freebase/health_18.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	7	Drug ingredient, Food, Tea, Drug, Beverage, Tea type, Ingredient
+Used to treat	0	
+
+
+Freebase/health_19.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	1	Dwarfism
+Route of administration	0	
+Used On	0	
+is-a	8	Gene Ontology Group, Gene Group, Disease cause, Chemical Compound, Disease or medical condition, Protein, Gene, Symptom
+Used to treat	0	
+
+
+Freebase/health_20.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	2	Percutaneous, Topical medication
+Used On	0	
+is-a	1	Drug formulation
+Used to treat	0	
+
+
+Freebase/health_21.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+Freebase/health_22.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+Freebase/health_23.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	1	Medical Treatment
+Used to treat	0	
+
+
+Freebase/health_24.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+Freebase/health_25.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	2	Merge Task, Task
+Used to treat	0	
+
+
+{'Used in recipe': 0, 'Condition This May Prevent': 2, 'Attributes/Properties': 0, 'Trial': 0, 'Primary use': 0, 'Disease with this Risk Factor': 1, 'Disease or condition caused': 1, 'Route of administration': 5, 'Used On': 0, 'is-a': 80, 'Used to treat': 0}

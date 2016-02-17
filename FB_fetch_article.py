@@ -13,8 +13,8 @@ def fetch_article(dirname):
             articleNo, Target = line.strip("\n").split("\t")
             target = Target.lower()
             #os.system("grep '^restores\t' Labels/Effect.txt > a.txt")
-            os.system("grep '^{}' facts.txt >> Freebase/{}_{}.txt".format(Target, dirname, articleNo))
-            os.system("grep '^{}' facts.txt >> Freebase/{}_{}.txt".format(target, dirname, articleNo))
+            os.system("grep -i '^{}	' facts.txt > Freebase/{}_{}.txt".format(Target, dirname, articleNo))
+            #os.system("grep '^{}' facts.txt >> Freebase/{}_{}.txt".format(target, dirname, articleNo))
 
 if __name__ == "__main__":
     fetch_article(sys.argv[1])

@@ -1,0 +1,250 @@
+Freebase/nlp2016_001.txt
+FB set(['Liliidae', 'Liliopsida', 'Organism Classification', 'Drug ingredient', 'Asphodeloideae', 'Oral (Drug administration route)', 'Embryophyte', 'Drug formulation', 'Aloe', 'Eukaryote', 'Plant', 'Drug', 'Topical medication', 'Asparagales', 'Spermatophyte', 'Flowering plant'])
+Wiki set([u'rejuvenating, healing, or soothing'])
+
+
+Freebase/nlp2016_002.txt
+FB set(['Rosids', 'Plant', 'Drug ingredient', 'Althaea', 'Oral (Drug administration route)', 'Malvaceae', 'Organism Classification', 'Eukaryote', 'Drug', 'Angiospermae', 'Medical Treatment', 'Eudicots', 'Drug formulation', 'Routed drug', 'Condition prevention factors', 'Malvales'])
+Wiki set([])
+
+
+Freebase/nlp2016_003.txt
+FB set(['Angelica', 'Plant', 'Organism Classification', 'Oral (Drug administration route)', 'Dicotyledon', 'Drug formulation', 'Apiaceae', 'Eukaryote', 'Drug', 'Embryophyte', 'Spermatophyte', 'Apiales', 'Flowering plant'])
+Wiki set([u'Chinese medicine'])
+
+
+Freebase/nlp2016_004.txt
+FB set(['Geographical Feature', 'Award-Nominated Work', 'Organism Classification', 'Eukaryote', 'Location', 'Musical Release', 'TV Episode', 'Vegetable', 'Ingredient', 'Record label', 'Plant', 'Project focus', 'Food', 'Consumer product', 'Eudicots', 'Angiospermae', 'Musical Group', 'Artwork', 'City/Town/Village', 'Condition prevention factors', 'Structure', 'Building', 'Business Operation', 'Drug formulation', 'Manufactured drug form', 'Venue', 'Statistical region', 'Cynara', 'Asterids', 'Drug', 'Award-Winning Work', 'Routed drug', 'River', 'Dated location', 'Drug ingredient', 'Medical Treatment', 'Musical Artist', 'Asterales', 'Intradermal', 'Body Of Water', 'Asteraceae', 'Subcutaneous injection'])
+Wiki set([])
+
+
+Freebase/nlp2016_005.txt
+FB set(['Routed drug', 'Astragalus', 'Embryophyte', 'Drug ingredient', 'Fabales', 'Oral (Drug administration route)', 'Dicotyledon', 'Drug formulation', 'Organism Classification', 'Eukaryote', 'Plant', 'Drug', 'Medical Treatment', 'Fabaceae', 'Faboideae', 'Spermatophyte', 'Condition prevention factors', 'Rosidae', 'Flowering plant'])
+Wiki set([])
+
+
+Freebase/nlp2016_006.txt
+FB set(['Geographical Feature', 'Record label', 'Ericales', 'Business Operation', 'Drug ingredient', 'Food', 'Ericaceae', 'Organism Classification', 'Eukaryote', 'Asterids', 'Angiospermae', 'Eudicots', 'Fruit', 'Location', 'Dated location', 'Plant', 'Vaccinium', 'City/Town/Village', 'Statistical region', 'Ingredient'])
+Wiki set([])
+
+
+Freebase/nlp2016_007.txt
+FB set(['Artwork'])
+Wiki set([u'folk medicine', u'culinary ingredient', u'meat tenderizer', u'efficacy against diseases'])
+
+
+Freebase/nlp2016_008.txt
+FB set([])
+Wiki set([])
+
+
+Freebase/nlp2016_009.txt
+FB set(['Musical Artist', 'Oral (Drug administration route)', 'Drug formulation', 'Topical medication', 'Drug', 'Sublingual administration', 'Medical Treatment', 'Musical Release', 'Routed drug', 'Auricular (otic)', 'Condition prevention factors'])
+Wiki set([u'treating hay fever, inflammation, muscle spasm, menstrual disorders, insomnia, ulcers, gastrointestinal disorder, and hemorrhoids', u'to serve various medicinal purposes', u'herb infusions'])
+
+
+Freebase/nlp2016_010.txt
+FB set(['Chlorella', 'Drug ingredient', 'Chlorococcales', 'Chlorophyceae', 'Organism Classification', 'Oocystaceae', 'Chlorophyta'])
+Wiki set([])
+
+
+Freebase/nlp2016_011.txt
+FB set(['Gene Ontology Group', 'Infant nutrition disorders', 'Manufactured drug form', 'Drug ingredient', 'Medical Treatment', 'Consumer product', 'Drug formulation', 'Choline deficiency', 'Drug', 'Gene Group', 'Oral (Drug administration route)', 'Drug class', 'ICD-9-CM Classification', 'Chemical Compound', 'Disease or medical condition', 'Nutrient', 'Routed drug', 'Gene', 'Condition prevention factors', 'Drug mechanism of action'])
+Wiki set([u'nutrient', u'vitamins'])
+
+
+Freebase/nlp2016_013.txt
+FB set(['Percutaneous', 'Perciformes', 'Heron', 'Eukaryote', 'Apodiformes', 'Merops', 'Ploceus', 'Art Director', 'Neopipo', 'Bird', 'Film character', 'Todiramphus', 'Honeyeater', 'Consumer product', 'Brand', 'Old World warbler', 'Educational Institution', 'Ursus', 'Phascogalini', 'Fantail', 'Musician (Profession)', 'Ploceidae', 'Tyrant flycatcher', 'Dabbling duck', 'Roller', 'Spice', 'Anseriformes', 'Bat', 'Business Operation', 'Dasyuridae', 'Athlete', 'Drug', 'Philydor', 'Bradypterus', 'Piciformes', 'Bear', 'Poospiza', 'Laurasiatheria', 'Translated Work', 'Dated location', 'Drug ingredient', 'Dasyurinae', 'Drug dosage flavor', 'Intradermal', 'Aircraft Owner', 'Ground tyrant', 'Ovenbird', 'Animal', 'Award-Nominated Work', 'Organism Classification', 'Actor', 'Employer', 'Eumetazoa', 'Location', 'TV Episode', 'Anatinae', 'Vespertilioninae', 'Eurystomus', 'Musician', 'Schistochlamys', 'Musical Group', 'Hypocryptadius', 'Mammaliaformes', 'City/Town/Village', 'Condition prevention factors', 'Work of Fiction', 'School', 'Emberizidae', 'Record label', 'Melidectes', 'Drug formulation', 'Statistical region', 'Bilateria', 'Platyrinchus', 'Tanager', 'Phylloscartes', 'Pyrrhomyias', 'Harpactes', 'Business executive', 'Quail-thrush', 'Ixobrychus', 'Football player', 'Antechinus', 'Phaethornis', 'Gallicolumba', 'Screech owl', 'Comic Book Character', 'Geographical Feature', 'Mountain', 'Old World flycatcher', 'Green pigeon', 'Trochilinae', 'Microbat', 'Fictional Character', 'Songbird', 'Film actor', 'Musical Release', 'Musical Release Component', 'Broadcast Artist', 'Hermit', 'Actinopterygii', 'Amazilia', 'Listed Site', 'Coraciiformes', 'Anatidae', 'Marsupial', 'Vesper bat', 'Amphiprioninae', 'Person', 'TV Character', 'Carnivora', 'Medical Treatment', 'Tetrapod', 'Film art director', 'Amphiprion', 'Emberiza', 'American black bear', 'Ficedula', 'Book Character', 'Fish', 'Multi-Part Musical Release', 'Picinae', 'Ciconiiformes', 'Avialae', 'Hemitriccus', 'Aimophila', 'Vertebrate', 'Caniformia', 'Euryptila', 'Pomacentridae', 'Composition', 'Ingredient', 'Performance Artist', 'Osteichthyes', 'Musical Artist', 'Food', 'Trogon', 'Food ingredient', 'Dasyuromorphia', 'Passerine', 'Pachyramphus', 'Dendrexetastes', 'Hummingbird', 'Attila', 'Mouse-eared bat', 'Organism part', 'Artist', 'Imperial pigeon', 'Chordate', 'Manufactured drug form', 'Diglossa', 'Airline', 'Mammal', 'Routed drug', 'Deuterostome', 'Theria', 'Bee-eater', 'Sparrow', 'Lipaugus', 'Trogoniformes', 'Manager', 'Celeus', 'Subcutaneous injection', 'Species index', 'Woodpecker', 'Record Producer'])
+Wiki set([])
+
+
+Freebase/nlp2016_014.txt
+FB set(['Geographical Feature', 'Percutaneous', 'Public Library System', 'Organism Classification', 'Eukaryote', 'Lake', 'Location', 'Musical Release', 'TV Episode', 'Composition', 'Ingredient', 'Record label', 'Plant', 'River', 'Project focus', 'Food', 'Ericaceae', 'Listed Site', 'Educational Institution', 'Angiospermae', 'Eudicots', 'Fruit', 'City/Town/Village', 'Condition prevention factors', 'Structure', 'School', 'Business Operation', 'Official symbol', 'Drug formulation', 'Manufactured drug form', 'Statistical region', 'Drug', 'Asterids', 'Beverage', 'Routed drug', 'Body Of Water', 'School district', 'Road', 'Bridge', 'Ericales', 'Dated location', 'Drug ingredient', 'Color', 'Protected Site', 'Video Game Developer', 'Medical Treatment', 'Intradermal', 'Consumer product', 'Public Library', 'Subcutaneous injection'])
+Wiki set([])
+
+
+Freebase/nlp2016_015.txt
+FB set(['Gene Ontology Group', 'Presbyopia', 'Gene Group', 'Medical Treatment', 'Drug class', 'Risk Factor'])
+Wiki set([u'increase the excretion of water from bodies', u'promotes the production of urine'])
+
+
+Freebase/nlp2016_016.txt
+FB set(['Transdermal (Drug administration route)', 'Organism Classification', 'Eukaryote', 'Eumetazoa', 'Animal', 'Asteroideae', 'Plant', 'Oral (Drug administration route)', 'Consumer product', 'Angiospermae', 'Eudicots', 'Coneflower', 'Condition prevention factors', 'Drug formulation', 'Manufactured drug form', 'Asterids', 'Drug', 'Euechinoidea', 'Bilateria', 'Sea urchin', 'Routed drug', 'Deuterostome', 'Heliantheae', 'Drug ingredient', 'Medical Treatment', 'Topical medication', 'Asterales', 'Echinoderm', 'Asteraceae'])
+Wiki set([])
+
+
+Freebase/nlp2016_017.txt
+FB set([])
+Wiki set([u'perceived health, taste or functional benefits'])
+
+
+Freebase/nlp2016_018.txt
+FB set(['Medical Treatment'])
+Wiki set([u'side effects', u'lubricating and tear-replacing', u'occluding the lacrimal punctum, (i.e. pressing on the inner corner of the eye) for a short while after instilling', u'ocular route'])
+
+
+Freebase/nlp2016_019.txt
+FB set([])
+Wiki set([])
+
+
+Freebase/nlp2016_020.txt
+FB set(['Medical Treatment', 'Fictional Object'])
+Wiki set([u'to cover a lost or injured eye', u'worn in front of one eye', u'for the treatment of amblyopia', u'block light'])
+
+
+Freebase/nlp2016_021.txt
+FB set(['Cardiac arrhythmia', 'Medical Treatment', 'Drug ingredient', 'Condition prevention factors', 'Drug'])
+Wiki set([u'reduce inflammation in the body', u'preventing heart attacks or strokes'])
+
+
+Freebase/nlp2016_022.txt
+FB set(['Task', 'Phytochemical', 'Gene Ontology Group', 'Chemical Classification', 'Gene Group', 'Merge Task'])
+Wiki set([])
+
+
+Freebase/nlp2016_023.txt
+FB set(['Geographical Feature', 'Percutaneous', 'HUD County Place', 'Film crewmember', 'Photographer', 'Organism Classification', 'Eukaryote', 'Actor', 'Film actor', 'Geologist', 'Location', 'Musical Release', 'TV Episode', 'Spermatophyte', 'Composition', 'Ingredient', 'Liliidae', 'Liliopsida', 'Food', 'Consumer product', 'Liliales', 'Educational Institution', 'Elimia', 'Musical Group', 'Scientist', 'City/Town/Village', 'Condition prevention factors', 'School', 'Transit Stop', 'TV Program', 'Artist', 'Drug formulation', 'Manufactured drug form', 'Venue', 'Statistical region', 'Drug', 'Visual Artist', 'Person', 'Deceased Person', 'Linaceae', 'HUD Foreclosure Area', 'Routed drug', 'River', 'School district', 'Plant', 'Linum', 'Dated location', 'Drug ingredient', 'Ranked item', 'Medical Treatment', 'Embryophyte', 'Administrative Division', 'Agavoideae', 'Musical Artist', 'Pleuroceridae', 'Intradermal', 'Body Of Water', 'English civil parish', 'Subcutaneous injection', 'Flowering plant'])
+Wiki set([])
+
+
+Freebase/nlp2016_024.txt
+FB set(['Drug ingredient', 'Oral (Drug administration route)', 'Drug formulation', 'Organism Classification', 'Nasal (Drug administration route)', 'Drug', 'Sublingual administration', 'Medical Treatment', 'Routed drug', 'Hydrastis', 'Condition prevention factors'])
+Wiki set([])
+
+
+Freebase/nlp2016_025.txt
+FB set(['Author', 'Influence Node', 'Transit Stop', 'Musical Performance Role', 'Record label', 'Educational Institution', 'Film Score Composer', 'Netflix Title', 'Musician (Profession)', 'Building', 'Business Operation', 'Island', 'Athlete', 'Venue', 'Human Language', 'Award-Winning Work', 'Sports Team', 'Dated location', 'Drug ingredient', 'Piperales', 'Lyricist', 'Composer', 'Award-Nominated Work', 'Organism Classification', 'Actor', 'Employer', 'Location', 'TV Episode', 'Politician', 'Footballer', 'Project focus', 'Musician', 'Educational Institution Campus', 'Film story contributor', 'Musical Group', 'Adapted Work', 'City/Town/Village', 'School', 'Film director', 'TV Program', 'Statistical region', 'TV theme song', 'Protected Site', 'TV Actor', 'Business executive', 'Football player', 'Geographical Feature', 'Mountain', 'Deceased Person', 'Fictional Character', 'Film actor', 'Skyscraper', 'Musical Release', 'Theatre Director', 'Administrative Division', 'Listed Site', 'Piperaceae', 'Film writer', 'Screenwriter', 'Singer', 'Award Nominee', 'Mathematician', 'Social network user', 'Political District', 'Academic', 'Basketball Team', 'Playwright', 'Lyricist (Profession)', 'Composer (music/composer)', 'Travel destination', 'Piper', 'Poet', 'Composition', 'Capital of administrative division', 'Performance Artist', 'Musical Artist', 'Chivalric Order Member', 'Structure', 'Namesake', 'Artist', 'Country', 'Airport', 'Chemical Compound', 'Writer', 'Musical instrument', 'Film music contributor', 'Person', 'Football team', 'Manager', 'TV Season'])
+Wiki set([u'sedating', u'consumed', u'sedative and anesthetic properties', u'drink', u'relax without disrupting mental clarity'])
+
+
+Freebase/nlp2016_026.txt
+FB set([])
+Wiki set([])
+
+
+Freebase/nlp2016_027.txt
+FB set(['Medical Treatment', 'Gene Group', 'Gene', 'Gene Ontology Group'])
+Wiki set([u'complete digestion of whole milk', u'to produce "lactose-free" milk products', u'breaks down lactose', u'added to milk'])
+
+
+Freebase/nlp2016_028.txt
+FB set(['Gene Group', 'Gene Ontology Group', 'Gene', 'Drug mechanism of action'])
+Wiki set([u'catalyzes the hydrolysis of fats (lipids)', u'perform essential roles in the digestion, transport and processing of dietary lipids (e.g. triglycerides, fats, oils)'])
+
+
+Freebase/nlp2016_029.txt
+FB set(['Organism Classification', 'Eukaryote', 'Consumer product', 'Musical Release', 'Spermatophyte', 'Composition', 'Rosidae', 'Ingredient', 'Plant', 'Musical Artist', 'Food', 'Dicotyledon', 'Musical Group', 'Artwork', 'Spice', 'Glycyrrhiza', 'Drug ingredient', 'Fabales', 'Embryophyte', 'Drug dosage flavor', 'Fabaceae', 'Faboideae', 'Flowering plant'])
+Wiki set([u'makes it easier to inhale the smoke', u'open up the lungs', u'flavouring agent for tobacco', u'creating bronchodilators'])
+
+
+Freebase/nlp2016_030.txt
+FB set(['Geographical Feature', 'Murinae', 'Hall of fame inductee', 'Literary Series', 'Deceased Organism', 'Eukaryote', 'Corydoras', 'Trogon', 'Trygonoptera', 'Lark', 'Extraterrestrial location', 'Bird', 'geography', 'Record label', 'Animal', 'Myomorpha', 'Charadriidae', 'Author', 'Consumer product', 'Old World warbler', 'Netflix Title', 'Soundtrack', 'Perciformes', 'Hypoplectrus', 'Musician (Profession)', 'Laurasiatheria', 'Tyrant flycatcher', 'Building', 'Bat', 'Business Operation', 'Island', 'Yellowthroat', 'Human Language', 'Game expansion', 'Award-Winning Work', 'Organism', 'Northern Bobwhite', 'Dated location', 'Rodent', 'Muroidea', 'Invention', 'Comic Book Series', 'Protein', 'Colinus', 'Musical Release', 'Award-Nominated Work', 'Theater Company', 'Short Story', 'Organism Classification', 'Vanellus', 'Eutheria', 'Actor', 'Employer', 'Tangara', 'Eumetazoa', 'Location', 'TV Episode', 'Anatinae', 'Dormouse', 'Booby', 'Pteropus', 'Musician', 'Sulidae', 'Canadian Census Division', 'Musical Group', 'Woodswallow', 'Arothron', 'Adapted Work', 'Labroidei', 'City/Town/Village', 'Chordate', 'Work of Fiction', 'TV Program', 'Rapper', 'Statistical region', 'Bilateria', 'Ranked item', 'Rabbitfish', 'Character Power', 'Tanager', 'New World quail', 'HUD Foreclosure Area', 'Elasmobranchii', 'Fish', 'Musical Artist', 'Pedigreed animal', 'Theatre Production', 'Fluvicola', 'Issuer', 'Estrildid finch', 'Comic Book Character', 'Scholarly work', 'Dissertation', 'Paguma', 'HUD County Place', 'Uromys', 'Film crewmember', 'Buthraupis', 'Diglossopis', 'Batoidea', 'Exhibition', 'Fictional Character', 'Hylopezus', 'Film actor', 'Megabat', 'Musical genre', 'Mammal', 'Prosopeia', 'Broadcast Artist', 'Play', 'Actinopterygii', 'Administrative Division', 'Deuterostome', 'Listed Site', 'Formicariidae', 'Pipreola', 'Lanius', 'Artwork', 'New World warbler', 'Julidochromis', 'Euarchontoglires', 'Myliobatiformes', 'Opera', 'Vertebrate', 'Anatidae', 'Megachiroptera', 'Person', 'TV Character', 'Leithiinae', 'Published Work', 'Muridae', 'Film job', 'Tetrapod', 'Cichlid', 'Galliformes', 'Myomimus', 'Adaptation', 'Urolophidae', 'Saltator', 'Spizocorys', 'Composer (music/composer)', 'Anseriformes', 'Ciconiiformes', 'Avialae', 'Poephila', 'Nomonyx', 'Owned animal', 'Pelodryadinae', 'Composition', 'Pufferfish', 'Performance Artist', 'Osteichthyes', 'Chondrichthyes', 'Ramphocelus', 'Treecreeper', 'Pseudochirulus', 'Passerine', 'Tityra', 'Hylarana (Biological Genus) #1', 'Structure', 'Cracticinae', 'Namesake', 'Artist', 'Cardinal (Biological Family)', 'Litoria', 'Mammaliaformes', 'Polioptila', 'Political District', 'Shrike', 'Theria', 'Laughingthrush', 'Heteroconger', 'Hylidae', 'Trogoniformes', 'Video Game Version', 'TV Season', 'Record Producer'])
+Wiki set([u'cover the body', u'worn on the face', u"positioned for effect elsewhere on the wearer's body", u'for protection, disguise, performance or entertainment'])
+
+
+Freebase/nlp2016_031.txt
+FB set(['Scholarly work', 'Literary Series', 'Eukaryote', 'geography', 'Film character', 'Consumer product', 'Educational Institution', 'Netflix Title', 'Soundtrack', 'Perciformes', 'Translation', 'Building', 'Business Operation', 'Restaurant', 'Venue', 'Magazine', 'Newspaper', 'Award-Winning Work', 'Translated Work', 'Dated location', 'Drug manufacturer', 'Body Of Water', 'Percoidei', 'Camera Format', 'Musical Release', 'Award-Nominated Work', 'Short Story', 'Organism Classification', 'Employer', 'Eumetazoa', 'Location', 'TV Episode', 'Comic Book Issue', 'School newspaper', 'Project focus', 'Musical Group', 'US Census Designated Place', 'Organisation Location', 'City/Town/Village', '"Reveals a person\'s deepest desire"@en', 'Ship class', 'Work of Fiction', 'School', 'TV Program', 'Record label', 'Quotation Source', 'Statistical region', 'Bilateria', 'Broadcast Artist', 'Video Game Publisher', 'Fish', 'Video Game Developer', 'Musical Artist', 'Fictional Object', 'Comic Book Character', 'Geographical Feature', 'Dissertation', 'HUD County Place', 'Fictional Character', 'Animal', 'Musical Release Component', 'Opisthoproctus', 'Tourist attraction', 'Actinopterygii', 'Listed Site', 'Artwork', 'Video Game', 'Chaetodon', 'Flying fish', 'Hirundichthys', 'Gene', 'Published Work', 'Music video', 'Adaptation', 'Periodical', 'Book Character', 'Visual Art Medium', 'Butterflyfish', 'Multi-Part Musical Release', 'Lake', 'Musical Game Song', 'Composition', 'Osteichthyes', 'Animal breed', 'Long-listed work', 'Structure', 'Collection category', 'Chordate', 'HUD Foreclosure Area', 'Deuterostome', 'Defunct Organisation', 'Video Game Version', 'TV Season', 'Beloniformes'])
+Wiki set([u'distort the reflected image', u'reflects light in such a way that, for incident light in some range of wavelengths, the reflected light preserves many or most of the detailed physical characteristics of the original light', u'focus light', u'decoration', u'architecture', u'for personal grooming or admiring oneself', u'produce magnified or diminished images'])
+
+
+Freebase/nlp2016_032.txt
+FB set(['Oral (Drug administration route)', 'Consumer product', 'Drug formulation', 'Manufactured drug form'])
+Wiki set([u'administered under medical supervision', u'dietary supplement with vitamins, dietary minerals, and other nutritional elements', u'provided in combination with dietary minerals', u'category of food'])
+
+
+Freebase/nlp2016_033.txt
+FB set(['Percutaneous', 'Organism Classification', 'Lamiales', 'Musical Release', 'Ingredient', 'Plant', 'Food', 'Herb', 'Angiospermae', 'Eudicots', 'Condition prevention factors', 'Lamiaceae', 'Eukaryote', 'Drug formulation', 'Manufactured drug form', 'Asterids', 'Drug', 'Routed drug', 'Software', 'Drug ingredient', 'Medical Treatment', 'Origanum', 'Intradermal', 'Consumer product', 'Subcutaneous injection'])
+Wiki set([])
+
+
+Freebase/nlp2016_034.txt
+FB set(['Drug ingredient', 'Medical Treatment', 'Drug formulation', 'Drug', 'Oral (Drug administration route)', 'Routed drug', 'Condition prevention factors'])
+Wiki set([u'treat obesity', u'preventing the absorption of fats', u'acting as a lipase inhibitor', u'in conjunction with a healthcare provider-supervised dieting|reduced-calorie diet', u'reducing caloric intake'])
+
+
+Freebase/nlp2016_035.txt
+FB set([])
+Wiki set([u'presentation of the distance covered in a unit of length (such as in kilometers or miles)', u'counts each step a person takes', u'calibration', u"detecting the Motion motion of the person's hands or Hip hips", u'record how many steps the wearer has walked that day, and thus the kilometers or miles', u'worn on the belt', u'exercise counter and motivator', u"determine how a person's step varies"])
+
+
+Freebase/nlp2016_036.txt
+FB set([])
+Wiki set([u'contribute to the well-being of their host', u'induce the growth or activity of microorganisms (e.g., bacteria and fungi)', u'improve the activity or composition of the skin microbiota', u'stimulate the growth or activity of advantageous bacteria that colonize the large bowel by acting as substrate substrate for them', u'alter the composition of organisms in the gut microbiome'])
+
+
+Freebase/nlp2016_037.txt
+FB set(['Consumer product', 'Musical Release', 'TV Episode'])
+Wiki set([u'consumed', u'provide health benefits'])
+
+
+Freebase/nlp2016_038.txt
+FB set(['Organism Classification'])
+Wiki set([])
+
+
+Freebase/nlp2016_039.txt
+FB set([])
+Wiki set([])
+
+
+Freebase/nlp2016_040.txt
+FB set([])
+Wiki set([u'triggers the development of queen morphology morphology, including the fully developed ovaries needed to lay eggs', u'feed them with copious amounts'])
+
+
+Freebase/nlp2016_041.txt
+FB set(['Geographical Feature', 'Mountain range', 'Award-Nominated Work', 'Educational Institution', 'Organism Classification', 'Actor', 'Film actor', 'Location', 'Musical Release', 'TV Program', 'College/University', 'Composition', 'Administrative Division', 'Consumer product', 'Educational Institution Campus', 'Musical Group', 'Artwork', 'Family member', 'City/Town/Village', 'Non-profit organisation', 'Business Operation', 'Politician', 'Island', 'Statistical region', 'Endowed Organization', 'Person', 'Deceased Person', 'Drug dosage form', 'National Anthem', 'Salvethymus', 'Dated location', 'Ranked item', 'Musical Artist', 'TV Season', 'Issuer'])
+Wiki set([u'soothe the surface of the body'])
+
+
+Freebase/nlp2016_042.txt
+FB set([])
+Wiki set([u'rise into the air'])
+
+
+Freebase/nlp2016_043.txt
+FB set([])
+Wiki set([u'consumed', u'dietary supplement as well as a whole food'])
+
+
+Freebase/nlp2016_044.txt
+FB set(['Plant', 'Drug ingredient', 'Namesake', 'Stevia', 'Organism Classification', 'Eukaryote', 'Asterids', 'Angiospermae', 'Person', 'Eudicots', 'Asterales', 'Eupatorieae', 'Asteroideae', 'Asteraceae', 'Ingredient'])
+Wiki set([u'have a bitter or licorice-like aftertaste', u'sweetener and sugar substitute', u'at high concentrations'])
+
+
+Freebase/nlp2016_045.txt
+FB set([])
+Wiki set([u'serving food and dining'])
+
+
+Freebase/nlp2016_046.txt
+FB set(['Award-Nominated Work', 'Actor', 'TV subject', 'Fictional Character', 'Film actor', 'Musical Release', 'TV Episode', 'Musical Game Song', 'Composition', 'Film character', 'Exhibition subject', 'Consumer product', 'Artist', 'Netflix Title', 'Musical Group', 'Music video', 'Artwork', 'Video Game', 'Periodical Subject', 'Business Operation', 'TV Program', 'Record label', 'Sex worker', 'Film subject', 'Person', 'Hepatitis B', 'Award-Winning Work', 'Risk Factor', 'Film job', 'TV Season', 'Profession', 'Musical Artist', 'Video Game Version', 'Pornographic actor', 'Visual Art Form', 'Comic Book Character'])
+Wiki set([u'inserting indelible ink into the dermis layer of the skin', u'change the pigment'])
+
+
+Freebase/nlp2016_047.txt
+FB set(['TV Episode'])
+Wiki set([u'picking up objects too small to be easily handled with the human hands', u'plucking hair from the face or eyebrows'])
+
+
+Freebase/nlp2016_048.txt
+FB set(['Oral (Drug administration route)', 'Presbyopia', 'Consumer product', 'Drug formulation', 'Manufactured drug form', 'Competitive Space', 'Medical Treatment', 'Drug class', 'Risk Factor'])
+Wiki set([u'opposes the activity of histamine receptors'])
+
+
+Freebase/nlp2016_049.txt
+FB set([])
+Wiki set([u'changes the texture and appearance of hair', u'applied to the hair and massaged into the hair'])
+
+
+Freebase/nlp2016_050.txt
+FB set([])
+Wiki set([u'assist in keeping the airway open', u'aid post-race recovery', u'reduce airway resistance', u'lower the risk of exercise-induced pulmonary hemorrhage (EIPH)', u'reduce congestion or to prevent snoring', u'reduce fatigue', u'applied across the bridge of the nose and sides of the nostrils', u'performance-enhancing effect', u'make breathing easie'])
+
+
+Freebase/nlp2016_051.txt
+FB set([])
+Wiki set([u'personal hygiene or household cleaning', u'cleaning purposes'])
+
+

@@ -1,0 +1,701 @@
+Freebase/nlp2016_001.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	2	Oral (Drug administration route), Topical medication
+Used On	0	
+is-a	14	Liliidae, Liliopsida, Organism Classification, Drug ingredient, Asphodeloideae, Embryophyte, Drug formulation, Aloe, Eukaryote, Plant, Drug, Asparagales, Spermatophyte, Flowering plant
+Used to treat	0	
+
+
+Freebase/nlp2016_002.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	1	Oral (Drug administration route)
+Used On	0	
+is-a	15	Rosids, Plant, Drug ingredient, Medical Treatment, Malvaceae, Organism Classification, Eukaryote, Drug, Angiospermae, Althaea, Eudicots, Drug formulation, Routed drug, Condition prevention factors, Malvales
+Used to treat	0	
+
+
+Freebase/nlp2016_003.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	1	Oral (Drug administration route)
+Used On	0	
+is-a	12	Angelica, Plant, Organism Classification, Dicotyledon, Drug formulation, Apiaceae, Eukaryote, Drug, Embryophyte, Spermatophyte, Apiales, Flowering plant
+Used to treat	0	
+
+
+Freebase/nlp2016_004.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	2	Subcutaneous injection, Intradermal
+Used On	0	
+is-a	40	Geographical Feature, Award-Nominated Work, Organism Classification, Eukaryote, Location, Musical Release, TV Episode, Vegetable, Ingredient, Record label, Plant, Project focus, Food, Consumer product, Eudicots, Angiospermae, Musical Group, Artwork, City/Town/Village, Condition prevention factors, Structure, Building, Business Operation, Drug formulation, Manufactured drug form, Venue, Statistical region, Cynara, Asterids, Drug, Award-Winning Work, Routed drug, River, Dated location, Drug ingredient, Medical Treatment, Musical Artist, Asterales, Body Of Water, Asteraceae
+Used to treat	0	
+
+
+Freebase/nlp2016_005.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	1	Oral (Drug administration route)
+Used On	0	
+is-a	18	Routed drug, Astragalus, Embryophyte, Drug ingredient, Fabales, Medical Treatment, Dicotyledon, Drug formulation, Organism Classification, Eukaryote, Plant, Drug, Fabaceae, Faboideae, Spermatophyte, Condition prevention factors, Rosidae, Flowering plant
+Used to treat	0	
+
+
+Freebase/nlp2016_006.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	20	Geographical Feature, Record label, Ericales, Business Operation, Drug ingredient, Food, Ericaceae, Organism Classification, Eukaryote, Asterids, Angiospermae, Eudicots, Fruit, Location, Dated location, Plant, Vaccinium, City/Town/Village, Statistical region, Ingredient
+Used to treat	0	
+
+
+Freebase/nlp2016_007.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	1	Artwork
+Used to treat	0	
+
+
+Freebase/nlp2016_008.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+Freebase/nlp2016_009.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	4	Oral (Drug administration route), Auricular (otic), Topical medication, Sublingual administration
+Used On	0	
+is-a	7	Medical Treatment, Drug formulation, Drug, Musical Artist, Musical Release, Routed drug, Condition prevention factors
+Used to treat	0	
+
+
+Freebase/nlp2016_010.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	7	Chlorella, Drug ingredient, Chlorococcales, Chlorophyceae, Organism Classification, Oocystaceae, Chlorophyta
+Used to treat	0	
+
+
+Freebase/nlp2016_011.txt
+Used in recipe	0	
+Condition This May Prevent	2	Infant nutrition disorders, Choline deficiency
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	1	Oral (Drug administration route)
+Used On	0	
+is-a	17	Drug ingredient, Medical Treatment, Consumer product, Drug formulation, Manufactured drug form, Drug, Gene Group, Gene Ontology Group, Drug class, ICD-9-CM Classification, Chemical Compound, Disease or medical condition, Nutrient, Routed drug, Gene, Condition prevention factors, Drug mechanism of action
+Used to treat	0	
+
+
+Freebase/nlp2016_013.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	3	Percutaneous, Subcutaneous injection, Intradermal
+Used On	0	
+is-a	163	Apodiformes, Perciformes, Heron, Eukaryote, Merops, Ploceus, Art Director, Neopipo, Bird, Film character, Todiramphus, Honeyeater, Consumer product, Brand, Old World warbler, Educational Institution, Ursus, Phascogalini, Fantail, Musician (Profession), Ploceidae, Tyrant flycatcher, Dabbling duck, Roller, Spice, Anseriformes, Bat, Business Operation, Dasyuridae, Athlete, Drug, Philydor, Bradypterus, Piciformes, Bear, Poospiza, Laurasiatheria, Translated Work, Dated location, Drug ingredient, Dasyurinae, Drug dosage flavor, Emberizidae, Aircraft Owner, Ground tyrant, Ovenbird, Animal, Award-Nominated Work, Organism Classification, Actor, Employer, Eumetazoa, Location, TV Episode, Anatinae, Vespertilioninae, Eurystomus, Musician, Schistochlamys, Musical Group, Hypocryptadius, Mammaliaformes, City/Town/Village, Condition prevention factors, Work of Fiction, School, Record label, Melidectes, Drug formulation, Statistical region, Bilateria, Platyrinchus, Tanager, Phylloscartes, Pyrrhomyias, Harpactes, Business executive, Quail-thrush, Ixobrychus, Football player, Antechinus, Phaethornis, Gallicolumba, Screech owl, Comic Book Character, Geographical Feature, Mountain, Old World flycatcher, Green pigeon, Trochilinae, Microbat, Fictional Character, Songbird, Film actor, Musical Release, Musical Release Component, Broadcast Artist, Hermit, Actinopterygii, Amazilia, Listed Site, Coraciiformes, Anatidae, Marsupial, Vesper bat, Amphiprioninae, Person, TV Character, Carnivora, Medical Treatment, Tetrapod, Film art director, Amphiprion, Emberiza, American black bear, Ficedula, Book Character, Fish, Multi-Part Musical Release, Picinae, Ciconiiformes, Avialae, Hemitriccus, Aimophila, Vertebrate, Caniformia, Euryptila, Pomacentridae, Composition, Ingredient, Performance Artist, Osteichthyes, Musical Artist, Food, Trogon, Food ingredient, Dasyuromorphia, Passerine, Pachyramphus, Dendrexetastes, Hummingbird, Attila, Mouse-eared bat, Organism part, Artist, Imperial pigeon, Chordate, Manufactured drug form, Diglossa, Airline, Mammal, Routed drug, Deuterostome, Theria, Bee-eater, Sparrow, Lipaugus, Trogoniformes, Manager, Celeus, Species index, Woodpecker, Record Producer
+Used to treat	0	
+
+
+Freebase/nlp2016_014.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	3	Percutaneous, Subcutaneous injection, Intradermal
+Used On	0	
+is-a	47	Geographical Feature, Public Library System, Organism Classification, Eukaryote, Lake, Location, Musical Release, TV Episode, Composition, Ingredient, Record label, Plant, River, Project focus, Food, Ericaceae, Listed Site, Educational Institution, Angiospermae, Eudicots, Fruit, City/Town/Village, Condition prevention factors, Structure, School, Business Operation, Official symbol, Drug formulation, Manufactured drug form, Statistical region, Drug, Asterids, Beverage, Routed drug, Body Of Water, School district, Road, Bridge, Ericales, Dated location, Drug ingredient, Color, Protected Site, Video Game Developer, Medical Treatment, Consumer product, Public Library
+Used to treat	0	
+
+
+Freebase/nlp2016_015.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	1	Presbyopia
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	5	Medical Treatment, Gene Group, Drug class, Risk Factor, Gene Ontology Group
+Used to treat	0	
+
+
+Freebase/nlp2016_016.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	3	Oral (Drug administration route), Transdermal (Drug administration route), Topical medication
+Used On	0	
+is-a	26	Organism Classification, Eukaryote, Eumetazoa, Animal, Asteroideae, Plant, Consumer product, Angiospermae, Eudicots, Coneflower, Condition prevention factors, Drug formulation, Manufactured drug form, Asterids, Drug, Euechinoidea, Bilateria, Sea urchin, Routed drug, Deuterostome, Heliantheae, Drug ingredient, Medical Treatment, Asterales, Echinoderm, Asteraceae
+Used to treat	0	
+
+
+Freebase/nlp2016_017.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+Freebase/nlp2016_018.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	1	Medical Treatment
+Used to treat	0	
+
+
+Freebase/nlp2016_019.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+Freebase/nlp2016_020.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	2	Medical Treatment, Fictional Object
+Used to treat	0	
+
+
+Freebase/nlp2016_021.txt
+Used in recipe	0	
+Condition This May Prevent	1	Cardiac arrhythmia
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	4	Medical Treatment, Drug ingredient, Condition prevention factors, Drug
+Used to treat	0	
+
+
+Freebase/nlp2016_022.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	6	Task, Phytochemical, Gene Ontology Group, Chemical Classification, Gene Group, Merge Task
+Used to treat	0	
+
+
+Freebase/nlp2016_023.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	3	Percutaneous, Subcutaneous injection, Intradermal
+Used On	0	
+is-a	57	Geographical Feature, HUD County Place, Film crewmember, Photographer, Organism Classification, Eukaryote, Actor, Film actor, Geologist, Location, Musical Release, TV Episode, Spermatophyte, Composition, Ingredient, Liliidae, Liliopsida, Food, Consumer product, Liliales, Educational Institution, Elimia, Musical Group, Scientist, City/Town/Village, Condition prevention factors, School, Transit Stop, TV Program, Artist, Drug formulation, Manufactured drug form, Venue, Statistical region, Drug, Visual Artist, Person, Deceased Person, Linaceae, HUD Foreclosure Area, Routed drug, River, School district, Plant, Linum, Dated location, Drug ingredient, Ranked item, Medical Treatment, Embryophyte, Administrative Division, Agavoideae, Musical Artist, Pleuroceridae, Body Of Water, English civil parish, Flowering plant
+Used to treat	0	
+
+
+Freebase/nlp2016_024.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	3	Oral (Drug administration route), Nasal (Drug administration route), Sublingual administration
+Used On	0	
+is-a	8	Drug ingredient, Medical Treatment, Drug formulation, Organism Classification, Drug, Routed drug, Hydrastis, Condition prevention factors
+Used to treat	0	
+
+
+Freebase/nlp2016_025.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	90	Author, Influence Node, Transit Stop, Musical Performance Role, Record label, Educational Institution, Film Score Composer, Netflix Title, Musician (Profession), Building, Business Operation, Island, Athlete, Venue, Human Language, Award-Winning Work, Sports Team, Dated location, Drug ingredient, Piperales, Lyricist, Composer, Award-Nominated Work, Organism Classification, Actor, Employer, Location, TV Episode, Politician, Footballer, Project focus, Musician, Educational Institution Campus, Film story contributor, Musical Group, Adapted Work, City/Town/Village, School, Film director, TV Program, Statistical region, TV theme song, Protected Site, TV Actor, Business executive, Football player, Geographical Feature, Mountain, Deceased Person, Fictional Character, Film actor, Skyscraper, Musical Release, Theatre Director, Administrative Division, Listed Site, Piperaceae, Film writer, Screenwriter, Singer, Award Nominee, Mathematician, Social network user, Political District, Academic, Basketball Team, Playwright, Lyricist (Profession), Composer (music/composer), Travel destination, Piper, Poet, Composition, Capital of administrative division, Performance Artist, Musical Artist, Chivalric Order Member, Structure, Namesake, Artist, Country, Airport, Chemical Compound, Writer, Musical instrument, Film music contributor, Person, Football team, Manager, TV Season
+Used to treat	0	
+
+
+Freebase/nlp2016_026.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+Freebase/nlp2016_027.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	4	Medical Treatment, Gene Group, Gene, Gene Ontology Group
+Used to treat	0	
+
+
+Freebase/nlp2016_028.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	4	Gene Group, Gene Ontology Group, Gene, Drug mechanism of action
+Used to treat	0	
+
+
+Freebase/nlp2016_029.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	23	Organism Classification, Eukaryote, Consumer product, Musical Release, Spermatophyte, Composition, Rosidae, Ingredient, Plant, Musical Artist, Food, Dicotyledon, Musical Group, Artwork, Spice, Glycyrrhiza, Drug ingredient, Fabales, Embryophyte, Drug dosage flavor, Fabaceae, Faboideae, Flowering plant
+Used to treat	0	
+
+
+Freebase/nlp2016_030.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	177	Geographical Feature, Murinae, Hall of fame inductee, Literary Series, Deceased Organism, Eukaryote, Corydoras, Trogon, Trygonoptera, Lark, Extraterrestrial location, Bird, geography, Record label, Animal, Myomorpha, Charadriidae, Author, Consumer product, Old World warbler, Netflix Title, Soundtrack, Perciformes, Hypoplectrus, Musician (Profession), Laurasiatheria, Tyrant flycatcher, Building, Bat, Business Operation, Island, Yellowthroat, Human Language, Game expansion, Award-Winning Work, Organism, Northern Bobwhite, Dated location, Rodent, Muroidea, Invention, Comic Book Series, Protein, Colinus, Musical Release, Award-Nominated Work, Theater Company, Short Story, Organism Classification, Vanellus, Eutheria, Actor, Employer, Tangara, Eumetazoa, Location, TV Episode, Anatinae, Dormouse, Booby, Pteropus, Musician, Sulidae, Canadian Census Division, Musical Group, Woodswallow, Arothron, Adapted Work, Labroidei, City/Town/Village, Chordate, Work of Fiction, TV Program, Rapper, Statistical region, Bilateria, Ranked item, Rabbitfish, Character Power, Tanager, New World quail, HUD Foreclosure Area, Elasmobranchii, Fish, Musical Artist, Pedigreed animal, Theatre Production, Fluvicola, Issuer, Estrildid finch, Comic Book Character, Scholarly work, Dissertation, Paguma, HUD County Place, Uromys, Film crewmember, Buthraupis, Diglossopis, Batoidea, Exhibition, Fictional Character, Hylopezus, Film actor, Megabat, Musical genre, Mammal, Prosopeia, Broadcast Artist, Play, Actinopterygii, Administrative Division, Deuterostome, Listed Site, Formicariidae, Pipreola, Lanius, Artwork, New World warbler, Julidochromis, Euarchontoglires, Myliobatiformes, Opera, Vertebrate, Anatidae, Megachiroptera, Person, TV Character, Leithiinae, Published Work, Muridae, Film job, Tetrapod, Cichlid, Galliformes, Myomimus, Adaptation, Urolophidae, Saltator, Spizocorys, Composer (music/composer), Anseriformes, Ciconiiformes, Avialae, Poephila, Nomonyx, Owned animal, Pelodryadinae, Composition, Pufferfish, Performance Artist, Osteichthyes, Chondrichthyes, Ramphocelus, Treecreeper, Pseudochirulus, Passerine, Tityra, Hylarana (Biological Genus) #1, Structure, Cracticinae, Namesake, Artist, Cardinal (Biological Family), Litoria, Mammaliaformes, Polioptila, Political District, Shrike, Theria, Laughingthrush, Heteroconger, Hylidae, Trogoniformes, Video Game Version, TV Season, Record Producer
+Used to treat	0	
+
+
+Freebase/nlp2016_031.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	1	"Reveals a person's deepest desire"@en
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	93	Scholarly work, Literary Series, Eukaryote, geography, Film character, Consumer product, Educational Institution, Netflix Title, Soundtrack, Perciformes, Translation, Building, Business Operation, Restaurant, Venue, Magazine, Newspaper, Award-Winning Work, Translated Work, Dated location, Drug manufacturer, Body Of Water, Percoidei, Camera Format, Musical Release, Award-Nominated Work, Short Story, Organism Classification, Employer, Eumetazoa, Location, TV Episode, Comic Book Issue, School newspaper, Project focus, Musical Group, Opisthoproctus, Organisation Location, City/Town/Village, Ship class, Work of Fiction, School, TV Program, Record label, Quotation Source, Statistical region, Bilateria, Broadcast Artist, Video Game Publisher, Fish, Video Game Developer, Musical Artist, Fictional Object, Comic Book Character, Geographical Feature, Dissertation, HUD County Place, Fictional Character, Animal, Musical Release Component, US Census Designated Place, Tourist attraction, Actinopterygii, Listed Site, Artwork, Video Game, Chaetodon, Flying fish, Hirundichthys, Gene, Published Work, Music video, Adaptation, Periodical, Book Character, Visual Art Medium, Butterflyfish, Multi-Part Musical Release, Lake, Musical Game Song, Composition, Osteichthyes, Animal breed, Long-listed work, Structure, Collection category, Chordate, HUD Foreclosure Area, Deuterostome, Defunct Organisation, Video Game Version, TV Season, Beloniformes
+Used to treat	0	
+
+
+Freebase/nlp2016_032.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	1	Oral (Drug administration route)
+Used On	0	
+is-a	3	Consumer product, Drug formulation, Manufactured drug form
+Used to treat	0	
+
+
+Freebase/nlp2016_033.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	3	Percutaneous, Subcutaneous injection, Intradermal
+Used On	0	
+is-a	22	Organism Classification, Lamiales, Musical Release, Ingredient, Plant, Food, Herb, Angiospermae, Eudicots, Condition prevention factors, Lamiaceae, Eukaryote, Drug formulation, Manufactured drug form, Asterids, Drug, Routed drug, Software, Drug ingredient, Medical Treatment, Origanum, Consumer product
+Used to treat	0	
+
+
+Freebase/nlp2016_034.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	1	Oral (Drug administration route)
+Used On	0	
+is-a	6	Drug ingredient, Medical Treatment, Drug formulation, Drug, Routed drug, Condition prevention factors
+Used to treat	0	
+
+
+Freebase/nlp2016_035.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+Freebase/nlp2016_036.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+Freebase/nlp2016_037.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	3	Consumer product, Musical Release, TV Episode
+Used to treat	0	
+
+
+Freebase/nlp2016_038.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	1	Organism Classification
+Used to treat	0	
+
+
+Freebase/nlp2016_039.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+Freebase/nlp2016_040.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+Freebase/nlp2016_041.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	35	Geographical Feature, Mountain range, Award-Nominated Work, Educational Institution, Organism Classification, Actor, Film actor, Location, Musical Release, TV Program, College/University, Composition, Administrative Division, Consumer product, Educational Institution Campus, Musical Group, Artwork, Family member, City/Town/Village, Non-profit organisation, Business Operation, Politician, Island, Statistical region, Endowed Organization, Person, Deceased Person, Drug dosage form, National Anthem, Salvethymus, Dated location, Ranked item, Musical Artist, TV Season, Issuer
+Used to treat	0	
+
+
+Freebase/nlp2016_042.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+Freebase/nlp2016_043.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+Freebase/nlp2016_044.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	15	Plant, Drug ingredient, Namesake, Stevia, Organism Classification, Eukaryote, Asterids, Angiospermae, Person, Eudicots, Asterales, Eupatorieae, Asteroideae, Asteraceae, Ingredient
+Used to treat	0	
+
+
+Freebase/nlp2016_045.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+Freebase/nlp2016_046.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	1	Hepatitis B
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	35	Award-Nominated Work, Actor, TV subject, Fictional Character, Film actor, Musical Release, TV Episode, Musical Game Song, Composition, Film character, Exhibition subject, Consumer product, Artist, Netflix Title, Musical Group, Music video, Artwork, Video Game, Periodical Subject, Business Operation, TV Program, Record label, Sex worker, Film subject, Person, Award-Winning Work, Risk Factor, Film job, TV Season, Profession, Musical Artist, Video Game Version, Pornographic actor, Visual Art Form, Comic Book Character
+Used to treat	0	
+
+
+Freebase/nlp2016_047.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	1	TV Episode
+Used to treat	0	
+
+
+Freebase/nlp2016_048.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	1	Presbyopia
+Disease or condition caused	0	
+Route of administration	1	Oral (Drug administration route)
+Used On	0	
+is-a	7	Medical Treatment, Consumer product, Drug formulation, Manufactured drug form, Competitive Space, Drug class, Risk Factor
+Used to treat	0	
+
+
+Freebase/nlp2016_049.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+Freebase/nlp2016_050.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+Freebase/nlp2016_051.txt
+Used in recipe	0	
+Condition This May Prevent	0	
+Attributes/Properties	0	
+Trial	0	
+Primary use	0	
+Disease with this Risk Factor	0	
+Disease or condition caused	0	
+Route of administration	0	
+Used On	0	
+is-a	0	
+Used to treat	0	
+
+
+{'Used in recipe': 0, 'Condition This May Prevent': 3, 'Attributes/Properties': 1, 'Trial': 0, 'Primary use': 0, 'Disease with this Risk Factor': 3, 'Disease or condition caused': 0, 'Route of administration': 33, 'Used On': 0, 'is-a': 989, 'Used to treat': 0}

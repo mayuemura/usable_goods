@@ -1,8 +1,0 @@
-Eye drop	Used To Treat	Bell's palsy	.
-Eye drop	Used To Treat	Conjunctivitis	.
-Eye drop	is-a	Medical Treatment	.
-Eye drop	is-a	Topic	.
-Eye drop	Used To Treat	Bell's palsy	.
-Eye drop	Used To Treat	Conjunctivitis	.
-Eye drop	is-a	Medical Treatment	.
-Eye drop	is-a	Topic	.

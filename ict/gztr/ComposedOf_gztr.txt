@@ -22,7 +22,7 @@ antihistamines
 mink
 fluoride
 beta receptor blockers
-nutritients in which some atoms are replaced with their heavier non-radioactive isotopes (such as carbon-13|<sup>13</sup>C and deuterium|<sup>2</sup>H, derived from C4 carbon fixation|C<sub>4</sub>-plants)
+nutritients in which some atoms are replaced with their heavier non-radioactive isotopes 
 two protease enzymes
 dense bristles
 wood
@@ -55,7 +55,8 @@ natural materials like animal hair (e.g., goat or horse hair)
 container filled with hot water and sealed with astopper
 foam latex
 prostaglandins
-Fixative (perfumery)|fixatives
+Fixative (perfumery)
+fixatives
 cotton
 chlorophyll-a and -b
 preservatives
@@ -65,7 +66,8 @@ turmeric or any other local materials
 mask shaped or rectangular pouches made from a fabric such as cotton or silk and filled with scented or non-scented herbs
 thickening agent such as polyacrylic acid
 N,N,N-trimethylethanolammonium cation
-Antifungal medication|antifungal
+Antifungal medication
+antifungal
 steviol glycosides (mainly stevioside and rebaudioside)
 vanillin
 propylene glycol

@@ -1,0 +1,130 @@
+Freebase/health_01.txt
+FB set(['Invention', 'Medical device'])
+Wiki set([u'acupuncture', u'self-applied'])
+
+
+Freebase/health_02.txt
+FB set([])
+Wiki set([u'dressing', u'used for injuries not serious enough to require a full-size bandage'])
+
+
+Freebase/health_03.txt
+FB set([])
+Wiki set([u'provoke allergy and asthma symptoms'])
+
+
+Freebase/health_04.txt
+FB set(['Consumer product', 'Manufactured drug form'])
+Wiki set([u'facilitate surgery', u'causes anesthesia, which is a reversible loss of sensation'])
+
+
+Freebase/health_05.txt
+FB set(['Medical Treatment', 'Consumer product', 'Manufactured drug form', 'Competitive Space', 'Gene Group', 'Gene Ontology Group'])
+Wiki set([u"treat and prevent mycosis|mycoses such as athlete's foot, ringworm, candidiasis (thrush), serious systemic infections such as Cryptococcus (fungus)|cryptococcal meningitis, and others", u'fungicide'])
+
+
+Freebase/health_06.txt
+FB set(['Oral (Drug administration route)', 'Presbyopia', 'Consumer product', 'Drug formulation', 'Manufactured drug form', 'Competitive Space', 'Medical Treatment', 'Drug class', 'Risk Factor'])
+Wiki set([u'opposes the activity of histamine receptors in the body', u'treat allergic rhinitis|allergic reactions in the nose (e.g., itching, runny nose, and sneezing) as well as for insomnia'])
+
+
+Freebase/health_07.txt
+FB set(['Gene Group', 'Musical Artist', 'Manufactured drug form', 'Gene Ontology Group', 'Consumer product'])
+Wiki set([u'terminate these chain reactions', u'inhibits the Redox|oxidation of other molecules', u'removing free radical intermediates', u'inhibit other oxidation reactions'])
+
+
+Freebase/health_08.txt
+FB set([])
+Wiki set([u'inhibit the itching (Latin: pruritus) often associated with sunburns, allergic reactions, eczema, psoriasis, chickenpox, Fungal infection in animals|fungal infections, insect bites and stings like those from mosquitoes, fleas, and mites, and contact dermatitis and urticaria caused by plants such as poison ivy (urushiol-induced contact dermatitis) or stinging nettle'])
+
+
+Freebase/health_09.txt
+FB set(['Dated location', 'Statistical region', 'Musical Artist', 'Musical Group', 'Location', 'TV Episode', 'City/Town/Village'])
+Wiki set([u'head or lower back support', u'on furniture with high rigid sides', u'arm support', u'decorative application', u'cushion', u'back or arm support', u"placed at the head of one's bed", u'pillow'])
+
+
+Freebase/health_10.txt
+FB set([])
+Wiki set([u'applied to the chest', u'assist with minor medical conditions that temporarily impair breathing, including the common cold'])
+
+
+Freebase/health_11.txt
+FB set(['Business Operation', 'Oral (Drug administration route)', 'Drug formulation', 'Person or entity appearing in film', 'Competitive Space', 'Musical Artist', 'Musical Group', 'Comic Strip', 'Musical Release', 'TV Episode', 'Composition', 'Dental (Drug administration route)'])
+Wiki set([u'assists in suppressing halitosis', u'used with a toothbrush', u'used to promote oral hygiene', u'aids in removing the dental plaque and food from the teeth', u'clean and maintain the aesthetics and health of teeth', u'serves as an abrasive', u'help prevent tooth and gum disease (gingivitis)', u'delivers active ingredients'])
+
+
+Freebase/health_12.txt
+FB set(['Dental caries', 'Invention', 'Condition prevention factors'])
+Wiki set([u'remove food and dental plaque from between teeth', u'plaque can be eliminated', u'disease prevention', u'in areas a toothbrush is unable to reach', u'plaque removal'])
+
+
+Freebase/health_12.txt~
+FB set(['Dental caries', 'Invention', 'Condition prevention factors'])
+Wiki set([])
+
+
+Freebase/health_13.txt
+FB set(['Drug legal status', 'Consumer product', 'Food', 'Medical Treatment'])
+Wiki set([u'provide nutrients that may otherwise not be consumed in sufficient quantities'])
+
+
+Freebase/health_14.txt
+FB set(['Consumer product', 'Musical Release', 'TV Episode'])
+Wiki set([u"protect the user's ears from loud noises or the intrusion of water, foreign bodies, dust or excessive wind", u'inserted in the ear canal'])
+
+
+Freebase/health_15.txt
+FB set([])
+Wiki set([u'cover one or more fingers', u'in situations where a full glove is unnecessary'])
+
+
+Freebase/health_16.txt
+FB set([])
+Wiki set([u'displays the level in units of mg/dl or Mmol/L|mmol/l', u'A small drop of blood, obtained by pricking the skin with a Blood lancet|lancet, is placed on a disposable test strip', u'calculate the blood glucose level', u'determining the approximate concentration of glucose in the blood', u'dipped into a substance and measured to the glucose chart'])
+
+
+Freebase/health_17.txt
+FB set(['Cuisine', 'Beer style', 'Dietary restriction', 'Chemical Classification', 'Food', 'Disease or medical condition', 'Diet', 'Medical Treatment', 'TV Episode', 'Protein', 'Ingredient'])
+Wiki set([u'keep its shape', u'helping it leavening agent|rise', u'gives the final product a chewiness|chewy texture', u'gives viscoelasticity|elasticity to dough'])
+
+
+Freebase/health_18.txt
+FB set(['Drug ingredient', 'Food', 'Tea', 'Drug', 'Beverage', 'Tea type', 'Ingredient'])
+Wiki set([u'health benefits'])
+
+
+Freebase/health_19.txt
+FB set(['Gene Ontology Group', 'Gene Group', 'Disease cause', 'Chemical Compound', 'Disease or medical condition', 'Protein', 'Gene', 'Dwarfism', 'Symptom'])
+Wiki set([u'stimulates growth, cell (biology)|cell reproduction, and cell regeneration', u'human development', u'mitogen'])
+
+
+Freebase/health_20.txt
+FB set(['Drug formulation', 'Percutaneous', 'Topical medication'])
+Wiki set([u'a supplement or alternative to hand washing with soap and water', u'killing microorganisms', u'do not dry out hands'])
+
+
+Freebase/health_21.txt
+FB set([])
+Wiki set([u'consumed both hot and cold'])
+
+
+Freebase/health_22.txt
+FB set([])
+Wiki set([u'provide warmth', u'application of heat to a specific part of the body'])
+
+
+Freebase/health_23.txt
+FB set(['Medical Treatment'])
+Wiki set([u'as a compress (medical)|cold compress', u'contents are frozen in a freezer', u'keep products cool during transport', u'keep food cool', u'alleviate the pain of minor injuries'])
+
+
+Freebase/health_24.txt
+FB set([])
+Wiki set([u'enhanced longevity', u'Consumption', u'give rise to more stable molecular structures with increased resistance to damages associated with ageing'])
+
+
+Freebase/health_25.txt
+FB set(['Merge Task', 'Task'])
+Wiki set([u'trap singlet oxygen', u'phytoestrogens', u'risk reduction in breast cancer'])
+
+
