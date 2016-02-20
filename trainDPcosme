@@ -1,4 +1,5 @@
-#	Target,Target
+
+#	Diprobase,It,it,its
 B-Trg	Diprobase	NNP
 O	is	VBZ
 O	an	DT
@@ -11,6 +12,7 @@ I-MOU	eczema	NN
 I-MOU	and	CC
 I-MOU	dermatitis	NN
 O	.	.
+
 B-Trg	It	PRP
 O	is	VBZ
 O	an	DT
@@ -36,6 +38,7 @@ B-Eff	slow	VB
 I-Eff	water	NN
 I-Eff	loss	NN
 O	.	.
+
 O	This	DT
 O	gives	VBZ
 B-Trg	its	PRP$
@@ -48,7 +51,7 @@ I-Eff	area	NN
 I-Eff	sticky	JJ
 O	.	.
 
-#    Target,Target
+#	Egg oil,egg yolk oil,ovum oil,It,egg oil,product
 B-Trg	Egg	NNP
 I-Trg	oil	NN
 O	,	,
@@ -90,6 +93,7 @@ B-Com	zeaxanthin	NN
 O	and	CC
 B-Com	immunoglobulins	NNS
 O	.	.
+
 B-Trg	It	PRP
 O	is	VBZ
 O	free	JJ
@@ -120,6 +124,7 @@ I-MOU	and	CC
 I-MOU	skin	NN
 I-MOU	care	NN
 O	.	.
+
 O	The	DT
 B-Trg	product	NN
 O	has	VBZ
@@ -136,6 +141,7 @@ O	for	IN
 B-Eff	hair	NN
 I-Eff	care	NN
 O	.	.
+
 O	Traditional	JJ
 O	Chinese	JJ
 B-MOU	medicine	NN
@@ -171,7 +177,7 @@ I-MOU	and	CC
 I-MOU	hemorrhoids	NNS
 O	.	.
 
-#    Target,Target
+#	Eye black,It
 B-Trg	Eye	NNP
 I-Trg	black	JJ
 O	is	VBZ
@@ -187,6 +193,7 @@ I-Eff	light	JJ
 I-Eff	pollution	NN
 I-Eff	glare	NN
 O	.	.
+
 B-Trg	It	PRP
 O	is	VBZ
 O	often	RB
@@ -212,6 +219,7 @@ I-Loc	an	DT
 I-Loc	airborne	JJ
 I-Loc	ball	NN
 O	.	.
+
 B-Trg	It	PRP
 O	is	VBZ
 O	a	DT
@@ -225,7 +233,7 @@ B-MOU	war	NN
 I-MOU	paint	NN
 O	.	.
 
-#    Target,Target
+#	Eyelash Extensions,extensions
 B-Trg	Eyelash	NNP
 I-Trg	Extensions	NNPS
 O	is	VBZ
@@ -243,6 +251,7 @@ O	to	TO
 B-Eff	natural	JJ
 I-Eff	eyelashes	NNS
 O	.	.
+
 O	The	DT
 B-Trg	extensions	NNS
 O	may	MD
@@ -256,6 +265,7 @@ O	or	CC
 B-Com	synthetic	JJ
 I-Com	hair	NN
 O	.	.
+
 O	Methods	NNS
 O	of	IN
 O	applying	VBG
@@ -274,7 +284,7 @@ I-MOU	one-by-one	JJ
 I-MOU	extensions	NNS
 O	.	.
 
-#    Target,Target
+#	Nail polish,nail varnish,its,formulation
 B-Trg	Nail	VB
 I-Trg	polish	NN
 O	(	-LRB-
@@ -305,6 +315,7 @@ I-Eff	the	DT
 I-Eff	nail	NN
 I-Eff	plates	NNS
 O	.	.
+
 O	The	DT
 B-Trg	formulation	NN
 O	has	VBZ
@@ -323,6 +334,7 @@ I-Eff	cracking	VBG
 I-Eff	or	CC
 I-Eff	flaking	VBG
 O	.	.
+
 B-Trg	Nail	VB
 I-Trg	polish	NN
 O	consists	VBZ
@@ -338,7 +350,7 @@ I-Com	other	JJ
 I-Com	components	NNS
 O	.	.
 
-#    Target,Target
+#	Eyelid glue,eye putti
 B-Trg	Eyelid	JJ
 I-Trg	glue	NN
 O	,	,
@@ -373,6 +385,7 @@ I-Eff	a	DT
 I-Eff	crease	NN
 O	)	-RRB-
 O	.	.
+
 B-Trg	Eyelid	JJ
 I-Trg	glue	NN
 O	is	VBZ
@@ -386,7 +399,7 @@ B-Eff	easily	RB
 I-Eff	removed	VBN
 O	.	.
 
-#    Target,Target
+#	Eyeliner,It
 B-Trg	Eyeliner	NNP
 O	is	VBZ
 O	a	DT
@@ -397,6 +410,7 @@ B-Eff	define	VB
 I-Eff	the	DT
 I-Eff	eyes	NNS
 O	.	.
+
 B-Trg	It	PRP
 O	is	VBZ
 B-MOU	applied	VBN
@@ -418,7 +432,7 @@ I-Eff	aesthetic	JJ
 I-Eff	effects	NNS
 O	.	.
 
-#    Target,Target
+#	Eye shadow,It
 B-Trg	Eye	NNP
 I-Trg	shadow	NN
 O	is	VBZ
@@ -435,6 +449,7 @@ I-MOU	under	IN
 I-MOU	the	DT
 I-MOU	eyebrows	NNS
 O	.	.
+
 B-Trg	It	PRP
 O	is	VBZ
 O	commonly	RB
@@ -452,6 +467,7 @@ I-Eff	look	VB
 I-Eff	more	RBR
 I-Eff	attractive	JJ
 O	.	.
+
 B-Trg	Eye	NNP
 I-Trg	shadow	NN
 O	can	MD
@@ -477,6 +493,7 @@ I-Eff	to	TO
 I-Eff	the	DT
 I-Eff	eyes	NNS
 O	.	.
+
 B-Trg	Eye	NNP
 I-Trg	shadow	NN
 O	comes	VBZ
@@ -487,6 +504,7 @@ O	colors	NNS
 O	and	CC
 O	textures	NNS
 O	.	.
+
 B-Trg	It	PRP
 O	is	VBZ
 O	usually	RB
@@ -512,7 +530,7 @@ I-Ver	mousse	NN
 I-Ver	form	NN
 O	.	.
 
-#    Target,Target
+#	Face powder,It,facial powders,Powder
 B-Trg	Face	NNP
 I-Trg	powder	NN
 O	is	VBZ
@@ -531,6 +549,7 @@ I-Eff	foundation	NN
 I-Eff	after	IN
 I-Eff	application	NN
 O	.	.
+
 B-Trg	It	PRP
 O	can	MD
 O	also	RB
@@ -547,6 +566,7 @@ I-Eff	by	IN
 I-Eff	oily	NN
 I-Eff	skin	NN
 O	.	.
+
 O	There	EX
 O	is	VBZ
 B-Ver	translucent	JJ
@@ -559,6 +579,7 @@ O	is	VBZ
 B-Ver	pigmented	JJ
 I-Ver	powder	NN
 O	.	.
+
 O	Certain	JJ
 O	types	NNS
 O	of	IN
@@ -575,6 +596,7 @@ I-MOU	no	DT
 I-MOU	base	NN
 I-MOU	foundation	NN
 O	.	.
+
 B-Trg	Powder	NNP
 B-Eff	tones	NNS
 I-Eff	the	DT
@@ -586,7 +608,7 @@ I-Eff	even	RB
 I-Eff	appearance	NN
 O	.	.
 
-#    Target,Target
+#	facial prosthetic,facial prosthesis,Facial prosthetics
 O	A	DT
 B-Trg	facial	JJ
 I-Trg	prosthetic	JJ
@@ -613,6 +635,7 @@ I-Eff	face	NN
 I-Eff	or	CC
 I-Eff	head	NN
 O	.	.
+
 O	When	WRB
 O	used	VBN
 O	in	IN
@@ -637,6 +660,7 @@ I-Eff	into	IN
 I-Eff	something	NN
 I-Eff	extraordinary	JJ
 O	.	.
+
 B-Trg	Facial	JJ
 I-Trg	prosthetics	NNS
 O	can	MD
@@ -661,6 +685,7 @@ I-Com	and	CC
 I-Com	cold	JJ
 I-Com	foam	NN
 O	.	.
+
 O	Effects	NNS
 O	can	MD
 O	be	VB
@@ -687,6 +712,7 @@ I-Eff	than	IN
 I-Eff	they	PRP
 I-Eff	are	VBP
 O	.	.
+
 O	A	DT
 B-Trg	facial	JJ
 I-Trg	prosthesis	NN
@@ -709,7 +735,7 @@ I-Eff	and	CC
 I-Eff	others	NNS
 O	.	.
 
-#    Target,Target
+#	Foundation
 B-Trg	Foundation	NNP
 O	is	VBZ
 O	a	DT
@@ -745,6 +771,7 @@ I-Eff	natural	JJ
 I-Eff	human	JJ
 I-Eff	skintone	NN
 O	.	.
+
 B-Trg	Foundation	NNP
 B-MOU	applied	VBD
 I-MOU	to	TO
@@ -761,7 +788,7 @@ O	painting	NN
 O	.	.
 O	''	''
 
-#    Target,Target
+#	Glitter,glitter
 B-Trg	Glitter	NNP
 O	describes	VBZ
 O	an	DT
@@ -774,6 +801,7 @@ I-Com	,	,
 I-Com	reflective	JJ
 I-Com	particles	NNS
 O	.	.
+
 B-Trg	Glitter	NNP
 O	particles	NNS
 B-Eff	reflect	VBP
@@ -790,6 +818,7 @@ B-Eff	sparkle	NN
 O	or	CC
 B-Eff	shimmer	NN
 O	.	.
+
 B-Trg	Glitter	NNP
 O	is	VBZ
 O	like	IN
@@ -800,6 +829,7 @@ O	,	,
 O	only	RB
 O	smaller	JJR
 O	.	.
+
 O	Since	IN
 O	prehistoric	JJ
 O	times	NNS
@@ -851,6 +881,7 @@ O	made	VBN
 O	of	IN
 B-Com	plastics	NNS
 O	.	.
+
 O	He	PRP
 O	founded	VBD
 O	Meadowbrook	NNP
@@ -875,7 +906,7 @@ O	industrial	JJ
 B-Trg	glitter	NN
 O	.	.
 
-#    Target,Target
+#	Helioplex,this
 B-Trg	Helioplex	NNP
 O	is	VBZ
 O	a	DT
@@ -898,6 +929,7 @@ O	made	VBN
 O	by	IN
 O	Neutrogena	NNP
 O	.	.
+
 O	Avobenzone-containing	JJ
 O	products	NNS
 O	have	VBP
@@ -924,6 +956,7 @@ I-Eff	degradation	NN
 O	that	WDT
 O	occurs	VBZ
 O	.	.
+
 O	Aveeno	NNP
 O	advertises	VBZ
 O	its	PRP$
@@ -943,7 +976,7 @@ I-Ver	Complex	NN
 O	.	.
 O	''	''
 
-#    Target,Target
+#	Herbal distillates,floral water,hydrosol,hydrolate,herbal water,essential water,They,herbal distillates
 B-Trg	Herbal	JJ
 I-Trg	distillates	NNS
 O	,	,
@@ -968,6 +1001,7 @@ O	products	NNS
 O	of	IN
 O	distillation	NN
 O	.	.
+
 B-Trg	They	PRP
 O	are	VBP
 B-Com	colloidal	JJ
@@ -999,6 +1033,7 @@ O	)	-RRB-
 O	from	IN
 O	plants/herbs	NNS
 O	.	.
+
 O	These	DT
 B-Trg	herbal	JJ
 I-Trg	distillates	NNS
@@ -1015,6 +1050,7 @@ I-MOU	skin	NN
 I-MOU	care	NN
 O	)	-RRB-
 O	.	.
+
 B-Trg	Herbal	JJ
 I-Trg	distillates	NNS
 O	are	VBP
@@ -1029,6 +1065,7 @@ O	as	IN
 O	essential	JJ
 O	oils	NNS
 O	.	.
+
 O	However	RB
 O	,	,
 O	the	DT
@@ -1054,7 +1091,7 @@ I-Eff	watery	JJ
 I-Eff	distillate	NN
 O	.	.
 
-#    Target,Target
+#	Hydrolyzed collagen,collagen hydrolysate,It,collagen peptide,gelatine,gelatine hydrolysate,hydrolyzed gelatine
 B-Trg	Hydrolyzed	VBN
 I-Trg	collagen	NN
 O	is	VBZ
@@ -1063,6 +1100,7 @@ O	form	NN
 O	of	IN
 O	collagen	NN
 O	.	.
+
 B-Trg	It	PRP
 O	is	VBZ
 O	also	RB
@@ -1082,7 +1120,7 @@ B-Trg	hydrolyzed	VBN
 I-Trg	gelatine	NN
 O	.	.
 
-#    Target,Target
+#	kabuki brush,mushroom brush,brushes
 O	A	DT
 B-Trg	kabuki	FW
 I-Trg	brush	NN
@@ -1104,6 +1142,7 @@ O	and	CC
 O	dense	JJ
 O	bristles	VBZ
 O	.	.
+
 O	The	DT
 O	brush	NN
 O	head	NN
@@ -1119,6 +1158,7 @@ O	be	VB
 O	also	RB
 O	flat	JJ
 O	.	.
+
 B-Time	Traditionally	RB
 O	,	,
 O	the	DT
@@ -1153,7 +1193,7 @@ B-Ver	synthetic	JJ
 I-Ver	bristles	VBZ
 O	.	.
 
-#    Target,Target
+#	Perfume,Perfumes
 B-Trg	Perfume	NN
 O	is	VBZ
 O	a	DT
@@ -1214,6 +1254,7 @@ O	from	IN
 O	archaeological	JJ
 O	digs	NNS
 O	.	.
+
 O	Modern	NNP
 O	perfumery	NN
 O	began	VBD
@@ -1253,7 +1294,7 @@ O	aromatics	NNS
 O	alone	RB
 O	.	.
 
-#    Target,Target
+#	Kohl,It,kohl
 B-Trg	Kohl	NNP
 O	is	VBZ
 O	an	DT
@@ -1270,6 +1311,7 @@ I-Com	(	-LRB-
 I-Com	Sb2S3	NN
 O	)	-RRB-
 O	.	.
+
 B-Trg	It	PRP
 O	is	VBZ
 O	widely	RB
@@ -1310,6 +1352,7 @@ I-MOU	for	IN
 I-MOU	the	DT
 I-MOU	eyelashes	NNS
 O	.	.
+
 B-Trg	It	PRP
 O	is	VBZ
 O	worn	JJ
@@ -1325,6 +1368,7 @@ I-User	men	NNS
 I-User	and	CC
 I-User	children	NNS
 O	.	.
+
 B-Trg	Kohl	NNP
 O	has	VBZ
 O	also	RB
@@ -1340,6 +1384,7 @@ O	a	DT
 O	long	JJ
 O	time	NN
 O	.	.
+
 O	In	IN
 O	addition	NN
 O	,	,
@@ -1357,7 +1402,7 @@ O	after	IN
 O	birth	NN
 O	.	.
 
-#    Target,Target
+#	Kumkuma,It,kuṅkumam,kumkuma,kumkum,kunkumam,Kungkumam
 B-Trg	Kumkuma	NNP
 O	is	VBZ
 O	a	DT
@@ -1371,6 +1416,7 @@ I-MOU	markings	NNS
 O	in	IN
 O	India	NNP
 O	.	.
+
 B-Trg	It	PRP
 O	is	VBZ
 O	either	CC
@@ -1383,6 +1429,7 @@ I-Com	other	JJ
 I-Com	local	JJ
 I-Com	materials	NNS
 O	.	.
+
 O	The	DT
 O	turmeric	NN
 O	is	VBZ
@@ -1407,6 +1454,7 @@ I-Eff	a	DT
 I-Eff	red	JJ
 I-Eff	color	NN
 O	.	.
+
 O	In	IN
 O	India	NNP
 O	,	,
@@ -1428,7 +1476,7 @@ O	,	,
 B-Trg	Kungkumam	NNP
 O	.	.
 
-#    Target,Target
+#	Lip gloss,It,product
 B-Trg	Lip	NN
 I-Trg	gloss	VBP
 O	is	VBZ
@@ -1451,6 +1499,7 @@ I-Eff	a	DT
 I-Eff	subtle	JJ
 I-Eff	color	NN
 O	.	.
+
 B-Trg	It	PRP
 O	is	VBZ
 O	distributed	VBN
@@ -1479,6 +1528,7 @@ O	soothing	JJ
 O	purposes	NNS
 O	)	-RRB-
 O	.	.
+
 O	The	DT
 B-Trg	product	NN
 O	is	VBZ
@@ -1507,7 +1557,7 @@ I-Ver	metallic	JJ
 I-Ver	finishes	NNS
 O	.	.
 
-#    Target,Target
+#	Lip liner,lip pencil,It,product
 B-Trg	Lip	NN
 I-Trg	liner	NN
 O	,	,
@@ -1522,6 +1572,7 @@ O	a	DT
 B-Eff	cosmetic	JJ
 O	product	NN
 O	.	.
+
 B-Trg	It	PRP
 O	is	VBZ
 B-Deg	intended	VBN
@@ -1546,6 +1597,7 @@ I-Eff	a	DT
 I-Eff	smooth	JJ
 I-Eff	shape	NN
 O	.	.
+
 B-Trg	It	PRP
 O	is	VBZ
 O	also	RB
@@ -1582,6 +1634,7 @@ I-Eff	stand	VBP
 I-Eff	out	RP
 I-Eff	more	RBR
 O	.	.
+
 O	The	DT
 B-Trg	product	NN
 O	is	VBZ
@@ -1595,6 +1648,7 @@ O	or	CC
 B-Ver	pencil	NN
 I-Ver	form	NN
 O	.	.
+
 B-Trg	Lip	NN
 I-Trg	liner	NN
 O	is	VBZ
@@ -1622,7 +1676,7 @@ O	,	,
 O	etc	FW
 O	.	.
 
-#    Target,Target
+#	Lip stain,It,it
 B-Trg	Lip	NN
 I-Trg	stain	VBP
 O	is	VBZ
@@ -1644,6 +1698,7 @@ B-Ver	liquid	NN
 O	or	CC
 B-Ver	gel	NN
 O	.	.
+
 B-Trg	It	PRP
 B-Cer	generally	RB
 B-Eff	stays	VBZ
@@ -1661,6 +1716,7 @@ I-Eff	on	IN
 I-Eff	the	DT
 I-Eff	lips	NNS
 O	.	.
+
 O	However	RB
 O	,	,
 B-Trg	it	PRP
@@ -1676,7 +1732,7 @@ B-Time	for	IN
 I-Time	winter	NN
 O	.	.
 
-#    Target,Target
+#	Lipstick,lipstick
 B-Trg	Lipstick	NN
 O	is	VBZ
 O	a	DT
@@ -1703,6 +1759,7 @@ I-Eff	to	TO
 I-Eff	the	DT
 I-Eff	lips	NNS
 O	.	.
+
 O	Many	JJ
 O	colors	NNS
 O	and	CC
@@ -1711,6 +1768,7 @@ O	of	IN
 B-Trg	lipstick	NN
 O	exist	VBP
 O	.	.
+
 O	As	IN
 O	with	IN
 O	most	JJS
@@ -1731,6 +1789,7 @@ O	worn	VBN
 O	by	IN
 B-User	women	NNS
 O	.	.
+
 O	The	DT
 O	use	NN
 O	of	IN
@@ -1742,7 +1801,7 @@ O	medieval	JJ
 O	times	NNS
 O	.	.
 
-#    Target,Target
+#	makeup brush
 O	A	DT
 B-Trg	makeup	NN
 I-Trg	brush	NN
@@ -1765,6 +1824,7 @@ I-MOU	or	CC
 I-MOU	face	NN
 I-MOU	painting	NN
 O	.	.
+
 O	The	DT
 O	bristles	VBZ
 O	could	MD
@@ -1789,6 +1849,7 @@ B-Com	plastic	NN
 O	or	CC
 B-Com	wood	NN
 O	.	.
+
 O	When	WRB
 O	cosmetics	NNS
 O	are	VBP
@@ -1804,6 +1865,7 @@ I-Eff	into	IN
 I-Eff	the	DT
 I-Eff	skin	NN
 O	.	.
+
 O	There	EX
 O	is	VBZ
 O	a	DT
@@ -1838,6 +1900,7 @@ O	the	DT
 O	wanted	JJ
 O	result	NN
 O	.	.
+
 O	For	IN
 O	example	NN
 O	,	,
@@ -1862,7 +1925,7 @@ O	or	CC
 B-Ver	tapered	JJ
 O	.	.
 
-#    Target,Target
+#	Mascara,It
 B-Trg	Mascara	NN
 O	is	VBZ
 O	a	DT
@@ -1874,6 +1937,7 @@ B-Eff	enhance	VB
 I-Eff	the	DT
 I-Eff	eyes	NNS
 O	.	.
+
 B-Trg	It	PRP
 B-Cer	may	MD
 B-Eff	darken	VB
@@ -1887,6 +1951,7 @@ I-Eff	define	VB
 I-Eff	the	DT
 I-Eff	eyelashes	NNS
 O	.	.
+
 O	Normally	RB
 O	in	IN
 O	one	CD
