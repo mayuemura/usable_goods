@@ -1,4 +1,4 @@
-#	Target,Target
+#	Aloe vera
 B-Trg	Aloe	NNP
 I-Trg	vera	NN
 O	is	VBZ
@@ -7,6 +7,7 @@ O	succulent	JJ
 O	plant	NN
 O	species	NNS
 O	.	.
+
 O	Extracts	NNS
 O	from	IN
 B-Trg	Aloe	NNP
@@ -35,6 +36,7 @@ I-Eff	or	CC
 I-Eff	soothing	JJ
 I-Eff	properties	NNS
 O	.	.
+
 O	There	EX
 O	is	VBZ
 O	,	,
@@ -72,6 +74,7 @@ I-Cer	by	IN
 I-Cer	other	JJ
 I-Cer	studies	NNS
 O	.	.
+
 B-Ver	Non-decolorized	JJ
 I-Ver	aloe	NN
 I-Ver	vera	NN
@@ -99,7 +102,7 @@ O	with	IN
 O	goldenseal	NN
 O	.	.
 
-#    Target,Target
+#	Althaea,It,Althaea officinalis,marshmallow plant,They
 B-Trg	Althaea	NNP
 O	is	VBZ
 O	a	DT
@@ -119,6 +122,7 @@ O	and	CC
 O	western	JJ
 O	Asia	NNP
 O	.	.
+
 B-Trg	It	PRP
 O	includes	VBZ
 B-Trg	Althaea	NNP
@@ -139,6 +143,7 @@ O	got	VBD
 O	its	PRP$
 O	name	NN
 O	.	.
+
 B-Trg	They	PRP
 O	are	VBP
 O	found	VBN
@@ -158,6 +163,7 @@ O	,	,
 O	sandy	JJ
 O	soils	NNS
 O	.	.
+
 O	The	DT
 O	stems	VBZ
 O	grow	VB
@@ -173,6 +179,7 @@ O	in	IN
 O	mid	JJ
 O	summer	NN
 O	.	.
+
 O	The	DT
 O	leaves	NNS
 O	are	VBP
@@ -185,7 +192,7 @@ O	7	CD
 O	lobes	NNS
 O	.	.
 
-#    Target,Target
+#	Angelica sinensis,dong quai,female ginseng,plant
 B-Trg	Angelica	NNP
 I-Trg	sinensis	NNP
 O	,	,
@@ -211,6 +218,7 @@ O	indigenous	JJ
 O	to	TO
 O	China	NNP
 O	.	.
+
 B-Trg	Angelica	NNP
 I-Trg	sinensis	VBZ
 O	grows	VBZ
@@ -227,6 +235,7 @@ O	,	,
 O	and	CC
 O	Korea	NNP
 O	.	.
+
 O	The	DT
 O	yellowish	JJ
 O	brown	JJ
@@ -251,7 +260,7 @@ I-Time	of	IN
 I-Time	years	NNS
 O	.	.
 
-#    Target,Target
+#	artichoke,Cynara cardunculus var. scolymus,plant
 O	The	DT
 O	globe	NN
 B-Trg	artichoke	NN
@@ -275,6 +284,7 @@ I-MOU	as	IN
 I-MOU	a	DT
 I-MOU	food	NN
 O	.	.
+
 O	The	DT
 O	edible	JJ
 O	portion	NN
@@ -293,6 +303,7 @@ O	come	VBP
 O	into	IN
 O	bloom	NN
 O	.	.
+
 O	The	DT
 O	budding	VBG
 B-Trg	artichoke	NN
@@ -319,6 +330,7 @@ O	an	DT
 O	edible	JJ
 O	base	NN
 O	.	.
+
 O	Once	RB
 O	the	DT
 O	buds	NNS
@@ -335,6 +347,7 @@ O	barely	RB
 O	edible	JJ
 O	form	NN
 O	.	.
+
 O	Another	DT
 O	variety	NN
 O	of	IN
@@ -354,7 +367,7 @@ O	Mediterranean	JJ
 O	region	NN
 O	.	.
 
-#    Target,Target
+#	Astragalus,It,genus,milkvetch,locoweed,goat's-thorn
 B-Trg	Astragalus	NN
 O	is	VBZ
 O	a	DT
@@ -381,6 +394,7 @@ O	the	DT
 O	subfamily	NN
 O	Faboideae	NN
 O	.	.
+
 B-Trg	It	PRP
 O	is	VBZ
 O	the	DT
@@ -394,6 +408,7 @@ O	of	IN
 O	described	VBN
 O	species	NNS
 O	.	.
+
 O	The	DT
 B-Trg	genus	NN
 O	is	VBZ
@@ -406,6 +421,7 @@ O	the	DT
 O	Northern	JJ
 O	Hemisphere	NNP
 O	.	.
+
 O	Common	JJ
 O	names	NNS
 O	include	VBP
@@ -437,6 +453,7 @@ O	A.	NN
 O	tragacanthus	NN
 O	)	-RRB-
 O	.	.
+
 O	Some	DT
 O	pale-flowered	JJ
 O	vetches	NNS
@@ -452,7 +469,7 @@ O	more	RBR
 O	vine-like	JJ
 O	.	.
 
-#    Target,Target
+#	Bilberries,species,Vaccinium myrtillus L
 B-Trg	Bilberries	NNS
 O	are	VBP
 O	any	DT
@@ -480,6 +497,7 @@ O	nearly	RB
 O	black	JJ
 O	berries	NNS
 O	.	.
+
 O	The	DT
 B-Trg	species	NNS
 O	most	RBS
@@ -500,6 +518,7 @@ O	closely	RB
 O	related	JJ
 O	species	NNS
 O	.	.
+
 B-Trg	Bilberries	NNS
 O	are	VBP
 O	distinct	JJ
@@ -512,7 +531,7 @@ O	to	TO
 O	them	PRP
 O	.	.
 
-#    Target,Target
+#	Bromelain,extract,bromelain
 B-Trg	Bromelain	NNP
 O	is	VBZ
 O	a	DT
@@ -538,6 +557,7 @@ O	plant	NN
 O	and	CC
 O	fruit	NN
 O	.	.
+
 O	The	DT
 B-Trg	extract	NN
 O	has	VBZ
@@ -548,6 +568,7 @@ O	folk	NN
 B-Eff	medicine	NN
 O	use	NN
 O	.	.
+
 O	As	IN
 O	a	DT
 O	culinary	JJ
@@ -562,6 +583,7 @@ I-MOU	a	DT
 I-MOU	meat	NN
 I-MOU	tenderizer	NN
 O	.	.
+
 O	The	DT
 O	term	NN
 O	``	``
@@ -603,6 +625,7 @@ O	in	IN
 O	an	DT
 O	extract	NN
 O	.	.
+
 O	Although	IN
 B-Cer	tested	VBN
 I-Cer	in	IN
@@ -631,7 +654,7 @@ I-Eff	or	CC
 I-Eff	drug	NN
 O	.	.
 
-#    Target,Target
+#	cayenne pepper,Guinea spice,cow-horn pepper,red hot chili pepper,aleva,bird pepper,red pepper,It,Capsicum
 O	The	DT
 B-Trg	cayenne	NN
 I-Trg	pepper	NN
@@ -687,6 +710,7 @@ O	,	,
 O	and	CC
 O	others	NNS
 O	.	.
+
 O	The	DT
 B-Trg	Capsicum	NN
 O	genus	NN
@@ -699,6 +723,7 @@ O	(	-LRB-
 O	Solanaceae	NN
 O	)	-RRB-
 O	.	.
+
 B-Trg	It	PRP
 O	is	VBZ
 O	a	DT
@@ -710,6 +735,7 @@ O	to	TO
 B-Eff	flavor	NN
 I-Eff	dishes	NNS
 O	.	.
+
 B-Trg	It	PRP
 O	is	VBZ
 O	named	VBN
@@ -722,6 +748,7 @@ O	in	IN
 O	French	NNP
 O	Guiana	NNP
 O	.	.
+
 O	The	DT
 O	fruits	NNS
 O	are	VBP
@@ -754,7 +781,7 @@ O	same	JJ
 O	name	NN
 O	.	.
 
-#    Target,Target
+#	Chamomile,camomile,chamomile
 B-Trg	Chamomile	NNP
 O	or	CC
 B-Trg	camomile	JJ
@@ -784,6 +811,7 @@ O	various	JJ
 B-Eff	medicinal	JJ
 O	purposes	NNS
 O	.	.
+
 O	Popular	NNP
 O	uses	VBZ
 O	of	IN
@@ -813,7 +841,7 @@ I-MOU	and	CC
 I-MOU	hemorrhoids	NNS
 O	.	.
 
-#    Target,Target
+#	Chlorella,It,it
 B-Trg	Chlorella	NNP
 O	is	VBZ
 O	a	DT
@@ -829,6 +857,7 @@ O	the	DT
 B-Part	phylum	NN
 I-Part	Chlorophyta	NNP
 O	.	.
+
 B-Trg	It	PRP
 O	is	VBZ
 O	spherical	JJ
@@ -848,6 +877,7 @@ O	is	VBZ
 O	without	IN
 O	flagella	NNS
 O	.	.
+
 B-Trg	Chlorella	NNP
 O	contains	VBZ
 O	the	DT
@@ -862,6 +892,7 @@ O	in	IN
 O	its	PRP$
 O	chloroplast	NN
 O	.	.
+
 O	Through	IN
 B-Eff	photosynthesis	NN
 O	,	,
@@ -887,6 +918,7 @@ O	minerals	NNS
 O	to	TO
 O	reproduce	VB
 O	.	.
+
 O	The	DT
 O	name	NN
 B-Trg	Chlorella	NNP
@@ -913,13 +945,14 @@ O	meaning	VBG
 O	small	JJ
 O	.	.
 
-#    Target,Target
+#	Choline,It
 B-Trg	Choline	NNP
 O	is	VBZ
 O	a	DT
 B-Eff	water-soluble	JJ
 O	nutrient	NN
 O	.	.
+
 B-Trg	It	PRP
 O	is	VBZ
 O	usually	RB
@@ -929,6 +962,7 @@ O	the	DT
 B-Part	B-complex	JJ
 I-Part	vitamins	NNS
 O	.	.
+
 B-Trg	Choline	NNP
 O	generally	RB
 O	refers	VBZ
@@ -979,7 +1013,7 @@ O	cell	NN
 O	membranes	NNS
 O	.	.
 
-#    Target,Target
+#	Cinnamon,cinnamon,its,cassia
 B-Trg	Cinnamon	NNP
 O	is	VBZ
 O	a	DT
@@ -1006,6 +1040,7 @@ I-MOU	and	CC
 I-MOU	savoury	JJ
 I-MOU	foods	NNS
 O	.	.
+
 O	The	DT
 O	term	NN
 O	``	``
@@ -1018,6 +1053,7 @@ B-Trg	its	PRP$
 O	mid-brown	JJ
 O	colour	NN
 O	.	.
+
 O	While	IN
 B-Ver	Cinnamomum	NN
 I-Ver	verum	NN
@@ -1060,6 +1096,7 @@ B-Ver	true	JJ
 I-Ver	cinnamon	NNP
 O	''	''
 O	.	.
+
 B-Trg	Cinnamon	NNP
 O	is	VBZ
 O	the	DT
@@ -1082,6 +1119,7 @@ O	of	IN
 O	them	PRP
 O	produce	VBP
 O	.	.
+
 O	All	DT
 O	are	VBP
 O	members	NNS
@@ -1094,6 +1132,7 @@ O	the	DT
 B-Part	family	NN
 I-Part	Lauraceae	NNP
 O	.	.
+
 O	Only	RB
 O	a	DT
 O	few	JJ
@@ -1106,7 +1145,7 @@ B-MOU	for	IN
 I-MOU	spice	NN
 O	.	.
 
-#    Target,Target
+#	Cranberries,cranberry,They
 B-Trg	Cranberries	NNS
 O	are	VBP
 O	a	DT
@@ -1127,6 +1166,7 @@ O	the	DT
 O	genus	NN
 O	Vaccinium	NN
 O	.	.
+
 O	In	IN
 O	Britain	NNP
 O	,	,
@@ -1152,6 +1192,7 @@ O	to	TO
 B-Ver	Vaccinium	NNP
 I-Ver	macrocarpon	NN
 O	.	.
+
 B-Ver	Vaccinium	NN
 I-Ver	oxycoccos	NNS
 O	is	VBZ
@@ -1177,6 +1218,7 @@ O	Canada	NNP
 O	and	CC
 O	Chile	NNP
 O	.	.
+
 O	In	IN
 O	some	DT
 O	methods	NNS
@@ -1194,6 +1236,7 @@ O	its	PRP$
 O	own	JJ
 O	right	NN
 O	.	.
+
 B-Trg	They	PRP
 O	can	MD
 O	be	VB
@@ -1211,7 +1254,7 @@ O	northern	JJ
 O	hemisphere	NN
 O	.	.
 
-#    Target,Target
+#	diuretic,diuretics
 O	A	DT
 B-Trg	diuretic	JJ
 O	is	VBZ
@@ -1224,11 +1267,13 @@ I-Eff	production	NN
 I-Eff	of	IN
 I-Eff	urine	NN
 O	.	.
+
 O	This	DT
 O	includes	VBZ
 B-Ver	forced	JJ
 I-Ver	diuresis	NN
 O	.	.
+
 O	There	EX
 O	are	VBP
 O	several	JJ
@@ -1236,6 +1281,7 @@ O	categories	NNS
 O	of	IN
 B-Trg	diuretics	NNS
 O	.	.
+
 O	All	DT
 B-Trg	diuretics	NNS
 B-Deg	increase	VBP
@@ -1256,6 +1302,7 @@ O	a	DT
 O	distinct	JJ
 O	way	NN
 O	.	.
+
 O	Alternatively	RB
 O	,	,
 O	an	DT
@@ -1283,7 +1330,7 @@ O	in	IN
 O	urine	NN
 O	.	.
 
-#    Target,Target
+#	Echinacea,They,purple coneflowers
 B-Trg	Echinacea	NNP
 O	is	VBZ
 O	a	DT
@@ -1300,6 +1347,7 @@ O	the	DT
 B-Part	daisy	NN
 I-Part	family	NN
 O	.	.
+
 O	The	DT
 B-Trg	Echinacea	NNP
 O	genus	NN
@@ -1314,6 +1362,7 @@ O	called	VBN
 B-Trg	purple	JJ
 I-Trg	coneflowers	NNS
 O	.	.
+
 B-Trg	They	PRP
 O	are	VBP
 O	found	VBN
@@ -1340,6 +1389,7 @@ I-Eff	open	JJ
 I-Eff	wooded	JJ
 I-Eff	areas	NNS
 O	.	.
+
 B-Trg	They	PRP
 O	have	VBP
 O	large	JJ
@@ -1357,6 +1407,7 @@ O	to	TO
 O	late	JJ
 O	summer	NN
 O	.	.
+
 O	The	DT
 O	generic	JJ
 O	name	NN
@@ -1385,7 +1436,7 @@ O	central	JJ
 O	disk	NN
 O	.	.
 
-#    Target,Target
+#	Enhanced water,enhanced waters,enhanced water,its
 B-Trg	Enhanced	VBN
 I-Trg	water	NN
 O	is	VBZ
@@ -1439,6 +1490,7 @@ O	non-diet	JJ
 O	soft	JJ
 O	drinks	NNS
 O	.	.
+
 O	Pepsi	NNP
 O	and	CC
 O	Coca-Cola	NNP
@@ -1449,6 +1501,7 @@ O	market	NN
 B-Trg	enhanced	VBD
 I-Trg	water	NN
 O	.	.
+
 O	The	DT
 O	marketing	NN
 O	of	IN
@@ -1479,6 +1532,7 @@ O	more	JJR
 O	additional	JJ
 O	ingredients	NNS
 O	.	.
+
 B-Ver	Vitaminwater	NN
 O	contains	VBZ
 B-Com	33	CD
@@ -1506,7 +1560,7 @@ O	Public	NNP
 O	Interest	NN
 O	.	.
 
-#    Target,Target
+#	Eye drops,they
 B-Trg	Eye	NNP
 I-Trg	drops	NNS
 O	are	VBP
@@ -1521,6 +1575,7 @@ I-MOU	route	NN
 I-MOU	to	TO
 I-MOU	administer	VB
 O	.	.
+
 O	Depending	VBG
 O	on	IN
 O	the	DT
@@ -1562,6 +1617,7 @@ O	or	CC
 B-Ver	topical	JJ
 I-Ver	anesthetics	NNS
 O	.	.
+
 B-Trg	Eye	NNP
 I-Trg	drops	VBZ
 O	sometimes	RB
@@ -1579,6 +1635,7 @@ I-Ver	and	CC
 I-Ver	tear-replacing	JJ
 I-Ver	solutions	NNS
 O	.	.
+
 B-Trg	Eye	NNP
 I-Trg	drops	NNS
 O	have	VBP
@@ -1626,7 +1683,7 @@ I-MOU	instilling	VBG
 I-MOU	drops	NNS
 O	.	.
 
-#    Target,Target
+#	Eye pillows,dream pillows
 B-Trg	Eye	NNP
 I-Trg	pillows	NNS
 O	,	,
@@ -1660,7 +1717,7 @@ B-Ver	non-scented	JJ
 I-Ver	herbs	NNS
 O	.	.
 
-#    Target,Target
+#	eyepatch,It,Eyepatches,eye pad,sleep mask,it
 O	An	DT
 B-Trg	eyepatch	NN
 O	or	CC
@@ -1679,6 +1736,7 @@ I-MOU	of	IN
 I-MOU	one	CD
 I-MOU	eye	NN
 O	.	.
+
 B-Trg	It	PRP
 O	may	MD
 O	be	VB
@@ -1715,6 +1773,7 @@ O	pair	NN
 O	of	IN
 O	glasses	NNS
 O	.	.
+
 B-Trg	It	PRP
 O	is	VBZ
 O	often	RB
@@ -1767,6 +1826,7 @@ O	a	DT
 B-Trg	sleep	NN
 I-Trg	mask	NN
 O	.	.
+
 B-Trg	Eyepatches	NNS
 O	associated	VBN
 O	with	IN
@@ -1779,7 +1839,7 @@ O	from	IN
 O	fiction	NN
 O	.	.
 
-#    Target,Target
+#	Fish oil,Fish oils,fish oil
 B-Trg	Fish	NN
 I-Trg	oil	NN
 O	is	VBZ
@@ -1792,6 +1852,7 @@ I-Com	of	IN
 I-Com	oily	JJ
 I-Com	fish	NN
 O	.	.
+
 B-Trg	Fish	NN
 I-Trg	oils	NNS
 O	contain	VBP
@@ -1831,6 +1892,7 @@ O	other	JJ
 B-Eff	health	NN
 I-Eff	benefits	NNS
 O	.	.
+
 O	Nonetheless	RB
 O	,	,
 B-Trg	fish	NN
@@ -1849,6 +1911,7 @@ I-Eff	attacks	NNS
 I-Eff	or	CC
 I-Eff	strokes	NNS
 O	.	.
+
 B-Trg	Fish	NN
 I-Trg	oil	NN
 O	is	VBZ
@@ -1860,6 +1923,7 @@ I-MOU	in	IN
 I-MOU	aquaculture	NN
 I-MOU	feed	NN
 O	.	.
+
 O	More	JJR
 O	than	IN
 O	50	CD
@@ -1881,7 +1945,7 @@ O	farmed	JJ
 O	salmon	NN
 O	.	.
 
-#    Target,Target
+#	Flavonoids,bioflavonoids,they,flavonoid
 B-Trg	Flavonoids	NNS
 O	(	-LRB-
 O	or	CC
@@ -1911,6 +1975,7 @@ O	fungus	NN
 O	secondary	JJ
 O	metabolites	NNS
 O	.	.
+
 O	Chemically	RB
 O	,	,
 B-Trg	they	PRP
@@ -1941,6 +2006,7 @@ I-Com	(	-LRB-
 O	C	NN
 O	)	-RRB-
 O	.	.
+
 O	This	DT
 O	carbon	NN
 O	structure	NN
@@ -1949,6 +2015,7 @@ O	be	VB
 O	abbreviated	JJ
 O	C6-C3-C6	NN
 O	.	.
+
 O	According	VBG
 O	to	TO
 O	the	DT
@@ -2007,6 +2074,7 @@ O	and	CC
 O	flavonols	NNS
 O	)	-RRB-
 O	.	.
+
 O	This	DT
 O	class	NN
 O	was	VBD
@@ -2018,7 +2086,7 @@ O	termed	VBN
 O	bioflavonoids	NNS
 O	.	.
 
-#    Target,Target
+#	Flax,It,common flax,linseed,flax,linen
 B-Trg	Flax	NN
 O	(	-LRB-
 O	also	RB
@@ -2049,6 +2117,7 @@ I-Part	the	DT
 I-Part	family	NN
 I-Part	Linaceae	NNP
 O	.	.
+
 B-Trg	It	PRP
 O	is	VBZ
 O	a	DT
@@ -2066,6 +2135,7 @@ O	of	IN
 O	the	DT
 O	world	NN
 O	.	.
+
 O	The	DT
 O	textiles	NNS
 O	made	VBN
@@ -2091,6 +2161,7 @@ I-MOU	and	CC
 I-MOU	table	NN
 I-MOU	linen	NN
 O	.	.
+
 O	The	DT
 O	oil	NN
 O	is	VBZ
@@ -2099,6 +2170,7 @@ O	as	IN
 B-Ver	linseed	NN
 I-Ver	oil	NN
 O	.	.
+
 O	In	IN
 O	addition	NN
 O	to	TO
@@ -2125,7 +2197,7 @@ O	flax	NN
 O	plant	NN
 O	.	.
 
-#    Target,Target
+#	Goldenseal,Hydrastis canadensis,orangeroot,yellow puccoon,It,plant
 B-Trg	Goldenseal	NNP
 B-Trg	(	-LRB-
 I-Trg	Hydrastis	NNP
@@ -2159,6 +2231,7 @@ O	eastern	JJ
 O	United	NNP
 O	States	NNPS
 O	.	.
+
 B-Trg	It	PRP
 O	may	MD
 O	be	VB
@@ -2171,6 +2244,7 @@ O	yellow	JJ
 O	knotted	JJ
 O	rootstock	NN
 O	.	.
+
 O	The	DT
 O	stem	NN
 O	is	VBZ
@@ -2191,6 +2265,7 @@ O	the	DT
 O	yellow	JJ
 O	rhizome	NN
 O	.	.
+
 O	The	DT
 B-Trg	plant	NN
 O	bears	VBZ
@@ -2221,6 +2296,7 @@ O	the	DT
 O	late	JJ
 O	spring	NN
 O	.	.
+
 B-Trg	It	PRP
 O	bears	VBZ
 O	a	DT
@@ -2240,7 +2316,7 @@ O	the	DT
 O	summer	NN
 O	.	.
 
-#    Target,Target
+#	Kava,kava-kava,kava(-kava),kava,okinaawa,ava,yaqona,sakau,malok,malogu,plant
 B-Trg	Kava	NN
 O	or	CC
 B-Trg	kava-kava	NN
@@ -2270,6 +2346,7 @@ O	western	JJ
 O	Pacific	NNP
 O	Pacific	NNP
 O	.	.
+
 O	The	DT
 O	name	NN
 B-Trg	kava	FW
@@ -2318,6 +2395,7 @@ O	of	IN
 O	Vanuatu	NNP
 O	)	-RRB-
 O	.	.
+
 O	The	DT
 O	roots	NNS
 O	of	IN
@@ -2335,6 +2413,7 @@ I-Eff	and	CC
 I-Eff	anesthetic	JJ
 I-Eff	properties	NNS
 O	.	.
+
 B-Trg	Kava	NNP
 O	is	VBZ
 O	consumed	VBN
@@ -2379,7 +2458,7 @@ I-MOU	mental	JJ
 I-MOU	clarity	NN
 O	.	.
 
-#    Target,Target
+#	Krill oil,krill oil
 B-Trg	Krill	NNP
 I-Trg	oil	NN
 O	is	VBZ
@@ -2396,6 +2475,7 @@ I-Com	,	,
 I-Com	Euphausia	NNP
 I-Com	superba	NN
 O	.	.
+
 O	Two	CD
 O	of	IN
 O	the	DT
@@ -2435,6 +2515,7 @@ B-Com	marine	JJ
 I-Com	lecithin	NN
 O	)	-RRB-
 O	.	.
+
 B-Cer	Studies	NNS
 I-Cer	have	VBP
 I-Cer	shown	VBN
@@ -2493,6 +2574,7 @@ I-Cer	tested	VBN
 I-Cer	the	DT
 I-Cer	products	NNS
 O	.	.
+
 O	While	IN
 O	not	RB
 O	an	DT
@@ -2537,7 +2619,7 @@ O	human	JJ
 O	harvesting	NN
 O	.	.
 
-#    Target,Target
+#	Lactase,It,lactase,it
 B-Trg	Lactase	NNP
 O	is	VBZ
 O	an	DT
@@ -2547,6 +2629,7 @@ O	by	IN
 O	many	JJ
 O	organisms	NNS
 O	.	.
+
 B-Trg	It	PRP
 O	is	VBZ
 O	located	JJ
@@ -2564,6 +2647,7 @@ O	and	CC
 O	other	JJ
 O	mammals	NNS
 O	.	.
+
 B-Trg	Lactase	NNP
 O	is	VBZ
 O	essential	JJ
@@ -2588,6 +2672,7 @@ O	milk	NN
 O	its	PRP$
 O	sweetness	NN
 O	.	.
+
 O	Lacking	VBG
 B-Trg	lactase	NN
 O	,	,
@@ -2604,6 +2689,7 @@ O	of	IN
 O	lactose	NN
 O	intolerance	NN
 O	.	.
+
 B-Trg	Lactase	NNP
 O	can	MD
 O	be	VB
@@ -2627,7 +2713,7 @@ I-MOU	milk	NN
 I-MOU	products	NNS
 O	.	.
 
-#    Target,Target
+#	lipase,Lipases,lipases
 O	A	DT
 B-Trg	lipase	NN
 O	is	VBZ
@@ -2643,6 +2729,7 @@ I-Eff	(	-LRB-
 I-Eff	lipids	NNS
 O	)	-RRB-
 O	.	.
+
 B-Trg	Lipases	NNS
 O	are	VBP
 O	a	DT
@@ -2651,6 +2738,7 @@ I-Com	of	IN
 I-Com	the	DT
 I-Com	esterases	NNS
 O	.	.
+
 B-Trg	Lipases	NNS
 B-Eff	perform	VBP
 I-Eff	essential	JJ
@@ -2683,6 +2771,7 @@ I-Loc	,	,
 I-Loc	living	VBG
 I-Loc	organisms	NNS
 O	.	.
+
 B-Eff	Genes	NNS
 I-Eff	encoding	VBG
 B-Trg	lipases	NNS
@@ -2693,6 +2782,7 @@ B-Loc	in	IN
 I-Loc	certain	JJ
 I-Loc	viruses	NNS
 O	.	.
+
 O	Most	JJS
 B-Trg	lipases	NNS
 O	act	VBP
@@ -2720,7 +2810,7 @@ O	intestine	NN
 O	)	-RRB-
 O	.	.
 
-#    Target,Target
+#	Liquorice,liquorice,licorice
 B-Trg	Liquorice	NNP
 O	,	,
 O	or	CC
@@ -2740,6 +2830,7 @@ O	can	MD
 O	be	VB
 O	extracted	VBN
 O	.	.
+
 O	The	DT
 B-Trg	liquorice	NN
 O	plant	NN
@@ -2760,6 +2851,7 @@ O	parts	NNS
 O	of	IN
 O	Asia	NNP
 O	.	.
+
 O	It	PRP
 O	is	VBZ
 O	not	RB
@@ -2782,6 +2874,7 @@ O	similar	JJ
 O	flavouring	NN
 O	compounds	NNS
 O	.	.
+
 O	Most	JJS
 B-Trg	liquorice	NN
 O	is	VBZ
@@ -2827,6 +2920,7 @@ I-Eff	up	RP
 I-Eff	the	DT
 I-Eff	lungs	NNS
 O	.	.
+
 B-Trg	Liquorice	NNP
 O	flavours	NNS
 O	are	VBP
@@ -2847,7 +2941,7 @@ O	Eastern	NNP
 O	countries	NNS
 O	.	.
 
-#    Target,Target
+#	mask,Masks,They
 O	A	DT
 B-Trg	mask	NN
 O	is	VBZ
@@ -2869,6 +2963,7 @@ I-MOU	performance	NN
 I-MOU	or	CC
 I-MOU	entertainment	NN
 O	.	.
+
 B-Trg	Masks	NNS
 O	have	VBP
 O	been	VBN
@@ -2882,6 +2977,7 @@ I-MOU	and	CC
 I-MOU	practical	JJ
 I-MOU	purposes	NNS
 O	.	.
+
 B-Trg	They	PRP
 O	are	VBP
 B-MOU	usually	RB
@@ -2905,6 +3001,7 @@ I-MOU	wearer	NN
 I-MOU	's	POS
 I-MOU	body	NN
 O	.	.
+
 B-Loc	In	IN
 I-Loc	parts	NNS
 I-Loc	of	IN
@@ -2929,7 +3026,7 @@ I-Time	and	CC
 I-Time	dancing	NN
 O	.	.
 
-#    Target,Target
+#	mirror,Mirrors
 O	A	DT
 B-Trg	mirror	NN
 O	is	VBZ
@@ -2971,6 +3068,7 @@ I-Eff	the	DT
 I-Eff	original	JJ
 I-Eff	light	NN
 O	.	.
+
 O	This	DT
 O	is	VBZ
 O	different	JJ
@@ -2996,6 +3094,7 @@ O	diffuse	JJ
 O	reflected	VBN
 O	light	NN
 O	.	.
+
 O	The	DT
 O	most	RBS
 O	familiar	JJ
@@ -3014,6 +3113,7 @@ O	flat	JJ
 O	screen	NN
 O	surface	NN
 O	.	.
+
 B-Ver	Curved	JJ
 I-Ver	mirrors	VBZ
 O	are	VBP
@@ -3036,6 +3136,7 @@ I-MOU	the	DT
 I-MOU	reflected	VBN
 I-MOU	image	NN
 O	.	.
+
 B-Trg	Mirrors	NNS
 O	are	VBP
 B-MOU	commonly	RB
@@ -3066,7 +3167,7 @@ O	and	CC
 B-MOU	architecture	NN
 O	.	.
 
-#    Target,Target
+#	multivitamin,multivitamins,Multivitamin,mineral supplement
 O	A	DT
 B-Trg	multivitamin	NN
 O	is	VBZ
@@ -3089,6 +3190,7 @@ O	other	JJ
 B-Com	nutritional	JJ
 I-Com	elements	NNS
 O	.	.
+
 O	Such	JJ
 O	preparations	NNS
 O	are	VBP
@@ -3111,6 +3213,7 @@ O	and	CC
 B-Ver	injectable	JJ
 I-Ver	formulations	NNS
 O	.	.
+
 O	Other	JJ
 O	than	IN
 O	injectable	JJ
@@ -3150,6 +3253,7 @@ O	category	NN
 O	of	IN
 O	food	NN
 O	.	.
+
 B-Trg	Multivitamin	JJ
 O	supplements	NNS
 O	are	VBP
@@ -3161,6 +3265,7 @@ I-MOU	with	IN
 I-MOU	dietary	JJ
 I-MOU	minerals	NNS
 O	.	.
+
 O	A	DT
 B-Trg	multivitamin	JJ
 I-Trg	mineral	JJ
@@ -3229,7 +3334,7 @@ I-Eff	health	NN
 I-Eff	effects	NNS
 O	.	.
 
-#    Target,Target
+#	Oregano,It,wild marjoram
 B-Trg	Oregano	NNP
 O	is	VBZ
 O	a	DT
@@ -3248,6 +3353,7 @@ I-Com	(	-LRB-
 I-Com	Lamiaceae	NN
 O	)	-RRB-
 O	.	.
+
 B-Trg	It	PRP
 O	is	VBZ
 O	native	JJ
@@ -3262,6 +3368,7 @@ O	the	DT
 O	Mediterranean	JJ
 O	region	NN
 O	.	.
+
 B-Trg	Oregano	NNP
 O	is	VBZ
 O	a	DT
@@ -3283,6 +3390,7 @@ O	--	:
 O	4cm	CD
 O	long	RB
 O	.	.
+
 B-Trg	Oregano	NNP
 O	will	MD
 O	grow	VB
@@ -3311,6 +3419,7 @@ O	6.0	CD
 O	and	CC
 O	8.0	CD
 O	.	.
+
 O	The	DT
 O	flowers	NNS
 O	are	VBP
@@ -3326,6 +3435,7 @@ O	in	IN
 O	erect	JJ
 O	spikes	NNS
 O	.	.
+
 B-Trg	It	PRP
 O	is	VBZ
 O	sometimes	RB
@@ -3346,7 +3456,7 @@ O	sweet	JJ
 O	marjoram	NN
 O	.	.
 
-#    Target,Target
+#	Orlistat,It,Its,tetrahydrolipstatin
 B-Trg	Orlistat	NNP
 O	(	-LRB-
 O	also	RB
@@ -3362,6 +3472,7 @@ O	to	TO
 B-MOU	treat	VB
 I-MOU	obesity	NN
 O	.	.
+
 B-Trg	It	PRP
 O	is	VBZ
 O	marketed	VBN
@@ -3400,6 +3511,7 @@ O	the	DT
 O	United	NNP
 O	States	NNPS
 O	.	.
+
 B-Trg	Its	PRP$
 O	primary	JJ
 O	function	NN
@@ -3425,6 +3537,7 @@ B-Eff	reducing	VBG
 I-Eff	caloric	JJ
 I-Eff	intake	NN
 O	.	.
+
 B-Trg	It	PRP
 O	is	VBZ
 O	intended	VBN
@@ -3441,6 +3554,7 @@ I-MOU	|	CD
 I-MOU	reduced-calorie	NN
 I-MOU	diet	NN
 O	.	.
+
 B-Trg	Orlistat	NNP
 O	is	VBZ
 O	the	DT
@@ -3465,7 +3579,7 @@ O	Streptomyces	VBZ
 O	toxytricini	NNS
 O	.	.
 
-#    Target,Target
+#	pedometer,pedometers,it
 O	A	DT
 B-Trg	pedometer	NN
 O	is	VBZ
@@ -3500,6 +3614,7 @@ I-Eff	or	CC
 I-Eff	Hip	NN
 I-Eff	hips	NNS
 O	.	.
+
 O	Because	IN
 O	the	DT
 O	distance	NN
@@ -3563,6 +3678,7 @@ O	's	POS
 O	step	NN
 O	varies	VBZ
 O	.	.
+
 O	Distance	NNP
 O	traveled	VBD
 O	(	-LRB-
@@ -3582,6 +3698,7 @@ O	a	DT
 O	GPS	NN
 O	tracker	NN
 O	.	.
+
 O	Used	VBN
 O	originally	RB
 O	by	IN
@@ -3605,6 +3722,7 @@ I-MOU	counter	NN
 I-MOU	and	CC
 I-MOU	motivator	NN
 O	.	.
+
 O	Often	RB
 B-MOU	worn	VBN
 I-MOU	on	IN
@@ -3648,7 +3766,7 @@ I-Eff	length	NN
 O	)	-RRB-
 O	.	.
 
-#    Target,Target
+#	Prebiotics,prebiotics,it
 B-Trg	Prebiotics	NNP
 O	is	VBZ
 O	a	DT
@@ -3682,6 +3800,7 @@ I-Eff	of	IN
 I-Eff	their	PRP$
 I-Eff	host	NN
 O	.	.
+
 O	The	DT
 O	most	RBS
 O	common	JJ
@@ -3705,6 +3824,7 @@ I-Eff	the	DT
 I-Eff	gut	NN
 I-Eff	microbiome	NN
 O	.	.
+
 O	However	RB
 O	,	,
 O	in	IN
@@ -3727,6 +3847,7 @@ O	body	NN
 O	as	RB
 O	well	RB
 O	.	.
+
 O	For	IN
 O	example	NN
 O	,	,
@@ -3751,6 +3872,7 @@ I-Eff	the	DT
 I-Eff	skin	NN
 I-Eff	microbiota	NN
 O	.	.
+
 O	In	IN
 O	diet	NN
 O	,	,
@@ -3795,7 +3917,7 @@ I-Eff	for	IN
 I-Eff	them	PRP
 O	.	.
 
-#    Target,Target
+#	Probiotics,probiotic,term,probiotics
 B-Trg	Probiotics	NNS
 O	are	VBP
 O	microorganisms	NNS
@@ -3809,6 +3931,7 @@ I-Eff	benefits	NNS
 I-Eff	when	WRB
 I-Eff	consumed	VBN
 O	.	.
+
 O	The	DT
 O	term	NN
 B-Trg	probiotic	NN
@@ -3828,6 +3951,7 @@ O	humans	NNS
 O	and	CC
 O	animals	NNS
 O	.	.
+
 O	The	DT
 B-Trg	term	NN
 O	came	VBD
@@ -3838,6 +3962,7 @@ O	use	NN
 O	after	IN
 O	1980	CD
 O	.	.
+
 O	The	DT
 O	introduction	NN
 O	of	IN
@@ -3890,6 +4015,7 @@ I-Eff	useful	JJ
 I-Eff	microbes	NNS
 O	''	''
 O	.	.
+
 O	A	DT
 O	significant	JJ
 O	expansion	NN
@@ -3917,7 +4043,7 @@ O	the	DT
 O	microorganisms	NNS
 O	.	.
 
-#    Target,Target
+#	Ptychopetalum,potency wood,Muira Puama,species,Its
 B-Trg	Ptychopetalum	NN
 O	is	VBZ
 O	a	DT
@@ -3951,6 +4077,7 @@ O	the	DT
 O	Amazon	NNP
 O	rainforest	NN
 O	.	.
+
 O	The	DT
 O	indigenous	JJ
 O	name	NN
@@ -3966,6 +4093,7 @@ I-Trg	potency	NN
 I-Trg	wood	NN
 O	''	''
 O	.	.
+
 O	The	DT
 B-Trg	species	NNS
 O	are	VBP
@@ -3981,6 +4109,7 @@ O	feet	NNS
 O	in	IN
 O	height	NN
 O	.	.
+
 B-Trg	Its	PRP$
 O	leaves	NNS
 O	are	VBP
@@ -4008,6 +4137,7 @@ O	on	IN
 O	lower	JJR
 O	surface	NN
 O	.	.
+
 O	The	DT
 O	inflorescences	NNS
 O	consist	VBP
@@ -4023,7 +4153,7 @@ O	flowers	NNS
 O	each	DT
 O	.	.
 
-#    Target,Target
+#	Red yeast rice,红曲米|紅麴米,red rice koji,べにこうじ,red koji,akakoji,あかこぎ,red fermented rice,red kojic rice,red koji rice,anka,ang-kak,red yeast rice
 B-Trg	Red	NNP
 I-Trg	yeast	NN
 I-Trg	rice	NN
@@ -4097,6 +4227,7 @@ O	mold	NN
 O	Monascus	NN
 O	purpureus	NN
 O	.	.
+
 B-Trg	Red	NNP
 I-Trg	yeast	NN
 I-Trg	rice	NN
@@ -4136,6 +4267,7 @@ O	ca.	FW
 O	300	CD
 O	BC	NN
 O	.	.
+
 O	English	NNP
 O	works	NNS
 O	favoring	VBG
@@ -4151,6 +4283,7 @@ I-Trg	yeast	NN
 I-Trg	rice	NN
 O	''	''
 O	.	.
+
 O	Due	JJ
 O	to	TO
 O	the	DT
@@ -4182,7 +4315,7 @@ O	Red	NNP
 O	G	NNP
 O	.	.
 
-#    Target,Target
+#	Royal jelly,It,royal jelly
 B-Trg	Royal	NNP
 I-Trg	jelly	NNP
 O	is	VBZ
@@ -4205,6 +4338,7 @@ I-MOU	as	IN
 I-MOU	adult	JJ
 I-MOU	queens	NNS
 O	.	.
+
 B-Trg	It	PRP
 O	is	VBZ
 O	secreted	VBN
@@ -4234,6 +4368,7 @@ O	sex	NN
 O	or	CC
 O	caste	NN
 O	.	.
+
 O	When	WRB
 O	worker	NN
 O	bees	NNS
@@ -4274,6 +4409,7 @@ O	constructed	VBN
 O	queen	NN
 O	cells	NNS
 O	.	.
+
 O	This	DT
 O	type	NN
 O	of	IN
@@ -4297,7 +4433,7 @@ I-Eff	lay	VB
 I-Eff	eggs	NNS
 O	.	.
 
-#    Target,Target
+#	salve
 O	A	DT
 B-Trg	salve	NN
 O	is	VBZ
@@ -4314,7 +4450,7 @@ I-Eff	the	DT
 I-Eff	body	NN
 O	.	.
 
-#    Target,Target
+#	sky lantern,Kongming lantern,Chinese lantern,sky lanterns,天燈,天灯,Sky lanterns,sky candles,fire balloons
 O	A	DT
 B-Trg	sky	NN
 I-Trg	lantern	NN
@@ -4351,6 +4487,7 @@ O	fire	NN
 O	is	VBZ
 O	suspended	VBN
 O	.	.
+
 O	In	IN
 O	Asia	NNP
 O	and	CC
@@ -4380,6 +4517,7 @@ I-MOU	of	IN
 I-MOU	long-established	JJ
 I-MOU	festivities	NNS
 O	.	.
+
 O	The	DT
 O	name	NN
 O	``	``
@@ -4402,6 +4540,7 @@ O	,	,
 B-Trg	天灯	NN
 O	)	-RRB-
 O	.	.
+
 B-Trg	Sky	NNP
 I-Trg	lanterns	NNS
 O	have	VBP
@@ -4437,6 +4576,7 @@ O	World	NNP
 O	War	NNP
 O	II	NNP
 O	.	.
+
 O	When	WRB
 B-MOU	lit	VBN
 O	,	,
@@ -4464,7 +4604,7 @@ I-Eff	the	DT
 I-Eff	air	NN
 O	.	.
 
-#    Target,Target
+#	Spirulina,It,Arthrospira
 B-Trg	Spirulina	NNP
 O	is	VBZ
 O	a	DT
@@ -4483,6 +4623,7 @@ I-MOU	and	CC
 I-MOU	other	JJ
 I-MOU	animals	NNS
 O	.	.
+
 O	There	EX
 O	are	VBP
 O	two	CD
@@ -4494,6 +4635,7 @@ O	and	CC
 B-Ver	Arthrospira	FW
 I-Ver	maxima	NNS
 O	.	.
+
 B-Trg	Arthrospira	NNP
 O	is	VBZ
 O	cultivated	VBN
@@ -4523,6 +4665,7 @@ O	and	CC
 B-Ver	powder	NN
 I-Ver	form	NN
 O	.	.
+
 B-Trg	It	PRP
 O	is	VBZ
 O	also	RB
@@ -4543,7 +4686,7 @@ I-User	poultry	NN
 I-User	industries	NNS
 O	.	.
 
-#    Target,Target
+#	Stevia,stevia,Stevia's,its
 B-Trg	Stevia	NNP
 O	is	VBZ
 O	a	DT
@@ -4562,6 +4705,7 @@ O	species	NNS
 O	Stevia	NNP
 O	rebaudiana	NN
 O	.	.
+
 O	The	DT
 O	active	JJ
 O	compounds	NNS
@@ -4598,6 +4742,7 @@ B-Eff	not	RB
 I-Eff	fermentation	NN
 I-Eff	fermentable	JJ
 O	.	.
+
 O	These	DT
 O	steviosides	NNS
 O	have	VBP
@@ -4618,6 +4763,7 @@ I-User	on	IN
 I-User	carbohydrate-controlled	JJ
 I-User	diets	NNS
 O	.	.
+
 B-Trg	Stevia	NNP
 O	's	POS
 O	taste	NN
@@ -4649,6 +4795,7 @@ O	at	IN
 O	high	JJ
 O	concentrations	NNS
 O	.	.
+
 O	The	DT
 O	legal	JJ
 O	status	NN
@@ -4667,7 +4814,7 @@ O	to	TO
 O	country	NN
 O	.	.
 
-#    Target,Target
+#	Tableware,It,tableware
 B-Trg	Tableware	NNP
 O	is	VBZ
 O	the	DT
@@ -4685,6 +4832,7 @@ I-MOU	food	NN
 I-MOU	and	CC
 I-MOU	dining	NN
 O	.	.
+
 B-Trg	It	PRP
 O	includes	VBZ
 B-Com	cutlery	NN
@@ -4707,6 +4855,7 @@ I-MOU	as	IN
 I-MOU	decorative	JJ
 I-MOU	purposes	NNS
 O	.	.
+
 O	The	DT
 O	quality	NN
 O	,	,
@@ -4732,6 +4881,7 @@ O	cuisine	NN
 O	and	CC
 O	occasion	NN
 O	.	.
+
 O	For	IN
 O	example	NN
 O	,	,
@@ -4760,6 +4910,7 @@ O	as	IN
 O	individual	JJ
 O	plates	NNS
 O	.	.
+
 O	Special	JJ
 O	occasions	NNS
 O	are	VBP
@@ -4771,7 +4922,7 @@ O	quality	NN
 B-Trg	tableware	NN
 O	.	.
 
-#    Target,Target
+#	tattoo
 O	A	DT
 B-Trg	tattoo	NN
 O	is	VBZ
@@ -4799,7 +4950,7 @@ I-Eff	the	DT
 I-Eff	pigment	NN
 O	.	.
 
-#    Target,Target
+#	Tweezers,They,forceps,tweezers
 B-Trg	Tweezers	NNS
 O	are	VBP
 O	small	JJ
@@ -4820,6 +4971,7 @@ I-MOU	the	DT
 I-MOU	human	JJ
 I-MOU	hands	NNS
 O	.	.
+
 B-Trg	They	PRP
 O	are	VBP
 O	probably	RB
@@ -4847,6 +4999,7 @@ O	of	IN
 O	recorded	JJ
 O	history	NN
 O	.	.
+
 O	In	IN
 O	a	DT
 O	scientific	JJ
@@ -4861,6 +5014,7 @@ O	to	TO
 O	as	IN
 B-Trg	forceps	NNS
 O	.	.
+
 B-Trg	Tweezers	NNS
 O	make	VBP
 O	use	NN
@@ -4889,6 +5043,7 @@ O	at	IN
 O	the	DT
 O	others	NNS
 O	.	.
+
 B-User	Women	NNS
 O	commonly	RB
 O	use	VBP
@@ -4914,7 +5069,7 @@ B-Ver	eyebrow	NN
 I-Ver	tweezers	NNS
 O	.	.
 
-#    Target,Target
+#	antihistamine
 O	An	DT
 B-Trg	antihistamine	NN
 O	is	VBZ
@@ -4935,7 +5090,7 @@ I-Eff	the	DT
 I-Eff	body	NN
 O	.	.
 
-#    Target,Target
+#	Hair conditioner,Hair conditioners
 B-Trg	Hair	NN
 I-Trg	conditioner	NN
 O	is	VBZ
@@ -4952,6 +5107,7 @@ I-Eff	appearance	NN
 I-Eff	of	IN
 I-Eff	hair	NN
 O	.	.
+
 B-Trg	Hair	NN
 I-Trg	conditioners	NNS
 O	are	VBP
@@ -4971,6 +5127,7 @@ I-MOU	into	IN
 I-MOU	the	DT
 I-MOU	hair	NN
 O	.	.
+
 B-Trg	Hair	NN
 I-Trg	conditioner	NN
 O	is	VBZ
@@ -4983,6 +5140,7 @@ I-MOU	hair	NN
 I-MOU	with	IN
 I-MOU	shampoo	NN
 O	.	.
+
 B-Trg	Hair	NN
 I-Trg	conditioners	NNS
 O	may	MD
@@ -4998,7 +5156,7 @@ O	other	JJ
 O	ingredients	NNS
 O	.	.
 
-#    Target,Target
+#	nasal strip,external nasal dilator strip,nasal dilator strip,They,they
 O	A	DT
 B-Trg	nasal	JJ
 I-Trg	strip	NN
@@ -5046,6 +5204,7 @@ I-Eff	the	DT
 I-Eff	airway	NN
 I-Eff	open	JJ
 O	.	.
+
 B-Trg	They	PRP
 O	are	VBP
 B-Cer	believed	VBN
@@ -5076,6 +5235,7 @@ O	to	TO
 B-Eff	prevent	VB
 I-Eff	snoring	VBG
 O	.	.
+
 B-Cer	Various	JJ
 I-Cer	studies	NNS
 I-Cer	have	VBP
@@ -5088,6 +5248,7 @@ O	a	DT
 B-Eff	performance-enhancing	JJ
 O	effect	NN
 O	.	.
+
 B-Trg	They	PRP
 O	are	VBP
 O	also	RB
@@ -5130,7 +5291,7 @@ I-Eff	post-race	JJ
 I-Eff	recovery	NN
 O	.	.
 
-#    Target,Target
+#	wet wipe,Wet wipes,wet towel,moist towelette
 O	A	DT
 B-Trg	wet	JJ
 I-Trg	wipe	VBP
@@ -5166,6 +5327,7 @@ O	wrapped	VBN
 O	for	IN
 O	convenience	NN
 O	.	.
+
 B-Trg	Wet	NNP
 I-Trg	wipes	NNS
 O	are	VBP
