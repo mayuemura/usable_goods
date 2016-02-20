@@ -8,7 +8,7 @@ from pymongo import Connection
 def main():
 
     client = Connection("beer")
-    db = client["usable_goods"]
+    db = client["usable_goods_SD"]
 
     collections = ["cosme", "health", "nlp2016"]
     labels = [
@@ -26,7 +26,7 @@ def main():
             "Version"
             ]
 
-    d_kr = defaultdict(int)
+    d_dp = defaultdict(int)
     d_st = defaultdict(int)
 
     for collection in collections:
@@ -34,12 +34,20 @@ def main():
 
         for label in labels:
 
-            d_kr[label] += int(coll.find({"annotator":"kr", "kr_tag":label}).count())
+            d_dp[label] += int(coll.find({"annotator":"dp", "dp_tag":label}).count())
             d_st[label] += int(coll.find({"annotator":"st", "st_tag":label}).count())
 
-    return d_kr, d_st
+    return d_dp, d_st
 
 if __name__ == "__main__":
-    kr, st = main()
-    print kr
-    print st
+    dp, st = main()
+    for k, v in dp.iteritems():
+        print "Deepika"
+        print "{}\t{}".format(k, v)
+
+    for k, v in st.iteritems():
+        print "Stewart"
+        print "{}\t{}".format(k, v)
+
+
+#python number_of_label.py

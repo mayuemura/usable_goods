@@ -9,7 +9,7 @@ from pymongo import Connection
 def main():
 
     client = Connection("beer")
-    db = client["usable_goods"]
+    db = client["usable_goods_SD"]
 
     collections = ["cosme", "health", "nlp2016"]
 
@@ -20,16 +20,28 @@ def main():
 
     for collection in collections:
         coll = db[collection]
-        #number_of_instance += int(coll.find().count())
-        number_of_instance += int(coll.find({"$or":[{"kr_tag":{"$ne":"Target"}},{"st_tag":{"$ne":"Target"}}]}).count())
+        number_of_instance += int(coll.find().count())
+        #number_of_instance += int(coll.find({"$or":[{"dp_tag":{"$ne":"Target"}},{"st_tag":{"$ne":"Target"}}]}).count())
 
         for agreement in agreements:
-            d_ag[agreement] += int(coll.find({"agree":agreement, "$or":[{"kr_tag":{"$ne":"Target"}},{"st_tag":{"$ne":"Target"}}]}).count())
-            #d_ag[agreement] += int(coll.find({"agree":agreement}).count())
+            #d_ag[agreement] += int(coll.find({"agree":agreement, "$or":[{"dp_tag":{"$ne":"Target"}},{"st_tag":{"$ne":"Target"}}]}).count())
+            d_ag[agreement] += int(coll.find({"agree":agreement}).count())
 
-    print d_ag
+    print "All instances: {}".format(number_of_instance)
+
+    label_agree = {"Overlap", "ProperSub", "End", "Start"}
+
+    label_lmt = dict()
+    label_lmt["label_agree"] = 0
     for k, v in d_ag.iteritems():
-        yield k, v*1.0/number_of_instance*100
+        if k in label_agree:
+            label_lmt["label_agree"] += v
+        else:
+            label_lmt[k] = v
+
+    for k, v in label_lmt.iteritems():
+        yield "{}:\t{}\t{}%".format(k,v,v*1.0/number_of_instance*100)
+
 
 if __name__ == "__main__":
     for ag in main():

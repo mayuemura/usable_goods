@@ -78,7 +78,7 @@ def fetch_file(keyword_file):
 
     with open(keyword_file, "r") as f:
         for line in f:
-            keyword = line.rstrip("\n")
+            keyword = line.lower().rstrip("\n")
 
             url = "http://en.wikipedia.org/w/api.php?"
             params = urllib.urlencode({
@@ -96,9 +96,9 @@ def fetch_file(keyword_file):
 if __name__ == "__main__":
     INPUT = sys.argv[1:]
     if INPUT[0].endswith(".txt"):
-        fetch_file(INPUT)
+        fetch_file(INPUT[0])
     else:
-        keyword = "_".join(INPUT)
+        keyword = "_".join(INPUT).lower()
         fetch_word(keyword)
 
 #python fetch.py deepika_keywords.txt

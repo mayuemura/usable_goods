@@ -34,13 +34,15 @@ def file_numbering(dirname):
     number = 0 
     txtfiles = sorted(glob.glob(dirname+"/*.txt"))
     for txtfile in txtfiles:
-        basename = txtfile.lstrip(dirname+"/")
+        basename = txtfile.split("/")[-1]
+        print basename
         if basename[:3].isdigit():
             number = int(basename[:3])
+
         else:
             number += 1
             num_txtfile = dirname+"/"+str(number).zfill(3)+"_"+basename
-            num_annfile = num_txtfile.replace("txt", "ann")
+            num_annfile = num_txtfile.split(".")[0]+".ann"
 
             shutil.copyfile(txtfile, num_txtfile)
 

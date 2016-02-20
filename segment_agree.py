@@ -50,7 +50,7 @@ def agreement(segment_list_1, segment_list_2):
 
 
             else:
-                #文字のみ一致
+                #範囲完全一致,ラベルちがい
                 if segment1["words"] == segment2["words"]:
                     result = "Surface"
 
@@ -92,29 +92,32 @@ def agreement(segment_list_1, segment_list_2):
 def main(target_dir):
 
     client = Connection("beer")
-    db = client["usable_goods"]
+    db = client["usable_goods_SD"]
     coll = db[target_dir]
 
     #UO = glob.glob("data/"+target_dir+"/UO/*.ann")
     ST = glob.glob("data/"+target_dir+"/stewart/*.ann")
-    KR = glob.glob("data/"+target_dir+"/kirin/*.ann")
+    DP = glob.glob("data/"+target_dir+"/deepika/*.ann")
+    #KR = glob.glob("data/"+target_dir+"/kirin/*.ann")
 
     #UO.sort()
     ST.sort()
-    KR.sort()
+    DP.sort()
+    #KR.sort()
 
     #以降，すべてUO-->KR
-    
-    for kr, st in izip(KR, ST):
-        No_kr = kr.replace("data/"+target_dir+"/kirin/", "").split("_")[0]
+    #2016/02/18 KR-->DP
+
+    for dp, st in izip(DP, ST):
+        No_dp = dp.replace("data/"+target_dir+"/deepika/", "").split("_")[0]
         No_st = st.replace("data/"+target_dir+"/stewart/", "").split("_")[0]
-        print No_kr, No_st
-        if not No_kr == No_st:
-            print No_kr, No_st, "These files are not about same articles."
+        print No_dp, No_st
+        if not No_dp == No_st:
+            print No_dp, No_st, "These files are not about same articles."
             break
             
 
-        with open(kr, "r") as f1:
+        with open(dp, "r") as f1:
             segment_list_1 = list()
             for line in f1:
                 l = line.split()
@@ -141,7 +144,7 @@ def main(target_dir):
 
                         segment_list_1.append(ann_info)
                     except ValueError:
-                        print "file: " + kr
+                        print "file: " + dp
 
 
         with open(st, "r") as f2:
@@ -176,32 +179,32 @@ def main(target_dir):
 
 
         for iteration in agreement(segment_list_1, segment_list_2):
-            coll.update({"articleNo":No_kr, "kr_segmentNo":iteration[2], "annotator": "kr"}, {"$set": {
-                "annotator": "kr",
+            coll.update({"articleNo":No_dp, "dp_segmentNo":iteration[2], "annotator": "dp"}, {"$set": {
+                "annotator": "dp",
                 "words": iteration[0],
-                "kr_tag": iteration[1],
-                "kr_segmentNo": iteration[2],
+                "dp_tag": iteration[1],
+                "dp_segmentNo": iteration[2],
                 "st_tag": iteration[3],
                 "st_segmentNo": iteration[4],
                 "agree": iteration[5],
-                "articleNo": No_kr}}, upsert = True)
+                "articleNo": No_dp}}, upsert = True)
 
 
         for iteration in agreement(segment_list_2, segment_list_1):
-            coll.update({"articleNo":No_kr, "st_segmentNo":iteration[2], "annotator": "st"}, {"$set": {
+            coll.update({"articleNo":No_dp, "st_segmentNo":iteration[2], "annotator": "st"}, {"$set": {
                 "annotator": "st",
                 "words": iteration[0],
                 "st_tag": iteration[1],
                 "st_segmentNo": iteration[2],
-                "kr_tag": iteration[3],
-                "kr_segmentNo": iteration[4],
+                "dp_tag": iteration[3],
+                "dp_segmentNo": iteration[4],
                 "agree": iteration[5],
-                "articleNo": No_kr}}, upsert = True)
+                "articleNo": No_dp}}, upsert = True)
 
 
     coll.create_index([("annotator", ASCENDING)])
     coll.create_index([("words", ASCENDING)])
-    coll.create_index([("kr_tag", ASCENDING)])
+    coll.create_index([("dp_tag", ASCENDING)])
     coll.create_index([("st_tag", ASCENDING)])
     coll.create_index([("articleNo", ASCENDING)])
     coll.create_index([("segmentNo", ASCENDING)])
@@ -212,3 +215,4 @@ if __name__ == "__main__":
     main(sys.argv[1])
     #main("health")
     #main("nlp2016")
+#python segment_agree.py cosme

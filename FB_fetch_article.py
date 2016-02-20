@@ -11,9 +11,12 @@ def fetch_article(dirname):
     with open("data/{}/keyword.txt".format(dirname), "r") as f:
         for line in f:
             articleNo, Target = line.strip("\n").split("\t")
+            print articleNo, Target
             target = Target.lower()
+            filename_Target = Target.replace(" ", "_").replace("(", "\(").replace(")", "\)")
             #os.system("grep '^restores\t' Labels/Effect.txt > a.txt")
-            os.system("grep -i '^{}	' facts.txt > Freebase/{}_{}.txt".format(Target, dirname, articleNo))
+            os.system("grep '^{}	' facts.txt > Freebase/{}_{}_{}.txt".format(Target, dirname, articleNo, filename_Target))
+            
             #os.system("grep '^{}' facts.txt >> Freebase/{}_{}.txt".format(target, dirname, articleNo))
 
 if __name__ == "__main__":

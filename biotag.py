@@ -2,6 +2,7 @@
 #-*- coding:utf-8 -*-
 #2015/12/17
 #2016/02/02
+#2016/02/18 st-->dp
 
 import glob
 import itertools
@@ -15,7 +16,7 @@ def biotag(dirname):
 
 
     #TODO 参照ファイル変更
-    ann_filelist = glob.glob("data/{}/stewart/*.ann".format(dirname))
+    ann_filelist = glob.glob("data/{}/deepika/*.ann".format(dirname))
     txt_filelist = glob.glob("data/{}/txt/*.txt".format(dirname))
 
     ann_filelist.sort()
@@ -26,6 +27,8 @@ def biotag(dirname):
     #db = client["usable_goods"]
     #coll = db[dirname]
 
+    punctuations = [".", ",",")","(",'"' ,"'", "--", ":", ";", "*", "/", "|"]
+
     j = 0
     for ann_file, txt_file in itertools.izip(ann_filelist, txt_filelist):
 
@@ -35,11 +38,21 @@ def biotag(dirname):
             word = ""
             start = 0
             for i, letter in enumerate(txt):
+                letter = letter.replace("—", "--")
 
-                if letter in (" ", ".", ",",")","(",'"', "'", "—", ":", ";", "*", "/", "|"):
+
+
+                if letter == " " and not word == "":
                     word_list.append((word, start, i))
                     word = ""
                     start = i+1
+                elif letter == " " and word == "":
+                    start = i+1
+                elif letter in punctuations:
+                    word_list.append((word, start, i))
+                    start = i+1
+                    word_list.append((letter, start, start+1))
+                    word = ""
                 else:
                     word += letter
 
@@ -49,7 +62,7 @@ def biotag(dirname):
             ann_list = list()
 
             for line in fa:
-                if line.startswith("R"):
+                if line.startswith("R") or line.startswith("#"):
                     continue
                 else:
                     try:
@@ -82,14 +95,14 @@ def biotag(dirname):
             ann_sorted = sorted(ann_list, key=lambda x: x["start"])
 
             #print txt_file
-            """
-            if txt_file == "data/nlp2016/txt/050_Nasal_strip.txt":
+            #"""
+            if txt_file == "data/health/txt/02_Adhesive_bandage.txt":
                 for i in word_list:
                     print i
                 for j in ann_sorted:
                     print j
                 break
-            """
+            #"""
 
         tag_dict = {
                 "Target": "Trg",
@@ -106,7 +119,7 @@ def biotag(dirname):
                 "PartOf": "Part"
                 }
 
-        #"""
+        """
         FLAG = 0
         for info_tuple in word_list:
             w, start, end = info_tuple
@@ -152,10 +165,11 @@ def biotag(dirname):
             if w == "":
                 continue
             else:
-                for w_frg in re.split(r"[#|']", w.lstrip("(").rstrip(",:)").replace(".", "|.")):
+                for w_frg in re.split(r"[#|']", w):
+                #for w_frg in re.split(r"[#|']", w.lstrip("(").rstrip(",:)").replace(".", "|.")):
                     yield w_frg, tag
         yield ""
-        #"""
+        """
 
 if __name__ == "__main__":
     #biotag(sys.argv[1])
