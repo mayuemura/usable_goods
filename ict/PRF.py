@@ -38,30 +38,32 @@ def except_zero(log_file):
         for line in f:
             if line.startswith("    ") and not line.endswith("******)\n"):
                 tag, match, model, ref, precision, recall, F1 = line.strip(" \n").split(" ")
+                try:
+                    if tag.strip(":") == "O":
+                        o["P"] += float(precision.strip("(,"))
+                        o["R"] += float(recall.strip(","))
+                        o["F1"] += float(F1.strip(")"))
+                        o["count"] += 1
 
-                if tag.strip(":") == "O":
-                    o["P"] += float(precision.strip("(,"))
-                    o["R"] += float(recall.strip(","))
-                    o["F1"] += float(F1.strip(")"))
-                    o["count"] += 1
+                    elif tag.strip(":").split("-")[1] == "Trg":
+                        trg["P"] += float(precision.strip("(,"))
+                        trg["R"] += float(recall.strip(","))
+                        trg["F1"] += float(F1.strip(")"))
+                        trg["count"] += 1
 
-                elif tag.strip(":").split("-")[1] == "Trg":
-                    trg["P"] += float(precision.strip("(,"))
-                    trg["R"] += float(recall.strip(","))
-                    trg["F1"] += float(F1.strip(")"))
-                    trg["count"] += 1
+                    elif tag.strip(":").split("-")[1] == "Eff":
+                        eff["P"] += float(precision.strip("(,"))
+                        eff["R"] += float(recall.strip(","))
+                        eff["F1"] += float(F1.strip(")"))
+                        eff["count"] += 1
 
-                elif tag.strip(":").split("-")[1] == "Eff":
-                    eff["P"] += float(precision.strip("(,"))
-                    eff["R"] += float(recall.strip(","))
-                    eff["F1"] += float(F1.strip(")"))
-                    eff["count"] += 1
-
-                elif tag.strip(":").split("-")[1] == "MOU":
-                    mou["P"] += float(precision.strip("(,"))
-                    mou["R"] += float(recall.strip(","))
-                    mou["F1"] += float(F1.strip(")"))
-                    mou["count"] += 1
+                    elif tag.strip(":").split("-")[1] == "MOU":
+                        mou["P"] += float(precision.strip("(,"))
+                        mou["R"] += float(recall.strip(","))
+                        mou["F1"] += float(F1.strip(")"))
+                        mou["count"] += 1
+                except IndexError:
+                    print line
 
     #今のところOタグはPRFに入れてない
     #2016/02/16 Trgもはずす

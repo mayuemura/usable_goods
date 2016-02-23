@@ -34,9 +34,8 @@ def main(data_file):
 
     with open(data_file, "r") as fr, open(data_file+"_lmtd", "w") as fw:
         for line in fr:
-            if line == "\n":
+            if line == "\n" or line.startswith("#"):
                 fw.write(line)
-
             else:
                 BIO, word, POS = line.split("\t")
                 if BIO in label_set:

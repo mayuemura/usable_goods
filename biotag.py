@@ -96,7 +96,7 @@ def biotag(dirname):
 
             #print txt_file
             #"""
-            if txt_file == "data/health/txt/02_Adhesive_bandage.txt":
+            if txt_file == "data/nlp2016/txt/039_Red_yeast_rice.txt":
                 for i in word_list:
                     print i
                 for j in ann_sorted:

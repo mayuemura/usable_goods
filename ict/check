@@ -1,4 +1,5 @@
-B-User	football	NN
+#	Football
+B-User	Football	NN
 I-User	baseball	NN
 I-User	and	CC
 I-User	lacrosse	NN
@@ -7,4 +8,5 @@ O	women	NN
 O	aaa	NN
 O	applied	VV
 O	to	VV
+O	aids	VV
 

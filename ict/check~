@@ -1,8 +1,0 @@
-B-User	football	NN
-I-User	baseball	NN
-I-User	and	CC
-I-User	lacrosse	NN
-I-User	players	NNS
-O	women	NN
-O	aaa	NN
-

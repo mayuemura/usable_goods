@@ -2,13 +2,19 @@
 
 import sys
 
+#from nltk.stem.wordnet import WordNetLemmatizer
+#lmtzr = WordNetLemmatizer()
+
+
 def readiter(fi, names=('y', 'w', 'pos'), sep='\t'):
     seq = []
     for line in fi:
         line = line.strip('\n')
         if not line:
-            yield seq
+            yield seq, target_set
             seq = []
+        elif line.startswith("#"):
+            target_set = set(line.lstrip("#\t").split(","))
         else:
             fields = line.split(sep)
             if len(fields) != len(names):
@@ -32,127 +38,80 @@ def escape(src):
 if __name__ == '__main__':
     fi = sys.stdin
     fo = sys.stdout
+    readiter(fi)
 
     templates = []
     templates += [(('w', i),) for i in range(-3, 4)]
     templates += [(('w', i), ('w', i+1)) for i in range(-3, 3)]
+
     templates += [(('pos', i),) for i in range(-3, 4)]
     templates += [(('pos', i), ('pos', i+1)) for i in range(-3, 3)]
+    templates += [(('pos', i), ('pos', i+1), ('pos', i+2)) for i in range(-3, 3)]
+
     #templates += [(('chk', i),) for i in range(-2, 3)]
     #templates += [(('chk', i), ('chk', i+1)) for i in range(-2, 2)]
+
     templates += [(('iu', i),) for i in range(-3, 4)]
     templates += [(('iu', i), ('iu', i+1)) for i in range(-3, 3)]
 
-    #EffectModifier
-    templates += [(('em', i),) for i in range(-3, 4)]
-    templates += [(('em', i), ('em', i+1)) for i in range(-3, 3)]
-    #ComposedOf
-    templates += [(('com', i),) for i in range(-3, 4)]
-    templates += [(('com', i), ('com', i+1)) for i in range(-3, 3)]
-    #PartOf
-    templates += [(('part', i),) for i in range(-3, 4)]
-    templates += [(('part', i), ('part', i+1)) for i in range(-3, 3)]
-    #Location
-    templates += [(('loc', i),) for i in range(-3, 4)]
-    templates += [(('loc', i), ('loc', i+1)) for i in range(-3, 3)]
-    #Time
-    templates += [(('time', i),) for i in range(-3, 4)]
-    templates += [(('time', i), ('time', i+1)) for i in range(-3, 3)]
-    #User
-    templates += [(('user', i),) for i in range(-3, 4)]
-    templates += [(('user', i), ('user', i+1)) for i in range(-3, 3)]
-    #Version
-    templates += [(('ver', i),) for i in range(-3, 4)]
-    templates += [(('ver', i), ('ver', i+1)) for i in range(-3, 3)]
-    #Target
-    templates += [(('tar', i),) for i in range(-3, 4)]
-    templates += [(('tar', i), ('tar', i+1)) for i in range(-3, 3)]
-    #Eff_Pattern
-    templates += [(('ept', i),) for i in range(-3, 4)]
-    templates += [(('ept', i), ('ept', i+1)) for i in range(-3, 3)]
-    #MOu_Pattern
-    templates += [(('mpt', i),) for i in range(-3, 4)]
-    templates += [(('mpt', i), ('mpt', i+1)) for i in range(-3, 3)]
+    #word_lowercase
+    templates += [(('wl', i),) for i in range(-3, 4)]
+    templates += [(('wl', i), ('wl', i+1)) for i in range(-3, 3)]
+    #templates += [(('wl', i), ('wl', i+1), ('wl', i+2)) for i in range(-3, 3)]
+
+    #target
+    templates += [(('tr', i),) for i in range(-3, 4)]
+    templates += [(('tr', i), ('tr', i+1)) for i in range(-3, 3)]
+    #templates += [(('tr', i), ('tr', i+1), ('tr', i+2)) for i in range(-3, 3)]
 
 
-    gztr_list = [
-            "gztr/EffectModifier.txt",
-            "gztr/ComposedOf_gztr.txt",
-            "gztr/PartOf_gztr.txt",
-            "gztr/Location_gztr.txt",
-            "gztr/Time_gztr.txt",
-            "gztr/User_gztr.txt",
-            "gztr/Version_gztr.txt",
-            "gztr/Target_gztr.txt"
-            ]
-    dict_list = list()
+    #target_pattern
+    templates += [(('tr', i), ('wl', i+1)) for i in range(-3, 3)]
+    templates += [(('tr', i), ('wl', i+1), ('wl', i+2)) for i in range(-3, 3)]
+    templates += [(('tr', i), ('wl', i+1), ('wl', i+2), ('wl', i+3)) for i in range(-3, 3)] 
+    templates += [(('tr', i), ('wl', i+1), ('wl', i+2), ('wl', i+3), ('wl', i+4)) for i in range(-3, 3)]
+    
 
-    for gazetteer in gztr_list:
-        with open(gazetteer, "r") as f:
-            d = dict()
-            for line in f:
-                words = line.rstrip("\n").translate(None, ",()|").split(" ")
-                #if gazetteer == "gztr/User_gztr.txt":
-                #    print words
-                d[words[0]] = "B"
-                for word in words[1:]:
-                    d[word] = "I"
-            dict_list.append(d)
+    templates += [(('tr', i), ('pos', i+1)) for i in range(-3, 3)]
+    templates += [(('tr', i), ('pos', i+1), ('pos', i+2)) for i in range(-3, 3)]
+    templates += [(('tr', i), ('pos', i+1), ('pos', i+2), ('pos', i+3)) for i in range(-3, 3)]
+    templates += [(('tr', i), ('pos', i+1), ('pos', i+2), ('pos', i+3), ('pos', i+4)) for i in range(-3, 3)]
+    templates += [(('pos', i), ('wl', i)) for i in range(-3, 3)]
+    templates += [(('pos', i), ('pos', i+1), ('wl', i), ('wl', i+1)) for i in range(-3, 3)]
+    templates += [(('pos', i), ('pos', i+1), ('pos', i+2), ('wl', i), ('wl', i+1), ('wl', i+2)) for i in range(-3, 3)]
 
-    EffectModifier = dict_list[0]
-    ComposedOf = dict_list[1]
-    PartOf = dict_list[2]
-    Location = dict_list[3]
-    Time = dict_list[4]
-    User = dict_list[5]
-    Version = dict_list[6]
-    Target = dict_list[7]
+ 
+    #disease_gazetteer
+    templates += [(('di', i),) for i in range(-3, 4)]
+    templates += [(('di', i), ('di', i+1)) for i in range(-3, 3)]
 
-    #pattern
-    with open("gztr/Eff_LSP.txt", "r") as f:
-        eff_pattern = set(f.read().split("\n"))
+    #bool(POS is 'TO') and following POS
+    templates += [(('pt', i), ('pos', i+1)) for i in range(-3, 3)]
+    templates += [(('pt', i), ('pos', i+1), ('pos', i+2)) for i in range(-3, 3)]
 
-    with open("gztr/MOU_LSP.txt", "r") as f:
-        mou_pattern = set(f.read().split("\n"))
+    templates += [(('pt', i), ('wl', i+1)) for i in range(-3, 3)]
+ 
+    #'use' in the word
+    #templates += [(('use', i), ('pos', i+1), ('pos', i+2)) for i in range(-3, 3)]
 
 
-    for seq in readiter(fi):
+    disease_set = set()
+    with open("gztr/disease.txt", "r") as f:
+        for line in f:
+            disease_set |= set(line.rstrip("\n").lower().split(" "))
+
+
+    for seq, target_set in readiter(fi):
         for i, v in enumerate(seq):
             # Extract more characteristics of the input sequence
             v['iu'] = str(v['w'] and v['w'][0].isupper())
+            v['wl'] = v['w'].lower()
+            v['tr'] = str(v['w'] and v['w'] in target_set)
+            v['di'] = str(v['w'] and v['w'] in disease_set)
+            v['pt'] = str(v['w'] and bool(v['pos'] == 'TO'))
+            v['use'] = str(v['w'] and 'use' in v['w'])
+            #v['lm'] = lmtzr.lemmatize(v['w'])
 
-            v['em'] = str(v['w'] and EffectModifier.get(v['w'], "O"))
-            v['com'] = str(v['w'] and ComposedOf.get(v['w'], "O"))
-            v['part'] = str(v['w'] and PartOf.get(v['w'], "O"))
-            v['loc'] = str(v['w'] and Location.get(v['w'], "O"))
-            v['time'] = str(v['w'] and Time.get(v['w'], "O"))
-            v['user'] = str(v['w'] and User.get(v['w'], "O"))
-            v['ver'] = str(v['w'] and Version.get(v['w'], "O"))
-            v['tar'] = str(v['w'] and Target.get(v['w'], "O"))
-
-
-            if i > 0:
-                try:
-                    ptrn_window = " ".join(s["w"] for s in seq[i-1:i+2])
-                except IndexError:
-                    ptrn_window = " ".join(seq[i-1]["w"] + v["w"])
-            else:
-                ptrn_window = v["w"]
-
-            eff_tf = False
-            for e in eff_pattern:
-                if e in ptrn_window:
-                    eff_tf = True
-                    break
-
-            mou_tf = False
-            for m in mou_pattern:
-                if m in ptrn_window:
-                    mou_tf = True
-                    break
-
-            v['ept'] = str(v["w"] and str(eff_tf))
-            v['mpt'] = str(v["w"] and str(mou_tf))
 
         for t in range(len(seq)):
             fo.write(seq[t]['y'])

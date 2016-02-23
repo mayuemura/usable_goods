@@ -41,13 +41,20 @@ def main():
 
 if __name__ == "__main__":
     dp, st = main()
-    for k, v in dp.iteritems():
-        print "Deepika"
-        print "{}\t{}".format(k, v)
+    dp_sum = sum(dp.values())
+    st_sum = sum(st.values())
 
+    print "Deepika"
+    for k, v in dp.iteritems():
+        print "{}\t{}\t{}%".format(k, v, round(v*1.0/dp_sum*100,2))
+    print dp_sum
+
+    print "-----------"
+
+    print "Stewart"
     for k, v in st.iteritems():
-        print "Stewart"
-        print "{}\t{}".format(k, v)
+        print "{}\t{}\t{}%".format(k, v, round(v*1.0/st_sum*100,2))
+    print st_sum
 
 
 #python number_of_label.py

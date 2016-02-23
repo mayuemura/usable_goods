@@ -1,25 +1,57 @@
 #!/bin/bash
 
 #leave_one_out cross_validation
-./feature.py < train_lmtd > train_lmtd.f
+./feature.py < trainDP_lmtd > trainDP_lmtd.f
 
-~okazaki/local/bin/crfsuite learn -a ap -g5 -x -p max_iterations=20 train_lmtd.f > log_file_5.txt
+#./feature.py < trainDP_lmtd > trainDP_lmtd.f
 
-python PRF.py log_file_5.txt
+#~okazaki/local/bin/crfsuite learn -a ap -g2 -x -p max_iterations=20 trainDP_lmtd.f > log_file_2.txt
 
-~okazaki/local/bin/crfsuite learn -a ap -g10 -x -p max_iterations=20 train_lmtd.f > log_file_10.txt
+#python PRF.py log_file_2.txt
 
-python PRF.py log_file_10.txt
+#~okazaki/local/bin/crfsuite learn -a ap -g3 -x -p max_iterations=20 trainDP_lmtd.f > log_file_3.txt
 
-#~okazaki/local/bin/crfsuite learn -a ap -g387 -x -p max_iterations=20 train_lmtd.f > log_file_387.txt
+#python PRF.py log_file_3.txt
 
-#python PRF.py log_file_387.txt
+#~okazaki/local/bin/crfsuite learn -a ap -g4 -x -p max_iterations=20 trainDP_lmtd.f > log_file_4.txt
 
-#./feature.py < splt_train_lmtd > splt_train_lmtd.f
+#python PRF.py log_file_4.txt
 
-#~okazaki/local/bin/crfsuite learn -a ap -p max_iterations=20 -m emt.model splt_train_lmtd.f
+#~okazaki/local/bin/crfsuite learn -a ap -g5 -x -p max_iterations=20 trainDP_lmtd.f > log_file_5.txt
 
-#./feature.py < splt_test_lmtd > splt_test_lmtd.f
+#python PRF.py log_file_5.txt
 
-#~okazaki/local/bin/crfsuite tag -r -m emt.model < splt_test_lmtd.f | conlleval.py >> result.txt
+#~okazaki/local/bin/crfsuite learn -a ap -g6 -x -p max_iterations=20 trainDP_lmtd.f > log_file_6.txt
+
+#python PRF.py log_file_6.txt
+
+#~okazaki/local/bin/crfsuite learn -a ap -g7 -x -p max_iterations=20 trainDP_lmtd.f > log_file_7.txt
+
+#python PRF.py log_file_7.txt
+
+#~okazaki/local/bin/crfsuite learn -a ap -g8 -x -p max_iterations=20 trainDP_lmtd.f > log_file_8.txt
+
+#python PRF.py log_file_8.txt
+
+#~okazaki/local/bin/crfsuite learn -a ap -g9 -x -p max_iterations=20 trainDP_lmtd.f > log_file_9.txt
+
+#python PRF.py log_file_9.txt
+
+#~okazaki/local/bin/crfsuite learn -a ap -g10 -x -p max_iterations=20 trainDP_lmtd.f > log_file_10.txt
+
+#python PRF.py log_file_10.txt
+
+~okazaki/local/bin/crfsuite learn -a ap -g400 -x -p max_iterations=20 trainDP_lmtd.f > log_file_384.txt
+
+python PRF.py log_file_384.txt
+
+#./feature.py < trainDP_splt > trainDP_splt.f
+
+#~okazaki/local/bin/crfsuite learn -a ap -p max_iterations=20 -m emt.model trainDP_splt.f
+
+#./feature.py < testDP_splt > testDP_splt.f
+
+#~okazaki/local/bin/crfsuite tag -r -m emt.model < testDP_splt.f > taggedDP
+
+#cat taggedDP | conlleval.py >> result.txt
 
