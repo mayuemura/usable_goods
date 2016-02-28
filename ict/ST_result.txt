@@ -1,0 +1,12 @@
+10
+accuracy:0.844976
+Eff  precision:0.60417175, recall:0.3531525, F1:0.43773225
+MOU  precision:0.75128425, recall:0.16156575, F1:0.2537855
+all  P:0.677728, R:0.257359125, F1:0.345758875
+
+#token + target&lower + target&pos + pos&lower + disease&pos
+10
+accuracy:0.8407755
+Eff  precision:0.584994, recall:0.3406935, F1:0.421527
+MOU  precision:0.68326675, recall:0.1552735, F1:0.242864
+all  P:0.634130375, R:0.2479835, F1:0.3321955

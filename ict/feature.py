@@ -40,59 +40,60 @@ if __name__ == '__main__':
     fo = sys.stdout
     readiter(fi)
 
+    #A
     templates = []
     templates += [(('w', i),) for i in range(-3, 4)]
     templates += [(('w', i), ('w', i+1)) for i in range(-3, 3)]
 
-    templates += [(('pos', i),) for i in range(-3, 4)]
-    templates += [(('pos', i), ('pos', i+1)) for i in range(-3, 3)]
-    templates += [(('pos', i), ('pos', i+1), ('pos', i+2)) for i in range(-3, 3)]
+    #templates += [(('pos', i),) for i in range(-3, 4)]
+    #templates += [(('pos', i), ('pos', i+1)) for i in range(-3, 3)]
+    #templates += [(('pos', i), ('pos', i+1), ('pos', i+2)) for i in range(-3, 3)]
 
     #templates += [(('chk', i),) for i in range(-2, 3)]
     #templates += [(('chk', i), ('chk', i+1)) for i in range(-2, 2)]
 
-    templates += [(('iu', i),) for i in range(-3, 4)]
-    templates += [(('iu', i), ('iu', i+1)) for i in range(-3, 3)]
+    #templates += [(('iu', i),) for i in range(-3, 4)]
+    #templates += [(('iu', i), ('iu', i+1)) for i in range(-3, 3)]
 
     #word_lowercase
-    templates += [(('wl', i),) for i in range(-3, 4)]
-    templates += [(('wl', i), ('wl', i+1)) for i in range(-3, 3)]
+    #templates += [(('wl', i),) for i in range(-3, 4)]
+    #templates += [(('wl', i), ('wl', i+1)) for i in range(-3, 3)]
     #templates += [(('wl', i), ('wl', i+1), ('wl', i+2)) for i in range(-3, 3)]
 
     #target
-    templates += [(('tr', i),) for i in range(-3, 4)]
-    templates += [(('tr', i), ('tr', i+1)) for i in range(-3, 3)]
+    #templates += [(('tr', i),) for i in range(-3, 4)]
+    #templates += [(('tr', i), ('tr', i+1)) for i in range(-3, 3)]
     #templates += [(('tr', i), ('tr', i+1), ('tr', i+2)) for i in range(-3, 3)]
 
+    #disease_gazetteer
+    templates += [(('di', i), ('pos', i)) for i in range(-3, 4)]
+    templates += [(('di', i), ('di', i+1), ('pos', i), ('pos', i+1)) for i in range(-3, 3)]
 
-    #target_pattern
-    templates += [(('tr', i), ('wl', i+1)) for i in range(-3, 3)]
-    templates += [(('tr', i), ('wl', i+1), ('wl', i+2)) for i in range(-3, 3)]
-    templates += [(('tr', i), ('wl', i+1), ('wl', i+2), ('wl', i+3)) for i in range(-3, 3)] 
-    templates += [(('tr', i), ('wl', i+1), ('wl', i+2), ('wl', i+3), ('wl', i+4)) for i in range(-3, 3)]
     
+    #B
+    #target+something
+    templates += [(('tr', i), ('wl', i+1)) for i in range(-3, 3)]
+    templates += [(('tr', i), ('wl', i+1), ('wl', i+2)) for i in range(-3, 3)]   
 
     templates += [(('tr', i), ('pos', i+1)) for i in range(-3, 3)]
     templates += [(('tr', i), ('pos', i+1), ('pos', i+2)) for i in range(-3, 3)]
-    templates += [(('tr', i), ('pos', i+1), ('pos', i+2), ('pos', i+3)) for i in range(-3, 3)]
-    templates += [(('tr', i), ('pos', i+1), ('pos', i+2), ('pos', i+3), ('pos', i+4)) for i in range(-3, 3)]
+
+    #C
+    #pos+something
     templates += [(('pos', i), ('wl', i)) for i in range(-3, 3)]
     templates += [(('pos', i), ('pos', i+1), ('wl', i), ('wl', i+1)) for i in range(-3, 3)]
     templates += [(('pos', i), ('pos', i+1), ('pos', i+2), ('wl', i), ('wl', i+1), ('wl', i+2)) for i in range(-3, 3)]
-
+    templates += [(('pos', i), ('pos', i+1), ('pos', i+2), ('pos', i+3), ('wl', i), ('wl', i+1), ('wl', i+2), ('wl', i+3)) for i in range(-3, 3)]
  
-    #disease_gazetteer
-    templates += [(('di', i),) for i in range(-3, 4)]
-    templates += [(('di', i), ('di', i+1)) for i in range(-3, 3)]
 
+    #D
     #bool(POS is 'TO') and following POS
-    templates += [(('pt', i), ('pos', i+1)) for i in range(-3, 3)]
-    templates += [(('pt', i), ('pos', i+1), ('pos', i+2)) for i in range(-3, 3)]
+    #templates += [(('pt', i), ('pos', i+1)) for i in range(-3, 3)]
+    #templates += [(('pt', i), ('pos', i+1), ('pos', i+2)) for i in range(-3, 3)]
 
-    templates += [(('pt', i), ('wl', i+1)) for i in range(-3, 3)]
- 
-    #'use' in the word
-    #templates += [(('use', i), ('pos', i+1), ('pos', i+2)) for i in range(-3, 3)]
+    #templates += [(('pt', i), ('wl', i+1)) for i in range(-3, 3)]
+    #templates += [(('pt', i), ('wl', i+1), ('wl', i+2)) for i in range(-3, 3)]
+
 
 
     disease_set = set()

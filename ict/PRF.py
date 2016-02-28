@@ -31,6 +31,8 @@ def except_zero(log_file):
     eff = {"P":0.0, "R":0.0, "F1":0.0, "count":0.0}
     mou = {"P":0.0, "R":0.0, "F1":0.0, "count":0.0}
     o = {"P":0.0, "R":0.0, "F1":0.0, "count":0.0}
+    acc = 0.0
+    acc_cnt = 0
 
     with open(log_file, "r") as f:
         print log_file.split(".")[0].split("_")[-1]
@@ -64,12 +66,18 @@ def except_zero(log_file):
                         mou["count"] += 1
                 except IndexError:
                     print line
+            elif line.startswith("Item accuracy"):
+                acc += float(line.split(" ")[-1].strip("()\n"))
+                acc_cnt += 1
 
     #今のところOタグはPRFに入れてない
     #2016/02/16 Trgもはずす
 
     #print "O    precision:{}, recall:{}, F1:{}".format(o["P"]/o["count"], o["R"]/o["count"], o["F1"]/o["count"]) 
     #print "Trg  precision:{}, recall:{}, F1:{}".format(trg["P"]/trg["count"], trg["R"]/trg["count"], trg["F1"]/trg["count"])
+
+
+    print "accuracy:{}".format(acc/acc_cnt)
     print "Eff  precision:{}, recall:{}, F1:{}".format(eff["P"]/eff["count"], eff["R"]/eff["count"], eff["F1"]/eff["count"])
     print "MOU  precision:{}, recall:{}, F1:{}".format(mou["P"]/mou["count"], mou["R"]/mou["count"], mou["F1"]/mou["count"])
 
