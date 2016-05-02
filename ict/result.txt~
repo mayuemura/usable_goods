@@ -1,0 +1,492 @@
+2016/02/09 11:52 ふつうの学習
+processed 3777 tokens with 438 phrases; found: 604 phrases; correct: 137.
+accuracy:  64.05%; precision:  22.68%; recall:  31.28%; FB1:  26.30
+              Cer: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
+              Com: precision:   4.62%; recall:   8.57%; FB1:   6.00  65
+              Deg: precision:   0.00%; recall:   0.00%; FB1:   0.00  5
+              Eff: precision:  12.40%; recall:  22.22%; FB1:  15.92  129
+              Loc: precision:   0.00%; recall:   0.00%; FB1:   0.00  6
+              MOU: precision:  11.76%; recall:   7.69%; FB1:   9.30  17
+             Part: precision:   0.00%; recall:   0.00%; FB1:   0.00  7
+             Time: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+              Trg: precision:  41.86%; recall:  50.00%; FB1:  45.57  258
+             User: precision:  20.00%; recall:  14.29%; FB1:  16.67  10
+              Ver: precision:   5.83%; recall:  13.64%; FB1:   8.16  103
+
+2016/02/09 14:51 ふつうの学習（Effect, MOU, Targetのみ、素性POS, initial upperのみ）
+processed 3777 tokens with 314 phrases; found: 261 phrases; correct: 109.
+accuracy:  78.21%; precision:  41.76%; recall:  34.71%; FB1:  37.91
+              Eff: precision:  16.09%; recall:  19.44%; FB1:  17.61  87
+              MOU: precision:  42.86%; recall:  11.54%; FB1:  18.18  7
+              Trg: precision:  55.09%; recall:  42.59%; FB1:  48.04  167
+
+2016/02/09 15:19 ふつうの学習（素性として他のlabelをgazetteer的に利用）
+processed 3777 tokens with 314 phrases; found: 360 phrases; correct: 111.
+accuracy:  74.37%; precision:  30.83%; recall:  35.35%; FB1:  32.94
+              Eff: precision:   9.46%; recall:  19.44%; FB1:  12.73  148
+              MOU: precision:  12.50%; recall:   7.69%; FB1:   9.52  16
+              Trg: precision:  48.47%; recall:  43.98%; FB1:  46.12  196
+
+2016/02/09 15:21 素性にTargetを追加
+processed 3777 tokens with 314 phrases; found: 396 phrases; correct: 195.
+accuracy:  79.40%; precision:  49.24%; recall:  62.10%; FB1:  54.93
+              Eff: precision:  11.36%; recall:  20.83%; FB1:  14.71  132
+              MOU: precision:  18.18%; recall:   7.69%; FB1:  10.81  11
+              Trg: precision:  70.36%; recall:  82.41%; FB1:  75.91  253
+
+2016/02/09 15:35 gazetteerのB/Iの区別をなくした（下がったのでもどす）
+processed 3777 tokens with 314 phrases; found: 399 phrases; correct: 179.
+accuracy:  79.16%; precision:  44.86%; recall:  57.01%; FB1:  50.21
+              Eff: precision:  11.28%; recall:  20.83%; FB1:  14.63  133
+              MOU: precision:  13.33%; recall:   7.69%; FB1:   9.76  15
+              Trg: precision:  64.54%; recall:  75.00%; FB1:  69.38  251
+
+
+2016/02/17 20:48 素性iu,pos,wordのみ
+5
+Eff  precision:0.632035, recall:0.2767375, F1:0.372909
+MOU  precision:0.5992045, recall:0.096668, F1:0.1617485
+all  P:0.61561975, R:0.18670275, F1:0.26732875
+10
+Eff  precision:0.63197025, recall:0.30008975, F1:0.39090375
+MOU  precision:0.5674545, recall:0.1057785, F1:0.17301525
+all  P:0.599712375, R:0.202934125, F1:0.2819595
+
+2016/02/17 20:52 +wl
+5
+Eff  precision:0.631057, recall:0.292125, F1:0.386909
+MOU  precision:0.6897835, recall:0.119537, F1:0.19797
+all  P:0.66042025, R:0.205831, F1:0.2924395
+10
+Eff  precision:0.64309575, recall:0.3131725, F1:0.40481725
+MOU  precision:0.59513275, recall:0.1149375, F1:0.184753
+all  P:0.61911425, R:0.214055, F1:0.294785125
+
+2016/02/17 20:53 +targetのみ
+5
+Eff  precision:0.647135, recall:0.2596585, F1:0.3554395
+MOU  precision:0.638671, recall:0.0975555, F1:0.165089
+all  P:0.642903, R:0.178607, F1:0.26026425
+10
+Eff  precision:0.66802275, recall:0.27684875, F1:0.37176875
+MOU  precision:0.526631, recall:0.08766125, F1:0.14565975
+all  P:0.597326875, R:0.182255, F1:0.25871425
+
+2016/02/17 20:54 +targetとその後ろ2つの単語
+5
+Eff  precision:0.6438055, recall:0.2737965, F1:0.3678385
+MOU  precision:0.690906, recall:0.0977995, F1:0.166738
+all  P:0.66735575, R:0.185798, F1:0.26728825
+10
+Eff  precision:0.664155, recall:0.27291, F1:0.3666295
+MOU  precision:0.5133625, recall:0.089436, F1:0.14708775
+all  P:0.58875875, R:0.181173, F1:0.256858625
+
+2016/02/17 20:57 +targetとその後ろ1つの単語、targetとその後ろ1/2つのPOS
+5
+Eff  precision:0.646838, recall:0.289922, F1:0.3852435
+MOU  precision:0.6834595, recall:0.1092895, F1:0.183987
+all  P:0.66514875, R:0.19960575, F1:0.28461525
+10
+Eff  precision:0.65483125, recall:0.30125775, F1:0.3956315
+MOU  precision:0.60401075, recall:0.1112255, F1:0.18162225
+all  P:0.629421, R:0.206241625, F1:0.288626875
+
+2016/02/17 21:14 +症状リスト
+5
+Eff  precision:0.6597845, recall:0.27545, F1:0.371462
+MOU  precision:0.602068, recall:0.09112, F1:0.1543835
+all  P:0.63092625, R:0.183285, F1:0.26292275
+10
+Eff  precision:0.65133975, recall:0.2786035, F1:0.3699405
+MOU  precision:0.525676, recall:0.0910515, F1:0.150791
+all  P:0.588507875, R:0.1848275, F1:0.26036575
+5
+
+2016/02/17 21:18 症状リストを単語分割した
+Eff  precision:0.6284115, recall:0.299279, F1:0.392082
+MOU  precision:0.5640025, recall:0.0925705, F1:0.1517125
+all  P:0.596207, R:0.19592475, F1:0.27189725
+10
+Eff  precision:0.61934025, recall:0.31827275, F1:0.40220325
+MOU  precision:0.4946015, recall:0.08342175, F1:0.1380815
+all  P:0.556970875, R:0.20084725, F1:0.270142375
+
+2016/02/18 9:52 leave-one-out cross-validation
+387
+Eff  precision:0.458367908745, recall:0.348102072243, F1:0.366320361217
+MOU  precision:0.140404040404, recall:0.11575959596, F1:0.119724242424
+all  P:0.371410939227, R:0.28456089779, F1:0.29888109116
+
+
+==以下Deepikaさんのデータ==
+
+
+2016/02/20 16:34 Deepikaさんのでーた
+5
+Eff  precision:0.594732, recall:0.272907, F1:0.357566
+MOU  precision:0.411126, recall:0.054072, F1:0.0917865
+all  P:0.502929, R:0.1634895, F1:0.22467625
+10
+Eff  precision:0.5685675, recall:0.26696175, F1:0.34709675
+MOU  precision:0.45863625, recall:0.07733275, F1:0.1219455
+all  P:0.513601875, R:0.17214725, F1:0.234521125
+387
+Eff  precision:0.417884359504, recall:0.304603615702, F1:0.326988367769
+MOU  precision:0.1136755, recall:0.0698391842105, F1:0.0786578947368
+all  P:0.284088796296, R:0.201350740741, F1:0.217768946759
+
+5
+Eff  precision:0.596172, recall:0.2659705, F1:0.350844
+MOU  precision:0.373805, recall:0.0549485, F1:0.091524
+all  P:0.4849885, R:0.1604595, F1:0.221184
+10
+Eff  precision:0.551447, recall:0.25804425, F1:0.33619275
+MOU  precision:0.46981075, recall:0.07926175, F1:0.122
+all  P:0.510628875, R:0.168653, F1:0.229096375
+387
+Eff  precision:0.416029855372, recall:0.29998018595, F1:0.323503657025
+MOU  precision:0.121754447368, recall:0.0776109210526, F1:0.0858503684211
+all  P:0.286603171296, R:0.202178888889, F1:0.218980219907
+
+2016/02/21 instance数387に直した
+5
+Eff  precision:0.5605655, recall:0.250649, F1:0.3307265
+MOU  precision:0.343783, recall:0.0403835, F1:0.0687065
+all  P:0.45217425, R:0.14551625, F1:0.1997165
+10
+Eff  precision:0.561637, recall:0.27589925, F1:0.35235125
+MOU  precision:0.3157885, recall:0.06771225, F1:0.10261075
+all  P:0.43871275, R:0.17180575, F1:0.227481
+387
+Eff  precision:0.417593822314, recall:0.300874318182, F1:0.323749669421
+MOU  precision:0.120631578947, recall:0.0754181052632, F1:0.0833195
+all  P:0.286985428241, R:0.201715335648, F1:0.218004918981
+
+2016/02/21 16:01 2~9 cross validation
+2
+Eff  precision:0.5576125, recall:0.22022875, F1:0.2980475
+MOU  precision:0.26746625, recall:0.0202575, F1:0.03442
+all  P:0.412539375, R:0.120243125, F1:0.16623375
+3
+Eff  precision:0.555883333333, recall:0.2590325, F1:0.341335
+MOU  precision:0.42728, recall:0.0549891666667, F1:0.0941483333333
+all  P:0.491581666667, R:0.157010833333, F1:0.217741666667
+4
+Eff  precision:0.601861875, recall:0.239114375, F1:0.32609125
+MOU  precision:0.363535625, recall:0.046136875, F1:0.0772625
+all  P:0.48269875, R:0.142625625, F1:0.201676875
+5
+Eff  precision:0.5605655, recall:0.250649, F1:0.3307265
+MOU  precision:0.343783, recall:0.0403835, F1:0.0687065
+all  P:0.45217425, R:0.14551625, F1:0.1997165
+6
+Eff  precision:0.581571666667, recall:0.27152875, F1:0.357365
+MOU  precision:0.365953333333, recall:0.06765375, F1:0.108208333333
+all  P:0.4737625, R:0.16959125, F1:0.232786666667
+7
+Eff  precision:0.581714285714, recall:0.263758214286, F1:0.345365714286
+MOU  precision:0.319573571429, recall:0.05341, F1:0.0864589285714
+all  P:0.450643928571, R:0.158584107143, F1:0.215912321429
+8
+Eff  precision:0.594935, recall:0.2692875, F1:0.353566875
+MOU  precision:0.342505, recall:0.06410125, F1:0.10021375
+all  P:0.46872, R:0.166694375, F1:0.2268903125
+9
+Eff  precision:0.588304444444, recall:0.291702777778, F1:0.370940833333
+MOU  precision:0.381811111111, recall:0.0641441666667, F1:0.103527777778
+all  P:0.485057777778, R:0.177923472222, F1:0.237234305556
+
+2016/02/21 word trigram（不採用）
+5
+Eff  precision:0.563557, recall:0.2447725, F1:0.3268825
+MOU  precision:0.3574595, recall:0.0484585, F1:0.079543
+all  P:0.46050825, R:0.1466155, F1:0.20321275
+9
+Eff  precision:0.593558888889, recall:0.285723055556, F1:0.367818611111
+MOU  precision:0.332191388889, recall:0.0551716666667, F1:0.0899341666667
+all  P:0.462875138889, R:0.170447361111, F1:0.228876388889
+
+2016/02/21 16:35 POS trigram(採用)
+5
+Eff  precision:0.5506285, recall:0.252341, F1:0.33188
+MOU  precision:0.310314, recall:0.0475235, F1:0.0782115
+all  P:0.43047125, R:0.14993225, F1:0.20504575
+9
+Eff  precision:0.607264722222, recall:0.282726111111, F1:0.368347777778
+MOU  precision:0.367970833333, recall:0.0582102777778, F1:0.0946441666667
+all  P:0.487617777778, R:0.170468194444, F1:0.231495972222
+
+2016/02/21 16:40 lowercase trigram(不採用)
+5
+Eff  precision:0.556679, recall:0.250709, F1:0.331164
+MOU  precision:0.301644, recall:0.046289, F1:0.0759055
+all  P:0.4291615, R:0.148499, F1:0.20353475
+9
+Eff  precision:0.588790833333, recall:0.275811944444, F1:0.3583725
+MOU  precision:0.340306111111, recall:0.0542497222222, F1:0.0878555555556
+all  P:0.464548472222, R:0.165030833333, F1:0.223114027778
+387
+Eff  precision:0.41256018595, recall:0.29028411157, F1:0.314134318182
+MOU  precision:0.125772026316, recall:0.0792765, F1:0.0866688947368
+all  P:0.28642650463, R:0.197479837963, F1:0.214091655093
+
+
+2016/02/21 18:38 全文にTarget付与
+5
+Eff  precision:0.5506285, recall:0.252341, F1:0.33188
+MOU  precision:0.310314, recall:0.0475235, F1:0.0782115
+all  P:0.43047125, R:0.14993225, F1:0.20504575
+9
+Eff  precision:0.607264722222, recall:0.282726111111, F1:0.368347777778
+MOU  precision:0.367970833333, recall:0.0582102777778, F1:0.0946441666667
+all  P:0.487617777778, R:0.170468194444, F1:0.231495972222
+387
+Eff  precision:0.41256018595, recall:0.29028411157, F1:0.314134318182
+MOU  precision:0.125772026316, recall:0.0792765, F1:0.0866688947368
+all  P:0.28642650463, R:0.197479837963, F1:0.214091655093
+
+(2016/2/22 0:27 Stewartさんのdata, 全文にTargetいれる)
+5
+Eff  precision:0.624824, recall:0.3002475, F1:0.3949895
+MOU  precision:0.570962, recall:0.090258, F1:0.1493995
+all  P:0.597893, R:0.19525275, F1:0.2721945
+10
+Eff  precision:0.6435475, recall:0.320542, F1:0.40947775
+MOU  precision:0.482818, recall:0.08769825, F1:0.14309125
+all  P:0.56318275, R:0.204120125, F1:0.2762845
+387
+Eff  precision:0.460768574144, recall:0.350929087452, F1:0.36952026616
+MOU  precision:0.12803030303, recall:0.106464343434, F1:0.108917424242
+all  P:0.36977109116, R:0.284072707182, F1:0.298250428177
+
+2016/2/22 12:29 DP target + うしろ4つのlowercase
+5
+Eff  precision:0.535432, recall:0.249651, F1:0.324854
+MOU  precision:0.336333, recall:0.0471725, F1:0.079313
+all  P:0.4358825, R:0.14841175, F1:0.2020835
+10
+Eff  precision:0.5593425, recall:0.27844925, F1:0.356719
+MOU  precision:0.34744875, recall:0.0738425, F1:0.113299
+all  P:0.453395625, R:0.176145875, F1:0.235009
+387
+Eff  precision:0.423227768595, recall:0.300597045455, F1:0.323576095041
+MOU  precision:0.108421105263, recall:0.0705826578947, F1:0.0761471052632
+all  P:0.284771134259, R:0.199433310185, F1:0.214753159722
+
+2016/2/22 DP target+うしろ4つのPOS
+5
+Eff  precision:0.5646525, recall:0.2411105, F1:0.3246355
+MOU  precision:0.3307335, recall:0.050447, F1:0.0830105
+all  P:0.447693, R:0.14577875, F1:0.203823
+10
+Eff  precision:0.55399725, recall:0.27158825, F1:0.3470605
+MOU  precision:0.34828125, recall:0.070133, F1:0.10784125
+all  P:0.45113925, R:0.170860625, F1:0.227450875
+387
+Eff  precision:0.412999504132, recall:0.296603595041, F1:0.319515309917
+MOU  precision:0.115017710526, recall:0.076626, F1:0.0828085526316
+all  P:0.281942696759, R:0.199854189815, F1:0.215408171296
+
+2016/02/22 1/3 test 2/3 train
+rocessed 2891 tokens with 149 phrases; found: 66 phrases; correct: 12.
+accuracy:  73.64%; precision:  18.18%; recall:   8.05%; FB1:  11.16
+              Eff: precision:  21.57%; recall:  11.58%; FB1:  15.07  51
+              MOU: precision:   6.67%; recall:   1.85%; FB1:   2.90  15
+
+2016/02/22 素性+ current POS & wl unigram, bigram, trigram
+processed 2891 tokens with 149 phrases; found: 77 phrases; correct: 18.
+accuracy:  73.85%; precision:  23.38%; recall:  12.08%; FB1:  15.93
+              Eff: precision:  25.93%; recall:  14.74%; FB1:  18.79  54
+              MOU: precision:  17.39%; recall:   7.41%; FB1:  10.39  23
+
+
+(2016/02/22 同じ素性でSTdataでやった結果)
+processed 2521 tokens with 80 phrases; found: 46 phrases; correct: 9.
+accuracy:  82.78%; precision:  19.57%; recall:  11.25%; FB1:  14.29
+              Eff: precision:  22.50%; recall:  15.25%; FB1:  18.18  40
+              MOU: precision:   0.00%; recall:   0.00%; FB1:   0.00  6
+
+(今の素性でcross validation)
+
+2
+Eff  precision:0.5659275, recall:0.22271375, F1:0.30655
+MOU  precision:0.3154925, recall:0.03790375, F1:0.0636075
+all  P:0.44071, R:0.13030875, F1:0.18507875
+3
+Eff  precision:0.548180833333, recall:0.256578333333, F1:0.340370833333
+MOU  precision:0.453335833333, recall:0.0652783333333, F1:0.110854166667
+all  P:0.500758333333, R:0.160928333333, F1:0.2256125
+4
+Eff  precision:0.600880625, recall:0.257835625, F1:0.34660125
+MOU  precision:0.338305, recall:0.053613125, F1:0.08841375
+all  P:0.4695928125, R:0.155724375, F1:0.2175075
+5
+Eff  precision:0.570269, recall:0.2675835, F1:0.3496735
+MOU  precision:0.385863, recall:0.067556, F1:0.1081
+all  P:0.478066, R:0.16756975, F1:0.22888675
+6
+Eff  precision:0.599580833333, recall:0.26907, F1:0.35965125
+MOU  precision:0.437625416667, recall:0.0846208333333, F1:0.133155833333
+all  P:0.518603125, R:0.176845416667, F1:0.246403541667
+7
+Eff  precision:0.587151428571, recall:0.270606428571, F1:0.355986071429
+MOU  precision:0.376781785714, recall:0.0691678571429, F1:0.109893571429
+all  P:0.481966607143, R:0.169887142857, F1:0.232939821429
+8
+Eff  precision:0.582785, recall:0.2650225, F1:0.34927625
+MOU  precision:0.3420828125, recall:0.0579859375, F1:0.0939934375
+all  P:0.46243390625, R:0.16150421875, F1:0.22163484375
+9
+Eff  precision:0.585991111111, recall:0.283062222222, F1:0.365863055556
+MOU  precision:0.377188055556, recall:0.0651927777778, F1:0.105558611111
+all  P:0.481589583333, R:0.1741275, F1:0.235710833333
+10
+Eff  precision:0.5518965, recall:0.27957625, F1:0.35577025
+MOU  precision:0.3066195, recall:0.0734745, F1:0.1092645
+all  P:0.429258, R:0.176525375, F1:0.232517375
+379
+Eff  precision:0.421671797521, recall:0.301724194215, F1:0.324594710744
+MOU  precision:0.131710657895, recall:0.0897069736842, F1:0.0960258421053
+all  P:0.294142592593, R:0.20847587963, F1:0.224066736111
+
+
+2016/02/23 POSが'TO'かどうか+その直後2つのPOS
+8
+Eff  precision:0.583919375, recall:0.2929103125, F1:0.3738375
+MOU  precision:0.443721875, recall:0.086086875, F1:0.1352721875
+all  P:0.513820625, R:0.18949859375, F1:0.25455484375
+10
+Eff  precision:0.588671, recall:0.27932525, F1:0.3639265
+MOU  precision:0.335512, recall:0.0742145, F1:0.11616
+all  P:0.4620915, R:0.176769875, F1:0.24004325
+384
+Eff  precision:0.414534855967, recall:0.306076604938, F1:0.328450967078
+MOU  precision:0.134254447368, recall:0.0901403157895, F1:0.0984504473684
+all  P:0.291548071594, R:0.211323960739, F1:0.227526951501
+
+2016/2/23 13:35 POSが'TO'かどうか+その直後のlowercase
+8
+Eff  precision:0.595215625, recall:0.2975878125, F1:0.379285
+MOU  precision:0.4776503125, recall:0.09534875, F1:0.1492909375
+all  P:0.53643296875, R:0.19646828125, F1:0.26428796875
+10
+Eff  precision:0.59007475, recall:0.290428, F1:0.374303
+MOU  precision:0.37551625, recall:0.084506, F1:0.13289525
+all  P:0.4827955, R:0.187467, F1:0.253599125
+384
+Eff  precision:0.42745063786, recall:0.317120514403, F1:0.338448930041
+MOU  precision:0.167526394737, recall:0.107206657895, F1:0.120122368421
+all  P:0.313396120092, R:0.225010508083, F1:0.24264743649
+
+(ここまでの素性でcross_validation)
+
+2
+accuracy:0.8089925
+Eff  precision:0.5623025, recall:0.198325, F1:0.28117125
+MOU  precision:0.37553625, recall:0.07029125, F1:0.11326125
+all  P:0.468919375, R:0.134308125, F1:0.19721625
+3
+accuracy:0.817016666667
+Eff  precision:0.598896666667, recall:0.27416, F1:0.3644
+MOU  precision:0.324015833333, recall:0.0477833333333, F1:0.0797591666667
+all  P:0.46145625, R:0.160971666667, F1:0.222079583333
+4
+accuracy:0.82129375
+Eff  precision:0.59821625, recall:0.294681875, F1:0.38654375
+MOU  precision:0.38260375, recall:0.0844375, F1:0.132790625
+all  P:0.49041, R:0.1895596875, F1:0.2596671875
+5
+accuracy:0.818408
+Eff  precision:0.5654485, recall:0.275783, F1:0.3606035
+MOU  precision:0.4449255, recall:0.0838585, F1:0.136878
+all  P:0.505187, R:0.17982075, F1:0.24874075
+6
+accuracy:0.816475833333
+Eff  precision:0.58188, recall:0.27171625, F1:0.359208333333
+MOU  precision:0.3657675, recall:0.0702375, F1:0.11063375
+all  P:0.47382375, R:0.170976875, F1:0.234921041667
+7
+accuracy:0.818531428571
+Eff  precision:0.615468571429, recall:0.3043525, F1:0.392009642857
+MOU  precision:0.339643214286, recall:0.0608675, F1:0.0959417857143
+all  P:0.477555892857, R:0.18261, F1:0.243975714286
+8
+accuracy:0.82186
+Eff  precision:0.595215625, recall:0.2975878125, F1:0.379285
+MOU  precision:0.4776503125, recall:0.09534875, F1:0.1492909375
+all  P:0.53643296875, R:0.19646828125, F1:0.26428796875
+9
+accuracy:0.815440555556
+Eff  precision:0.546328333333, recall:0.281147777778, F1:0.352752777778
+MOU  precision:0.343411388889, recall:0.0744525, F1:0.111547222222
+all  P:0.444869861111, R:0.177800138889, F1:0.23215
+10
+accuracy:0.8204025
+Eff  precision:0.59007475, recall:0.290428, F1:0.374303
+MOU  precision:0.37551625, recall:0.084506, F1:0.13289525
+all  P:0.4827955, R:0.187467, F1:0.253599125
+384
+accuracy:0.7969902875
+Eff  precision:0.42745063786, recall:0.317120514403, F1:0.338448930041
+MOU  precision:0.167526394737, recall:0.107206657895, F1:0.120122368421
+all  P:0.313396120092, R:0.225010508083, F1:0.24264743649
+
+(同じ素性でstewartさん)
+2
+accuracy:0.8352325
+Eff  precision:0.63277125, recall:0.2734025, F1:0.371705
+MOU  precision:0.5789175, recall:0.087075, F1:0.14169125
+all  P:0.605844375, R:0.18023875, F1:0.256698125
+3
+accuracy:0.834198333333
+Eff  precision:0.641189166667, recall:0.273956666667, F1:0.372779166667
+MOU  precision:0.4944225, recall:0.0585708333333, F1:0.09937
+all  P:0.567805833333, R:0.16626375, F1:0.236074583333
+4
+accuracy:0.83909875
+Eff  precision:0.6471225, recall:0.30467625, F1:0.404621875
+MOU  precision:0.564894375, recall:0.094706875, F1:0.154194375
+all  P:0.6060084375, R:0.1996915625, F1:0.279408125
+5
+accuracy:0.839565
+Eff  precision:0.6407585, recall:0.313068, F1:0.4125605
+MOU  precision:0.63832, recall:0.103713, F1:0.173215
+all  P:0.63953925, R:0.2083905, F1:0.29288775
+6
+accuracy:0.84091
+Eff  precision:0.628703333333, recall:0.3347075, F1:0.415325
+MOU  precision:0.597859583333, recall:0.10423875, F1:0.168026666667
+all  P:0.613281458333, R:0.219473125, F1:0.291675833333
+7
+accuracy:0.838409285714
+Eff  precision:0.63959, recall:0.303694285714, F1:0.400198571429
+MOU  precision:0.509719642857, recall:0.0905107142857, F1:0.140086071429
+all  P:0.574654821429, R:0.1971025, F1:0.270142321429
+8
+accuracy:0.84186
+Eff  precision:0.6465, recall:0.3253390625, F1:0.4175021875
+MOU  precision:0.582271875, recall:0.10124625, F1:0.1643809375
+all  P:0.6143859375, R:0.21329265625, F1:0.2909415625
+9
+accuracy:0.843858333333
+Eff  precision:0.650761111111, recall:0.332687222222, F1:0.426743055556
+MOU  precision:0.563562777778, recall:0.133589444444, F1:0.206180833333
+all  P:0.607161944444, R:0.233138333333, F1:0.316461944444
+10
+accuracy:0.8396705
+Eff  precision:0.6405365, recall:0.31214775, F1:0.40374175
+MOU  precision:0.57185425, recall:0.10169125, F1:0.1659765
+all  P:0.606195375, R:0.2069195, F1:0.284859125
+
+387
+accuracy:0.856036033592
+Eff  precision:0.47150526616, recall:0.369529714829, F1:0.386953174905
+MOU  precision:0.145202020202, recall:0.130562676768, F1:0.131038181818
+all  P:0.382267638122, R:0.304176850829, F1:0.316965372928
+
+
+processed 2891 tokens with 149 phrases; found: 55 phrases; correct: 15.
+accuracy:  73.71%; precision:  27.27%; recall:  10.07%; FB1:  14.71
+              Eff: precision:  34.21%; recall:  13.68%; FB1:  19.55  38
+              MOU: precision:  11.76%; recall:   3.70%; FB1:   5.63  17

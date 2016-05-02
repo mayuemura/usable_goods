@@ -1,0 +1,28 @@
+#bio_check.py
+#-*- coding:utf-8 -*-
+#2016/02/29
+#アノテーター間F値をはかるのに使う
+
+import sys
+
+def main():
+
+    with open("BIO", "r") as f:
+        for line in f:
+            if not line == "":
+                if not len(line.split("\t")) == 2:
+                    print line
+
+def tab_replace():
+
+    with open("BIO", "r") as f:
+        for line in f:
+            if line == "\t\n":
+                print ""
+            else:
+                print line.strip("\n")
+
+if __name__ == "__main__":
+    #main()
+    tab_replace()
+#python bio_check.py

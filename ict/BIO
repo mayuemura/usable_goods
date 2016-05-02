@@ -1,4 +1,4 @@
-B-Trg	i-Trg
+B-Trg	B-Trg
 O	O
 O	O
 B-Eff	B-Eff
@@ -3494,11 +3494,11 @@ O	O
 O	O
 O	O
 O	O
-O	
 O	O
 O	O
 O	O
-	O
+O	O
+	
 B-Trg	B-Trg
 I-Trg	I-Trg
 O	O
@@ -4115,36 +4115,35 @@ O	O
 O	O
 O	O
 O	O
-O	B-Trg
-	O
-B-Trg	O
+	
+B-Trg	B-Trg
 O	O
+O	O
+B-Eff	O
 O	B-Eff
-B-Eff	
-O	B-Trg
-	O
-B-Trg	O
+	
+B-Trg	B-Trg
 O	O
 O	O
 O	O
 O	O
-O	B-MOU
-B-Part	
-I-Part	B-Trg
-	O
-B-Trg	O
+O	O
+B-Part	O
+I-Part	B-MOU
+	
+B-Trg	B-Trg
 O	O
 O	O
 O	O
-O	B-Ver
-O	I-Ver
-B-Com	I-Ver
+O	O
+O	O
+B-Com	B-Ver
+I-Com	I-Ver
+I-Com	I-Ver
 I-Com	O
 I-Com	O
 I-Com	B-Com
 I-Com	I-Com
-I-Com	
-I-Com	O
 O	O
 O	O
 O	O
@@ -4152,7 +4151,8 @@ O	O
 O	O
 O	O
 O	O
-O	
+O	O
+	
 O	O
 O	O
 O	O
@@ -4572,10 +4572,10 @@ I-Com	I-Com
 I-Com	O
 I-Com	O
 I-Com	O
-O	
-B-Trg	O
-I-Trg	B-Trg
-O	I-Trg
+	
+O	O
+B-Trg	B-Trg
+I-Trg	I-Trg
 O	O
 O	O
 O	O
@@ -4585,7 +4585,7 @@ O	O
 O	O
 O	O
 O	O
-	O
+O	O
 O	O
 O	O
 O	O
@@ -7897,7 +7897,7 @@ O	O
 O	O
 O	O
 O	O
-	
+
 B-Trg	B-Trg
 I-Trg	I-Trg
 O	O
@@ -7911,4 +7911,4 @@ I-MOU	I-Eff
 O	I-Eff
 B-MOU	I-Eff
 I-MOU	I-Eff
-	
+

@@ -486,3 +486,8 @@ MOU  precision:0.145202020202, recall:0.130562676768, F1:0.131038181818
 all  P:0.382267638122, R:0.304176850829, F1:0.316965372928
 
 
+2016/02/29 今の素性でふつうに学習
+processed 2891 tokens with 149 phrases; found: 55 phrases; correct: 15.
+accuracy:  73.71%; precision:  27.27%; recall:  10.07%; FB1:  14.71
+              Eff: precision:  34.21%; recall:  13.68%; FB1:  19.55  38
+              MOU: precision:  11.76%; recall:   3.70%; FB1:   5.63  17

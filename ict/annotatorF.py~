@@ -1,0 +1,130 @@
+#annotatorF.py
+#-*- coding:utf-8 -*-
+#2016/02/28 とりあえず記号なしで
+
+import itertools
+import numpy as np
+import sys
+
+
+def main():
+    DP = "trainDP_stripsharp"
+    ST = "trainST"
+
+    with open(DP, "r") as dp, open(ST, "r") as st:
+        BIO_dp = list()
+        BIO_st = list()
+        
+        for line in dp:
+            if line.startswith("#"):
+                continue
+            elif line == "\n":
+                BIO_dp.append("")
+            else:
+                BIO_dp.append(line.split("\t")[0])
+
+        for line in st:
+            if line == "\n":
+                BIO_st.append("")
+            else:
+                BIO_st.append(line.split("\t")[0])
+        
+
+        for d, s in itertools.izip(BIO_dp, BIO_st):
+            print "{}\t{}".format(d, s)
+        #    if (not d == "") and (not s == ""):
+        #        print d.split("\t")[1], s.split("\t")[1]
+
+    #print len(BIO_dp), len(BIO_st)
+
+
+def ignore_boundary(gold, system):
+
+
+    labels = [
+            "Trg",
+            "Ver",
+            "Eff",
+            "MOU",
+            "Cer",
+            "Deg",
+            "Null",
+            "Com",
+            "Part",
+            "Loc",
+            "Time",
+            "User",
+            "O"
+            ]
+    label_num = len(labels)
+    mtrx = np.zeros((label_num, label_num))
+
+    with open(gold, "r") as g, open(system, "r") as s:
+        for line_g, line_s in itertools.izip(g, s):
+            if line_g == "\n" or line_s == "\n":
+                continue
+            else:
+                label_gold = line_g.strip("\n").split("\t")[0]
+                label_system = line_s.strip("\n").split("\t")[0]
+
+                if not label_gold == "O":
+                    label_gold = label_gold.split("-")[1]
+                if not label_system == "O":
+                    label_system = label_system.split("-")[1]
+
+                index_gold = labels.index(label_gold)
+                index_system = labels.index(label_system)
+
+                mtrx[index_system, index_gold] += 1
+
+    true_negative = mtrx[-1,-1]
+
+    for label in labels:
+        indx = labels.index(label)
+        false_positive = 0
+        false_negative = 0
+
+        for i in range(label_num):
+            if indx == i:
+                true_positive = mtrx[indx, indx]
+
+            else:
+                false_positive += mtrx[indx, i]
+                false_negative += mtrx[i, indx]
+
+
+        P_denominator = true_positive + false_positive
+        R_denominator = true_positive + false_negative
+
+        if not true_positive == 0:
+            precision = true_positive / (true_positive + false_positive)
+            recall = true_positive / (true_positive + false_negative)
+            F1 = 2*precision*recall / (precision + recall)
+            yield "{}\nprecision:{} recall:{} F1:{}".format(label, precision, recall, F1)
+
+        else:
+            continue
+
+    ALL_tp = 0
+    ALL_fp = 0
+    ALL_fn = 0
+    for i in range(label_num-1):
+        for j in range(label_num-1):
+            if i < j:
+                ALL_fp += mtrx[i, j]
+            elif i > j:
+                ALL_fn += mtrx[i, j]
+            elif i == j:
+                ALL_tp += mtrx[i, j]
+
+    ALL_P = ALL_tp / (ALL_tp + ALL_fp)
+    ALL_R = ALL_tp / (ALL_tp + ALL_fn)
+    ALL_F1 = 2*ALL_P*ALL_R / (ALL_P + ALL_R)
+    print "ALL\nprecision:{} recall:{} F1:{}".format(ALL_P, ALL_R, ALL_F1)
+
+if __name__ == "__main__":
+    #main()
+    for item in ignore_boundary(sys.argv[1], sys.argv[2]):
+        print item
+
+#python annotatorF.py gold system

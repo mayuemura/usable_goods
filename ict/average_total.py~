@@ -1,0 +1,32 @@
+#average_total.py
+#-*- coding:utf-8 -*-
+#2016/03/05
+
+import sys
+
+
+def main(logfile):
+    macro_P, macro_R, macro_F1, macro_cnt = [0,0,0,0]
+    micro_P, micro_R, micro_F1, micro_cnt = [0,0,0,0]
+
+    with open(logfile, "r") as f:
+        for line in f:
+            avg, P, R, F1 = line.split(" ")
+            if line.startswith("macro_avg"):
+                macro_P += float(P.split(":")[1])
+                macro_R += float(R.split(":")[1])
+                macro_F1 += float(F1.split(":")[1])
+                macro_cnt += 1
+            elif line.startswith("micro_avg"):
+                micro_P += float(P.split(":")[1])
+                micro_R += float(R.split(":")[1])
+                micro_F1 += float(F1.split(":")[1])
+                micro_cnt += 1
+
+    yield "Macro_avg Precision:{} Recall:{} F1:{}".format(macro_P/macro_cnt, macro_R/macro_cnt, macro_F1/macro_cnt)
+    yield "micro_avg Precision:{} Recall:{} F1:{}".format(micro_P/micro_cnt, micro_R/micro_cnt, micro_F1/micro_cnt)
+
+if __name__ == "__main__":
+    main(sys.argv[1])
+
+#python average_total.py lenient_log.txt

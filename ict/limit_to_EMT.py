@@ -17,8 +17,6 @@ def main(data_file):
             "I-Deg",
             "B-Null",
             "I-Null",
-            "B-Com",
-            "I-Com",
             "B-Part",
             "I-Part",
             "B-Loc",
@@ -27,12 +25,10 @@ def main(data_file):
             "I-Time",
             "B-User",
             "I-User",
-            "B-Ver",
-            "I-Ver"
             }
 
 
-    with open(data_file, "r") as fr, open(data_file+"_lmtd", "w") as fw:
+    with open(data_file, "r") as fr, open(data_file+"_EMCV", "w") as fw:
         for line in fr:
             if line == "\n" or line.startswith("#"):
                 fw.write(line)

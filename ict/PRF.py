@@ -30,7 +30,10 @@ def except_zero(log_file):
     trg = {"P":0.0, "R":0.0, "F1":0.0, "count":0.0}
     eff = {"P":0.0, "R":0.0, "F1":0.0, "count":0.0}
     mou = {"P":0.0, "R":0.0, "F1":0.0, "count":0.0}
-    o = {"P":0.0, "R":0.0, "F1":0.0, "count":0.0}
+    o = {"P":0.0, "R":0.0, "F1":0.0, "count":0.0} 
+    com = {"P":0.0, "R":0.0, "F1":0.0, "count":0.0}
+    ver = {"P":0.0, "R":0.0, "F1":0.0, "count":0.0}
+
     acc = 0.0
     acc_cnt = 0
 
@@ -64,6 +67,19 @@ def except_zero(log_file):
                         mou["R"] += float(recall.strip(","))
                         mou["F1"] += float(F1.strip(")"))
                         mou["count"] += 1
+
+                    elif tag.strip(":").split("-")[1] == "Com":
+                        com["P"] += float(precision.strip("(,"))
+                        com["R"] += float(recall.strip(","))
+                        com["F1"] += float(F1.strip(")"))
+                        com["count"] += 1
+
+                    elif tag.strip(":").split("-")[1] == "Ver":
+                        ver["P"] += float(precision.strip("(,"))
+                        ver["R"] += float(recall.strip(","))
+                        ver["F1"] += float(F1.strip(")"))
+                        ver["count"] += 1
+
                 except IndexError:
                     print line
             elif line.startswith("Item accuracy"):
@@ -80,11 +96,13 @@ def except_zero(log_file):
     print "accuracy:{}".format(acc/acc_cnt)
     print "Eff  precision:{}, recall:{}, F1:{}".format(eff["P"]/eff["count"], eff["R"]/eff["count"], eff["F1"]/eff["count"])
     print "MOU  precision:{}, recall:{}, F1:{}".format(mou["P"]/mou["count"], mou["R"]/mou["count"], mou["F1"]/mou["count"])
+    print "Com  precision:{}, recall:{}, F1:{}".format(com["P"]/com["count"], com["R"]/com["count"], com["F1"]/com["count"])
+    print "Ver  precision:{}, recall:{}, F1:{}".format(ver["P"]/ver["count"], ver["R"]/ver["count"], ver["F1"]/ver["count"])
 
-    P = eff["P"] + mou["P"] + trg["P"]
-    R = eff["R"] + mou["R"] + trg["R"]
-    F1 = eff["F1"] + mou["F1"] +trg["F1"]
-    count = eff["count"] + mou["count"] + trg["count"]
+    P = eff["P"] + mou["P"] + trg["P"] + com["P"] + ver["P"]
+    R = eff["R"] + mou["R"] + trg["R"] + com["R"] + ver["R"]
+    F1 = eff["F1"] + mou["F1"] +trg["F1"] + com["F1"] + ver["F1"]
+    count = eff["count"] + mou["count"] + trg["count"] + com["count"] + ver["count"]
 
     print "all  P:{}, R:{}, F1:{}".format(P/count, R/count, F1/count)
 

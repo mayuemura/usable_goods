@@ -1,4 +1,4 @@
-i-Trg	Diprobase	NNP
+B-Trg	Diprobase	NNP
 O	is	VBZ
 O	an	DT
 B-Eff	emollient	JJ
@@ -3494,11 +3494,11 @@ O	herb	NN
 O	from	IN
 O	the	DT
 O	family	NN
-
 O	Apiaceae	NNP
 O	indigenous	JJ
 O	to	TO
 O	China	NNP
+
 B-Trg	Angelica	NNP
 I-Trg	sinensis	VBZ
 O	grows	VBZ
@@ -4115,6 +4115,7 @@ O	suffix	NN
 O	ella	NNS
 O	meaning	VBG
 O	small	JJ
+
 B-Trg	Choline	NNP
 O	is	VBZ
 O	a	DT
@@ -4143,7 +4144,6 @@ O	containing	VBG
 O	the	DT
 B-Com	N,N,N-trimethylethanolammonium	NN
 I-Com	cation	NN
-
 O	X	NN
 O	on	IN
 O	the	DT

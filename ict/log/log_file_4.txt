@@ -1,18 +1,18 @@
 CRFSuite 0.12.2  Copyright (c) 2007-2013 Naoaki Okazaki
 
-Start time of the training: 2016-02-23T02:59:59Z
+Start time of the training: 2016-02-23T06:53:32Z
 
 Reading the data set(s)
-[1] trainDP_lmtd.f
+[1] trainDP_stripsigns.f
 0....1....2....3....4....5....6....7....8....9....10
 Number of instances: 384
-Seconds required: 1.502
+Seconds required: 1.967
 
 Statistics the data set(s)
 Number of data sets (groups): 4
 Number of instances: 383
-Number of items: 8732
-Number of attributes: 393080
+Number of items: 7560
+Number of attributes: 359849
 Number of labels: 5
 
 ===== Cross validation (1/4) =====
@@ -24,294 +24,294 @@ feature.minfreq: 0.000000
 feature.possible_states: 0
 feature.possible_transitions: 0
 0....1....2....3....4....5....6....7....8....9....10
-Number of features: 337987
-Seconds required: 0.494
+Number of features: 313673
+Seconds required: 0.608
 
 Averaged perceptron
 max_iterations: 20
 epsilon: 0.000000
 
 ***** Iteration #1 *****
-Loss: 93.785375
-Feature norm: 439.063674
-Seconds required for this iteration: 0.054
+Loss: 100.272690
+Feature norm: 449.391427
+Seconds required for this iteration: 0.069
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1744, 2109, 1752) (0.8269, 0.9954, 0.9034)
-    B-Eff: (7, 12, 46) (0.5833, 0.1522, 0.2414)
+    O: (1459, 1747, 1495) (0.8351, 0.9759, 0.9001)
+    B-Eff: (14, 26, 46) (0.5385, 0.3043, 0.3889)
     B-MOU: (0, 0, 31) (0.0000, 0.0000, 0.0000)
-    I-MOU: (0, 0, 137) (0.0000, 0.0000, 0.0000)
-    I-Eff: (16, 26, 181) (0.6154, 0.0884, 0.1546)
-Macro-average precision, recall, F1: (0.405130, 0.247201, 0.259872)
-Item accuracy: 1767 / 2147 (0.8230)
-Instance accuracy: 43 / 96 (0.4479)
+    I-MOU: (1, 1, 121) (1.0000, 0.0083, 0.0164)
+    I-Eff: (43, 87, 168) (0.4943, 0.2560, 0.3373)
+Macro-average precision, recall, F1: (0.573572, 0.308897, 0.328520)
+Item accuracy: 1517 / 1861 (0.8152)
+Instance accuracy: 34 / 96 (0.3542)
 
 ***** Iteration #2 *****
-Loss: 75.495511
-Feature norm: 624.356217
-Seconds required for this iteration: 0.050
+Loss: 76.305558
+Feature norm: 605.060199
+Seconds required for this iteration: 0.061
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1736, 2070, 1752) (0.8386, 0.9909, 0.9084)
-    B-Eff: (13, 22, 46) (0.5909, 0.2826, 0.3824)
-    B-MOU: (0, 1, 31) (0.0000, 0.0000, 0.0000)
-    I-MOU: (0, 0, 137) (0.0000, 0.0000, 0.0000)
-    I-Eff: (40, 54, 181) (0.7407, 0.2210, 0.3404)
-Macro-average precision, recall, F1: (0.434059, 0.298894, 0.326241)
-Item accuracy: 1789 / 2147 (0.8333)
-Instance accuracy: 42 / 96 (0.4375)
+    O: (1459, 1731, 1495) (0.8429, 0.9759, 0.9045)
+    B-Eff: (18, 32, 46) (0.5625, 0.3913, 0.4615)
+    B-MOU: (1, 1, 31) (1.0000, 0.0323, 0.0625)
+    I-MOU: (2, 2, 121) (1.0000, 0.0165, 0.0325)
+    I-Eff: (55, 95, 168) (0.5789, 0.3274, 0.4183)
+Macro-average precision, recall, F1: (0.796863, 0.348678, 0.375867)
+Item accuracy: 1535 / 1861 (0.8248)
+Instance accuracy: 36 / 96 (0.3750)
 
 ***** Iteration #3 *****
-Loss: 52.579985
-Feature norm: 754.631016
-Seconds required for this iteration: 0.048
+Loss: 57.401645
+Feature norm: 725.841801
+Seconds required for this iteration: 0.056
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1741, 2058, 1752) (0.8460, 0.9937, 0.9139)
-    B-Eff: (16, 20, 46) (0.8000, 0.3478, 0.4848)
-    B-MOU: (1, 3, 31) (0.3333, 0.0323, 0.0588)
-    I-MOU: (3, 3, 137) (1.0000, 0.0219, 0.0429)
-    I-Eff: (51, 63, 181) (0.8095, 0.2818, 0.4180)
-Macro-average precision, recall, F1: (0.757765, 0.335494, 0.383695)
-Item accuracy: 1812 / 2147 (0.8440)
-Instance accuracy: 46 / 96 (0.4792)
+    O: (1459, 1717, 1495) (0.8497, 0.9759, 0.9085)
+    B-Eff: (17, 31, 46) (0.5484, 0.3696, 0.4416)
+    B-MOU: (2, 4, 31) (0.5000, 0.0645, 0.1143)
+    I-MOU: (10, 11, 121) (0.9091, 0.0826, 0.1515)
+    I-Eff: (57, 98, 168) (0.5816, 0.3393, 0.4286)
+Macro-average precision, recall, F1: (0.677770, 0.366386, 0.408880)
+Item accuracy: 1545 / 1861 (0.8302)
+Instance accuracy: 37 / 96 (0.3854)
 
 ***** Iteration #4 *****
-Loss: 50.878481
-Feature norm: 866.323893
-Seconds required for this iteration: 0.046
+Loss: 54.646468
+Feature norm: 833.413303
+Seconds required for this iteration: 0.070
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1744, 2063, 1752) (0.8454, 0.9954, 0.9143)
-    B-Eff: (16, 20, 46) (0.8000, 0.3478, 0.4848)
-    B-MOU: (1, 3, 31) (0.3333, 0.0323, 0.0588)
-    I-MOU: (5, 5, 137) (1.0000, 0.0365, 0.0704)
-    I-Eff: (50, 56, 181) (0.8929, 0.2762, 0.4219)
-Macro-average precision, recall, F1: (0.774312, 0.337651, 0.390064)
-Item accuracy: 1816 / 2147 (0.8458)
-Instance accuracy: 46 / 96 (0.4792)
+    O: (1471, 1729, 1495) (0.8508, 0.9839, 0.9125)
+    B-Eff: (17, 29, 46) (0.5862, 0.3696, 0.4533)
+    B-MOU: (2, 4, 31) (0.5000, 0.0645, 0.1143)
+    I-MOU: (12, 13, 121) (0.9231, 0.0992, 0.1791)
+    I-Eff: (58, 86, 168) (0.6744, 0.3452, 0.4567)
+Macro-average precision, recall, F1: (0.706897, 0.372488, 0.423189)
+Item accuracy: 1560 / 1861 (0.8383)
+Instance accuracy: 43 / 96 (0.4479)
 
 ***** Iteration #5 *****
-Loss: 44.914527
-Feature norm: 965.442483
-Seconds required for this iteration: 0.044
+Loss: 37.459745
+Feature norm: 925.896681
+Seconds required for this iteration: 0.057
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1741, 2046, 1752) (0.8509, 0.9937, 0.9168)
-    B-Eff: (16, 22, 46) (0.7273, 0.3478, 0.4706)
-    B-MOU: (2, 5, 31) (0.4000, 0.0645, 0.1111)
-    I-MOU: (7, 10, 137) (0.7000, 0.0511, 0.0952)
-    I-Eff: (51, 64, 181) (0.7969, 0.2818, 0.4163)
-Macro-average precision, recall, F1: (0.695015, 0.347785, 0.402012)
-Item accuracy: 1817 / 2147 (0.8463)
-Instance accuracy: 47 / 96 (0.4896)
+    O: (1471, 1722, 1495) (0.8542, 0.9839, 0.9145)
+    B-Eff: (17, 28, 46) (0.6071, 0.3696, 0.4595)
+    B-MOU: (2, 4, 31) (0.5000, 0.0645, 0.1143)
+    I-MOU: (14, 19, 121) (0.7368, 0.1157, 0.2000)
+    I-Eff: (58, 88, 168) (0.6591, 0.3452, 0.4531)
+Macro-average precision, recall, F1: (0.671463, 0.375794, 0.428277)
+Item accuracy: 1562 / 1861 (0.8393)
+Instance accuracy: 45 / 96 (0.4688)
 
 ***** Iteration #6 *****
-Loss: 39.501934
-Feature norm: 1058.166255
-Seconds required for this iteration: 0.040
+Loss: 19.000710
+Feature norm: 1004.904974
+Seconds required for this iteration: 0.049
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1743, 2046, 1752) (0.8519, 0.9949, 0.9179)
-    B-Eff: (15, 20, 46) (0.7500, 0.3261, 0.4545)
-    B-MOU: (2, 5, 31) (0.4000, 0.0645, 0.1111)
-    I-MOU: (9, 13, 137) (0.6923, 0.0657, 0.1200)
-    I-Eff: (50, 63, 181) (0.7937, 0.2762, 0.4098)
-Macro-average precision, recall, F1: (0.697573, 0.345481, 0.402669)
-Item accuracy: 1819 / 2147 (0.8472)
-Instance accuracy: 47 / 96 (0.4896)
+    O: (1471, 1721, 1495) (0.8547, 0.9839, 0.9148)
+    B-Eff: (17, 28, 46) (0.6071, 0.3696, 0.4595)
+    B-MOU: (2, 4, 31) (0.5000, 0.0645, 0.1143)
+    I-MOU: (14, 19, 121) (0.7368, 0.1157, 0.2000)
+    I-Eff: (59, 89, 168) (0.6629, 0.3512, 0.4591)
+Macro-average precision, recall, F1: (0.672328, 0.376984, 0.429538)
+Item accuracy: 1563 / 1861 (0.8399)
+Instance accuracy: 45 / 96 (0.4688)
 
 ***** Iteration #7 *****
-Loss: 18.720840
-Feature norm: 1141.486335
-Seconds required for this iteration: 0.034
+Loss: 11.075370
+Feature norm: 1066.944777
+Seconds required for this iteration: 0.044
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1736, 2029, 1752) (0.8556, 0.9909, 0.9183)
-    B-Eff: (16, 24, 46) (0.6667, 0.3478, 0.4571)
-    B-MOU: (2, 5, 31) (0.4000, 0.0645, 0.1111)
-    I-MOU: (11, 14, 137) (0.7857, 0.0803, 0.1457)
-    I-Eff: (56, 75, 181) (0.7467, 0.3094, 0.4375)
-Macro-average precision, recall, F1: (0.690928, 0.358579, 0.413945)
-Item accuracy: 1821 / 2147 (0.8482)
-Instance accuracy: 47 / 96 (0.4896)
-
-***** Iteration #8 *****
-Loss: 11.443454
-Feature norm: 1211.339309
-Seconds required for this iteration: 0.031
-Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1731, 2026, 1752) (0.8544, 0.9880, 0.9164)
-    B-Eff: (15, 24, 46) (0.6250, 0.3261, 0.4286)
-    B-MOU: (2, 6, 31) (0.3333, 0.0645, 0.1081)
-    I-MOU: (11, 17, 137) (0.6471, 0.0803, 0.1429)
-    I-Eff: (52, 74, 181) (0.7027, 0.2873, 0.4078)
-Macro-average precision, recall, F1: (0.632498, 0.349240, 0.400748)
-Item accuracy: 1811 / 2147 (0.8435)
+    O: (1470, 1715, 1495) (0.8571, 0.9833, 0.9159)
+    B-Eff: (17, 29, 46) (0.5862, 0.3696, 0.4533)
+    B-MOU: (2, 3, 31) (0.6667, 0.0645, 0.1176)
+    I-MOU: (16, 23, 121) (0.6957, 0.1322, 0.2222)
+    I-Eff: (60, 91, 168) (0.6593, 0.3571, 0.4633)
+Macro-average precision, recall, F1: (0.693002, 0.381347, 0.434482)
+Item accuracy: 1565 / 1861 (0.8409)
 Instance accuracy: 46 / 96 (0.4792)
 
-***** Iteration #9 *****
-Loss: 11.014663
-Feature norm: 1270.638971
-Seconds required for this iteration: 0.031
+***** Iteration #8 *****
+Loss: 11.249321
+Feature norm: 1117.284908
+Seconds required for this iteration: 0.037
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1725, 2020, 1752) (0.8540, 0.9846, 0.9146)
-    B-Eff: (15, 25, 46) (0.6000, 0.3261, 0.4225)
-    B-MOU: (2, 7, 31) (0.2857, 0.0645, 0.1053)
-    I-MOU: (11, 19, 137) (0.5789, 0.0803, 0.1410)
-    I-Eff: (52, 76, 181) (0.6842, 0.2873, 0.4047)
-Macro-average precision, recall, F1: (0.600567, 0.348555, 0.397625)
-Item accuracy: 1805 / 2147 (0.8407)
-Instance accuracy: 45 / 96 (0.4688)
+    O: (1472, 1716, 1495) (0.8578, 0.9846, 0.9168)
+    B-Eff: (16, 28, 46) (0.5714, 0.3478, 0.4324)
+    B-MOU: (2, 3, 31) (0.6667, 0.0645, 0.1176)
+    I-MOU: (17, 24, 121) (0.7083, 0.1405, 0.2345)
+    I-Eff: (61, 90, 168) (0.6778, 0.3631, 0.4729)
+Macro-average precision, recall, F1: (0.696403, 0.380110, 0.434856)
+Item accuracy: 1568 / 1861 (0.8426)
+Instance accuracy: 47 / 96 (0.4896)
+
+***** Iteration #9 *****
+Loss: 4.293597
+Feature norm: 1161.384398
+Seconds required for this iteration: 0.037
+Performance by label (#match, #model, #ref) (precision, recall, F1):
+    O: (1473, 1713, 1495) (0.8599, 0.9853, 0.9183)
+    B-Eff: (16, 29, 46) (0.5517, 0.3478, 0.4267)
+    B-MOU: (2, 3, 31) (0.6667, 0.0645, 0.1176)
+    I-MOU: (17, 24, 121) (0.7083, 0.1405, 0.2345)
+    I-Eff: (64, 92, 168) (0.6957, 0.3810, 0.4923)
+Macro-average precision, recall, F1: (0.696454, 0.383815, 0.437887)
+Item accuracy: 1572 / 1861 (0.8447)
+Instance accuracy: 48 / 96 (0.5000)
 
 ***** Iteration #10 *****
-Loss: 4.869216
-Feature norm: 1320.752433
-Seconds required for this iteration: 0.026
+Loss: 3.925111
+Feature norm: 1197.889114
+Seconds required for this iteration: 0.037
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1722, 2013, 1752) (0.8554, 0.9829, 0.9147)
-    B-Eff: (15, 28, 46) (0.5357, 0.3261, 0.4054)
-    B-MOU: (2, 7, 31) (0.2857, 0.0645, 0.1053)
-    I-MOU: (11, 19, 137) (0.5789, 0.0803, 0.1410)
-    I-Eff: (53, 80, 181) (0.6625, 0.2928, 0.4061)
-Macro-average precision, recall, F1: (0.583663, 0.349318, 0.394513)
-Item accuracy: 1803 / 2147 (0.8398)
-Instance accuracy: 45 / 96 (0.4688)
+    O: (1474, 1716, 1495) (0.8590, 0.9860, 0.9181)
+    B-Eff: (16, 29, 46) (0.5517, 0.3478, 0.4267)
+    B-MOU: (2, 3, 31) (0.6667, 0.0645, 0.1176)
+    I-MOU: (17, 24, 121) (0.7083, 0.1405, 0.2345)
+    I-Eff: (63, 89, 168) (0.7079, 0.3750, 0.4903)
+Macro-average precision, recall, F1: (0.698713, 0.382758, 0.437433)
+Item accuracy: 1572 / 1861 (0.8447)
+Instance accuracy: 48 / 96 (0.5000)
 
 ***** Iteration #11 *****
-Loss: 4.466118
-Feature norm: 1363.726602
-Seconds required for this iteration: 0.025
+Loss: 4.404903
+Feature norm: 1228.941834
+Seconds required for this iteration: 0.036
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1723, 2011, 1752) (0.8568, 0.9834, 0.9158)
-    B-Eff: (15, 29, 46) (0.5172, 0.3261, 0.4000)
-    B-MOU: (2, 5, 31) (0.4000, 0.0645, 0.1111)
-    I-MOU: (13, 22, 137) (0.5909, 0.0949, 0.1635)
-    I-Eff: (53, 80, 181) (0.6625, 0.2928, 0.4061)
-Macro-average precision, recall, F1: (0.605488, 0.352352, 0.399304)
-Item accuracy: 1806 / 2147 (0.8412)
-Instance accuracy: 45 / 96 (0.4688)
+    O: (1470, 1711, 1495) (0.8591, 0.9833, 0.9170)
+    B-Eff: (16, 30, 46) (0.5333, 0.3478, 0.4211)
+    B-MOU: (2, 3, 31) (0.6667, 0.0645, 0.1176)
+    I-MOU: (17, 24, 121) (0.7083, 0.1405, 0.2345)
+    I-Eff: (64, 93, 168) (0.6882, 0.3810, 0.4904)
+Macro-average precision, recall, F1: (0.691130, 0.383414, 0.436127)
+Item accuracy: 1569 / 1861 (0.8431)
+Instance accuracy: 48 / 96 (0.5000)
 
 ***** Iteration #12 *****
-Loss: 7.055602
-Feature norm: 1400.776651
-Seconds required for this iteration: 0.027
+Loss: 0.860912
+Feature norm: 1255.560083
+Seconds required for this iteration: 0.034
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1723, 2011, 1752) (0.8568, 0.9834, 0.9158)
-    B-Eff: (15, 29, 46) (0.5172, 0.3261, 0.4000)
-    B-MOU: (2, 5, 31) (0.4000, 0.0645, 0.1111)
-    I-MOU: (13, 22, 137) (0.5909, 0.0949, 0.1635)
-    I-Eff: (53, 80, 181) (0.6625, 0.2928, 0.4061)
-Macro-average precision, recall, F1: (0.605488, 0.352352, 0.399304)
-Item accuracy: 1806 / 2147 (0.8412)
-Instance accuracy: 45 / 96 (0.4688)
+    O: (1470, 1713, 1495) (0.8581, 0.9833, 0.9165)
+    B-Eff: (16, 31, 46) (0.5161, 0.3478, 0.4156)
+    B-MOU: (2, 2, 31) (1.0000, 0.0645, 0.1212)
+    I-MOU: (17, 24, 121) (0.7083, 0.1405, 0.2345)
+    I-Eff: (65, 91, 168) (0.7143, 0.3869, 0.5019)
+Macro-average precision, recall, F1: (0.759378, 0.384604, 0.437934)
+Item accuracy: 1570 / 1861 (0.8436)
+Instance accuracy: 48 / 96 (0.5000)
 
 ***** Iteration #13 *****
-Loss: 6.033521
-Feature norm: 1435.586467
-Seconds required for this iteration: 0.027
+Loss: 5.861916
+Feature norm: 1279.341971
+Seconds required for this iteration: 0.037
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1721, 2003, 1752) (0.8592, 0.9823, 0.9166)
-    B-Eff: (14, 29, 46) (0.4828, 0.3043, 0.3733)
-    B-MOU: (2, 6, 31) (0.3333, 0.0645, 0.1081)
-    I-MOU: (13, 25, 137) (0.5200, 0.0949, 0.1605)
-    I-Eff: (57, 84, 181) (0.6786, 0.3149, 0.4302)
-Macro-average precision, recall, F1: (0.574775, 0.352196, 0.397754)
-Item accuracy: 1807 / 2147 (0.8416)
-Instance accuracy: 45 / 96 (0.4688)
+    O: (1470, 1711, 1495) (0.8591, 0.9833, 0.9170)
+    B-Eff: (16, 32, 46) (0.5000, 0.3478, 0.4103)
+    B-MOU: (2, 2, 31) (1.0000, 0.0645, 0.1212)
+    I-MOU: (17, 24, 121) (0.7083, 0.1405, 0.2345)
+    I-Eff: (65, 92, 168) (0.7065, 0.3869, 0.5000)
+Macro-average precision, recall, F1: (0.754800, 0.384604, 0.436596)
+Item accuracy: 1570 / 1861 (0.8436)
+Instance accuracy: 48 / 96 (0.5000)
 
 ***** Iteration #14 *****
-Loss: 7.556345
-Feature norm: 1467.100806
-Seconds required for this iteration: 0.027
+Loss: 4.928052
+Feature norm: 1300.496539
+Seconds required for this iteration: 0.036
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1718, 1998, 1752) (0.8599, 0.9806, 0.9163)
-    B-Eff: (14, 29, 46) (0.4828, 0.3043, 0.3733)
-    B-MOU: (2, 7, 31) (0.2857, 0.0645, 0.1053)
-    I-MOU: (13, 24, 137) (0.5417, 0.0949, 0.1615)
-    I-Eff: (59, 89, 181) (0.6629, 0.3260, 0.4370)
-Macro-average precision, recall, F1: (0.566584, 0.354063, 0.398678)
-Item accuracy: 1806 / 2147 (0.8412)
-Instance accuracy: 45 / 96 (0.4688)
+    O: (1466, 1707, 1495) (0.8588, 0.9806, 0.9157)
+    B-Eff: (16, 33, 46) (0.4848, 0.3478, 0.4051)
+    B-MOU: (2, 2, 31) (1.0000, 0.0645, 0.1212)
+    I-MOU: (17, 24, 121) (0.7083, 0.1405, 0.2345)
+    I-Eff: (65, 95, 168) (0.6842, 0.3869, 0.4943)
+Macro-average precision, recall, F1: (0.747242, 0.384069, 0.434146)
+Item accuracy: 1566 / 1861 (0.8415)
+Instance accuracy: 47 / 96 (0.4896)
 
 ***** Iteration #15 *****
-Loss: 12.187335
-Feature norm: 1497.012407
-Seconds required for this iteration: 0.028
+Loss: 3.249864
+Feature norm: 1319.447362
+Seconds required for this iteration: 0.037
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1717, 1995, 1752) (0.8607, 0.9800, 0.9165)
-    B-Eff: (14, 28, 46) (0.5000, 0.3043, 0.3784)
-    B-MOU: (2, 8, 31) (0.2500, 0.0645, 0.1026)
-    I-MOU: (13, 29, 137) (0.4483, 0.0949, 0.1566)
-    I-Eff: (58, 87, 181) (0.6667, 0.3204, 0.4328)
-Macro-average precision, recall, F1: (0.545119, 0.352844, 0.397374)
-Item accuracy: 1804 / 2147 (0.8402)
+    O: (1461, 1701, 1495) (0.8589, 0.9773, 0.9143)
+    B-Eff: (16, 33, 46) (0.4848, 0.3478, 0.4051)
+    B-MOU: (2, 2, 31) (1.0000, 0.0645, 0.1212)
+    I-MOU: (17, 23, 121) (0.7391, 0.1405, 0.2361)
+    I-Eff: (67, 102, 168) (0.6569, 0.3988, 0.4963)
+Macro-average precision, recall, F1: (0.747950, 0.385781, 0.434590)
+Item accuracy: 1563 / 1861 (0.8399)
 Instance accuracy: 46 / 96 (0.4792)
 
 ***** Iteration #16 *****
-Loss: 1.589889
-Feature norm: 1524.347489
-Seconds required for this iteration: 0.024
+Loss: 0.265700
+Feature norm: 1336.340953
+Seconds required for this iteration: 0.045
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1716, 1988, 1752) (0.8632, 0.9795, 0.9176)
-    B-Eff: (15, 29, 46) (0.5172, 0.3261, 0.4000)
-    B-MOU: (3, 9, 31) (0.3333, 0.0968, 0.1500)
-    I-MOU: (14, 30, 137) (0.4667, 0.1022, 0.1677)
-    I-Eff: (61, 91, 181) (0.6703, 0.3370, 0.4485)
-Macro-average precision, recall, F1: (0.570150, 0.368304, 0.416768)
-Item accuracy: 1809 / 2147 (0.8426)
+    O: (1463, 1703, 1495) (0.8591, 0.9786, 0.9149)
+    B-Eff: (16, 33, 46) (0.4848, 0.3478, 0.4051)
+    B-MOU: (2, 2, 31) (1.0000, 0.0645, 0.1212)
+    I-MOU: (17, 24, 121) (0.7083, 0.1405, 0.2345)
+    I-Eff: (66, 99, 168) (0.6667, 0.3929, 0.4944)
+Macro-average precision, recall, F1: (0.743784, 0.384858, 0.434017)
+Item accuracy: 1564 / 1861 (0.8404)
 Instance accuracy: 46 / 96 (0.4792)
 
 ***** Iteration #17 *****
-Loss: 5.873408
-Feature norm: 1549.219502
-Seconds required for this iteration: 0.026
+Loss: 0.441520
+Feature norm: 1351.395449
+Seconds required for this iteration: 0.033
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1717, 1990, 1752) (0.8628, 0.9800, 0.9177)
-    B-Eff: (15, 29, 46) (0.5172, 0.3261, 0.4000)
-    B-MOU: (4, 10, 31) (0.4000, 0.1290, 0.1951)
-    I-MOU: (14, 28, 137) (0.5000, 0.1022, 0.1697)
-    I-Eff: (62, 90, 181) (0.6889, 0.3425, 0.4576)
-Macro-average precision, recall, F1: (0.593789, 0.375975, 0.428015)
-Item accuracy: 1812 / 2147 (0.8440)
+    O: (1463, 1703, 1495) (0.8591, 0.9786, 0.9149)
+    B-Eff: (16, 33, 46) (0.4848, 0.3478, 0.4051)
+    B-MOU: (2, 2, 31) (1.0000, 0.0645, 0.1212)
+    I-MOU: (17, 24, 121) (0.7083, 0.1405, 0.2345)
+    I-Eff: (66, 99, 168) (0.6667, 0.3929, 0.4944)
+Macro-average precision, recall, F1: (0.743784, 0.384858, 0.434017)
+Item accuracy: 1564 / 1861 (0.8404)
 Instance accuracy: 46 / 96 (0.4792)
 
 ***** Iteration #18 *****
-Loss: 0.515520
-Feature norm: 1572.322783
-Seconds required for this iteration: 0.023
+Loss: 0.161111
+Feature norm: 1364.899404
+Seconds required for this iteration: 0.039
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1714, 1987, 1752) (0.8626, 0.9783, 0.9168)
-    B-Eff: (15, 29, 46) (0.5172, 0.3261, 0.4000)
-    B-MOU: (4, 10, 31) (0.4000, 0.1290, 0.1951)
-    I-MOU: (14, 28, 137) (0.5000, 0.1022, 0.1697)
-    I-Eff: (62, 93, 181) (0.6667, 0.3425, 0.4526)
-Macro-average precision, recall, F1: (0.589303, 0.375632, 0.426839)
-Item accuracy: 1809 / 2147 (0.8426)
-Instance accuracy: 45 / 96 (0.4688)
+    O: (1463, 1703, 1495) (0.8591, 0.9786, 0.9149)
+    B-Eff: (16, 33, 46) (0.4848, 0.3478, 0.4051)
+    B-MOU: (2, 2, 31) (1.0000, 0.0645, 0.1212)
+    I-MOU: (17, 24, 121) (0.7083, 0.1405, 0.2345)
+    I-Eff: (66, 99, 168) (0.6667, 0.3929, 0.4944)
+Macro-average precision, recall, F1: (0.743784, 0.384858, 0.434017)
+Item accuracy: 1564 / 1861 (0.8404)
+Instance accuracy: 46 / 96 (0.4792)
 
 ***** Iteration #19 *****
-Loss: 0.418860
-Feature norm: 1593.182475
-Seconds required for this iteration: 0.023
+Loss: 6.755914
+Feature norm: 1377.211992
+Seconds required for this iteration: 0.033
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1714, 1991, 1752) (0.8609, 0.9783, 0.9158)
-    B-Eff: (13, 27, 46) (0.4815, 0.2826, 0.3562)
-    B-MOU: (4, 10, 31) (0.4000, 0.1290, 0.1951)
-    I-MOU: (14, 28, 137) (0.5000, 0.1022, 0.1697)
-    I-Eff: (59, 91, 181) (0.6484, 0.3260, 0.4338)
-Macro-average precision, recall, F1: (0.578141, 0.363622, 0.414130)
-Item accuracy: 1804 / 2147 (0.8402)
-Instance accuracy: 45 / 96 (0.4688)
+    O: (1463, 1701, 1495) (0.8601, 0.9786, 0.9155)
+    B-Eff: (16, 33, 46) (0.4848, 0.3478, 0.4051)
+    B-MOU: (2, 2, 31) (1.0000, 0.0645, 0.1212)
+    I-MOU: (17, 24, 121) (0.7083, 0.1405, 0.2345)
+    I-Eff: (68, 101, 168) (0.6733, 0.4048, 0.5056)
+Macro-average precision, recall, F1: (0.745306, 0.387239, 0.436371)
+Item accuracy: 1566 / 1861 (0.8415)
+Instance accuracy: 46 / 96 (0.4792)
 
 ***** Iteration #20 *****
-Loss: 0.105263
-Feature norm: 1612.100976
-Seconds required for this iteration: 0.022
+Loss: 10.444168
+Feature norm: 1391.269865
+Seconds required for this iteration: 0.039
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1714, 1992, 1752) (0.8604, 0.9783, 0.9156)
-    B-Eff: (13, 27, 46) (0.4815, 0.2826, 0.3562)
-    B-MOU: (3, 9, 31) (0.3333, 0.0968, 0.1500)
-    I-MOU: (14, 30, 137) (0.4667, 0.1022, 0.1677)
-    I-Eff: (57, 89, 181) (0.6404, 0.3149, 0.4222)
-Macro-average precision, recall, F1: (0.556475, 0.354960, 0.402330)
-Item accuracy: 1801 / 2147 (0.8388)
-Instance accuracy: 45 / 96 (0.4688)
+    O: (1461, 1699, 1495) (0.8599, 0.9773, 0.9148)
+    B-Eff: (16, 33, 46) (0.4848, 0.3478, 0.4051)
+    B-MOU: (2, 3, 31) (0.6667, 0.0645, 0.1176)
+    I-MOU: (17, 25, 121) (0.6800, 0.1405, 0.2329)
+    I-Eff: (68, 101, 168) (0.6733, 0.4048, 0.5056)
+Macro-average precision, recall, F1: (0.672940, 0.386972, 0.435201)
+Item accuracy: 1564 / 1861 (0.8404)
+Instance accuracy: 46 / 96 (0.4792)
 
-Total seconds required for training: 0.786
+Total seconds required for training: 1.080
 
 
 ===== Cross validation (2/4) =====
@@ -323,294 +323,294 @@ feature.minfreq: 0.000000
 feature.possible_states: 0
 feature.possible_transitions: 0
 0....1....2....3....4....5....6....7....8....9....10
-Number of features: 339576
-Seconds required: 0.489
+Number of features: 316170
+Seconds required: 0.600
 
 Averaged perceptron
 max_iterations: 20
 epsilon: 0.000000
 
 ***** Iteration #1 *****
-Loss: 93.009276
-Feature norm: 375.800474
-Seconds required for this iteration: 0.052
+Loss: 99.579601
+Feature norm: 354.597789
+Seconds required for this iteration: 0.074
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1623, 2071, 1628) (0.7837, 0.9969, 0.8775)
-    B-Eff: (9, 11, 46) (0.8182, 0.1957, 0.3158)
+    O: (1333, 1728, 1349) (0.7714, 0.9881, 0.8664)
+    B-Eff: (10, 14, 46) (0.7143, 0.2174, 0.3333)
     B-MOU: (0, 0, 33) (0.0000, 0.0000, 0.0000)
-    I-MOU: (0, 0, 176) (0.0000, 0.0000, 0.0000)
-    I-Eff: (22, 31, 230) (0.7097, 0.0957, 0.1686)
-Macro-average precision, recall, F1: (0.462308, 0.257647, 0.272381)
-Item accuracy: 1654 / 2113 (0.7828)
-Instance accuracy: 49 / 96 (0.5104)
+    I-MOU: (0, 0, 159) (0.0000, 0.0000, 0.0000)
+    I-Eff: (34, 61, 216) (0.5574, 0.1574, 0.2455)
+Macro-average precision, recall, F1: (0.408615, 0.272588, 0.289050)
+Item accuracy: 1377 / 1803 (0.7637)
+Instance accuracy: 43 / 96 (0.4479)
 
 ***** Iteration #2 *****
-Loss: 68.017472
-Feature norm: 561.346405
-Seconds required for this iteration: 0.049
+Loss: 70.530158
+Feature norm: 531.197533
+Seconds required for this iteration: 0.065
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1622, 2055, 1628) (0.7893, 0.9963, 0.8808)
-    B-Eff: (10, 16, 46) (0.6250, 0.2174, 0.3226)
+    O: (1332, 1710, 1349) (0.7789, 0.9874, 0.8709)
+    B-Eff: (11, 23, 46) (0.4783, 0.2391, 0.3188)
     B-MOU: (0, 0, 33) (0.0000, 0.0000, 0.0000)
-    I-MOU: (0, 0, 176) (0.0000, 0.0000, 0.0000)
-    I-Eff: (31, 42, 230) (0.7381, 0.1348, 0.2279)
-Macro-average precision, recall, F1: (0.430478, 0.269698, 0.286265)
-Item accuracy: 1663 / 2113 (0.7870)
-Instance accuracy: 48 / 96 (0.5000)
+    I-MOU: (0, 0, 159) (0.0000, 0.0000, 0.0000)
+    I-Eff: (42, 70, 216) (0.6000, 0.1944, 0.2937)
+Macro-average precision, recall, F1: (0.371442, 0.284195, 0.296684)
+Item accuracy: 1385 / 1803 (0.7682)
+Instance accuracy: 46 / 96 (0.4792)
 
 ***** Iteration #3 *****
-Loss: 60.893527
-Feature norm: 702.711661
-Seconds required for this iteration: 0.048
+Loss: 60.586851
+Feature norm: 665.060880
+Seconds required for this iteration: 0.065
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1616, 2023, 1628) (0.7988, 0.9926, 0.8852)
-    B-Eff: (12, 25, 46) (0.4800, 0.2609, 0.3380)
+    O: (1328, 1690, 1349) (0.7858, 0.9844, 0.8740)
+    B-Eff: (12, 28, 46) (0.4286, 0.2609, 0.3243)
     B-MOU: (1, 1, 33) (1.0000, 0.0303, 0.0588)
-    I-MOU: (5, 5, 176) (1.0000, 0.0284, 0.0552)
-    I-Eff: (45, 59, 230) (0.7627, 0.1957, 0.3114)
-Macro-average precision, recall, F1: (0.808305, 0.301573, 0.329751)
-Item accuracy: 1679 / 2113 (0.7946)
-Instance accuracy: 49 / 96 (0.5104)
+    I-MOU: (2, 2, 159) (1.0000, 0.0126, 0.0248)
+    I-Eff: (49, 82, 216) (0.5976, 0.2269, 0.3289)
+Macro-average precision, recall, F1: (0.762386, 0.303007, 0.322165)
+Item accuracy: 1392 / 1803 (0.7720)
+Instance accuracy: 48 / 96 (0.5000)
 
 ***** Iteration #4 *****
-Loss: 53.986029
-Feature norm: 828.984783
-Seconds required for this iteration: 0.045
+Loss: 44.397896
+Feature norm: 777.439005
+Seconds required for this iteration: 0.071
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1612, 2011, 1628) (0.8016, 0.9902, 0.8860)
-    B-Eff: (12, 24, 46) (0.5000, 0.2609, 0.3429)
-    B-MOU: (2, 2, 33) (1.0000, 0.0606, 0.1143)
-    I-MOU: (5, 5, 176) (1.0000, 0.0284, 0.0552)
-    I-Eff: (50, 71, 230) (0.7042, 0.2174, 0.3322)
-Macro-average precision, recall, F1: (0.801163, 0.311490, 0.346115)
-Item accuracy: 1681 / 2113 (0.7956)
+    O: (1326, 1680, 1349) (0.7893, 0.9830, 0.8755)
+    B-Eff: (12, 31, 46) (0.3871, 0.2609, 0.3117)
+    B-MOU: (1, 3, 33) (0.3333, 0.0303, 0.0556)
+    I-MOU: (4, 4, 159) (1.0000, 0.0252, 0.0491)
+    I-Eff: (55, 85, 216) (0.6471, 0.2546, 0.3654)
+Macro-average precision, recall, F1: (0.631355, 0.310782, 0.331462)
+Item accuracy: 1398 / 1803 (0.7754)
 Instance accuracy: 48 / 96 (0.5000)
 
 ***** Iteration #5 *****
-Loss: 42.707854
-Feature norm: 946.106748
-Seconds required for this iteration: 0.044
+Loss: 36.233609
+Feature norm: 870.841583
+Seconds required for this iteration: 0.060
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1609, 1996, 1628) (0.8061, 0.9883, 0.8880)
-    B-Eff: (12, 26, 46) (0.4615, 0.2609, 0.3333)
-    B-MOU: (2, 2, 33) (1.0000, 0.0606, 0.1143)
-    I-MOU: (5, 5, 176) (1.0000, 0.0284, 0.0552)
-    I-Eff: (58, 84, 230) (0.6905, 0.2522, 0.3694)
-Macro-average precision, recall, F1: (0.791625, 0.318078, 0.352053)
-Item accuracy: 1686 / 2113 (0.7979)
+    O: (1327, 1662, 1349) (0.7984, 0.9837, 0.8814)
+    B-Eff: (12, 32, 46) (0.3750, 0.2609, 0.3077)
+    B-MOU: (4, 9, 33) (0.4444, 0.1212, 0.1905)
+    I-MOU: (9, 12, 159) (0.7500, 0.0566, 0.1053)
+    I-Eff: (56, 88, 216) (0.6364, 0.2593, 0.3684)
+Macro-average precision, recall, F1: (0.600849, 0.336327, 0.370657)
+Item accuracy: 1408 / 1803 (0.7809)
 Instance accuracy: 48 / 96 (0.5000)
 
 ***** Iteration #6 *****
-Loss: 28.639830
-Feature norm: 1044.754568
-Seconds required for this iteration: 0.040
+Loss: 25.239219
+Feature norm: 951.204441
+Seconds required for this iteration: 0.056
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1609, 1984, 1628) (0.8110, 0.9883, 0.8909)
-    B-Eff: (12, 27, 46) (0.4444, 0.2609, 0.3288)
-    B-MOU: (2, 5, 33) (0.4000, 0.0606, 0.1053)
-    I-MOU: (8, 8, 176) (1.0000, 0.0455, 0.0870)
-    I-Eff: (61, 89, 230) (0.6854, 0.2652, 0.3824)
-Macro-average precision, recall, F1: (0.668165, 0.324095, 0.358870)
-Item accuracy: 1692 / 2113 (0.8008)
-Instance accuracy: 48 / 96 (0.5000)
+    O: (1323, 1654, 1349) (0.7999, 0.9807, 0.8811)
+    B-Eff: (12, 33, 46) (0.3636, 0.2609, 0.3038)
+    B-MOU: (4, 11, 33) (0.3636, 0.1212, 0.1818)
+    I-MOU: (10, 14, 159) (0.7143, 0.0629, 0.1156)
+    I-Eff: (59, 91, 216) (0.6484, 0.2731, 0.3844)
+Macro-average precision, recall, F1: (0.577958, 0.339770, 0.373341)
+Item accuracy: 1408 / 1803 (0.7809)
+Instance accuracy: 46 / 96 (0.4792)
 
 ***** Iteration #7 *****
-Loss: 14.443961
-Feature norm: 1125.392279
-Seconds required for this iteration: 0.035
+Loss: 19.021500
+Feature norm: 1021.892741
+Seconds required for this iteration: 0.060
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1609, 1977, 1628) (0.8139, 0.9883, 0.8926)
-    B-Eff: (12, 25, 46) (0.4800, 0.2609, 0.3380)
-    B-MOU: (2, 5, 33) (0.4000, 0.0606, 0.1053)
-    I-MOU: (9, 9, 176) (1.0000, 0.0511, 0.0973)
-    I-Eff: (70, 97, 230) (0.7216, 0.3043, 0.4281)
-Macro-average precision, recall, F1: (0.683102, 0.333058, 0.372274)
-Item accuracy: 1702 / 2113 (0.8055)
-Instance accuracy: 48 / 96 (0.5000)
+    O: (1323, 1633, 1349) (0.8102, 0.9807, 0.8873)
+    B-Eff: (13, 33, 46) (0.3939, 0.2826, 0.3291)
+    B-MOU: (6, 12, 33) (0.5000, 0.1818, 0.2667)
+    I-MOU: (20, 24, 159) (0.8333, 0.1258, 0.2186)
+    I-Eff: (63, 101, 216) (0.6238, 0.2917, 0.3975)
+Macro-average precision, recall, F1: (0.632240, 0.372521, 0.419832)
+Item accuracy: 1425 / 1803 (0.7903)
+Instance accuracy: 46 / 96 (0.4792)
 
 ***** Iteration #8 *****
-Loss: 15.551332
-Feature norm: 1190.892606
-Seconds required for this iteration: 0.031
+Loss: 15.568145
+Feature norm: 1081.328597
+Seconds required for this iteration: 0.045
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1605, 1970, 1628) (0.8147, 0.9859, 0.8922)
-    B-Eff: (12, 24, 46) (0.5000, 0.2609, 0.3429)
-    B-MOU: (2, 7, 33) (0.2857, 0.0606, 0.1000)
-    I-MOU: (13, 14, 176) (0.9286, 0.0739, 0.1368)
-    I-Eff: (71, 98, 230) (0.7245, 0.3087, 0.4329)
-Macro-average precision, recall, F1: (0.650699, 0.337981, 0.380958)
-Item accuracy: 1703 / 2113 (0.8060)
-Instance accuracy: 48 / 96 (0.5000)
+    O: (1322, 1619, 1349) (0.8166, 0.9800, 0.8908)
+    B-Eff: (13, 35, 46) (0.3714, 0.2826, 0.3210)
+    B-MOU: (5, 11, 33) (0.4545, 0.1515, 0.2273)
+    I-MOU: (20, 25, 159) (0.8000, 0.1258, 0.2174)
+    I-Eff: (70, 113, 216) (0.6195, 0.3241, 0.4255)
+Macro-average precision, recall, F1: (0.612399, 0.372794, 0.416404)
+Item accuracy: 1430 / 1803 (0.7931)
+Instance accuracy: 46 / 96 (0.4792)
 
 ***** Iteration #9 *****
-Loss: 12.839807
-Feature norm: 1247.809501
-Seconds required for this iteration: 0.031
+Loss: 13.950985
+Feature norm: 1132.447941
+Seconds required for this iteration: 0.046
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1605, 1963, 1628) (0.8176, 0.9859, 0.8939)
-    B-Eff: (12, 24, 46) (0.5000, 0.2609, 0.3429)
-    B-MOU: (2, 7, 33) (0.2857, 0.0606, 0.1000)
-    I-MOU: (17, 18, 176) (0.9444, 0.0966, 0.1753)
-    I-Eff: (71, 101, 230) (0.7030, 0.3087, 0.4290)
-Macro-average precision, recall, F1: (0.650151, 0.342527, 0.388204)
-Item accuracy: 1707 / 2113 (0.8079)
-Instance accuracy: 48 / 96 (0.5000)
+    O: (1322, 1614, 1349) (0.8191, 0.9800, 0.8923)
+    B-Eff: (13, 35, 46) (0.3714, 0.2826, 0.3210)
+    B-MOU: (5, 11, 33) (0.4545, 0.1515, 0.2273)
+    I-MOU: (23, 28, 159) (0.8214, 0.1447, 0.2460)
+    I-Eff: (72, 115, 216) (0.6261, 0.3333, 0.4350)
+Macro-average precision, recall, F1: (0.618515, 0.378419, 0.424327)
+Item accuracy: 1435 / 1803 (0.7959)
+Instance accuracy: 46 / 96 (0.4792)
 
 ***** Iteration #10 *****
-Loss: 4.866706
-Feature norm: 1297.171642
-Seconds required for this iteration: 0.025
+Loss: 12.890199
+Feature norm: 1177.396125
+Seconds required for this iteration: 0.049
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1605, 1968, 1628) (0.8155, 0.9859, 0.8927)
-    B-Eff: (13, 25, 46) (0.5200, 0.2826, 0.3662)
-    B-MOU: (2, 7, 33) (0.2857, 0.0606, 0.1000)
-    I-MOU: (16, 17, 176) (0.9412, 0.0909, 0.1658)
-    I-Eff: (69, 96, 230) (0.7188, 0.3000, 0.4233)
-Macro-average precision, recall, F1: (0.656238, 0.343999, 0.389594)
-Item accuracy: 1705 / 2113 (0.8069)
-Instance accuracy: 48 / 96 (0.5000)
+    O: (1322, 1616, 1349) (0.8181, 0.9800, 0.8917)
+    B-Eff: (13, 35, 46) (0.3714, 0.2826, 0.3210)
+    B-MOU: (4, 10, 33) (0.4000, 0.1212, 0.1860)
+    I-MOU: (22, 27, 159) (0.8148, 0.1384, 0.2366)
+    I-Eff: (72, 115, 216) (0.6261, 0.3333, 0.4350)
+Macro-average precision, recall, F1: (0.606080, 0.371101, 0.414075)
+Item accuracy: 1433 / 1803 (0.7948)
+Instance accuracy: 46 / 96 (0.4792)
 
 ***** Iteration #11 *****
-Loss: 1.308737
-Feature norm: 1338.544512
-Seconds required for this iteration: 0.024
+Loss: 0.640938
+Feature norm: 1215.461541
+Seconds required for this iteration: 0.028
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1600, 1963, 1628) (0.8151, 0.9828, 0.8911)
-    B-Eff: (13, 25, 46) (0.5200, 0.2826, 0.3662)
-    B-MOU: (2, 7, 33) (0.2857, 0.0606, 0.1000)
-    I-MOU: (16, 17, 176) (0.9412, 0.0909, 0.1658)
-    I-Eff: (69, 101, 230) (0.6832, 0.3000, 0.4169)
-Macro-average precision, recall, F1: (0.649028, 0.343385, 0.388007)
-Item accuracy: 1700 / 2113 (0.8045)
-Instance accuracy: 48 / 96 (0.5000)
+    O: (1323, 1617, 1349) (0.8182, 0.9807, 0.8921)
+    B-Eff: (14, 33, 46) (0.4242, 0.3043, 0.3544)
+    B-MOU: (4, 10, 33) (0.4000, 0.1212, 0.1860)
+    I-MOU: (22, 28, 159) (0.7857, 0.1384, 0.2353)
+    I-Eff: (76, 115, 216) (0.6609, 0.3519, 0.4592)
+Macro-average precision, recall, F1: (0.617802, 0.379301, 0.425419)
+Item accuracy: 1439 / 1803 (0.7981)
+Instance accuracy: 46 / 96 (0.4792)
 
 ***** Iteration #12 *****
-Loss: 0.348401
-Feature norm: 1373.587150
-Seconds required for this iteration: 0.023
-Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1600, 1961, 1628) (0.8159, 0.9828, 0.8916)
-    B-Eff: (13, 25, 46) (0.5200, 0.2826, 0.3662)
-    B-MOU: (2, 8, 33) (0.2500, 0.0606, 0.0976)
-    I-MOU: (16, 17, 176) (0.9412, 0.0909, 0.1658)
-    I-Eff: (70, 102, 230) (0.6863, 0.3043, 0.4217)
-Macro-average precision, recall, F1: (0.642672, 0.344255, 0.388572)
-Item accuracy: 1701 / 2113 (0.8050)
-Instance accuracy: 48 / 96 (0.5000)
-
-***** Iteration #13 *****
-Loss: 0.210526
-Feature norm: 1403.590614
-Seconds required for this iteration: 0.023
-Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1601, 1959, 1628) (0.8173, 0.9834, 0.8927)
-    B-Eff: (13, 25, 46) (0.5200, 0.2826, 0.3662)
-    B-MOU: (2, 8, 33) (0.2500, 0.0606, 0.0976)
-    I-MOU: (16, 17, 176) (0.9412, 0.0909, 0.1658)
-    I-Eff: (73, 104, 230) (0.7019, 0.3174, 0.4371)
-Macro-average precision, recall, F1: (0.646071, 0.346986, 0.391871)
-Item accuracy: 1705 / 2113 (0.8069)
-Instance accuracy: 48 / 96 (0.5000)
-
-***** Iteration #14 *****
-Loss: 0.105263
-Feature norm: 1429.549241
-Seconds required for this iteration: 0.022
-Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1600, 1951, 1628) (0.8201, 0.9828, 0.8941)
-    B-Eff: (13, 25, 46) (0.5200, 0.2826, 0.3662)
-    B-MOU: (2, 9, 33) (0.2222, 0.0606, 0.0952)
-    I-MOU: (20, 22, 176) (0.9091, 0.1136, 0.2020)
-    I-Eff: (73, 106, 230) (0.6887, 0.3174, 0.4345)
-Macro-average precision, recall, F1: (0.632017, 0.351409, 0.398417)
-Item accuracy: 1708 / 2113 (0.8083)
-Instance accuracy: 48 / 96 (0.5000)
-
-***** Iteration #15 *****
-Loss: 0.210526
-Feature norm: 1452.217274
-Seconds required for this iteration: 0.023
-Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1598, 1949, 1628) (0.8199, 0.9816, 0.8935)
-    B-Eff: (13, 24, 46) (0.5417, 0.2826, 0.3714)
-    B-MOU: (2, 10, 33) (0.2000, 0.0606, 0.0930)
-    I-MOU: (20, 26, 176) (0.7692, 0.1136, 0.1980)
-    I-Eff: (73, 104, 230) (0.7019, 0.3174, 0.4371)
-Macro-average precision, recall, F1: (0.606546, 0.351163, 0.398617)
-Item accuracy: 1706 / 2113 (0.8074)
-Instance accuracy: 48 / 96 (0.5000)
-
-***** Iteration #16 *****
-Loss: 1.905567
-Feature norm: 1472.464061
-Seconds required for this iteration: 0.025
-Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1599, 1942, 1628) (0.8234, 0.9822, 0.8958)
-    B-Eff: (14, 25, 46) (0.5600, 0.3043, 0.3944)
-    B-MOU: (2, 10, 33) (0.2000, 0.0606, 0.0930)
-    I-MOU: (23, 29, 176) (0.7931, 0.1307, 0.2244)
-    I-Eff: (77, 107, 230) (0.7196, 0.3348, 0.4570)
-Macro-average precision, recall, F1: (0.619222, 0.362521, 0.412910)
-Item accuracy: 1715 / 2113 (0.8116)
-Instance accuracy: 48 / 96 (0.5000)
-
-***** Iteration #17 *****
-Loss: 1.247144
-Feature norm: 1490.521960
-Seconds required for this iteration: 0.024
-Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1599, 1948, 1628) (0.8208, 0.9822, 0.8943)
-    B-Eff: (13, 24, 46) (0.5417, 0.2826, 0.3714)
-    B-MOU: (2, 10, 33) (0.2000, 0.0606, 0.0930)
-    I-MOU: (23, 29, 176) (0.7931, 0.1307, 0.2244)
-    I-Eff: (72, 102, 230) (0.7059, 0.3130, 0.4337)
-Macro-average precision, recall, F1: (0.612299, 0.353825, 0.403374)
-Item accuracy: 1709 / 2113 (0.8088)
-Instance accuracy: 48 / 96 (0.5000)
-
-***** Iteration #18 *****
-Loss: 0.278874
-Feature norm: 1506.711705
+Loss: 0.653643
+Feature norm: 1247.795407
 Seconds required for this iteration: 0.027
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1601, 1950, 1628) (0.8210, 0.9834, 0.8949)
-    B-Eff: (13, 24, 46) (0.5417, 0.2826, 0.3714)
-    B-MOU: (2, 9, 33) (0.2222, 0.0606, 0.0952)
-    I-MOU: (23, 28, 176) (0.8214, 0.1307, 0.2255)
-    I-Eff: (72, 102, 230) (0.7059, 0.3130, 0.4337)
-Macro-average precision, recall, F1: (0.622445, 0.354071, 0.404161)
-Item accuracy: 1711 / 2113 (0.8097)
-Instance accuracy: 48 / 96 (0.5000)
+    O: (1323, 1615, 1349) (0.8192, 0.9807, 0.8927)
+    B-Eff: (14, 34, 46) (0.4118, 0.3043, 0.3500)
+    B-MOU: (4, 10, 33) (0.4000, 0.1212, 0.1860)
+    I-MOU: (22, 28, 159) (0.7857, 0.1384, 0.2353)
+    I-Eff: (76, 116, 216) (0.6552, 0.3519, 0.4578)
+Macro-average precision, recall, F1: (0.614369, 0.379301, 0.424377)
+Item accuracy: 1439 / 1803 (0.7981)
+Instance accuracy: 46 / 96 (0.4792)
+
+***** Iteration #13 *****
+Loss: 0.763450
+Feature norm: 1275.548278
+Seconds required for this iteration: 0.031
+Performance by label (#match, #model, #ref) (precision, recall, F1):
+    O: (1323, 1616, 1349) (0.8187, 0.9807, 0.8924)
+    B-Eff: (14, 33, 46) (0.4242, 0.3043, 0.3544)
+    B-MOU: (4, 10, 33) (0.4000, 0.1212, 0.1860)
+    I-MOU: (20, 26, 159) (0.7692, 0.1258, 0.2162)
+    I-Eff: (78, 118, 216) (0.6610, 0.3611, 0.4671)
+Macro-average precision, recall, F1: (0.614636, 0.378637, 0.423234)
+Item accuracy: 1439 / 1803 (0.7981)
+Instance accuracy: 46 / 96 (0.4792)
+
+***** Iteration #14 *****
+Loss: 0.111111
+Feature norm: 1299.601920
+Seconds required for this iteration: 0.027
+Performance by label (#match, #model, #ref) (precision, recall, F1):
+    O: (1323, 1616, 1349) (0.8187, 0.9807, 0.8924)
+    B-Eff: (14, 33, 46) (0.4242, 0.3043, 0.3544)
+    B-MOU: (4, 10, 33) (0.4000, 0.1212, 0.1860)
+    I-MOU: (20, 26, 159) (0.7692, 0.1258, 0.2162)
+    I-Eff: (78, 118, 216) (0.6610, 0.3611, 0.4671)
+Macro-average precision, recall, F1: (0.614636, 0.378637, 0.423234)
+Item accuracy: 1439 / 1803 (0.7981)
+Instance accuracy: 46 / 96 (0.4792)
+
+***** Iteration #15 *****
+Loss: 0.222222
+Feature norm: 1320.629982
+Seconds required for this iteration: 0.027
+Performance by label (#match, #model, #ref) (precision, recall, F1):
+    O: (1323, 1620, 1349) (0.8167, 0.9807, 0.8912)
+    B-Eff: (14, 32, 46) (0.4375, 0.3043, 0.3590)
+    B-MOU: (4, 10, 33) (0.4000, 0.1212, 0.1860)
+    I-MOU: (20, 26, 159) (0.7692, 0.1258, 0.2162)
+    I-Eff: (75, 115, 216) (0.6522, 0.3472, 0.4532)
+Macro-average precision, recall, F1: (0.615114, 0.375859, 0.421124)
+Item accuracy: 1436 / 1803 (0.7965)
+Instance accuracy: 46 / 96 (0.4792)
+
+***** Iteration #16 *****
+Loss: 0.222222
+Feature norm: 1339.158240
+Seconds required for this iteration: 0.032
+Performance by label (#match, #model, #ref) (precision, recall, F1):
+    O: (1323, 1620, 1349) (0.8167, 0.9807, 0.8912)
+    B-Eff: (14, 32, 46) (0.4375, 0.3043, 0.3590)
+    B-MOU: (4, 10, 33) (0.4000, 0.1212, 0.1860)
+    I-MOU: (20, 26, 159) (0.7692, 0.1258, 0.2162)
+    I-Eff: (75, 115, 216) (0.6522, 0.3472, 0.4532)
+Macro-average precision, recall, F1: (0.615114, 0.375859, 0.421124)
+Item accuracy: 1436 / 1803 (0.7965)
+Instance accuracy: 46 / 96 (0.4792)
+
+***** Iteration #17 *****
+Loss: 0.222222
+Feature norm: 1355.604734
+Seconds required for this iteration: 0.031
+Performance by label (#match, #model, #ref) (precision, recall, F1):
+    O: (1323, 1620, 1349) (0.8167, 0.9807, 0.8912)
+    B-Eff: (14, 32, 46) (0.4375, 0.3043, 0.3590)
+    B-MOU: (4, 10, 33) (0.4000, 0.1212, 0.1860)
+    I-MOU: (21, 27, 159) (0.7778, 0.1321, 0.2258)
+    I-Eff: (75, 114, 216) (0.6579, 0.3472, 0.4545)
+Macro-average precision, recall, F1: (0.617968, 0.377117, 0.423316)
+Item accuracy: 1437 / 1803 (0.7970)
+Instance accuracy: 46 / 96 (0.4792)
+
+***** Iteration #18 *****
+Loss: 0.111111
+Feature norm: 1370.298294
+Seconds required for this iteration: 0.027
+Performance by label (#match, #model, #ref) (precision, recall, F1):
+    O: (1321, 1609, 1349) (0.8210, 0.9792, 0.8932)
+    B-Eff: (14, 32, 46) (0.4375, 0.3043, 0.3590)
+    B-MOU: (4, 12, 33) (0.3333, 0.1212, 0.1778)
+    I-MOU: (23, 32, 159) (0.7188, 0.1447, 0.2408)
+    I-Eff: (75, 118, 216) (0.6356, 0.3472, 0.4491)
+Macro-average precision, recall, F1: (0.589237, 0.379336, 0.423973)
+Item accuracy: 1437 / 1803 (0.7970)
+Instance accuracy: 46 / 96 (0.4792)
 
 ***** Iteration #19 *****
-Loss: 2.130293
-Feature norm: 1521.285911
-Seconds required for this iteration: 0.023
+Loss: 0.111111
+Feature norm: 1383.503212
+Seconds required for this iteration: 0.030
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1598, 1940, 1628) (0.8237, 0.9816, 0.8957)
-    B-Eff: (14, 25, 46) (0.5600, 0.3043, 0.3944)
-    B-MOU: (2, 8, 33) (0.2500, 0.0606, 0.0976)
-    I-MOU: (23, 28, 176) (0.8214, 0.1307, 0.2255)
-    I-Eff: (78, 112, 230) (0.6964, 0.3391, 0.4561)
-Macro-average precision, recall, F1: (0.630314, 0.363268, 0.413860)
-Item accuracy: 1715 / 2113 (0.8116)
-Instance accuracy: 48 / 96 (0.5000)
+    O: (1319, 1606, 1349) (0.8213, 0.9778, 0.8927)
+    B-Eff: (14, 31, 46) (0.4516, 0.3043, 0.3636)
+    B-MOU: (4, 11, 33) (0.3636, 0.1212, 0.1818)
+    I-MOU: (26, 35, 159) (0.7429, 0.1635, 0.2680)
+    I-Eff: (75, 120, 216) (0.6250, 0.3472, 0.4464)
+Macro-average precision, recall, F1: (0.600880, 0.382813, 0.430530)
+Item accuracy: 1438 / 1803 (0.7976)
+Instance accuracy: 46 / 96 (0.4792)
 
 ***** Iteration #20 *****
-Loss: 0.589386
-Feature norm: 1534.633295
-Seconds required for this iteration: 0.024
+Loss: 0.222222
+Feature norm: 1395.432815
+Seconds required for this iteration: 0.030
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1596, 1935, 1628) (0.8248, 0.9803, 0.8959)
-    B-Eff: (14, 26, 46) (0.5385, 0.3043, 0.3889)
-    B-MOU: (2, 8, 33) (0.2500, 0.0606, 0.0976)
-    I-MOU: (23, 28, 176) (0.8214, 0.1307, 0.2255)
-    I-Eff: (78, 116, 230) (0.6724, 0.3391, 0.4509)
-Macro-average precision, recall, F1: (0.621422, 0.363022, 0.411736)
-Item accuracy: 1713 / 2113 (0.8107)
-Instance accuracy: 48 / 96 (0.5000)
+    O: (1319, 1606, 1349) (0.8213, 0.9778, 0.8927)
+    B-Eff: (14, 31, 46) (0.4516, 0.3043, 0.3636)
+    B-MOU: (4, 11, 33) (0.3636, 0.1212, 0.1818)
+    I-MOU: (26, 35, 159) (0.7429, 0.1635, 0.2680)
+    I-Eff: (75, 120, 216) (0.6250, 0.3472, 0.4464)
+Macro-average precision, recall, F1: (0.600880, 0.382813, 0.430530)
+Item accuracy: 1438 / 1803 (0.7976)
+Instance accuracy: 46 / 96 (0.4792)
 
-Total seconds required for training: 0.766
+Total seconds required for training: 1.053
 
 
 ===== Cross validation (3/4) =====
@@ -622,294 +622,294 @@ feature.minfreq: 0.000000
 feature.possible_states: 0
 feature.possible_transitions: 0
 0....1....2....3....4....5....6....7....8....9....10
-Number of features: 328283
-Seconds required: 0.473
+Number of features: 302226
+Seconds required: 0.559
 
 Averaged perceptron
 max_iterations: 20
 epsilon: 0.000000
 
 ***** Iteration #1 *****
-Loss: 84.950422
-Feature norm: 371.482607
-Seconds required for this iteration: 0.049
+Loss: 90.460714
+Feature norm: 356.856401
+Seconds required for this iteration: 0.065
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1766, 2301, 1769) (0.7675, 0.9983, 0.8678)
-    B-Eff: (3, 5, 55) (0.6000, 0.0545, 0.1000)
+    O: (1499, 1984, 1511) (0.7555, 0.9921, 0.8578)
+    B-Eff: (3, 8, 55) (0.3750, 0.0545, 0.0952)
     B-MOU: (0, 0, 29) (0.0000, 0.0000, 0.0000)
-    I-MOU: (0, 0, 164) (0.0000, 0.0000, 0.0000)
-    I-Eff: (7, 12, 301) (0.5833, 0.0233, 0.0447)
-Macro-average precision, recall, F1: (0.390165, 0.215221, 0.202508)
-Item accuracy: 1776 / 2318 (0.7662)
-Instance accuracy: 48 / 96 (0.5000)
+    I-MOU: (0, 0, 156) (0.0000, 0.0000, 0.0000)
+    I-Eff: (22, 41, 282) (0.5366, 0.0780, 0.1362)
+Macro-average precision, recall, F1: (0.333426, 0.224924, 0.217852)
+Item accuracy: 1524 / 2033 (0.7496)
+Instance accuracy: 45 / 96 (0.4688)
 
 ***** Iteration #2 *****
-Loss: 72.005589
-Feature norm: 550.961628
-Seconds required for this iteration: 0.049
+Loss: 67.137873
+Feature norm: 520.258228
+Seconds required for this iteration: 0.078
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1762, 2258, 1769) (0.7803, 0.9960, 0.8751)
-    B-Eff: (9, 17, 55) (0.5294, 0.1636, 0.2500)
+    O: (1495, 1949, 1511) (0.7671, 0.9894, 0.8642)
+    B-Eff: (9, 19, 55) (0.4737, 0.1636, 0.2432)
     B-MOU: (0, 0, 29) (0.0000, 0.0000, 0.0000)
-    I-MOU: (0, 0, 164) (0.0000, 0.0000, 0.0000)
-    I-Eff: (31, 43, 301) (0.7209, 0.1030, 0.1802)
-Macro-average precision, recall, F1: (0.406136, 0.252534, 0.261065)
-Item accuracy: 1802 / 2318 (0.7774)
-Instance accuracy: 48 / 96 (0.5000)
+    I-MOU: (0, 0, 156) (0.0000, 0.0000, 0.0000)
+    I-Eff: (37, 65, 282) (0.5692, 0.1312, 0.2133)
+Macro-average precision, recall, F1: (0.361995, 0.256851, 0.264132)
+Item accuracy: 1541 / 2033 (0.7580)
+Instance accuracy: 46 / 96 (0.4792)
 
 ***** Iteration #3 *****
-Loss: 53.219385
-Feature norm: 702.365255
-Seconds required for this iteration: 0.046
+Loss: 51.270544
+Feature norm: 648.221773
+Seconds required for this iteration: 0.066
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1755, 2232, 1769) (0.7863, 0.9921, 0.8773)
-    B-Eff: (12, 22, 55) (0.5455, 0.2182, 0.3117)
+    O: (1496, 1944, 1511) (0.7695, 0.9901, 0.8660)
+    B-Eff: (11, 21, 55) (0.5238, 0.2000, 0.2895)
     B-MOU: (0, 0, 29) (0.0000, 0.0000, 0.0000)
-    I-MOU: (0, 0, 164) (0.0000, 0.0000, 0.0000)
-    I-Eff: (39, 64, 301) (0.6094, 0.1296, 0.2137)
-Macro-average precision, recall, F1: (0.388224, 0.267967, 0.280534)
-Item accuracy: 1806 / 2318 (0.7791)
-Instance accuracy: 46 / 96 (0.4792)
+    I-MOU: (0, 0, 156) (0.0000, 0.0000, 0.0000)
+    I-Eff: (40, 68, 282) (0.5882, 0.1418, 0.2286)
+Macro-average precision, recall, F1: (0.376318, 0.266383, 0.276807)
+Item accuracy: 1547 / 2033 (0.7609)
+Instance accuracy: 45 / 96 (0.4688)
 
 ***** Iteration #4 *****
-Loss: 44.043744
-Feature norm: 824.409318
-Seconds required for this iteration: 0.043
+Loss: 38.794270
+Feature norm: 754.498179
+Seconds required for this iteration: 0.068
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1758, 2245, 1769) (0.7831, 0.9938, 0.8759)
-    B-Eff: (11, 22, 55) (0.5000, 0.2000, 0.2857)
-    B-MOU: (0, 0, 29) (0.0000, 0.0000, 0.0000)
-    I-MOU: (0, 0, 164) (0.0000, 0.0000, 0.0000)
-    I-Eff: (32, 51, 301) (0.6275, 0.1063, 0.1818)
-Macro-average precision, recall, F1: (0.382105, 0.260019, 0.268693)
-Item accuracy: 1801 / 2318 (0.7770)
-Instance accuracy: 46 / 96 (0.4792)
+    O: (1491, 1925, 1511) (0.7745, 0.9868, 0.8679)
+    B-Eff: (14, 25, 55) (0.5600, 0.2545, 0.3500)
+    B-MOU: (0, 3, 29) (0.0000, 0.0000, 0.0000)
+    I-MOU: (0, 1, 156) (0.0000, 0.0000, 0.0000)
+    I-Eff: (48, 79, 282) (0.6076, 0.1702, 0.2659)
+Macro-average precision, recall, F1: (0.388428, 0.282304, 0.296760)
+Item accuracy: 1553 / 2033 (0.7639)
+Instance accuracy: 45 / 96 (0.4688)
 
 ***** Iteration #5 *****
-Loss: 32.598063
-Feature norm: 930.358316
-Seconds required for this iteration: 0.041
+Loss: 32.294911
+Feature norm: 840.944380
+Seconds required for this iteration: 0.078
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1753, 2235, 1769) (0.7843, 0.9910, 0.8756)
-    B-Eff: (11, 22, 55) (0.5000, 0.2000, 0.2857)
-    B-MOU: (1, 2, 29) (0.5000, 0.0345, 0.0645)
-    I-MOU: (0, 1, 164) (0.0000, 0.0000, 0.0000)
-    I-Eff: (33, 58, 301) (0.5690, 0.1096, 0.1838)
-Macro-average precision, recall, F1: (0.470661, 0.267015, 0.281940)
-Item accuracy: 1798 / 2318 (0.7757)
+    O: (1488, 1919, 1511) (0.7754, 0.9848, 0.8676)
+    B-Eff: (14, 25, 55) (0.5600, 0.2545, 0.3500)
+    B-MOU: (1, 4, 29) (0.2500, 0.0345, 0.0606)
+    I-MOU: (1, 2, 156) (0.5000, 0.0064, 0.0127)
+    I-Eff: (48, 83, 282) (0.5783, 0.1702, 0.2630)
+Macro-average precision, recall, F1: (0.532743, 0.290086, 0.310783)
+Item accuracy: 1552 / 2033 (0.7634)
 Instance accuracy: 45 / 96 (0.4688)
 
 ***** Iteration #6 *****
-Loss: 21.523000
-Feature norm: 1015.504289
-Seconds required for this iteration: 0.035
+Loss: 16.740305
+Feature norm: 911.618050
+Seconds required for this iteration: 0.058
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1747, 2225, 1769) (0.7852, 0.9876, 0.8748)
-    B-Eff: (11, 22, 55) (0.5000, 0.2000, 0.2857)
-    B-MOU: (2, 3, 29) (0.6667, 0.0690, 0.1250)
-    I-MOU: (0, 1, 164) (0.0000, 0.0000, 0.0000)
-    I-Eff: (35, 67, 301) (0.5224, 0.1163, 0.1902)
-Macro-average precision, recall, F1: (0.494845, 0.274562, 0.295149)
-Item accuracy: 1795 / 2318 (0.7744)
-Instance accuracy: 45 / 96 (0.4688)
+    O: (1481, 1892, 1511) (0.7828, 0.9801, 0.8704)
+    B-Eff: (14, 31, 55) (0.4516, 0.2545, 0.3256)
+    B-MOU: (1, 4, 29) (0.2500, 0.0345, 0.0606)
+    I-MOU: (1, 2, 156) (0.5000, 0.0064, 0.0127)
+    I-Eff: (55, 104, 282) (0.5288, 0.1950, 0.2850)
+Macro-average precision, recall, F1: (0.502646, 0.294124, 0.310846)
+Item accuracy: 1552 / 2033 (0.7634)
+Instance accuracy: 43 / 96 (0.4479)
 
 ***** Iteration #7 *****
-Loss: 19.713232
-Feature norm: 1086.112775
-Seconds required for this iteration: 0.034
+Loss: 12.210377
+Feature norm: 966.745062
+Seconds required for this iteration: 0.060
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1747, 2223, 1769) (0.7859, 0.9876, 0.8753)
-    B-Eff: (12, 23, 55) (0.5217, 0.2182, 0.3077)
-    B-MOU: (1, 2, 29) (0.5000, 0.0345, 0.0645)
-    I-MOU: (0, 1, 164) (0.0000, 0.0000, 0.0000)
-    I-Eff: (37, 69, 301) (0.5362, 0.1229, 0.2000)
-Macro-average precision, recall, F1: (0.468769, 0.272630, 0.289492)
-Item accuracy: 1797 / 2318 (0.7752)
-Instance accuracy: 45 / 96 (0.4688)
+    O: (1476, 1870, 1511) (0.7893, 0.9768, 0.8731)
+    B-Eff: (14, 30, 55) (0.4667, 0.2545, 0.3294)
+    B-MOU: (2, 6, 29) (0.3333, 0.0690, 0.1143)
+    I-MOU: (6, 8, 156) (0.7500, 0.0385, 0.0732)
+    I-Eff: (64, 119, 282) (0.5378, 0.2270, 0.3192)
+Macro-average precision, recall, F1: (0.575424, 0.313152, 0.341837)
+Item accuracy: 1562 / 2033 (0.7683)
+Instance accuracy: 42 / 96 (0.4375)
 
 ***** Iteration #8 *****
-Loss: 11.480326
-Feature norm: 1148.078864
-Seconds required for this iteration: 0.031
+Loss: 6.405572
+Feature norm: 1011.538608
+Seconds required for this iteration: 0.042
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1739, 2204, 1769) (0.7890, 0.9830, 0.8754)
-    B-Eff: (12, 26, 55) (0.4615, 0.2182, 0.2963)
-    B-MOU: (1, 2, 29) (0.5000, 0.0345, 0.0645)
-    I-MOU: (1, 3, 164) (0.3333, 0.0061, 0.0120)
-    I-Eff: (41, 83, 301) (0.4940, 0.1362, 0.2135)
-Macro-average precision, recall, F1: (0.515574, 0.275603, 0.292348)
-Item accuracy: 1794 / 2318 (0.7739)
-Instance accuracy: 44 / 96 (0.4583)
+    O: (1474, 1862, 1511) (0.7916, 0.9755, 0.8740)
+    B-Eff: (14, 31, 55) (0.4516, 0.2545, 0.3256)
+    B-MOU: (2, 6, 29) (0.3333, 0.0690, 0.1143)
+    I-MOU: (8, 10, 156) (0.8000, 0.0513, 0.0964)
+    I-Eff: (67, 124, 282) (0.5403, 0.2376, 0.3300)
+Macro-average precision, recall, F1: (0.583378, 0.317579, 0.348060)
+Item accuracy: 1565 / 2033 (0.7698)
+Instance accuracy: 41 / 96 (0.4271)
 
 ***** Iteration #9 *****
-Loss: 7.774639
-Feature norm: 1199.104968
-Seconds required for this iteration: 0.026
+Loss: 2.043052
+Feature norm: 1048.012356
+Seconds required for this iteration: 0.042
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1739, 2198, 1769) (0.7912, 0.9830, 0.8767)
-    B-Eff: (12, 26, 55) (0.4615, 0.2182, 0.2963)
-    B-MOU: (1, 3, 29) (0.3333, 0.0345, 0.0625)
-    I-MOU: (2, 4, 164) (0.5000, 0.0122, 0.0238)
-    I-Eff: (42, 87, 301) (0.4828, 0.1395, 0.2165)
-Macro-average precision, recall, F1: (0.513761, 0.277487, 0.295167)
-Item accuracy: 1796 / 2318 (0.7748)
-Instance accuracy: 44 / 96 (0.4583)
+    O: (1467, 1852, 1511) (0.7921, 0.9709, 0.8724)
+    B-Eff: (14, 32, 55) (0.4375, 0.2545, 0.3218)
+    B-MOU: (2, 6, 29) (0.3333, 0.0690, 0.1143)
+    I-MOU: (8, 10, 156) (0.8000, 0.0513, 0.0964)
+    I-Eff: (68, 133, 282) (0.5113, 0.2411, 0.3277)
+Macro-average precision, recall, F1: (0.574846, 0.317362, 0.346531)
+Item accuracy: 1559 / 2033 (0.7668)
+Instance accuracy: 40 / 96 (0.4167)
 
 ***** Iteration #10 *****
-Loss: 7.380411
-Feature norm: 1243.174204
-Seconds required for this iteration: 0.027
+Loss: 1.640131
+Feature norm: 1078.084243
+Seconds required for this iteration: 0.028
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1739, 2196, 1769) (0.7919, 0.9830, 0.8772)
-    B-Eff: (12, 26, 55) (0.4615, 0.2182, 0.2963)
-    B-MOU: (1, 3, 29) (0.3333, 0.0345, 0.0625)
-    I-MOU: (2, 4, 164) (0.5000, 0.0122, 0.0238)
-    I-Eff: (44, 89, 301) (0.4944, 0.1462, 0.2256)
-Macro-average precision, recall, F1: (0.516230, 0.278816, 0.297084)
-Item accuracy: 1798 / 2318 (0.7757)
-Instance accuracy: 44 / 96 (0.4583)
+    O: (1465, 1847, 1511) (0.7932, 0.9696, 0.8725)
+    B-Eff: (14, 32, 55) (0.4375, 0.2545, 0.3218)
+    B-MOU: (2, 7, 29) (0.2857, 0.0690, 0.1111)
+    I-MOU: (8, 12, 156) (0.6667, 0.0513, 0.0952)
+    I-Eff: (69, 135, 282) (0.5111, 0.2447, 0.3309)
+Macro-average precision, recall, F1: (0.538834, 0.317806, 0.346333)
+Item accuracy: 1558 / 2033 (0.7664)
+Instance accuracy: 41 / 96 (0.4271)
 
 ***** Iteration #11 *****
-Loss: 4.464573
-Feature norm: 1280.787059
-Seconds required for this iteration: 0.025
+Loss: 1.793359
+Feature norm: 1103.387806
+Seconds required for this iteration: 0.028
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1738, 2179, 1769) (0.7976, 0.9825, 0.8804)
-    B-Eff: (13, 27, 55) (0.4815, 0.2364, 0.3171)
-    B-MOU: (2, 5, 29) (0.4000, 0.0690, 0.1176)
-    I-MOU: (10, 14, 164) (0.7143, 0.0610, 0.1124)
-    I-Eff: (48, 93, 301) (0.5161, 0.1595, 0.2437)
-Macro-average precision, recall, F1: (0.581902, 0.301650, 0.334236)
-Item accuracy: 1811 / 2318 (0.7813)
-Instance accuracy: 44 / 96 (0.4583)
+    O: (1465, 1846, 1511) (0.7936, 0.9696, 0.8728)
+    B-Eff: (14, 31, 55) (0.4516, 0.2545, 0.3256)
+    B-MOU: (2, 7, 29) (0.2857, 0.0690, 0.1111)
+    I-MOU: (8, 12, 156) (0.6667, 0.0513, 0.0952)
+    I-Eff: (70, 137, 282) (0.5109, 0.2482, 0.3341)
+Macro-average precision, recall, F1: (0.541710, 0.318515, 0.347773)
+Item accuracy: 1559 / 2033 (0.7668)
+Instance accuracy: 41 / 96 (0.4271)
 
 ***** Iteration #12 *****
-Loss: 2.999732
-Feature norm: 1312.898600
-Seconds required for this iteration: 0.023
+Loss: 1.067439
+Feature norm: 1124.954484
+Seconds required for this iteration: 0.027
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1737, 2177, 1769) (0.7979, 0.9819, 0.8804)
-    B-Eff: (13, 27, 55) (0.4815, 0.2364, 0.3171)
-    B-MOU: (2, 5, 29) (0.4000, 0.0690, 0.1176)
-    I-MOU: (10, 14, 164) (0.7143, 0.0610, 0.1124)
-    I-Eff: (48, 95, 301) (0.5053, 0.1595, 0.2424)
-Macro-average precision, recall, F1: (0.579783, 0.301537, 0.333978)
-Item accuracy: 1810 / 2318 (0.7808)
-Instance accuracy: 44 / 96 (0.4583)
+    O: (1465, 1842, 1511) (0.7953, 0.9696, 0.8738)
+    B-Eff: (14, 32, 55) (0.4375, 0.2545, 0.3218)
+    B-MOU: (2, 7, 29) (0.2857, 0.0690, 0.1111)
+    I-MOU: (8, 12, 156) (0.6667, 0.0513, 0.0952)
+    I-Eff: (72, 140, 282) (0.5143, 0.2553, 0.3412)
+Macro-average precision, recall, F1: (0.539900, 0.319934, 0.348653)
+Item accuracy: 1561 / 2033 (0.7678)
+Instance accuracy: 42 / 96 (0.4375)
 
 ***** Iteration #13 *****
-Loss: 7.045048
-Feature norm: 1342.357074
-Seconds required for this iteration: 0.026
+Loss: 0.305556
+Feature norm: 1143.431001
+Seconds required for this iteration: 0.036
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1737, 2173, 1769) (0.7994, 0.9819, 0.8813)
-    B-Eff: (13, 27, 55) (0.4815, 0.2364, 0.3171)
-    B-MOU: (2, 4, 29) (0.5000, 0.0690, 0.1212)
-    I-MOU: (16, 20, 164) (0.8000, 0.0976, 0.1739)
-    I-Eff: (48, 94, 301) (0.5106, 0.1595, 0.2430)
-Macro-average precision, recall, F1: (0.618295, 0.308854, 0.347303)
-Item accuracy: 1816 / 2318 (0.7834)
-Instance accuracy: 44 / 96 (0.4583)
+    O: (1465, 1842, 1511) (0.7953, 0.9696, 0.8738)
+    B-Eff: (14, 32, 55) (0.4375, 0.2545, 0.3218)
+    B-MOU: (2, 7, 29) (0.2857, 0.0690, 0.1111)
+    I-MOU: (8, 12, 156) (0.6667, 0.0513, 0.0952)
+    I-Eff: (72, 140, 282) (0.5143, 0.2553, 0.3412)
+Macro-average precision, recall, F1: (0.539900, 0.319934, 0.348653)
+Item accuracy: 1561 / 2033 (0.7678)
+Instance accuracy: 42 / 96 (0.4375)
 
 ***** Iteration #14 *****
-Loss: 5.681208
-Feature norm: 1369.566188
-Seconds required for this iteration: 0.025
+Loss: 0.243687
+Feature norm: 1159.425664
+Seconds required for this iteration: 0.029
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1737, 2170, 1769) (0.8005, 0.9819, 0.8819)
-    B-Eff: (13, 27, 55) (0.4815, 0.2364, 0.3171)
-    B-MOU: (2, 4, 29) (0.5000, 0.0690, 0.1212)
-    I-MOU: (16, 20, 164) (0.8000, 0.0976, 0.1739)
-    I-Eff: (51, 97, 301) (0.5258, 0.1694, 0.2563)
-Macro-average precision, recall, F1: (0.621543, 0.310847, 0.350086)
-Item accuracy: 1819 / 2318 (0.7847)
-Instance accuracy: 44 / 96 (0.4583)
+    O: (1462, 1839, 1511) (0.7950, 0.9676, 0.8728)
+    B-Eff: (14, 33, 55) (0.4242, 0.2545, 0.3182)
+    B-MOU: (2, 7, 29) (0.2857, 0.0690, 0.1111)
+    I-MOU: (8, 12, 156) (0.6667, 0.0513, 0.0952)
+    I-Eff: (72, 142, 282) (0.5070, 0.2553, 0.3396)
+Macro-average precision, recall, F1: (0.535733, 0.319537, 0.347398)
+Item accuracy: 1558 / 2033 (0.7664)
+Instance accuracy: 42 / 96 (0.4375)
 
 ***** Iteration #15 *****
-Loss: 1.854089
-Feature norm: 1393.871014
-Seconds required for this iteration: 0.024
+Loss: 0.111111
+Feature norm: 1173.402778
+Seconds required for this iteration: 0.032
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1728, 2161, 1769) (0.7996, 0.9768, 0.8794)
-    B-Eff: (13, 28, 55) (0.4643, 0.2364, 0.3133)
-    B-MOU: (2, 5, 29) (0.4000, 0.0690, 0.1176)
-    I-MOU: (16, 22, 164) (0.7273, 0.0976, 0.1720)
-    I-Eff: (51, 102, 301) (0.5000, 0.1694, 0.2531)
-Macro-average precision, recall, F1: (0.578238, 0.309830, 0.347087)
-Item accuracy: 1810 / 2318 (0.7808)
+    O: (1462, 1838, 1511) (0.7954, 0.9676, 0.8731)
+    B-Eff: (14, 33, 55) (0.4242, 0.2545, 0.3182)
+    B-MOU: (2, 7, 29) (0.2857, 0.0690, 0.1111)
+    I-MOU: (8, 12, 156) (0.6667, 0.0513, 0.0952)
+    I-Eff: (72, 143, 282) (0.5035, 0.2553, 0.3388)
+Macro-average precision, recall, F1: (0.535110, 0.319537, 0.347290)
+Item accuracy: 1558 / 2033 (0.7664)
 Instance accuracy: 42 / 96 (0.4375)
 
 ***** Iteration #16 *****
-Loss: 1.030588
-Feature norm: 1415.516678
-Seconds required for this iteration: 0.023
+Loss: 0.327485
+Feature norm: 1185.719924
+Seconds required for this iteration: 0.031
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1725, 2154, 1769) (0.8008, 0.9751, 0.8794)
-    B-Eff: (13, 28, 55) (0.4643, 0.2364, 0.3133)
+    O: (1461, 1828, 1511) (0.7992, 0.9669, 0.8751)
+    B-Eff: (14, 34, 55) (0.4118, 0.2545, 0.3146)
     B-MOU: (2, 7, 29) (0.2857, 0.0690, 0.1111)
-    I-MOU: (19, 26, 164) (0.7308, 0.1159, 0.2000)
-    I-Eff: (51, 103, 301) (0.4951, 0.1694, 0.2525)
-Macro-average precision, recall, F1: (0.555350, 0.313149, 0.351254)
-Item accuracy: 1810 / 2318 (0.7808)
-Instance accuracy: 41 / 96 (0.4271)
+    I-MOU: (8, 12, 156) (0.6667, 0.0513, 0.0952)
+    I-Eff: (79, 152, 282) (0.5197, 0.2801, 0.3641)
+Macro-average precision, recall, F1: (0.536623, 0.324369, 0.352025)
+Item accuracy: 1564 / 2033 (0.7693)
+Instance accuracy: 42 / 96 (0.4375)
 
 ***** Iteration #17 *****
-Loss: 0.447324
-Feature norm: 1434.809375
-Seconds required for this iteration: 0.022
+Loss: 0.111111
+Feature norm: 1196.653074
+Seconds required for this iteration: 0.036
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1724, 2149, 1769) (0.8022, 0.9746, 0.8800)
-    B-Eff: (13, 29, 55) (0.4483, 0.2364, 0.3095)
-    B-MOU: (2, 7, 29) (0.2857, 0.0690, 0.1111)
-    I-MOU: (19, 29, 164) (0.6552, 0.1159, 0.1969)
-    I-Eff: (51, 104, 301) (0.4904, 0.1694, 0.2519)
-Macro-average precision, recall, F1: (0.536356, 0.313036, 0.349884)
-Item accuracy: 1809 / 2318 (0.7804)
-Instance accuracy: 41 / 96 (0.4271)
+    O: (1459, 1818, 1511) (0.8025, 0.9656, 0.8765)
+    B-Eff: (15, 34, 55) (0.4412, 0.2727, 0.3371)
+    B-MOU: (2, 8, 29) (0.2500, 0.0690, 0.1081)
+    I-MOU: (11, 16, 156) (0.6875, 0.0705, 0.1279)
+    I-Eff: (84, 157, 282) (0.5350, 0.2979, 0.3827)
+Macro-average precision, recall, F1: (0.543248, 0.335133, 0.366464)
+Item accuracy: 1571 / 2033 (0.7727)
+Instance accuracy: 42 / 96 (0.4375)
 
 ***** Iteration #18 *****
-Loss: 1.192720
-Feature norm: 1452.156501
-Seconds required for this iteration: 0.022
+Loss: 0.111111
+Feature norm: 1206.419860
+Seconds required for this iteration: 0.041
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1724, 2148, 1769) (0.8026, 0.9746, 0.8803)
-    B-Eff: (13, 29, 55) (0.4483, 0.2364, 0.3095)
-    B-MOU: (3, 7, 29) (0.4286, 0.1034, 0.1667)
-    I-MOU: (20, 30, 164) (0.6667, 0.1220, 0.2062)
-    I-Eff: (51, 104, 301) (0.4904, 0.1694, 0.2519)
-Macro-average precision, recall, F1: (0.567301, 0.321152, 0.362899)
-Item accuracy: 1811 / 2318 (0.7813)
-Instance accuracy: 41 / 96 (0.4271)
+    O: (1459, 1819, 1511) (0.8021, 0.9656, 0.8763)
+    B-Eff: (14, 34, 55) (0.4118, 0.2545, 0.3146)
+    B-MOU: (2, 8, 29) (0.2500, 0.0690, 0.1081)
+    I-MOU: (11, 16, 156) (0.6875, 0.0705, 0.1279)
+    I-Eff: (83, 156, 282) (0.5321, 0.2943, 0.3790)
+Macro-average precision, recall, F1: (0.536681, 0.330787, 0.361179)
+Item accuracy: 1569 / 2033 (0.7718)
+Instance accuracy: 42 / 96 (0.4375)
 
 ***** Iteration #19 *****
-Loss: 0.268267
-Feature norm: 1467.802567
-Seconds required for this iteration: 0.022
+Loss: 0.222222
+Feature norm: 1215.191280
+Seconds required for this iteration: 0.039
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1723, 2139, 1769) (0.8055, 0.9740, 0.8818)
-    B-Eff: (13, 30, 55) (0.4333, 0.2364, 0.3059)
-    B-MOU: (3, 7, 29) (0.4286, 0.1034, 0.1667)
-    I-MOU: (20, 32, 164) (0.6250, 0.1220, 0.2041)
-    I-Eff: (53, 110, 301) (0.4818, 0.1761, 0.2579)
-Macro-average precision, recall, F1: (0.554848, 0.322368, 0.363264)
-Item accuracy: 1812 / 2318 (0.7817)
-Instance accuracy: 41 / 96 (0.4271)
+    O: (1457, 1813, 1511) (0.8036, 0.9643, 0.8767)
+    B-Eff: (15, 35, 55) (0.4286, 0.2727, 0.3333)
+    B-MOU: (2, 8, 29) (0.2500, 0.0690, 0.1081)
+    I-MOU: (11, 16, 156) (0.6875, 0.0705, 0.1279)
+    I-Eff: (84, 161, 282) (0.5217, 0.2979, 0.3792)
+Macro-average precision, recall, F1: (0.538290, 0.334868, 0.365047)
+Item accuracy: 1569 / 2033 (0.7718)
+Instance accuracy: 42 / 96 (0.4375)
 
 ***** Iteration #20 *****
-Loss: 1.066832
-Feature norm: 1481.987711
-Seconds required for this iteration: 0.022
+Loss: 0.222222
+Feature norm: 1223.113302
+Seconds required for this iteration: 0.042
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1720, 2130, 1769) (0.8075, 0.9723, 0.8823)
-    B-Eff: (13, 29, 55) (0.4483, 0.2364, 0.3095)
-    B-MOU: (3, 9, 29) (0.3333, 0.1034, 0.1579)
-    I-MOU: (20, 32, 164) (0.6250, 0.1220, 0.2041)
-    I-Eff: (58, 118, 301) (0.4915, 0.1927, 0.2768)
-Macro-average precision, recall, F1: (0.541129, 0.325351, 0.366125)
-Item accuracy: 1814 / 2318 (0.7826)
-Instance accuracy: 41 / 96 (0.4271)
+    O: (1457, 1813, 1511) (0.8036, 0.9643, 0.8767)
+    B-Eff: (15, 35, 55) (0.4286, 0.2727, 0.3333)
+    B-MOU: (2, 8, 29) (0.2500, 0.0690, 0.1081)
+    I-MOU: (11, 16, 156) (0.6875, 0.0705, 0.1279)
+    I-Eff: (84, 161, 282) (0.5217, 0.2979, 0.3792)
+Macro-average precision, recall, F1: (0.538290, 0.334868, 0.365047)
+Item accuracy: 1569 / 2033 (0.7718)
+Instance accuracy: 42 / 96 (0.4375)
 
-Total seconds required for training: 0.755
+Total seconds required for training: 1.169
 
 
 ===== Cross validation (4/4) =====
@@ -921,295 +921,295 @@ feature.minfreq: 0.000000
 feature.possible_states: 0
 feature.possible_transitions: 0
 0....1....2....3....4....5....6....7....8....9....10
-Number of features: 338020
-Seconds required: 0.488
+Number of features: 313913
+Seconds required: 0.533
 
 Averaged perceptron
 max_iterations: 20
 epsilon: 0.000000
 
 ***** Iteration #1 *****
-Loss: 95.572996
-Feature norm: 406.921322
-Seconds required for this iteration: 0.051
+Loss: 99.508335
+Feature norm: 380.242722
+Seconds required for this iteration: 0.083
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1768, 2122, 1772) (0.8332, 0.9977, 0.9081)
-    B-Eff: (6, 10, 44) (0.6000, 0.1364, 0.2222)
-    B-MOU: (0, 0, 28) (0.0000, 0.0000, 0.0000)
-    I-MOU: (0, 1, 90) (0.0000, 0.0000, 0.0000)
-    I-Eff: (13, 21, 220) (0.6190, 0.0591, 0.1079)
-Macro-average precision, recall, F1: (0.410445, 0.238639, 0.247634)
-Item accuracy: 1787 / 2154 (0.8296)
-Instance accuracy: 47 / 95 (0.4947)
+    O: (1472, 1785, 1497) (0.8246, 0.9833, 0.8970)
+    B-Eff: (11, 22, 44) (0.5000, 0.2500, 0.3333)
+    B-MOU: (0, 2, 28) (0.0000, 0.0000, 0.0000)
+    I-MOU: (0, 0, 87) (0.0000, 0.0000, 0.0000)
+    I-Eff: (24, 54, 207) (0.4444, 0.1159, 0.1839)
+Macro-average precision, recall, F1: (0.353819, 0.269848, 0.282851)
+Item accuracy: 1507 / 1863 (0.8089)
+Instance accuracy: 42 / 95 (0.4421)
 
 ***** Iteration #2 *****
-Loss: 81.735974
-Feature norm: 595.398777
-Seconds required for this iteration: 0.050
+Loss: 82.428037
+Feature norm: 556.594090
+Seconds required for this iteration: 0.082
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1753, 2070, 1772) (0.8469, 0.9893, 0.9125)
-    B-Eff: (12, 25, 44) (0.4800, 0.2727, 0.3478)
-    B-MOU: (0, 0, 28) (0.0000, 0.0000, 0.0000)
-    I-MOU: (0, 0, 90) (0.0000, 0.0000, 0.0000)
-    I-Eff: (36, 59, 220) (0.6102, 0.1636, 0.2581)
-Macro-average precision, recall, F1: (0.387406, 0.285128, 0.303687)
-Item accuracy: 1801 / 2154 (0.8361)
-Instance accuracy: 45 / 95 (0.4737)
+    O: (1475, 1763, 1497) (0.8366, 0.9853, 0.9049)
+    B-Eff: (13, 23, 44) (0.5652, 0.2955, 0.3881)
+    B-MOU: (0, 2, 28) (0.0000, 0.0000, 0.0000)
+    I-MOU: (0, 0, 87) (0.0000, 0.0000, 0.0000)
+    I-Eff: (45, 75, 207) (0.6000, 0.2174, 0.3191)
+Macro-average precision, recall, F1: (0.400372, 0.299630, 0.322423)
+Item accuracy: 1533 / 1863 (0.8229)
+Instance accuracy: 42 / 95 (0.4421)
 
 ***** Iteration #3 *****
-Loss: 58.683329
-Feature norm: 746.056922
-Seconds required for this iteration: 0.055
+Loss: 57.847408
+Feature norm: 697.048389
+Seconds required for this iteration: 0.080
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1756, 2057, 1772) (0.8537, 0.9910, 0.9172)
-    B-Eff: (14, 25, 44) (0.5600, 0.3182, 0.4058)
-    B-MOU: (0, 0, 28) (0.0000, 0.0000, 0.0000)
-    I-MOU: (0, 0, 90) (0.0000, 0.0000, 0.0000)
-    I-Eff: (46, 72, 220) (0.6389, 0.2091, 0.3151)
-Macro-average precision, recall, F1: (0.410512, 0.303649, 0.327615)
-Item accuracy: 1816 / 2154 (0.8431)
+    O: (1481, 1746, 1497) (0.8482, 0.9893, 0.9134)
+    B-Eff: (16, 28, 44) (0.5714, 0.3636, 0.4444)
+    B-MOU: (2, 7, 28) (0.2857, 0.0714, 0.1143)
+    I-MOU: (2, 4, 87) (0.5000, 0.0230, 0.0440)
+    I-Eff: (51, 78, 207) (0.6538, 0.2464, 0.3579)
+Macro-average precision, recall, F1: (0.571843, 0.338748, 0.374787)
+Item accuracy: 1552 / 1863 (0.8331)
 Instance accuracy: 47 / 95 (0.4947)
 
 ***** Iteration #4 *****
-Loss: 64.122481
-Feature norm: 883.786239
-Seconds required for this iteration: 0.047
+Loss: 48.939942
+Feature norm: 814.679934
+Seconds required for this iteration: 0.077
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1760, 2049, 1772) (0.8590, 0.9932, 0.9212)
-    B-Eff: (14, 29, 44) (0.4828, 0.3182, 0.3836)
-    B-MOU: (0, 1, 28) (0.0000, 0.0000, 0.0000)
-    I-MOU: (0, 2, 90) (0.0000, 0.0000, 0.0000)
-    I-Eff: (50, 73, 220) (0.6849, 0.2273, 0.3413)
-Macro-average precision, recall, F1: (0.405329, 0.307737, 0.329217)
-Item accuracy: 1824 / 2154 (0.8468)
-Instance accuracy: 49 / 95 (0.5158)
+    O: (1469, 1715, 1497) (0.8566, 0.9813, 0.9147)
+    B-Eff: (15, 29, 44) (0.5172, 0.3409, 0.4110)
+    B-MOU: (2, 8, 28) (0.2500, 0.0714, 0.1111)
+    I-MOU: (4, 10, 87) (0.4000, 0.0460, 0.0825)
+    I-Eff: (59, 101, 207) (0.5842, 0.2850, 0.3831)
+Macro-average precision, recall, F1: (0.521592, 0.344927, 0.380471)
+Item accuracy: 1549 / 1863 (0.8315)
+Instance accuracy: 44 / 95 (0.4632)
 
 ***** Iteration #5 *****
-Loss: 52.599795
-Feature norm: 1010.431311
-Seconds required for this iteration: 0.045
+Loss: 42.033541
+Feature norm: 916.084518
+Seconds required for this iteration: 0.078
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1761, 2040, 1772) (0.8632, 0.9938, 0.9239)
-    B-Eff: (14, 29, 44) (0.4828, 0.3182, 0.3836)
-    B-MOU: (1, 4, 28) (0.2500, 0.0357, 0.0625)
-    I-MOU: (3, 6, 90) (0.5000, 0.0333, 0.0625)
-    I-Eff: (52, 75, 220) (0.6933, 0.2364, 0.3525)
-Macro-average precision, recall, F1: (0.557865, 0.323477, 0.357006)
-Item accuracy: 1831 / 2154 (0.8500)
-Instance accuracy: 49 / 95 (0.5158)
+    O: (1473, 1715, 1497) (0.8589, 0.9840, 0.9172)
+    B-Eff: (16, 28, 44) (0.5714, 0.3636, 0.4444)
+    B-MOU: (2, 9, 28) (0.2222, 0.0714, 0.1081)
+    I-MOU: (4, 12, 87) (0.3333, 0.0460, 0.0808)
+    I-Eff: (62, 99, 207) (0.6263, 0.2995, 0.4052)
+Macro-average precision, recall, F1: (0.522428, 0.352905, 0.391155)
+Item accuracy: 1557 / 1863 (0.8357)
+Instance accuracy: 45 / 95 (0.4737)
 
 ***** Iteration #6 *****
-Loss: 31.234481
-Feature norm: 1119.264784
-Seconds required for this iteration: 0.040
+Loss: 23.235097
+Feature norm: 1001.399686
+Seconds required for this iteration: 0.054
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1752, 2021, 1772) (0.8669, 0.9887, 0.9238)
-    B-Eff: (15, 33, 44) (0.4545, 0.3409, 0.3896)
-    B-MOU: (1, 6, 28) (0.1667, 0.0357, 0.0588)
-    I-MOU: (3, 6, 90) (0.5000, 0.0333, 0.0625)
-    I-Eff: (57, 88, 220) (0.6477, 0.2591, 0.3701)
-Macro-average precision, recall, F1: (0.527167, 0.331552, 0.360974)
-Item accuracy: 1828 / 2154 (0.8487)
-Instance accuracy: 47 / 95 (0.4947)
+    O: (1472, 1705, 1497) (0.8633, 0.9833, 0.9194)
+    B-Eff: (16, 28, 44) (0.5714, 0.3636, 0.4444)
+    B-MOU: (2, 7, 28) (0.2857, 0.0714, 0.1143)
+    I-MOU: (7, 18, 87) (0.3889, 0.0805, 0.1333)
+    I-Eff: (71, 105, 207) (0.6762, 0.3430, 0.4551)
+Macro-average precision, recall, F1: (0.557113, 0.368364, 0.413323)
+Item accuracy: 1568 / 1863 (0.8417)
+Instance accuracy: 46 / 95 (0.4842)
 
 ***** Iteration #7 *****
-Loss: 18.477040
-Feature norm: 1211.204399
-Seconds required for this iteration: 0.034
+Loss: 14.283800
+Feature norm: 1072.004683
+Seconds required for this iteration: 0.039
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1745, 2007, 1772) (0.8695, 0.9848, 0.9235)
-    B-Eff: (16, 34, 44) (0.4706, 0.3636, 0.4103)
-    B-MOU: (2, 6, 28) (0.3333, 0.0714, 0.1176)
-    I-MOU: (4, 7, 90) (0.5714, 0.0444, 0.0825)
-    I-Eff: (60, 100, 220) (0.6000, 0.2727, 0.3750)
-Macro-average precision, recall, F1: (0.568961, 0.347400, 0.381780)
-Item accuracy: 1827 / 2154 (0.8482)
-Instance accuracy: 47 / 95 (0.4947)
+    O: (1466, 1696, 1497) (0.8644, 0.9793, 0.9183)
+    B-Eff: (17, 31, 44) (0.5484, 0.3864, 0.4533)
+    B-MOU: (2, 7, 28) (0.2857, 0.0714, 0.1143)
+    I-MOU: (7, 20, 87) (0.3500, 0.0805, 0.1308)
+    I-Eff: (73, 109, 207) (0.6697, 0.3527, 0.4620)
+Macro-average precision, recall, F1: (0.543643, 0.374040, 0.415749)
+Item accuracy: 1565 / 1863 (0.8400)
+Instance accuracy: 46 / 95 (0.4842)
 
 ***** Iteration #8 *****
-Loss: 9.827670
-Feature norm: 1286.107832
-Seconds required for this iteration: 0.030
+Loss: 18.590207
+Feature norm: 1131.983019
+Seconds required for this iteration: 0.042
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1737, 1993, 1772) (0.8716, 0.9802, 0.9227)
-    B-Eff: (17, 34, 44) (0.5000, 0.3864, 0.4359)
-    B-MOU: (2, 6, 28) (0.3333, 0.0714, 0.1176)
-    I-MOU: (4, 10, 90) (0.4000, 0.0444, 0.0800)
-    I-Eff: (67, 111, 220) (0.6036, 0.3045, 0.4048)
-Macro-average precision, recall, F1: (0.541697, 0.357406, 0.392217)
-Item accuracy: 1827 / 2154 (0.8482)
+    O: (1466, 1685, 1497) (0.8700, 0.9793, 0.9214)
+    B-Eff: (17, 33, 44) (0.5152, 0.3864, 0.4416)
+    B-MOU: (2, 8, 28) (0.2500, 0.0714, 0.1111)
+    I-MOU: (8, 21, 87) (0.3810, 0.0920, 0.1481)
+    I-Eff: (78, 116, 207) (0.6724, 0.3768, 0.4830)
+Macro-average precision, recall, F1: (0.537709, 0.381170, 0.421045)
+Item accuracy: 1571 / 1863 (0.8433)
 Instance accuracy: 46 / 95 (0.4842)
 
 ***** Iteration #9 *****
-Loss: 3.062680
-Feature norm: 1346.679892
-Seconds required for this iteration: 0.026
+Loss: 14.373527
+Feature norm: 1184.789677
+Seconds required for this iteration: 0.046
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1735, 1987, 1772) (0.8732, 0.9791, 0.9231)
-    B-Eff: (17, 33, 44) (0.5152, 0.3864, 0.4416)
-    B-MOU: (3, 9, 28) (0.3333, 0.1071, 0.1622)
-    I-MOU: (7, 20, 90) (0.3500, 0.0778, 0.1273)
-    I-Eff: (69, 105, 220) (0.6571, 0.3136, 0.4246)
-Macro-average precision, recall, F1: (0.545761, 0.372808, 0.415745)
-Item accuracy: 1831 / 2154 (0.8500)
+    O: (1463, 1686, 1497) (0.8677, 0.9773, 0.9193)
+    B-Eff: (18, 33, 44) (0.5455, 0.4091, 0.4675)
+    B-MOU: (2, 10, 28) (0.2000, 0.0714, 0.1053)
+    I-MOU: (8, 23, 87) (0.3478, 0.0920, 0.1455)
+    I-Eff: (75, 111, 207) (0.6757, 0.3623, 0.4717)
+Macro-average precision, recall, F1: (0.527338, 0.382416, 0.421841)
+Item accuracy: 1566 / 1863 (0.8406)
 Instance accuracy: 46 / 95 (0.4842)
 
 ***** Iteration #10 *****
-Loss: 1.044666
-Feature norm: 1396.284753
-Seconds required for this iteration: 0.023
+Loss: 6.042868
+Feature norm: 1230.295456
+Seconds required for this iteration: 0.050
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1738, 1988, 1772) (0.8742, 0.9808, 0.9245)
-    B-Eff: (17, 30, 44) (0.5667, 0.3864, 0.4595)
-    B-MOU: (4, 10, 28) (0.4000, 0.1429, 0.2105)
-    I-MOU: (8, 23, 90) (0.3478, 0.0889, 0.1416)
-    I-Eff: (71, 103, 220) (0.6893, 0.3227, 0.4396)
-Macro-average precision, recall, F1: (0.575612, 0.384330, 0.435135)
-Item accuracy: 1838 / 2154 (0.8533)
-Instance accuracy: 46 / 95 (0.4842)
+    O: (1462, 1683, 1497) (0.8687, 0.9766, 0.9195)
+    B-Eff: (18, 36, 44) (0.5000, 0.4091, 0.4500)
+    B-MOU: (2, 10, 28) (0.2000, 0.0714, 0.1053)
+    I-MOU: (9, 24, 87) (0.3750, 0.1034, 0.1622)
+    I-Eff: (78, 110, 207) (0.7091, 0.3768, 0.4921)
+Macro-average precision, recall, F1: (0.530556, 0.387480, 0.425807)
+Item accuracy: 1569 / 1863 (0.8422)
+Instance accuracy: 45 / 95 (0.4737)
 
 ***** Iteration #11 *****
-Loss: 14.493827
-Feature norm: 1438.987843
-Seconds required for this iteration: 0.029
+Loss: 7.619348
+Feature norm: 1269.312882
+Seconds required for this iteration: 0.047
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1738, 1975, 1772) (0.8800, 0.9808, 0.9277)
-    B-Eff: (19, 34, 44) (0.5588, 0.4318, 0.4872)
-    B-MOU: (4, 10, 28) (0.4000, 0.1429, 0.2105)
-    I-MOU: (9, 24, 90) (0.3750, 0.1000, 0.1579)
-    I-Eff: (75, 111, 220) (0.6757, 0.3409, 0.4532)
-Macro-average precision, recall, F1: (0.577900, 0.399279, 0.447290)
-Item accuracy: 1845 / 2154 (0.8565)
-Instance accuracy: 46 / 95 (0.4842)
+    O: (1461, 1676, 1497) (0.8717, 0.9760, 0.9209)
+    B-Eff: (18, 37, 44) (0.4865, 0.4091, 0.4444)
+    B-MOU: (2, 10, 28) (0.2000, 0.0714, 0.1053)
+    I-MOU: (10, 25, 87) (0.4000, 0.1149, 0.1786)
+    I-Eff: (82, 115, 207) (0.7130, 0.3961, 0.5093)
+Macro-average precision, recall, F1: (0.534250, 0.393510, 0.431698)
+Item accuracy: 1573 / 1863 (0.8443)
+Instance accuracy: 45 / 95 (0.4737)
 
 ***** Iteration #12 *****
-Loss: 4.478983
-Feature norm: 1478.965038
-Seconds required for this iteration: 0.026
+Loss: 4.832412
+Feature norm: 1304.373837
+Seconds required for this iteration: 0.041
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1731, 1965, 1772) (0.8809, 0.9769, 0.9264)
-    B-Eff: (19, 33, 44) (0.5758, 0.4318, 0.4935)
-    B-MOU: (4, 12, 28) (0.3333, 0.1429, 0.2000)
-    I-MOU: (9, 26, 90) (0.3462, 0.1000, 0.1552)
-    I-Eff: (81, 118, 220) (0.6864, 0.3682, 0.4793)
-Macro-average precision, recall, F1: (0.564520, 0.403944, 0.450876)
-Item accuracy: 1844 / 2154 (0.8561)
-Instance accuracy: 46 / 95 (0.4842)
+    O: (1460, 1674, 1497) (0.8722, 0.9753, 0.9208)
+    B-Eff: (18, 36, 44) (0.5000, 0.4091, 0.4500)
+    B-MOU: (2, 10, 28) (0.2000, 0.0714, 0.1053)
+    I-MOU: (10, 25, 87) (0.4000, 0.1149, 0.1786)
+    I-Eff: (84, 118, 207) (0.7119, 0.4058, 0.5169)
+Macro-average precision, recall, F1: (0.536805, 0.395309, 0.434321)
+Item accuracy: 1574 / 1863 (0.8449)
+Instance accuracy: 45 / 95 (0.4737)
 
 ***** Iteration #13 *****
-Loss: 6.087856
-Feature norm: 1514.076362
-Seconds required for this iteration: 0.027
+Loss: 2.887331
+Feature norm: 1335.125216
+Seconds required for this iteration: 0.045
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1731, 1966, 1772) (0.8805, 0.9769, 0.9262)
-    B-Eff: (19, 32, 44) (0.5938, 0.4318, 0.5000)
-    B-MOU: (4, 12, 28) (0.3333, 0.1429, 0.2000)
-    I-MOU: (10, 27, 90) (0.3704, 0.1111, 0.1709)
-    I-Eff: (83, 117, 220) (0.7094, 0.3773, 0.4926)
-Macro-average precision, recall, F1: (0.577465, 0.407984, 0.457937)
-Item accuracy: 1847 / 2154 (0.8575)
-Instance accuracy: 46 / 95 (0.4842)
+    O: (1460, 1673, 1497) (0.8727, 0.9753, 0.9211)
+    B-Eff: (18, 36, 44) (0.5000, 0.4091, 0.4500)
+    B-MOU: (2, 10, 28) (0.2000, 0.0714, 0.1053)
+    I-MOU: (10, 25, 87) (0.4000, 0.1149, 0.1786)
+    I-Eff: (85, 119, 207) (0.7143, 0.4106, 0.5215)
+Macro-average precision, recall, F1: (0.537394, 0.396275, 0.435289)
+Item accuracy: 1575 / 1863 (0.8454)
+Instance accuracy: 45 / 95 (0.4737)
 
 ***** Iteration #14 *****
-Loss: 2.551225
-Feature norm: 1545.307922
-Seconds required for this iteration: 0.024
+Loss: 0.247038
+Feature norm: 1361.947799
+Seconds required for this iteration: 0.045
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1731, 1957, 1772) (0.8845, 0.9769, 0.9284)
-    B-Eff: (19, 33, 44) (0.5758, 0.4318, 0.4935)
-    B-MOU: (4, 12, 28) (0.3333, 0.1429, 0.2000)
-    I-MOU: (11, 28, 90) (0.3929, 0.1222, 0.1864)
-    I-Eff: (88, 124, 220) (0.7097, 0.4000, 0.5116)
-Macro-average precision, recall, F1: (0.579229, 0.414752, 0.463995)
-Item accuracy: 1853 / 2154 (0.8603)
-Instance accuracy: 47 / 95 (0.4947)
+    O: (1460, 1673, 1497) (0.8727, 0.9753, 0.9211)
+    B-Eff: (18, 36, 44) (0.5000, 0.4091, 0.4500)
+    B-MOU: (2, 10, 28) (0.2000, 0.0714, 0.1053)
+    I-MOU: (10, 25, 87) (0.4000, 0.1149, 0.1786)
+    I-Eff: (85, 119, 207) (0.7143, 0.4106, 0.5215)
+Macro-average precision, recall, F1: (0.537394, 0.396275, 0.435289)
+Item accuracy: 1575 / 1863 (0.8454)
+Instance accuracy: 45 / 95 (0.4737)
 
 ***** Iteration #15 *****
-Loss: 0.000000
-Feature norm: 1572.815714
-Seconds required for this iteration: 0.022
+Loss: 1.319183
+Feature norm: 1385.528149
+Seconds required for this iteration: 0.047
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1729, 1955, 1772) (0.8844, 0.9757, 0.9278)
-    B-Eff: (19, 33, 44) (0.5758, 0.4318, 0.4935)
-    B-MOU: (4, 12, 28) (0.3333, 0.1429, 0.2000)
-    I-MOU: (11, 30, 90) (0.3667, 0.1222, 0.1833)
-    I-Eff: (88, 124, 220) (0.7097, 0.4000, 0.5116)
-Macro-average precision, recall, F1: (0.573967, 0.414526, 0.463258)
-Item accuracy: 1851 / 2154 (0.8593)
-Instance accuracy: 46 / 95 (0.4842)
+    O: (1460, 1671, 1497) (0.8737, 0.9753, 0.9217)
+    B-Eff: (18, 37, 44) (0.4865, 0.4091, 0.4444)
+    B-MOU: (2, 10, 28) (0.2000, 0.0714, 0.1053)
+    I-MOU: (10, 25, 87) (0.4000, 0.1149, 0.1786)
+    I-Eff: (86, 120, 207) (0.7167, 0.4155, 0.5260)
+Macro-average precision, recall, F1: (0.535376, 0.397241, 0.435198)
+Item accuracy: 1576 / 1863 (0.8459)
+Instance accuracy: 45 / 95 (0.4737)
 
 ***** Iteration #16 *****
-Loss: 0.000000
-Feature norm: 1597.093990
-Seconds required for this iteration: 0.022
+Loss: 0.166667
+Feature norm: 1406.406634
+Seconds required for this iteration: 0.039
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1729, 1957, 1772) (0.8835, 0.9757, 0.9273)
-    B-Eff: (18, 33, 44) (0.5455, 0.4091, 0.4675)
-    B-MOU: (4, 12, 28) (0.3333, 0.1429, 0.2000)
-    I-MOU: (11, 30, 90) (0.3667, 0.1222, 0.1833)
-    I-Eff: (87, 122, 220) (0.7131, 0.3955, 0.5088)
-Macro-average precision, recall, F1: (0.568413, 0.409072, 0.457393)
-Item accuracy: 1849 / 2154 (0.8584)
-Instance accuracy: 46 / 95 (0.4842)
+    O: (1457, 1666, 1497) (0.8745, 0.9733, 0.9213)
+    B-Eff: (18, 36, 44) (0.5000, 0.4091, 0.4500)
+    B-MOU: (3, 11, 28) (0.2727, 0.1071, 0.1538)
+    I-MOU: (11, 28, 87) (0.3929, 0.1264, 0.1913)
+    I-Eff: (87, 122, 207) (0.7131, 0.4203, 0.5289)
+Macro-average precision, recall, F1: (0.550650, 0.407248, 0.449061)
+Item accuracy: 1576 / 1863 (0.8459)
+Instance accuracy: 45 / 95 (0.4737)
 
 ***** Iteration #17 *****
-Loss: 0.000000
-Feature norm: 1618.670655
-Seconds required for this iteration: 0.022
+Loss: 1.385272
+Feature norm: 1425.035300
+Seconds required for this iteration: 0.028
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1725, 1958, 1772) (0.8810, 0.9735, 0.9249)
-    B-Eff: (18, 33, 44) (0.5455, 0.4091, 0.4675)
-    B-MOU: (4, 13, 28) (0.3077, 0.1429, 0.1951)
-    I-MOU: (11, 33, 90) (0.3333, 0.1222, 0.1789)
-    I-Eff: (82, 117, 220) (0.7009, 0.3727, 0.4866)
-Macro-average precision, recall, F1: (0.553667, 0.404075, 0.450619)
-Item accuracy: 1840 / 2154 (0.8542)
+    O: (1457, 1667, 1497) (0.8740, 0.9733, 0.9210)
+    B-Eff: (18, 36, 44) (0.5000, 0.4091, 0.4500)
+    B-MOU: (3, 11, 28) (0.2727, 0.1071, 0.1538)
+    I-MOU: (11, 27, 87) (0.4074, 0.1264, 0.1930)
+    I-Eff: (87, 122, 207) (0.7131, 0.4203, 0.5289)
+Macro-average precision, recall, F1: (0.553455, 0.407248, 0.449338)
+Item accuracy: 1576 / 1863 (0.8459)
 Instance accuracy: 45 / 95 (0.4737)
 
 ***** Iteration #18 *****
-Loss: 0.000000
-Feature norm: 1637.966816
-Seconds required for this iteration: 0.022
+Loss: 0.093750
+Feature norm: 1441.746210
+Seconds required for this iteration: 0.027
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1725, 1958, 1772) (0.8810, 0.9735, 0.9249)
-    B-Eff: (18, 32, 44) (0.5625, 0.4091, 0.4737)
-    B-MOU: (4, 13, 28) (0.3077, 0.1429, 0.1951)
-    I-MOU: (11, 33, 90) (0.3333, 0.1222, 0.1789)
-    I-Eff: (83, 118, 220) (0.7034, 0.3773, 0.4911)
-Macro-average precision, recall, F1: (0.557583, 0.404984, 0.452745)
-Item accuracy: 1841 / 2154 (0.8547)
+    O: (1457, 1667, 1497) (0.8740, 0.9733, 0.9210)
+    B-Eff: (18, 36, 44) (0.5000, 0.4091, 0.4500)
+    B-MOU: (3, 11, 28) (0.2727, 0.1071, 0.1538)
+    I-MOU: (11, 27, 87) (0.4074, 0.1264, 0.1930)
+    I-Eff: (87, 122, 207) (0.7131, 0.4203, 0.5289)
+Macro-average precision, recall, F1: (0.553455, 0.407248, 0.449338)
+Item accuracy: 1576 / 1863 (0.8459)
 Instance accuracy: 45 / 95 (0.4737)
 
 ***** Iteration #19 *****
-Loss: 0.000000
-Feature norm: 1655.321804
-Seconds required for this iteration: 0.022
+Loss: 0.363636
+Feature norm: 1456.784873
+Seconds required for this iteration: 0.028
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1724, 1957, 1772) (0.8809, 0.9729, 0.9246)
-    B-Eff: (18, 33, 44) (0.5455, 0.4091, 0.4675)
+    O: (1456, 1662, 1497) (0.8761, 0.9726, 0.9218)
+    B-Eff: (18, 37, 44) (0.4865, 0.4091, 0.4444)
     B-MOU: (4, 13, 28) (0.3077, 0.1429, 0.1951)
-    I-MOU: (11, 33, 90) (0.3333, 0.1222, 0.1789)
-    I-Eff: (83, 118, 220) (0.7034, 0.3773, 0.4911)
-Macro-average precision, recall, F1: (0.554162, 0.404871, 0.451457)
-Item accuracy: 1840 / 2154 (0.8542)
-Instance accuracy: 44 / 95 (0.4632)
+    I-MOU: (13, 29, 87) (0.4483, 0.1494, 0.2241)
+    I-Eff: (87, 122, 207) (0.7131, 0.4203, 0.5289)
+Macro-average precision, recall, F1: (0.566324, 0.418855, 0.462878)
+Item accuracy: 1578 / 1863 (0.8470)
+Instance accuracy: 45 / 95 (0.4737)
 
 ***** Iteration #20 *****
 Loss: 0.000000
-Feature norm: 1671.011705
-Seconds required for this iteration: 0.022
+Feature norm: 1470.392407
+Seconds required for this iteration: 0.035
 Performance by label (#match, #model, #ref) (precision, recall, F1):
-    O: (1720, 1953, 1772) (0.8807, 0.9707, 0.9235)
-    B-Eff: (18, 32, 44) (0.5625, 0.4091, 0.4737)
-    B-MOU: (4, 14, 28) (0.2857, 0.1429, 0.1905)
-    I-MOU: (12, 38, 90) (0.3158, 0.1333, 0.1875)
-    I-Eff: (83, 117, 220) (0.7094, 0.3773, 0.4926)
-Macro-average precision, recall, F1: (0.550820, 0.406642, 0.453546)
-Item accuracy: 1837 / 2154 (0.8528)
-Instance accuracy: 44 / 95 (0.4632)
+    O: (1453, 1657, 1497) (0.8769, 0.9706, 0.9214)
+    B-Eff: (18, 37, 44) (0.4865, 0.4091, 0.4444)
+    B-MOU: (4, 15, 28) (0.2667, 0.1429, 0.1860)
+    I-MOU: (13, 32, 87) (0.4062, 0.1494, 0.2185)
+    I-Eff: (89, 122, 207) (0.7295, 0.4300, 0.5410)
+Macro-average precision, recall, F1: (0.553159, 0.420387, 0.462276)
+Item accuracy: 1577 / 1863 (0.8465)
+Instance accuracy: 45 / 95 (0.4737)
 
-Total seconds required for training: 0.770
+Total seconds required for training: 1.241
 
 
-End time of the training: 2016-02-23T03:00:06Z
+End time of the training: 2016-02-23T06:53:40Z
 
