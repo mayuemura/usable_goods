@@ -20,12 +20,12 @@ def main():
 
     for collection in collections:
         coll = db[collection]
-        #number_of_instance += int(coll.find().count())
+        #number_of_instance += int(coll.find({"$or":[{"dp_tag":"Target"}, {"st_tag":"Target"}]}).count())
         number_of_instance += int(coll.find({"$or":[{"dp_tag":{"$ne":"Target"}},{"st_tag":{"$ne":"Target"}}]}).count())
 
         for agreement in agreements:
             d_ag[agreement] += int(coll.find({"agree":agreement, "$or":[{"dp_tag":{"$ne":"Target"}},{"st_tag":{"$ne":"Target"}}]}).count())
-            #d_ag[agreement] += int(coll.find({"agree":agreement}).count())
+            #d_ag[agreement] += int(coll.find({"agree":agreement, "$or":[{"dp_tag":"Target"}, {"st_tag":"Target"}]}).count())
 
     print "All instances: {}".format(number_of_instance)
 

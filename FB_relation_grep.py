@@ -3,13 +3,13 @@
 #2016/02/16
 
 import sys
-from pymongo import Connection
+#from pymongo import Connection
 
 def relation_grep(FB_files):
 
-    client = Connection("beer")
-    db = client["usable_goods"]
-    coll = db[FB_files[0].split("/")[1].split("_")[0]]
+    #client = Connection("beer")
+    #db = client["usable_goods"]
+    #coll = db[FB_files[0].split("/")[1].split("_")[0]]
 
 
     with open("Freebase/except_relation", "r") as fr, open("Freebase/except_value", "r") as fv:
@@ -41,7 +41,10 @@ def relation_grep(FB_files):
 
             print FB_file
             for k, v in example_dic.iteritems():
-                print "{}\t{}\t{}".format(k, len(v), ", ".join(v))
+                if len(v) == 0:
+                    continue
+                else:
+                    print "{}\t{}\t{}".format(k, len(v), ", ".join(v))
 
                 total_rel_dic[k] += len(v)
                 example_dic[k] = set()

@@ -41,6 +41,10 @@ def main():
 
 if __name__ == "__main__":
     dp, st = main()
+    print dp
+    print st
+
+    """
     dp_sum = sum(dp.values())
     st_sum = sum(st.values())
 
@@ -55,6 +59,6 @@ if __name__ == "__main__":
     for k, v in st.iteritems():
         print "{}\t{}\t{}%".format(k, v, round(v*1.0/st_sum*100,2))
     print st_sum
-
+    """
 
 #python number_of_label.py
