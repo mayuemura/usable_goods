@@ -1,0 +1,201 @@
+DP 10-fold cross validation
+
+#token
+accuracy:0.8138565
+Eff  precision:0.5606815, recall:0.23781425, F1:0.32179225
+MOU  precision:0.512244, recall:0.1240245, F1:0.19191575
+all  P:0.53646275, R:0.180919375, F1:0.256854
+
+#pos
+accuracy:0.7995675
+Eff  precision:0.50203375, recall:0.282288, F1:0.3530245
+MOU  precision:0.15422325, recall:0.071688, F1:0.08814575
+all  P:0.3281285, R:0.176988, F1:0.220585125
+
+#initial upper
+accuracy:0.79305
+Eff  precision:0.0, recall:0.0, F1:0.0
+MOU  precision:0.0, recall:0.0, F1:0.0
+all  P:0.0, R:0.0, F1:0.0
+
+#lowercase
+accuracy:0.8139945
+Eff  precision:0.608108, recall:0.191273, F1:0.27756775
+MOU  precision:0.566446, recall:0.124129, F1:0.19439225
+all  P:0.587277, R:0.157701, F1:0.23598
+
+#target
+accuracy:0.79305
+Eff  precision:0.0, recall:0.0, F1:0.0
+MOU  precision:0.0, recall:0.0, F1:0.0
+all  P:0.0, R:0.0, F1:0.0
+
+#disease
+accuracy:0.7919385
+Eff  precision:0.181, recall:0.00618625, F1:0.0118415
+MOU  precision:0.0, recall:0.0, F1:0.0
+all  P:0.0905, R:0.003093125, F1:0.00592075
+
+#target + lowercase
+accuracy:0.8100495
+Eff  precision:0.621965, recall:0.16206025, F1:0.24670325
+MOU  precision:0.5550455, recall:0.093146, F1:0.15409
+all  P:0.58850525, R:0.127603125, F1:0.200396625
+
+#target + pos
+accuracy:0.799546
+Eff  precision:0.48574275, recall:0.25176525, F1:0.3235915
+MOU  precision:0.26257975, recall:0.07531125, F1:0.10243825
+all  P:0.37416125, R:0.16353825, F1:0.213014875
+
+#pos + lowercase
+accuracy:0.8109525
+Eff  precision:0.61968, recall:0.19790875, F1:0.2840765
+MOU  precision:0.47391625, recall:0.104542, F1:0.16161075
+all  P:0.546798125, R:0.151225375, F1:0.222843625
+
+#pos='TO' + pos
+accuracy:0.803006
+Eff  precision:0.50332375, recall:0.26157725, F1:0.333952
+MOU  precision:0.22570775, recall:0.06013675, F1:0.088583
+all  P:0.36451575, R:0.160857, F1:0.2112675
+
+#pos='TO' + lowercase
+accuracy:0.8110665
+Eff  precision:0.5831695, recall:0.21668, F1:0.2979405
+MOU  precision:0.5580445, recall:0.1196455, F1:0.18696125
+all  P:0.570607, R:0.16816275, F1:0.242450875
+
+
+=== combination ===
+
+#token, target
+accuracy:0.7994885
+Eff  precision:0.51445425, recall:0.087176, F1:0.13577775
+MOU  precision:0.3061975, recall:0.03028325, F1:0.05241225
+all  P:0.410325875, R:0.058729625, F1:0.094095
+!!!Target単独で入れると下がるので組み合わせでしか使わない!!!
+
+#token, lowercase
+accuracy:0.811182
+Eff  precision:0.5949825, recall:0.19765375, F1:0.2840875
+MOU  precision:0.5721745, recall:0.148056, F1:0.218486
+all  P:0.5835785, R:0.172854875, F1:0.25128675
+
+@@ #token, pos+lowercase
+accuracy:0.817187
+Eff  precision:0.6066235, recall:0.22732175, F1:0.318956
+MOU  precision:0.591789, recall:0.141029, F1:0.21193125
+all  P:0.59920625, R:0.184175375, F1:0.265443625
+
+!!!Initial Upper全く使えない!!!
+
+#token, pos+lowercase, disease
+accuracy:0.8113235
+Eff  precision:0.49877925, recall:0.192216, F1:0.2635035
+MOU  precision:0.4752915, recall:0.0858705, F1:0.138145
+Diall  P:0.487035375, R:0.13904325, F1:0.20082425
+!!!Diseaseも単独では使えない!!!
+
+#token, pos+lowercase, disease+pos
+accuracy:0.8264165
+Eff  precision:0.607319, recall:0.353572, F1:0.43679475
+MOU  precision:0.457088, recall:0.12502225, F1:0.18594725
+all  P:0.5322035, R:0.239297125, F1:0.311371
+
+#token, pos+lowercase, disease+pos, target+lowercase(bi-gramまで)
+accuracy:0.8269435
+Eff  precision:0.58395225, recall:0.3491125, F1:0.42887875
+MOU  precision:0.56458175, recall:0.13077425, F1:0.199742
+all  P:0.574267, R:0.239943375, F1:0.314310375
+
+#token, pos+lowrrcase, disease+pos, target+pos
+accuracy:0.8245355
+Eff  precision:0.614762, recall:0.33940025, F1:0.42880575
+MOU  precision:0.39315775, recall:0.112654, F1:0.16530225
+all  P:0.503959875, R:0.226027125, F1:0.297054
+
+#token, pos+lowercase, disease+pos, target+lowercase, target+pos
+accuracy:0.8269685
+Eff  precision:0.61950225, recall:0.3489315, F1:0.4387435
+MOU  precision:0.43678475, recall:0.13016625, F1:0.19462975
+all  P:0.5281435, R:0.239548875, F1:0.316686625
+
+#token, pos+lowercase, disease+pos, target+lowercase, target+pos, posTO+pos
+accuracy:0.824593
+Eff  precision:0.5987905, recall:0.33791025, F1:0.42381275
+MOU  precision:0.36194675, recall:0.11206325, F1:0.1630815
+all  P:0.480368625, R:0.22498675, F1:0.293447125
+
+#token, pos+lowercase, disease+pos, target+lowercase, target+pos,
+posTO+lowercase
+accuracy:0.8248085
+Eff  precision:0.6231715, recall:0.33691, F1:0.429096
+MOU  precision:0.45737175, recall:0.14035375, F1:0.20479275
+all  P:0.540271625, R:0.238631875, F1:0.316944375
+
+5
+accuracy:0.821882
+Eff  precision:0.59304, recall:0.3317205, F1:0.419923
+MOU  precision:0.439249, recall:0.112465, F1:0.17605
+all  P:0.5161445, R:0.22209275, F1:0.2979865
+8
+accuracy:0.82873875
+Eff  precision:0.6106096875, recall:0.335325625, F1:0.422300625
+MOU  precision:0.524291875, recall:0.1511959375, F1:0.2260609375
+all  P:0.56745078125, R:0.24326078125, F1:0.32418078125
+10
+accuracy:0.8248085
+Eff  precision:0.6231715, recall:0.33691, F1:0.429096
+MOU  precision:0.45737175, recall:0.14035375, F1:0.20479275
+all  P:0.540271625, R:0.238631875, F1:0.316944375
+384
+accuracy:0.834759674479
+Eff  precision:0.451218930041, recall:0.361935452675, F1:0.377394814815
+MOU  precision:0.210043473684, recall:0.148285921053, F1:0.160801710526
+all  P:0.345391362587, R:0.268186235566, F1:0.282353960739
+
+!!!disease+wl意味ない!!!
+
+
+スライド用
+#token + target&lower
+accuracy:0.8155255
+Eff  precision:0.54830375, recall:0.239, F1:0.322694
+MOU  precision:0.48875175, recall:0.14023325, F1:0.20727475
+all  P:0.51852775, R:0.189616625, F1:0.264984375
+
+#+ target&pos
+accuracy:0.8226865
+Eff  precision:0.603405, recall:0.34189, F1:0.42719925
+MOU  precision:0.44753025, recall:0.118723, F1:0.1712835
+all  P:0.525467625, R:0.2303065, F1:0.299241375
+
+#+ pos+lower
+#4-gram
+accuracy:0.8248645
+Eff  precision:0.62931425, recall:0.32778625, F1:0.4214385
+MOU  precision:0.5162705, recall:0.11145325, F1:0.17278825
+all  P:0.572792375, R:0.21961975, F1:0.297113375
+
+#+ disease+pos
+accuracy:0.8278695
+Eff  precision:0.63706675, recall:0.35357375, F1:0.4446925
+MOU  precision:0.4522655, recall:0.13137525, F1:0.19301225
+all  P:0.544666125, R:0.2424745, F1:0.318852375
+
+#記号なし
+accuracy:0.808725
+Eff  precision:0.59490025, recall:0.343225, F1:0.42022475
+MOU  precision:0.5156935, recall:0.13329625, F1:0.19889125
+all  P:0.555296875, R:0.238260625, F1:0.309558
+
+#2016/03/04 記号あり、ComposedOf, Version込みstrict
+
+10
+accuracy:0.7503525
+Eff  precision:0.536788, recall:0.37935475, F1:0.434963
+MOU  precision:0.38311825, recall:0.1375285, F1:0.19198325
+Com  precision:0.28325975, recall:0.09940225, F1:0.1338625
+Ver  precision:0.169726388889, recall:0.1136825, F1:0.1288275
+all  P:0.347671730769, R:0.184256346154, F1:0.224808589744
