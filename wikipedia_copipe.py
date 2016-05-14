@@ -4,6 +4,9 @@
 
 import sys
 
+
+#Freebaseでwikpediaのコピペになっているもの（Freebase独自の記述がひとつもないもの）をカウント
+
 def main(relation_file):
 
     wikipedia = 0
