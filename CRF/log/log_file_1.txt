@@ -1,0 +1,56 @@
+CRFSuite 0.12.2  Copyright (c) 2007-2013 Naoaki Okazaki
+
+Start time of the training: 2016-02-12T01:19:29Z
+
+Reading the data set(s)
+[1] train_lmtd.f
+0....1....2....3....4....5....6....7....8....9....10
+Number of instances: 387
+Seconds required: 0.857
+
+Statistics the data set(s)
+Number of data sets (groups): 1
+Number of instances: 385
+Number of items: 7531
+Number of attributes: 52247
+Number of labels: 7
+
+===== Cross validation (1/1) =====
+Holdout group: 1
+
+Feature generation
+type: CRF1d
+feature.minfreq: 0.000000
+feature.possible_states: 0
+feature.possible_transitions: 0
+0....1....2....3....4....5....6....7....8....9....10
+Number of features: 0
+Seconds required: 0.000
+
+Averaged perceptron
+max_iterations: 20
+epsilon: 0.000000
+
+***** Iteration #1 *****
+Loss: 0.000000
+Feature norm: 0.000000
+Seconds required for this iteration: 0.000
+Performance by label (#match, #model, #ref) (precision, recall, F1):
+    B-Trg: (454, 7531, 454) (0.0603, 1.0000, 0.1137)
+    O: (0, 0, 5423) (0.0000, 0.0000, 0.0000)
+    B-Eff: (0, 0, 188) (0.0000, 0.0000, 0.0000)
+    I-Eff: (0, 0, 976) (0.0000, 0.0000, 0.0000)
+    I-Trg: (0, 0, 196) (0.0000, 0.0000, 0.0000)
+    B-MOU: (0, 0, 59) (0.0000, 0.0000, 0.0000)
+    I-MOU: (0, 0, 235) (0.0000, 0.0000, 0.0000)
+Macro-average precision, recall, F1: (0.008612, 0.142857, 0.016245)
+Item accuracy: 454 / 7531 (0.0603)
+Instance accuracy: 0 / 385 (0.0000)
+
+Terminated with the stopping criterion
+
+Total seconds required for training: 0.008
+
+
+End time of the training: 2016-02-12T01:19:30Z
+
