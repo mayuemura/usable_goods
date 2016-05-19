@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#-*- coding:utf-8 -*-
 
 import sys
 
@@ -91,11 +92,15 @@ if __name__ == '__main__':
     #templates += [(('pt', i), ('wl', i+1), ('wl', i+2)) for i in range(-3, 3)]
 
 
-    # E
-    templates += [(('ner', i),) for i in range(-3, 4)]
-    templates += [(('ner', i), ('ner', i+1)) for i in range(-3, 3)]
+    # E NER
+    #templates += [(('ner', i),) for i in range(-3, 4)]
+    #templates += [(('ner', i), ('ner', i+1)) for i in range(-3, 3)] 
+    templates += [(('ner', i), ('ner', i+1), ('ner', i+2), ('ner', i+3)) for i in range(-3, 3)]
 
-
+    # F 文中に出てきた単語がまた出てきたらtrue
+    templates += [(('ref', i),) for i in range(-3, 4)]
+    templates += [(('ref', i), ('ref', i+1)) for i in range(-3, 3)]
+   
     disease_set = set()
     with open("gztr/disease.txt", "r") as f:
         for line in f:
@@ -103,14 +108,15 @@ if __name__ == '__main__':
 
 
     for seq, target_set in readiter(fi):
+        words_set = set()
         for i, v in enumerate(seq):
             # Extract more characteristics of the input sequence
             v['wl'] = v['w'].lower()
             v['tr'] = str(v['w'] and v['w'] in target_set)
             v['di'] = str(v['w'] and v['w'] in disease_set)
             #v['lm'] = lmtzr.lemmatize(v['w'])
-
-
+            v['ref'] = str(v['w'] and v['w'].lower() in words_set)
+            words_set.add(v['wl'])
 
         for t in range(len(seq)):
             fo.write(seq[t]['y'])

@@ -350,7 +350,7 @@ O	Some	DT	O
 O	examples	NNS	O
 O	have	VBP	O
 O	raised	VBN	O
-I-Eff	galleries	NNS	O
+B-Eff	galleries	NNS	O
 I-Eff	,	,	O
 I-Eff	handles	VBZ	O
 I-Eff	,	,	O

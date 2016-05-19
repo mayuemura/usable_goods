@@ -1,0 +1,132 @@
+#!/usr/bin/env python
+#-*- coding:utf-8 -*-
+
+import sys
+
+def readiter(fi, names=('y', 'w', 'pos', 'ner'), sep='\t'):
+    seq = []
+    for line in fi:
+        line = line.strip('\n')
+        if not line:
+            yield seq, target_set
+            seq = []
+        elif line.startswith("#"):
+            target_set = set(line.strip("\n").lstrip("#\t").replace(",", " ").split(" "))
+        else:
+            fields = line.split(sep)
+            if len(fields) != len(names):
+                raise ValueError(
+                    'Each line must have %d fields: %s\n' % (len(names), line))
+            seq.append(dict(zip(names, tuple(fields))))
+
+def apply_template(seq, t, template):
+    name = '|'.join(['%s[%d]' % (f, o) for f, o in template])
+    values = []
+    for field, offset in template:
+        p = t + offset
+        if p not in range(len(seq)):
+            return None
+        values.append(seq[p][field])
+    return '%s=%s' % (name, '|'.join(values))
+
+def escape(src):
+    return src.replace(':', '__COLON__')
+
+if __name__ == '__main__':
+    fi = sys.stdin
+    fo = sys.stdout
+    readiter(fi)
+
+    #A
+    templates = []
+    templates += [(('w', i),) for i in range(-3, 4)]
+    templates += [(('w', i), ('w', i+1)) for i in range(-3, 3)]
+
+    #templates += [(('pos', i),) for i in range(-3, 4)]
+    #templates += [(('pos', i), ('pos', i+1)) for i in range(-3, 3)]
+    #templates += [(('pos', i), ('pos', i+1), ('pos', i+2)) for i in range(-3, 3)]
+
+    #templates += [(('chk', i),) for i in range(-2, 3)]
+    #templates += [(('chk', i), ('chk', i+1)) for i in range(-2, 2)]
+
+    #templates += [(('iu', i),) for i in range(-3, 4)]
+    #templates += [(('iu', i), ('iu', i+1)) for i in range(-3, 3)]
+
+    #word_lowercase
+    #templates += [(('wl', i),) for i in range(-3, 4)]
+    #templates += [(('wl', i), ('wl', i+1)) for i in range(-3, 3)]
+    #templates += [(('wl', i), ('wl', i+1), ('wl', i+2)) for i in range(-3, 3)]
+
+    #target
+    #templates += [(('tr', i),) for i in range(-3, 4)]
+    #templates += [(('tr', i), ('tr', i+1)) for i in range(-3, 3)]
+    #templates += [(('tr', i), ('tr', i+1), ('tr', i+2)) for i in range(-3, 3)]
+
+    #disease_gazetteer
+    templates += [(('di', i), ('pos', i)) for i in range(-3, 4)]
+    templates += [(('di', i), ('di', i+1), ('pos', i), ('pos', i+1)) for i in range(-3, 3)]
+
+    
+    #B
+    #target+something
+    templates += [(('tr', i), ('wl', i+1)) for i in range(-3, 3)]
+    templates += [(('tr', i), ('wl', i+1), ('wl', i+2)) for i in range(-3, 3)]   
+
+    templates += [(('tr', i), ('pos', i+1)) for i in range(-3, 3)]
+    templates += [(('tr', i), ('pos', i+1), ('pos', i+2)) for i in range(-3, 3)]
+
+    #C
+    #pos+something
+    templates += [(('pos', i), ('wl', i)) for i in range(-3, 3)]
+    templates += [(('pos', i), ('pos', i+1), ('wl', i), ('wl', i+1)) for i in range(-3, 3)]
+    templates += [(('pos', i), ('pos', i+1), ('pos', i+2), ('wl', i), ('wl', i+1), ('wl', i+2)) for i in range(-3, 3)]
+    templates += [(('pos', i), ('pos', i+1), ('pos', i+2), ('pos', i+3), ('wl', i), ('wl', i+1), ('wl', i+2), ('wl', i+3)) for i in range(-3, 3)]
+ 
+
+    #D
+    #bool(POS is 'TO') and following POS
+    #templates += [(('pt', i), ('pos', i+1)) for i in range(-3, 3)]
+    #templates += [(('pt', i), ('pos', i+1), ('pos', i+2)) for i in range(-3, 3)]
+
+    #templates += [(('pt', i), ('wl', i+1)) for i in range(-3, 3)]
+    #templates += [(('pt', i), ('wl', i+1), ('wl', i+2)) for i in range(-3, 3)]
+
+
+    # E NER
+    #templates += [(('ner', i),) for i in range(-3, 4)]
+    #templates += [(('ner', i), ('ner', i+1)) for i in range(-3, 3)] 
+    templates += [(('ner', i), ('ner', i+1), ('ner', i+2), ('ner', i+3)) for i in range(-3, 3)]
+
+    # F 文中に出てきた単語がまた出てきたらtrue
+    templates += [(('ref', i),) for i in range(-3, 4)]
+    templates += [(('ref', i), ('ref', i+1)) for i in range(-3, 3)]
+    templates += [(('ref', i), ('ref', i+1), ('ref', i+2)) for i in range(-3, 3)]
+    #templates += [(('ref', i), ('ref', i+1), ('ref', i+2), ('ref', i+3)) for i in range(-3, 3)]
+
+
+    disease_set = set()
+    with open("gztr/disease.txt", "r") as f:
+        for line in f:
+            disease_set |= set(line.rstrip("\n").lower().split(" "))
+
+
+    for seq, target_set in readiter(fi):
+        words_set = set()
+        for i, v in enumerate(seq):
+            # Extract more characteristics of the input sequence
+            v['wl'] = v['w'].lower()
+            v['tr'] = str(v['w'] and v['w'] in target_set)
+            v['di'] = str(v['w'] and v['w'] in disease_set)
+            #v['lm'] = lmtzr.lemmatize(v['w'])
+            v['ref'] = str(v['w'] and v['w'].lower() in words_set)
+            words_set.add(v['wl'])
+
+        for t in range(len(seq)):
+            fo.write(seq[t]['y'])
+            for template in templates:
+                attr = apply_template(seq, t, template)
+                if attr is not None:
+                    fo.write('\t%s' % escape(attr))
+            fo.write('\n')
+        fo.write('\n')
+
